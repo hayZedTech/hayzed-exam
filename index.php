@@ -108,21 +108,21 @@
         </div> 
     </div>
 
-    <!-- <script>
+    <script>
         // Hide spinner once page is fully loaded
         window.addEventListener('load', () => {
             document.getElementById('spinner-overlay').style.display = 'none';
         });
-    </script> -->
+    </script>
 
-    <script>
+    <!-- <script>
     // Simulate a 3-second load delay
     window.addEventListener('load', () => {
         setTimeout(() => {
             document.getElementById('spinner-overlay').style.display = 'none';
         }, 3000); // 3000ms = 3 seconds
     });
-</script>
+</script> -->
 
 </body>
 </html>
