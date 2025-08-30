@@ -1,17 +1,16 @@
-# Use PHP 8.2 with Apache
+# Use official PHP image with Apache
 FROM php:8.2-apache
 
-# Copy project files into the container
+# Install dependencies for PostgreSQL PDO
+RUN apt-get update && apt-get install -y \
+    libpq-dev \
+    && docker-php-ext-install pdo pdo_pgsql
+
+# Copy project files to the container
 COPY . /var/www/html/
 
-# Enable PDO for PostgreSQL
-RUN docker-php-ext-install pdo pdo_pgsql
+# Set working directory
+WORKDIR /var/www/html/
 
-# Set proper permissions (optional, but can prevent some errors)
-RUN chown -R www-data:www-data /var/www/html/
-
-# Expose Apache port
+# Expose port 80
 EXPOSE 80
-
-# Start Apache in the foreground
-CMD ["apache2-foreground"]
