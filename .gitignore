@@ -7,7 +7,7 @@
 /session/
 
 # Ignore database config files (contains passwords)
-db.php
+#db.php
 
 # Ignore OS files
 .DS_Store
