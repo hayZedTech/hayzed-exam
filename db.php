@@ -19,7 +19,7 @@ try {
         ]
     );
     // Uncomment this to test connection
-     echo "✅ Connected successfully with PDO!";
+    // echo "✅ Connected successfully with PDO!";
 } catch (PDOException $e) {
     die("❌ Connection failed: " . $e->getMessage());
 }

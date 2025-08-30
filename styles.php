@@ -1,4 +1,4 @@
-<?php include_once "dbconn.php"; ?>
+<?php include_once "db.php"; ?>
 
 
 
