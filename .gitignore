@@ -1,0 +1,21 @@
+# Ignore XAMPP/htdocs temp files
+*.log
+*.tmp
+*.cache
+
+# Ignore PHP sessions
+/session/
+
+# Ignore database config files (contains passwords)
+db.php
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/
+
+# Ignore node_modules if using JS/Node in project
+node_modules/
