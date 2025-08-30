@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <style>
+        body{
+            /* background-color: rgb(50,100,100,0.5); */
+            background: url(Images/backgroundUwall.jpg) no-repeat fixed;
+            background-size: cover;
+        }
+
+      .row{
+        margin: auto !important;
+      }
+
+      .hd{
+        text-shadow: 0 0 6px blue;
+        font-size: 32px;
+      }
+
+      .hd2{
+        text-shadow: 0 0 6px green;
+        font-size: 32px;
+      }
+      /* input:focus{
+        background-color: rgb(245, 245, 245) !important;
+      } */
+	
+            
+     .home_link{
+    position:absolute;
+    margin:15px  0 0 4% !important;
+    border: 4px solid;
+    padding: 3px 20px;
+    background-color: white;
+    border-radius: 15px;
+    font-weight: bolder;
+    text-decoration: none;
+ }
+     
+    </style>
+    
+</head>
+<body>
+        <a href="../index.php" class="home_link">Home</a>
+      <a href="biology02.php" class="practice btn btn-primary mt-3 px-4 float-end mx-2">Practice</a>
+        <div class="row container mt-4 pt-3">
+        <div class="col-sm ">
+        <div class="container pt-4 mt-2">
+            <h1 class="text-center text-white hd">Signup</h1>
+            <form action="signup.php" method="post">
+        <div class="mb-3 mt-3">
+            <label for="name" class="form-label h5">Name:</label>
+            <input type="name" class="form-control" id="name" placeholder="Enter your name" name="name" required>
+        </div>
+        <div class="mb-3">
+            <label for="email" class="form-label h5">Email:</label>
+            <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" required>
+            <br>
+            <button type="submit" name="submit" class="btn btn-primary">Submit</button>
+        </div>
+        </form>
+        
+        </div> 
+        </div> 
+        
+
+
+        <div class="col-sm">
+        <div class="container pt-4 mt-2 log_in">
+            <h1 class="text-center text-white hd2">Login</h1>
+            <form action="login.php" method="post">
+        <div class="mb-3">
+            <label for="email" class="form-label h5">Email:</label>
+            <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" required>
+            <br>
+            <button type="submit" name="submit" class="btn btn-success">Submit</button>
+        </div>
+        </form>
+        
+        </div>
+        </div> 
+        
+        </div>
+        
+           
+        
+</body>
+</html>
