@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['submit'])) {
     // Generate student_id
     $id = uniqid();
     $my_id = substr($id, 6);
-    $student_id = "24/" . $my_id;
+    $student_id = "25/" . $my_id;
 
     // Check if email exists
     $sel = "SELECT email FROM student_prof01 WHERE email = :email";
