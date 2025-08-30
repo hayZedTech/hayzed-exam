@@ -72,7 +72,7 @@
     </div>
 
     <!-- <a href="../index.php" class="home_link">Home</a> -->
-    <a href="biology02.php" class="practice btn btn-primary mt-3 px-4 float-end mx-2">Practice</a>
+    <!-- <a href="biology02.php" class="practice btn btn-primary mt-3 px-4 float-end mx-2">Practice</a> -->
 
     <div class="row container mt-4 pt-3">
         <div class="col-sm ">
