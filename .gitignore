@@ -6,8 +6,11 @@
 # Ignore PHP sessions
 /session/
 
-# Ignore database config files (contains passwords)
-db.php
+# Secret environment files & database credentials (never commit to git)
+.env
+.env.local
+.env.*.local
+*.env
 
 # Ignore OS files
 .DS_Store
