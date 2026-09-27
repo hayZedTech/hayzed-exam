@@ -90,6 +90,15 @@ $examTypeName = ExamEngine::getExamTypeName($examType);
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <!-- SweetAlert2 -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <!-- Early CBT History Lockdown -->
+    <script>
+        (function() {
+            if (window.history && window.history.pushState) {
+                window.history.pushState({ cbt_init: true }, document.title, window.location.href);
+                window.history.pushState({ cbt_locked: true }, document.title, window.location.href);
+            }
+        })();
+    </script>
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -972,17 +981,56 @@ $examTypeName = ExamEngine::getExamTypeName($examType);
         // STRICT ANTI-MANIPULATION SECURITY GUARDS
         // ==========================================
 
-        // 1. Trap and Block Browser Back & Forward Navigation
-        history.pushState(null, document.title, location.href);
+        // 1. Reinforced CBT Navigation Lockdown (Traps Browser Back & Forward Navigation)
+        function reinforceHistoryLock() {
+            try {
+                window.history.pushState({ cbt_locked: true, ts: Date.now() }, document.title, window.location.href);
+            } catch(e) {}
+        }
+        reinforceHistoryLock();
+        reinforceHistoryLock();
+
         window.addEventListener('popstate', function (event) {
-            history.pushState(null, document.title, location.href);
+            // Instantly re-trap history entry to prevent popping back
+            reinforceHistoryLock();
+            reinforceHistoryLock();
+
+            if (isExitingOrSubmitting) return;
+
             Swal.fire({
-                title: 'Navigation Restricted',
-                html: 'Browser Back and Forward buttons are disabled during the live examination.<br><br>Please use the in-app question palette, or click <b>Exit Exam</b> or <b>Submit</b>.',
+                title: 'Examination in Progress',
+                html: `
+                    <div class="text-start p-3 bg-light rounded border my-2">
+                        <p class="mb-1 text-danger fw-bold"><i class="bi bi-shield-lock-fill me-1"></i> Browser Navigation Disabled</p>
+                        <p class="small text-muted mb-2">
+                            The browser Back and Forward buttons cannot be used during an active CBT assessment.
+                        </p>
+                        <p class="small text-muted mb-0">
+                            Your countdown timer is actively running. You can continue answering questions, submit your paper, or safely cancel and retake later.
+                        </p>
+                    </div>
+                `,
                 icon: 'warning',
+                showCancelButton: true,
                 confirmButtonColor: '#2563eb',
-                confirmButtonText: 'Stay in Exam Room'
+                cancelButtonColor: '#dc2626',
+                confirmButtonText: '<i class="bi bi-pencil-square me-1"></i> Continue Answering',
+                cancelButtonText: '<i class="bi bi-box-arrow-right me-1"></i> Discard &amp; Exit (Retake Later)'
+            }).then((res) => {
+                if (res.isDismissed && res.dismiss === Swal.DismissReason.cancel) {
+                    confirmExitExam();
+                }
             });
+        });
+
+        // Block mouse side navigation buttons (back/forward on 5-button mice)
+        window.addEventListener('mouseup', function (e) {
+            if (e.button === 3 || e.button === 4) {
+                e.preventDefault();
+                e.stopPropagation();
+                showRestrictionToast('Mouse navigation buttons are disabled during CBT examinations.');
+                return false;
+            }
         });
 
         // 2. Disable Right-Click Context Menu
@@ -1050,6 +1098,13 @@ $examTypeName = ExamEngine::getExamTypeName($examType);
 
             // Block Alt+Left / Alt+Right (Browser History)
             if (e.altKey && (key === 'arrowleft' || key === 'arrowright')) {
+                e.preventDefault();
+                e.stopPropagation();
+                return false;
+            }
+
+            // Block Backspace outside inputs (prevents browser back navigation)
+            if ((keyCode === 8 || key === 'backspace') && !['input', 'textarea'].includes(document.activeElement.tagName.toLowerCase())) {
                 e.preventDefault();
                 e.stopPropagation();
                 return false;

@@ -53,6 +53,24 @@ try {
     // Graceful fallback
 }
 
+// Detect any ongoing active timed exam session
+$activeExamSession = null;
+if (!empty($_SESSION['active_exams'])) {
+    foreach ($_SESSION['active_exams'] as $sessKey => $sessData) {
+        if (!empty($sessData['end_time']) && $sessData['end_time'] > time()) {
+            $activeExamSession = $sessData;
+            $activeExamSession['session_key'] = $sessKey;
+            $activeExamSession['remaining_seconds'] = $sessData['end_time'] - time();
+            $activeExamSession['remaining_minutes'] = ceil($activeExamSession['remaining_seconds'] / 60);
+            $activeExamSession['subject_name'] = ExamEngine::getSubjectName($sessData['subject']);
+            $activeExamSession['exam_type_name'] = ExamEngine::getExamTypeName($sessData['exam_type']);
+            break;
+        } else {
+            unset($_SESSION['active_exams'][$sessKey]);
+        }
+    }
+}
+
 // 18 Core Subjects Categorized Cleanly
 $subjectsList = [
     // Sciences & Agriculture
@@ -599,6 +617,35 @@ $examModes = [
     <!-- Main Workspace -->
     <main class="container my-4">
         
+        <?php if ($activeExamSession): ?>
+            <!-- Active Examination Ongoing Notification Banner -->
+            <div class="alert alert-warning border-warning shadow-sm rounded-4 p-3 mb-4 d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 animate__animated animate__fadeIn">
+                <div class="d-flex align-items-center gap-3">
+                    <div class="bg-warning text-dark p-3 rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 48px; height: 48px;">
+                        <i class="bi bi-stopwatch fs-4"></i>
+                    </div>
+                    <div>
+                        <div class="d-flex align-items-center gap-2 mb-1">
+                            <span class="badge bg-danger rounded-pill px-2 py-1">IN PROGRESS</span>
+                            <h6 class="fw-bold mb-0 text-dark">Active Examination Room Session</h6>
+                        </div>
+                        <p class="mb-0 text-muted small">
+                            You have an active timed session running for <strong><?= htmlspecialchars($activeExamSession['exam_type_name']) ?> <?= htmlspecialchars($activeExamSession['subject_name']) ?> (<?= $activeExamSession['year'] ?>)</strong>.
+                            Allocated time remaining: <strong class="text-danger"><?= $activeExamSession['remaining_minutes'] ?> minutes</strong>.
+                        </p>
+                    </div>
+                </div>
+                <div class="d-flex align-items-center gap-2 flex-shrink-0">
+                    <a href="exam.php?subject=<?= urlencode($activeExamSession['subject']) ?>&exam_type=<?= urlencode($activeExamSession['exam_type']) ?>&year=<?= $activeExamSession['year'] ?>&mode=<?= urlencode($activeExamSession['mode']) ?>" class="btn btn-primary fw-bold rounded-pill px-4 shadow-sm">
+                        <i class="bi bi-box-arrow-in-right me-1"></i> Resume Exam Now
+                    </a>
+                    <a href="exam.php?action=exit_exam&subject=<?= urlencode($activeExamSession['subject']) ?>&exam_type=<?= urlencode($activeExamSession['exam_type']) ?>&year=<?= $activeExamSession['year'] ?>&mode=<?= urlencode($activeExamSession['mode']) ?>" class="btn btn-outline-danger fw-semibold rounded-pill px-3">
+                        <i class="bi bi-x-circle me-1"></i> Discard &amp; Exit
+                    </a>
+                </div>
+            </div>
+        <?php endif; ?>
+
         <!-- Exam Configuration & Filter -->
         <div class="config-bar mb-4">
             <div class="row g-3 align-items-center">
@@ -1005,6 +1052,29 @@ $examModes = [
             const modeName = document.getElementById('examModeSelect').selectedOptions[0].text;
             const std = getSubjectStandard(currentExamType, subjectSlug, currentMode);
             
+            // If candidate already has an active session for this subject
+            <?php if ($activeExamSession): ?>
+            if (subjectSlug === '<?= $activeExamSession['subject'] ?>') {
+                Swal.fire({
+                    title: 'Active Session Detected',
+                    html: `You already have an active, timed <b><?= htmlspecialchars($activeExamSession['exam_type_name']) ?> <?= htmlspecialchars($activeExamSession['subject_name']) ?></b> examination session running (${<?= $activeExamSession['remaining_minutes'] ?>} minutes left).`,
+                    icon: 'info',
+                    showCancelButton: true,
+                    confirmButtonColor: '#2563eb',
+                    cancelButtonColor: '#dc2626',
+                    confirmButtonText: '<i class="bi bi-play-circle-fill me-1"></i> Resume Ongoing Exam',
+                    cancelButtonText: 'Discard & Retake Fresh'
+                }).then((r) => {
+                    if (r.isConfirmed) {
+                        window.location.replace(`exam.php?subject=${subjectSlug}&exam_type=<?= $activeExamSession['exam_type'] ?>&year=<?= $activeExamSession['year'] ?>&mode=<?= $activeExamSession['mode'] ?>`);
+                    } else if (r.isDismissed && r.dismiss === Swal.DismissReason.cancel) {
+                        window.location.href = `exam.php?action=exit_exam&subject=${subjectSlug}&exam_type=<?= $activeExamSession['exam_type'] ?>&year=<?= $activeExamSession['year'] ?>&mode=<?= $activeExamSession['mode'] ?>`;
+                    }
+                });
+                return;
+            }
+            <?php endif; ?>
+
             Swal.fire({
                 title: `${subjectTitle} Examination`,
                 html: `
@@ -1032,16 +1102,25 @@ $examModes = [
                         title: 'Loading Exam Paper...',
                         html: '<span class="text-muted">Fetching question bank and calibrating session...</span>',
                         allowOutsideClick: false,
+                        timer: 8000,
                         didOpen: () => {
                             Swal.showLoading();
                         }
                     });
                     setTimeout(() => {
-                        window.location.href = `exam.php?subject=${subjectSlug}&exam_type=${currentExamType}&year=${currentYear}&mode=${currentMode}`;
-                    }, 500);
+                        window.location.replace(`exam.php?subject=${subjectSlug}&exam_type=${currentExamType}&year=${currentYear}&mode=${currentMode}`);
+                    }, 400);
                 }
             });
         }
+
+        // BFCache & Back Button Guard:
+        // When returning to this page via browser back/forward or from cache, close any pending loading modals immediately
+        window.addEventListener('pageshow', function (event) {
+            if (typeof Swal !== 'undefined' && Swal.isVisible()) {
+                Swal.close();
+            }
+        });
 
         // Confirm logout with SweetAlert2
         function confirmLogout() {

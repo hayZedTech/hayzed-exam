@@ -403,5 +403,14 @@ $examDate = !empty($submission['created_at']) ? date('F d, Y • h:i A', strtoti
         });
     </script>
     <?php endif; ?>
+    <script>
+        // Prevent Back-button re-POST or returning to submitted exam
+        if (window.history && window.history.pushState) {
+            window.history.pushState(null, document.title, window.location.href);
+            window.addEventListener('popstate', function () {
+                window.location.replace('subjects.php');
+            });
+        }
+    </script>
 </body>
 </html>
