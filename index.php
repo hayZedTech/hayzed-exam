@@ -226,13 +226,26 @@
             display: flex;
             border: 1px solid #e2e8f0;
             margin-bottom: 1.75rem;
+            width: 100%;
+        }
+
+        .auth-tabs .nav-item {
+            flex: 1 1 0;
+            display: flex;
+        }
+
+        .auth-tabs .nav-item.d-none {
+            display: none !important;
         }
 
         .auth-tabs .nav-link {
-            flex: 1;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             text-align: center;
             border: none;
-            padding: 0.65rem 1rem;
+            padding: 0.7rem 1rem;
             font-size: 0.95rem;
             font-weight: 600;
             color: #64748b;
@@ -574,7 +587,7 @@
                     <div class="auth-card">
                         
                         <!-- Nav Tabs Switcher -->
-                        <ul class="nav auth-tabs" id="authTab" role="tablist">
+                        <ul class="nav auth-tabs nav-fill w-100" id="authTab" role="tablist">
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link active" id="login-tab" data-bs-toggle="tab" data-bs-target="#login-panel" type="button" role="tab" aria-controls="login-panel" aria-selected="true" onclick="hideResetTab()">
                                     <i class="bi bi-box-arrow-in-right me-1"></i> Sign In
