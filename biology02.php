@@ -1,118 +1,267 @@
-<?php
-include_once "header02.php";
-?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biology Quick Practice Mode | HayZed CBT</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <!-- SweetAlert2 -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
-<body style="background: url(Images/BLUE_SKY.png); background-size:cover;">
-    <div class="topbar">
-        <marquee behavior="" direction="">HayZed Tech</marquee>
-    </div>
-    <div>
-      <a href="index.php" style="float: right; background-color:green; margin:5px 20px; color:white; padding:10px 15px; border-radius:10px; text-decoration:none;">Home</a>
-    </div>
+    <style>
+        body {
+            font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+            background: #f8fafc;
+            color: #1e293b;
+            min-height: 100vh;
+        }
 
-    <div class="container">
-        <div class="mainPage">
+        .practice-header {
+            background: #090e1a;
+            color: #fff;
+            padding: 1rem 0;
+            border-bottom: 2px solid #10b981;
+        }
 
-            <form id="quizForm" action="" method="post">
-                <?php
-                $questions = [
-                    1 => ["question" => "The modification in structure, physiology and behaviour of plant and animal is called ______",
-                          "options" => ["adaptation" => 1, "evolution" => 0, "variation" => 0, "succession" => 0]],
-                    2 => ["question" => "A bacteria that is spherically shaped is called?",
-                          "options" => ["diplobacillus" => 0, "coccus" => 1, "bacillus" => 0, "vibrio" => 0]],
-                    3 => ["question" => "The flame cells are used for excretion in",
-                          "options" => ["Fluke" => 1, "Nematode" => 0, "Bacteria" => 0, "Volvox" => 0]],
-                    4 => ["question" => "Which of the following is an example of a microorganism in action as a disease vector?",
-                          "options" => ["Fungi decomposing dead plant material" => 0, "Mosquito transmitting malaria" => 1, "Bacteria causing food poisoning" => 0, "Algae producing oxygen through photosynthesis" => 0]],
-                    5 => ["question" => "Which of the following is a characteristic of cells related to irritability?",
-                          "options" => ["Ability to respond to stimuli" => 1, "Ability to synthesize proteins" => 0, "Ability to generate energy" => 0, "Ability to replicate DNA" => 0]],
-                    6 => ["question" => "The membrane around the vacuole is known as",
-                          "options" => ["Elaioplast" => 0, "Amyloplast" => 0, "Tonoplast" => 1, "Cytoplast" => 0]],
-                    7 => ["question" => "Which of the following is NOT a part of the alimentary canal?",
-                          "options" => ["Oesophagus" => 0, "Large intestine" => 0, "Liver" => 1, "Small intestine" => 0]],
-                    8 => ["question" => "Which of the following is a characteristic feature of Kingdom Plantae?",
-                          "options" => ["Presence of chloroplasts" => 1, "Ability to perform photosynthesis" => 0, "Lack of cell walls" => 0, "Heterotrophic mode of nutrition" => 0]],
-                    9 => ["question" => "A biome characterized by hot summer, warm winter and treeless vegetation is",
-                          "options" => ["Steppe grasslands" => 1, "Temperate deserts" => 0, "Savannah grassland" => 0, "Tropical deserts" => 0]],
-                    10 => ["question" => "Which of the following is an example of physiological variation in organisms?",
-                          "options" => ["Variation in blood pressure among individuals" => 1, "Variation in beak shape among finches" => 0, "Differences in fur color in rabbits" => 0, "Variation in leaf shape in plants" => 0]],
-                ];
+        .practice-card {
+            background: #ffffff;
+            border-radius: 1rem;
+            border: 1px solid #e2e8f0;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+            padding: 1.75rem;
+            margin-bottom: 1.5rem;
+            transition: all 0.2s;
+        }
 
-                foreach($questions as $num => $q) {
-                    echo '<div class="mySlides">';
-                    echo '<div class="numbertext"><h1>' . $num . ' / 10</h1></div>';
-                    echo '<div class="box"><ul><li>' . $q['question'] . '<ul class="ans">';
-                    $optIndex = 1;
-                    foreach($q['options'] as $text => $val) {
-                        $inputId = "q{$num}_opt{$optIndex}";
-                        echo '<li class="option" data-val="'.$val.'"><input type="radio" name="q' . $num . '" id="' . $inputId . '" value="' . $val . '">';
-                        echo '<label for="' . $inputId . '"> ' . $text . '</label></li>';
-                        $optIndex++;
-                    }
-                    echo '</ul></li></ul>';
-                    echo '<div class="feedback" id="feedback'.$num.'"></div>'; // Feedback div
-                    echo '</div></div>';
-                }
-                ?>
-                <br>
-                <button type="button" id="ch_res" class="ch_res1">Check Result</button>
-                <div id="totalScore" style="margin-top:20px; font-weight:bold;"></div>
-            </form>
+        .practice-card:hover {
+            border-color: #cbd5e1;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+        }
 
+        .opt-box {
+            border: 1.5px solid #e2e8f0;
+            border-radius: 0.75rem;
+            padding: 0.75rem 1rem;
+            margin-bottom: 0.65rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            cursor: pointer;
+            transition: all 0.15s;
+            background: #f8fafc;
+        }
+
+        .opt-box:hover {
+            background: #f1f5f9;
+            border-color: #94a3b8;
+        }
+
+        .opt-box.is-correct {
+            background: #dcfce7 !important;
+            border-color: #10b981 !important;
+            color: #166534 !important;
+            font-weight: 600;
+        }
+
+        .opt-box.is-wrong {
+            background: #fee2e2 !important;
+            border-color: #ef4444 !important;
+            color: #991b1b !important;
+            font-weight: 600;
+        }
+
+        .feedback-badge {
+            font-size: 0.88rem;
+            font-weight: 600;
+            margin-top: 0.75rem;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Top Navigation -->
+    <header class="practice-header">
+        <div class="container d-flex align-items-center justify-content-between">
+            <div class="d-flex align-items-center gap-2">
+                <i class="bi bi-lightning-charge-fill text-warning fs-4"></i>
+                <span class="fw-bold text-white fs-5">Quick Practice: Biology</span>
+                <span class="badge bg-success-subtle text-success border border-success-subtle ms-2">Untimed Study Mode</span>
+            </div>
+            <a href="index.php" class="btn btn-outline-light btn-sm rounded-pill px-3 py-1">
+                <i class="bi bi-house-door me-1"></i> Return Home
+            </a>
         </div>
+    </header>
 
-        <div class="footterr">
-            <?php include_once "footer02.php"; ?>
-        </div>
-    </div>
-  
-
-</body>
-
-<script src="script/jQuery.js"></script>
-<script>
-$(document).ready(function(){
-
-    // Show feedback on selecting an answer
-    $("input[type=radio]").change(function(){
-        let qName = $(this).attr("name");
-        let selectedVal = Number($(this).val());
-        let feedbackDiv = $("#feedback"+qName.replace('q',''));
+    <!-- Content -->
+    <main class="container my-4 my-md-5" style="max-width: 860px;">
         
-        // Reset option colors
-        $("input[name='"+qName+"']").closest(".option").css("color","black");
+        <div class="p-3 mb-4 rounded-3 bg-white border d-flex align-items-center justify-content-between">
+            <div>
+                <h5 class="fw-bold text-dark mb-1">Interactive Self-Study Questions</h5>
+                <p class="text-muted small mb-0">Select an answer to receive instant feedback. Click "Check Total Score" when finished.</p>
+            </div>
+            <button type="button" onclick="checkAllScore()" class="btn btn-primary rounded-pill px-4 fw-bold">
+                <i class="bi bi-check2-circle me-1"></i> Check Total Score
+            </button>
+        </div>
 
-        if(selectedVal === 1){
-            $(this).closest(".option").css("color","green");
-            feedbackDiv.text("✅ Correct!").css("color","green");
-        } else {
-            $(this).closest(".option").css("color","red");
-            // Highlight correct answer
-            $("input[name='"+qName+"'][value='1']").closest(".option").css("color","green");
-            feedbackDiv.text("❌ Wrong!").css("color","red");
-        }
-    });
+        <form id="practiceForm">
+            <?php
+            $questions = [
+                1 => ["question" => "The modification in structure, physiology and behaviour of plant and animal over generations is termed ______",
+                      "options" => ["Adaptation" => 1, "Evolution" => 0, "Variation" => 0, "Succession" => 0]],
+                2 => ["question" => "A bacterium that is spherically shaped is known as a ______",
+                      "options" => ["Diplobacillus" => 0, "Coccus" => 1, "Bacillus" => 0, "Vibrio" => 0]],
+                3 => ["question" => "The flame cells are specialized structures used for excretion in ______",
+                      "options" => ["Liver Fluke" => 1, "Nematode" => 0, "Bacteria" => 0, "Volvox" => 0]],
+                4 => ["question" => "Which of the following is an example of an organism acting as a disease vector?",
+                      "options" => ["Fungi decomposing dead leaves" => 0, "Mosquito transmitting Plasmodium" => 1, "Lactobacillus in milk fermentation" => 0, "Algae producing oxygen" => 0]],
+                5 => ["question" => "Which of the following characteristics relates directly to cellular irritability?",
+                      "options" => ["Ability to respond to environmental stimuli" => 1, "Ability to synthesize proteins" => 0, "Ability to generate energy" => 0, "Ability to replicate DNA" => 0]],
+                6 => ["question" => "The semi-permeable membrane that surrounds the vacuole in plant cells is the ______",
+                      "options" => ["Elaioplast" => 0, "Amyloplast" => 0, "Tonoplast" => 1, "Cytoplast" => 0]],
+                7 => ["question" => "Which of the following organs is NOT part of the human alimentary canal?",
+                      "options" => ["Oesophagus" => 0, "Large intestine" => 0, "Liver" => 1, "Small intestine" => 0]],
+                8 => ["question" => "Which of the following is a characteristic feature of Kingdom Plantae?",
+                      "options" => ["Presence of chloroplasts" => 1, "Inability to photosynthesize" => 0, "Lack of cellulose cell walls" => 0, "Obligate heterotrophy" => 0]],
+                9 => ["question" => "A biome characterized by hot dry summers, warm winters, and drought-tolerant vegetation is ______",
+                      "options" => ["Steppe grassland" => 1, "Temperate desert" => 0, "Savannah grassland" => 0, "Tropical desert" => 0]],
+                10 => ["question" => "Which of the following is an example of physiological variation in humans?",
+                      "options" => ["Variation in blood pressure among individuals" => 1, "Variation in beak shape among birds" => 0, "Differences in rabbit coat color" => 0, "Leaf shape variations in plants" => 0]],
+            ];
 
-    $("#ch_res").click(function(){
-        let total = 0;
-        let allAnswered = true;
+            foreach($questions as $num => $q): ?>
+                <div class="practice-card" id="q_card_<?= $num ?>">
+                    <div class="d-flex align-items-center justify-content-between mb-2">
+                        <span class="badge bg-light text-primary border fw-bold px-2 py-1">Question <?= $num ?> of 10</span>
+                    </div>
 
-        for(let i=1; i<=10; i++){
-            let selected = $("input[name='q"+i+"']:checked");
-            if(selected.length === 0){
-                allAnswered = false;
-                break;
+                    <h6 class="fw-bold text-dark mb-3"><?= htmlspecialchars($q['question']) ?></h6>
+
+                    <div class="options-list">
+                        <?php 
+                        $letterMap = ['A', 'B', 'C', 'D'];
+                        $idx = 0;
+                        foreach($q['options'] as $text => $val): 
+                            $letter = $letterMap[$idx] ?? '';
+                            $idx++;
+                        ?>
+                            <div class="opt-box" onclick="handlePracticeOption(<?= $num ?>, this, <?= $val ?>)">
+                                <span class="badge bg-light text-dark border"><?= $letter ?></span>
+                                <input type="radio" name="pq_<?= $num ?>" value="<?= $val ?>" class="d-none">
+                                <span><?= htmlspecialchars($text) ?></span>
+                            </div>
+                        <?php endforeach; ?>
+                    </div>
+
+                    <div class="feedback-badge" id="feedback_<?= $num ?>"></div>
+                </div>
+            <?php endforeach; ?>
+
+            <div class="text-center my-4">
+                <button type="button" onclick="checkAllScore()" class="btn btn-success btn-lg rounded-pill px-5 fw-bold shadow">
+                    <i class="bi bi-award-fill me-1"></i> Submit Practice &amp; Check Total Score
+                </button>
+            </div>
+        </form>
+    </main>
+
+    <!-- Bootstrap JS -->
+    <script src="bootstrap.bundle.min.js"></script>
+
+    <script>
+        function handlePracticeOption(qNum, element, isCorrect) {
+            const card = document.getElementById(`q_card_${qNum}`);
+            const feedback = document.getElementById(`feedback_${qNum}`);
+            const allOpts = card.querySelectorAll('.opt-box');
+
+            // Reset options in this card
+            allOpts.forEach(opt => {
+                opt.classList.remove('is-correct', 'is-wrong');
+            });
+
+            // Mark radio button
+            const radio = element.querySelector('input[type="radio"]');
+            if (radio) radio.checked = true;
+
+            feedback.style.display = 'block';
+
+            if (isCorrect === 1) {
+                element.classList.add('is-correct');
+                feedback.className = 'feedback-badge bg-success-subtle text-success border border-success-subtle';
+                feedback.innerHTML = '<i class="bi bi-check-circle-fill me-1"></i> Excellent! That is the correct answer.';
+            } else {
+                element.classList.add('is-wrong');
+                feedback.className = 'feedback-badge bg-danger-subtle text-danger border border-danger-subtle';
+                feedback.innerHTML = '<i class="bi bi-x-circle-fill me-1"></i> Incorrect. Review the topic and try again!';
+
+                // Highlight correct option
+                allOpts.forEach(opt => {
+                    const r = opt.querySelector('input[type="radio"]');
+                    if (r && r.value === '1') {
+                        opt.classList.add('is-correct');
+                    }
+                });
             }
-            total += Number(selected.val());
         }
 
-        if(!allAnswered){
-            alert("Please complete all the questions!");
-            return;
+        function checkAllScore() {
+            let score = 0;
+            let answered = 0;
+
+            for (let i = 1; i <= 10; i++) {
+                const checked = document.querySelector(`input[name="pq_${i}"]:checked`);
+                if (checked) {
+                    answered++;
+                    score += parseInt(checked.value, 10);
+                }
+            }
+
+            if (answered < 10) {
+                Swal.fire({
+                    title: 'Incomplete Practice',
+                    html: `You have answered <strong>${answered}</strong> of 10 questions.<br>Please answer all questions to view your complete evaluation.`,
+                    icon: 'warning',
+                    confirmButtonColor: '#2563eb'
+                });
+                return;
+            }
+
+            const pct = Math.round((score / 10) * 100);
+
+            Swal.fire({
+                title: 'Practice Complete!',
+                html: `
+                    <div class="p-3 my-2 bg-light rounded border text-center">
+                        <small class="text-muted text-uppercase fw-bold">Your Score</small><br>
+                        <span class="fs-1 fw-bold text-success font-monospace">${score} / 10</span>
+                        <div class="text-muted small mt-1">${pct}% Mastery Level</div>
+                    </div>
+                    <p class="text-muted small mt-2">Ready for a real, timed examination session?</p>
+                `,
+                icon: score >= 6 ? 'success' : 'info',
+                showCancelButton: true,
+                confirmButtonColor: '#10b981',
+                cancelButtonColor: '#64748b',
+                confirmButtonText: 'Go to Exam Center',
+                cancelButtonText: 'Review Answers'
+            }).then((res) => {
+                if (res.isConfirmed) {
+                    window.location.href = 'subjects.php';
+                }
+            });
         }
-
-        $("#totalScore").text("✅ Your Total score is: " + total + "/10");
-    });
-
-});
-</script>
+    </script>
+</body>
+</html>
