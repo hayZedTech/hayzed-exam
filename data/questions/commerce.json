@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Commerce is best defined as that branch of production that deals with the ______",
+    "options": {
+      "a": "extraction of raw materials from the earth and seas",
+      "b": "levying and collection of revenue by government agencies",
+      "c": "distribution and exchange of goods and services to ultimate consumers",
+      "d": "fabrication and assembly of finished machinery in factories"
+    },
+    "answer": "c",
+    "explanation": "Commerce encompasses all activities involved in the distribution and exchange of goods and services from original producers to final consumers, including trade and aids to trade."
+  },
+  {
+    "question": "Which of the following is the primary division of Commerce?",
+    "options": {
+      "a": "Banking and Insurance",
+      "b": "Import and Export",
+      "c": "Trade and Aids to Trade",
+      "d": "Industry and Agriculture"
+    },
+    "answer": "c",
+    "explanation": "Commerce is divided into two broad branches: Trade (buying and selling) and Aids to Trade (support services facilitating exchange)."
+  },
+  {
+    "question": "Activities such as mining, farming, and lumbering belong to which stage of production?",
+    "options": {
+      "a": "Primary production",
+      "b": "Tertiary production",
+      "c": "Commercial production",
+      "d": "Secondary production"
+    },
+    "answer": "a",
+    "explanation": "Primary (extractive) production involves obtaining natural raw materials and resources directly from the land, water, and air."
+  },
+  {
+    "question": "A medical doctor treating patients in a private hospital is engaged in providing ______",
+    "options": {
+      "a": "extractive production",
+      "b": "direct personal service",
+      "c": "indirect commercial service",
+      "d": "secondary production"
+    },
+    "answer": "b",
+    "explanation": "Direct services are personal services rendered directly to individual consumers by professionals (doctors, barbers, private tutors) without commercial intermediaries."
+  },
+  {
+    "question": "The middleman who buys in large quantities from manufacturers and resells in smaller lots to retailers is the ______",
+    "options": {
+      "a": "factor",
+      "b": "broker",
+      "c": "wholesaler",
+      "d": "hawker"
+    },
+    "answer": "c",
+    "explanation": "The wholesaler purchases goods in bulk from producers, breaks bulk, stores inventory in warehouses, and distributes smaller quantities to retailers."
+  },
+  {
+    "question": "Which of the following is a key service rendered by the wholesaler to the manufacturer?",
+    "options": {
+      "a": "Providing door-to-door delivery to individual households",
+      "b": "Financing production by paying in advance and warehousing finished goods",
+      "c": "Granting hire purchase credit directly to final consumers",
+      "d": "Issuing shares and debentures on the stock exchange"
+    },
+    "answer": "b",
+    "explanation": "Wholesalers relieve manufacturers of warehousing costs, place bulk orders with advance payments, and assume price and storage risks."
+  },
+  {
+    "question": "A major criticism often leveled against the retention of middlemen in the distribution chain is that they ______",
+    "options": {
+      "a": "eliminate transportation and warehousing risks",
+      "b": "add to the ultimate selling price paid by consumers",
+      "c": "prevent manufacturers from advertising their brands",
+      "d": "reduce the total volume of goods produced"
+    },
+    "answer": "b",
+    "explanation": "Middlemen add profit markups and handling margins at each distribution stage, which tends to inflate the final retail price for consumers."
+  },
+  {
+    "question": "A retail outlet organized into distinct sections, each specializing in a particular line of merchandise under one roof and unified management, is a ______",
+    "options": {
+      "a": "multiple shop",
+      "b": "supermarket",
+      "c": "tied shop",
+      "d": "department store"
+    },
+    "answer": "d",
+    "explanation": "A department store is a large retail institution divided into separate departments (clothing, electronics, cosmetics, furniture) under single roof management."
+  },
+  {
+    "question": "Multiple shops (chain stores) are characterized by ______",
+    "options": {
+      "a": "operation strictly through postal catalog orders",
+      "b": "specialization exclusively in agricultural raw produce",
+      "c": "identical shop fronts, centralized buying, and standardized prices",
+      "d": "decentralized purchasing and independent store policies"
+    },
+    "answer": "c",
+    "explanation": "Chain stores consist of a network of retail branches with uniform shop layouts, centralized purchasing, common branding, and fixed retail prices."
+  },
+  {
+    "question": "A major distinguishing feature of a supermarket is the extensive use of ______",
+    "options": {
+      "a": "sales strictly on credit terms to customers",
+      "b": "self-service and open display of merchandise",
+      "c": "prolonged bargaining and haggling over prices",
+      "d": "door-to-door sales canvassers"
+    },
+    "answer": "b",
+    "explanation": "Supermarkets are large self-service stores where customers select pre-packaged, price-tagged goods from open shelves and pay at checkout counters."
+  },
+  {
+    "question": "The re-exportation of imported goods to another country without substantial transformation is called ______",
+    "options": {
+      "a": "counter trade",
+      "b": "entrepot trade",
+      "c": "bilateral trade",
+      "d": "visible trade"
+    },
+    "answer": "b",
+    "explanation": "Entrepot trade involves importing foreign goods for the purpose of re-exporting them to other nations, often utilizing bonded warehouses and customs free-zones."
+  },
+  {
+    "question": "The document of title to goods shipped by sea, which acts as a receipt of cargo and contract of carriage, is the ______",
+    "options": {
+      "a": "Bill of Lading",
+      "b": "Air Waybill",
+      "c": "Pro-forma Invoice",
+      "d": "Certificate of Inspection"
+    },
+    "answer": "a",
+    "explanation": "A Bill of Lading is a legally binding negotiable document issued by a shipping carrier acknowledging receipt of cargo and representing title to the goods."
+  },
+  {
+    "question": "A Letter of Credit (L/C) in international trade is best described as ______",
+    "options": {
+      "a": "an official clearance certificate issued by the port customs authority",
+      "b": "a payment undertaking issued by the buyer's bank guaranteeing payment to the seller upon presentation of complying documents",
+      "c": "a marine insurance certificate covering damage in transit",
+      "d": "an order from a buyer requesting immediate delivery of goods on open account"
+    },
+    "answer": "b",
+    "explanation": "A Letter of Credit is a financial commitment issued by an issuing bank guaranteeing that a buyer's payment to a seller will be made on time and for the correct amount."
+  },
+  {
+    "question": "An invoice certified by the consul of the importing country residing in the exporting nation to verify genuine valuation is a ______",
+    "options": {
+      "a": "commercial invoice",
+      "b": "pro-forma invoice",
+      "c": "consular invoice",
+      "d": "freight note"
+    },
+    "answer": "c",
+    "explanation": "A consular invoice is officially stamped by the importing nation's consul to prevent import duty evasion through under-invoicing."
+  },
+  {
+    "question": "A document issued by a competent authority in an exporting country confirming the geographic location where goods were manufactured is a ______",
+    "options": {
+      "a": "Ship's Manifest",
+      "b": "Mate's Receipt",
+      "c": "Bill of Exchange",
+      "d": "Certificate of Origin"
+    },
+    "answer": "d",
+    "explanation": "A Certificate of Origin proves the country where goods originated, essential for preferential tariff treatment under trade agreements."
+  },
+  {
+    "question": "An order sent by an importer to an overseas purchasing agent specifying goods to be purchased is known as an ______",
+    "options": {
+      "a": "Indent",
+      "b": "Account Sales",
+      "c": "Advice Note",
+      "d": "Invoice"
+    },
+    "answer": "a",
+    "explanation": "An indent is an order placed with a foreign commission agent. It is an 'open indent' if the agent chooses the supplier, and a 'closed indent' if the manufacturer is specified."
+  },
+  {
+    "question": "The most economical and continuous mode of transporting crude petroleum and natural gas across extensive land distances is by ______",
+    "options": {
+      "a": "railway wagons",
+      "b": "inland canal barges",
+      "c": "pipeline",
+      "d": "road tankers"
+    },
+    "answer": "c",
+    "explanation": "Pipelines provide an uninterrupted, cost-effective, and safe mode for conveying bulk fluids, petroleum products, and gases over long land routes."
+  },
+  {
+    "question": "A contract whereby a shipowner leases an entire vessel or part of it to a merchant for a specific voyage or period is a ______",
+    "options": {
+      "a": "Bill of Sight",
+      "b": "Dock Warrant",
+      "c": "Charter Party",
+      "d": "Customs Entry"
+    },
+    "answer": "c",
+    "explanation": "A Charter Party is a formal written maritime agreement hiring an entire ship (voyage charter or time charter) for transporting bulk cargo."
+  },
+  {
+    "question": "A bonded warehouse is a secured facility supervised by customs authorities where ______",
+    "options": {
+      "a": "locally manufactured goods are stored before payment of local rates",
+      "b": "stolen and smuggled goods are auctioned directly to civil servants",
+      "c": "perishable food crops are preserved by national agricultural boards",
+      "d": "dutiable imported goods are stored until customs import duties are paid"
+    },
+    "answer": "d",
+    "explanation": "A bonded warehouse holds imported goods on which customs duty is yet to be settled. Goods can be re-exported without duty or released upon payment."
+  },
+  {
+    "question": "Which fundamental principle of insurance states that the insured must be in a position to suffer a direct financial loss if the insured event occurs?",
+    "options": {
+      "a": "Principle of Insurable Interest",
+      "b": "Principle of Indemnity",
+      "c": "Principle of Contribution",
+      "d": "Principle of Subrogation"
+    },
+    "answer": "a",
+    "explanation": "Insurable interest requires the policyholder to have a legal and financial interest in the preservation of the subject matter, preventing insurance from becoming a gamble."
+  },
+  {
+    "question": "The insurance doctrine of 'Uberrimae Fidei' requires that ______",
+    "options": {
+      "a": "the insured is allowed to claim double compensation from multiple underwriters",
+      "b": "both parties disclose all material facts fully and honestly without concealment",
+      "c": "the insurer must compensate the insured within twenty-four hours",
+      "d": "the policyholder cannot cancel the policy before maturity"
+    },
+    "answer": "b",
+    "explanation": "Uberrimae Fidei (Utmost Good Faith) mandates that both proposer and insurer disclose all relevant, material information affecting the risk assessment."
+  },
+  {
+    "question": "The principle of indemnity stipulates that following a covered loss, the insured should be ______",
+    "options": {
+      "a": "granted unconditional lifetime dividend payments",
+      "b": "paid twice the commercial market value of the property",
+      "c": "restored to the exact financial position enjoyed immediately before the loss occurred",
+      "d": "excused from paying future premiums on all other policies"
+    },
+    "answer": "c",
+    "explanation": "Indemnity ensures the insured is made financially whole after a loss without making a profit or gaining an advantage beyond actual loss."
+  },
+  {
+    "question": "The legal right of an insurer who has fully indemnified an insured to take over the insured's rights and remedies against a liable third party is ______",
+    "options": {
+      "a": "Subrogation",
+      "b": "Proximate Cause",
+      "c": "Arbitration",
+      "d": "Contribution"
+    },
+    "answer": "a",
+    "explanation": "Subrogation allows the insurer to step into the insured's shoes to pursue damages against responsible third parties, ensuring the insured does not recover twice."
+  },
+  {
+    "question": "Under the principle of proximate cause, an insurance claim is paid only if the loss was caused directly by ______",
+    "options": {
+      "a": "an insured peril that is the active, efficient, and dominant cause",
+      "b": "an act of commercial negligence",
+      "c": "any event occurring within one year of policy purchase",
+      "d": "an uninsured natural catastrophe"
+    },
+    "answer": "a",
+    "explanation": "Proximate cause (causa proxima) requires that the direct, dominant peril causing the loss must be specifically covered in the policy."
+  },
+  {
+    "question": "Which of the following classes of insurance is NOT subject to the strict principle of indemnity?",
+    "options": {
+      "a": "Fire insurance on commercial property",
+      "b": "Motor vehicle comprehensive insurance",
+      "c": "Life assurance",
+      "d": "Marine cargo insurance"
+    },
+    "answer": "c",
+    "explanation": "Human life cannot be assigned a precise monetary valuation; hence, life assurance contracts are not contracts of indemnity but agreed-benefit policies."
+  },
+  {
+    "question": "A cheque with two parallel transverse lines drawn across its face is known as a ______",
+    "options": {
+      "a": "order cheque",
+      "b": "stale cheque",
+      "c": "crossed cheque",
+      "d": "bearer cheque"
+    },
+    "answer": "c",
+    "explanation": "A crossed cheque cannot be cashed directly over the counter; it must be lodged and cleared through a bank account, providing safety against theft."
+  },
+  {
+    "question": "A cheque that is presented for payment more than six months after the date written on it is treated by banks as a ______",
+    "options": {
+      "a": "post-dated cheque",
+      "b": "certified cheque",
+      "c": "stale cheque",
+      "d": "dishonoured bearer draft"
+    },
+    "answer": "c",
+    "explanation": "Cheques presented past the customary validity window (usually six months from date of issue) are classified as stale and returned unpaid."
+  },
+  {
+    "question": "A credit facility whereby a current account holder is permitted to withdraw funds in excess of their available credit balance up to an agreed limit is an ______",
+    "options": {
+      "a": "equipment lease",
+      "b": "open commercial credit",
+      "c": "unsecured debenture",
+      "d": "overdraft"
+    },
+    "answer": "d",
+    "explanation": "A bank overdraft is a flexible short-term borrowing arrangement allowing current account holders to overdraw their accounts up to a negotiated ceiling."
+  },
+  {
+    "question": "Advertising designed to inform the public about the availability, price, and functional features of a new invention is classified as ______",
+    "options": {
+      "a": "informative advertising",
+      "b": "defensive advertising",
+      "c": "competitive advertising",
+      "d": "persuasive advertising"
+    },
+    "answer": "a",
+    "explanation": "Informative advertising educates the public regarding the existence, utility, and characteristics of new goods or services without emotional persuasion."
+  },
+  {
+    "question": "One distinct legal characteristic of a sole proprietorship is that ______",
+    "options": {
+      "a": "it must publish audited financial accounts in national newspapers",
+      "b": "it has a separate legal personality distinct from the owner",
+      "c": "shares are quoted freely on the national stock exchange",
+      "d": "the owner bears unlimited liability for all business debts"
+    },
+    "answer": "d",
+    "explanation": "A sole trader has unlimited liability: there is no legal distinction between personal assets and business debts, meaning personal property can be seized to settle debts."
+  },
+  {
+    "question": "In the absence of a written partnership agreement, the provisions of the Partnership Act 1890 stipulate that ______",
+    "options": {
+      "a": "the eldest partner retains exclusive managing authority",
+      "b": "partners share profits and losses equally",
+      "c": "capital contributions earn mandatory 15% interest",
+      "d": "partners receive an annual salary of 10% on sales"
+    },
+    "answer": "b",
+    "explanation": "Under the Partnership Act 1890, unless agreed otherwise, profits and losses are shared equally, no salaries are paid, and no interest is allowed on capital."
+  },
+  {
+    "question": "A limited partner in a limited partnership enjoys the privilege of ______",
+    "options": {
+      "a": "drawing unlimited funds from the business account",
+      "b": "liability restricted strictly to the amount of capital contributed",
+      "c": "active daily management of the partnership firm",
+      "d": "acting as the sole legal agent for all contractual agreements"
+    },
+    "answer": "b",
+    "explanation": "A limited partner's financial liability is capped at their contributed capital, provided they do not participate in active management of the business."
+  },
+  {
+    "question": "Which of the following is a major distinction between a Private Limited Company and a Public Limited Company?",
+    "options": {
+      "a": "A public company can issue a prospectus inviting public share subscription",
+      "b": "A public company must restrict the right of its members to transfer shares",
+      "c": "A private company must end its registered name with 'Plc'",
+      "d": "A private company can freely invite the general public to subscribe for shares"
+    },
+    "answer": "a",
+    "explanation": "Only public limited companies (Plc) are permitted to issue a prospectus and invite the investing public to purchase shares and debentures."
+  },
+  {
+    "question": "The constitutional document of an incorporated company that governs its external relationships with third parties is the ______",
+    "options": {
+      "a": "Certificate of Trading",
+      "b": "Prospectus Summary",
+      "c": "Memorandum of Association",
+      "d": "Articles of Association"
+    },
+    "answer": "c",
+    "explanation": "The Memorandum of Association defines the company's external scope, containing the name, registered office, objects, liability, and capital clauses."
+  },
+  {
+    "question": "The internal rules, regulations, and operational bylaws that guide the management of a company are contained in the ______",
+    "options": {
+      "a": "Articles of Association",
+      "b": "Register of Charges",
+      "c": "Certificate of Incorporation",
+      "d": "Memorandum of Association"
+    },
+    "answer": "a",
+    "explanation": "The Articles of Association specify internal corporate governance: rights and duties of directors, voting procedures, share transfer rules, and dividend declarations."
+  },
+  {
+    "question": "A formal document issued by a public company inviting the general public to subscribe for its shares or debentures is the ______",
+    "options": {
+      "a": "Certificate of Trading",
+      "b": "Prospectus",
+      "c": "Deed of Partnership",
+      "d": "Articles of Association"
+    },
+    "answer": "b",
+    "explanation": "A prospectus is an official legal notice providing comprehensive financial and operational disclosures to invite public subscription to securities."
+  },
+  {
+    "question": "A cooperative society is primarily established to ______",
+    "options": {
+      "a": "promote the economic welfare and mutual interest of its members",
+      "b": "issue foreign currency loans to municipal authorities",
+      "c": "take over loss-making state-owned corporations",
+      "d": "maximize commercial profits for external speculative investors"
+    },
+    "answer": "a",
+    "explanation": "Cooperatives are member-owned mutual self-help organizations operated democratically on a 'one member, one vote' principle to serve members' common welfare."
+  },
+  {
+    "question": "In a cooperative society, surplus profits are distributed to members primarily on the basis of ______",
+    "options": {
+      "a": "the age and political influence of the member",
+      "b": "patronage and volume of transactions with the society",
+      "c": "the total value of real estate pledged as collateral",
+      "d": "the number of shares owned by each individual"
+    },
+    "answer": "b",
+    "explanation": "Unlike joint-stock companies that distribute dividends per share, cooperative surplus (patronage dividend) is refunded in proportion to members' purchases or business volume."
+  },
+  {
+    "question": "On the Stock Exchange, a speculator who buys shares anticipating an imminent increase in their market price to sell at a profit is a ______",
+    "options": {
+      "a": "Broker",
+      "b": "Bear",
+      "c": "Stag",
+      "d": "Bull"
+    },
+    "answer": "d",
+    "explanation": "A bull is an optimistic investor who buys securities anticipating a market rise, intending to sell later at higher prices."
+  },
+  {
+    "question": "A Stock Exchange speculator who sells shares in anticipation of a fall in price, hoping to buy them back later at a cheaper rate, is a ______",
+    "options": {
+      "a": "Stag",
+      "b": "Jobber",
+      "c": "Bull",
+      "d": "Bear"
+    },
+    "answer": "d",
+    "explanation": "A bear is a pessimistic speculator expecting market prices to drop; they sell securities in hopes of repurchasing them at a lower price."
+  },
+  {
+    "question": "A speculator who applies for large quantities of newly issued shares in the primary market hoping to sell them at a premium as soon as trading opens is known as a ______",
+    "options": {
+      "a": "Bull",
+      "b": "Lame Duck",
+      "c": "Bear",
+      "d": "Stag"
+    },
+    "answer": "d",
+    "explanation": "A stag subscribes to new capital issues with the sole purpose of selling allotment shares immediately upon listing at an anticipated opening premium."
+  },
+  {
+    "question": "Working capital is calculated mathematically as ______",
+    "options": {
+      "a": "Total Assets minus Total Liabilities",
+      "b": "Current Assets minus Current Liabilities",
+      "c": "Gross Profit minus Operating Expenses",
+      "d": "Fixed Assets plus Long-term Debt"
+    },
+    "answer": "b",
+    "explanation": "Working Capital (Net Current Assets) = Current Assets minus Current Liabilities, indicating short-term operational liquidity."
+  },
+  {
+    "question": "Capital employed in a commercial business enterprise is represented by ______",
+    "options": {
+      "a": "Net Profit divided by Turnover",
+      "b": "Total Authorised Share Capital minus Cash at Bank",
+      "c": "Current Assets minus Bank Overdraft",
+      "d": "Total Assets minus Current Liabilities"
+    },
+    "answer": "d",
+    "explanation": "Capital Employed equals Total Assets less Current Liabilities (or Owners' Equity plus Non-Current Liabilities), reflecting long-term financing invested."
+  },
+  {
+    "question": "Which of the following is an essential element required to create a legally binding contract?",
+    "options": {
+      "a": "Valuable consideration supported by mutual agreement (offer and acceptance)",
+      "b": "Payment of 50% cash deposit prior to negotiation",
+      "c": "Verification by a notary public from another country",
+      "d": "Approval by the Minister of Trade and Investment"
+    },
+    "answer": "a",
+    "explanation": "A valid contract requires offer, acceptance, lawful consideration, intention to create legal relations, legal capacity, and genuine consent."
+  },
+  {
+    "question": "In the sale of goods, the Latin maxim 'Caveat Emptor' signifies ______",
+    "options": {
+      "a": "cash must be delivered prior to receiving an invoice",
+      "b": "the manufacturer warrants infinite durability of the article",
+      "c": "the seller must replace all damaged goods unconditionally",
+      "d": "let the buyer beware and examine goods carefully before purchase"
+    },
+    "answer": "d",
+    "explanation": "Caveat emptor means 'let the buyer beware' — the buyer assumes the responsibility of inspecting the quality and condition of goods prior to purchase."
+  },
+  {
+    "question": "The primary statutory agency in Nigeria responsible for regulating and safeguarding consumer rights against unfair business practices is the ______",
+    "options": {
+      "a": "Federal Competition and Consumer Protection Commission (FCCPC)",
+      "b": "Nigerian National Petroleum Corporation (NNPC)",
+      "c": "Corporate Affairs Commission (CAC)",
+      "d": "Economic and Financial Crimes Commission (EFCC)"
+    },
+    "answer": "a",
+    "explanation": "The FCCPC (formerly Consumer Protection Council - CPC) is mandated to protect consumer rights, eliminate deceptive practices, and enforce safety standards."
+  },
+  {
+    "question": "The National Agency for Food and Drug Administration and Control (NAFDAC) is empowered by law to regulate and control the manufacture, importation, and distribution of ______",
+    "options": {
+      "a": "building cements and heavy structural steel beams",
+      "b": "telecommunication transmission towers and satellites",
+      "c": "foods, drugs, cosmetics, medical devices, and packaged water",
+      "d": "commercial motor vehicles and aircraft spare parts"
+    },
+    "answer": "c",
+    "explanation": "NAFDAC regulates processed foods, pharmaceuticals, cosmetics, medical devices, chemicals, and bottled water to ensure public health and safety."
+  },
+  {
+    "question": "A Chamber of Commerce is an association formed by ______",
+    "options": {
+      "a": "factory laborers to collectively bargain for higher wages",
+      "b": "merchants, industrialists, and businesses within a region to promote commercial interests",
+      "c": "commercial banks to enforce monetary reserve ratios",
+      "d": "civil servants to monitor public ministry procurements"
+    },
+    "answer": "b",
+    "explanation": "A Chamber of Commerce is a voluntary business network designed to promote, protect, and represent the commercial interests of businesses in a city or region."
+  },
+  {
+    "question": "Debenture holders in a public limited company are ______",
+    "options": {
+      "a": "government inspectors appointed to audit annual tax returns",
+      "b": "part-owners entitled to voting privileges at annual general meetings",
+      "c": "speculative brokers trading unlisted shares on the stock floor",
+      "d": "creditors of the company entitled to fixed interest whether profit is made or not"
+    },
+    "answer": "d",
+    "explanation": "Debentures represent loan capital. Debenture holders are creditors of the company who receive fixed interest irrespective of profits and have no voting rights."
+  },
+  {
+    "question": "Turnover in commerce and accounting is best defined as the ______",
+    "options": {
+      "a": "aggregate capital invested by equity shareholders",
+      "b": "value of closing stock left unsold at year-end",
+      "c": "gross profit made over a twelve-month trading period",
+      "d": "total net sales value of merchandise sold during a given period"
+    },
+    "answer": "d",
+    "explanation": "Turnover refers to the total net sales revenue generated by a business from the sale of goods and services during an accounting period."
+  }
+]

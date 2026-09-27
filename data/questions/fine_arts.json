@@ -1,0 +1,552 @@
+[
+  {
+    "question": "In the visual arts, which fundamental element is defined as the continuous path traced by a moving point through space?",
+    "options": {
+      "a": "Shape",
+      "b": "Value",
+      "c": "Line",
+      "d": "Texture"
+    },
+    "answer": "c",
+    "explanation": "A line is a mark with length and direction created by a point that moves across a surface, establishing outlines and contours."
+  },
+  {
+    "question": "The Italian artistic technique of using dramatic contrasts between light and dark to model three-dimensional volume on a two-dimensional surface is known as ______",
+    "options": {
+      "a": "Sfumato",
+      "b": "Grisaille",
+      "c": "Impasto",
+      "d": "Chiaroscuro"
+    },
+    "answer": "d",
+    "explanation": "Chiaroscuro (literally 'light-dark') is the treatment of strong tonal contrasts between light and dark shading to give forms a sense of volume and depth."
+  },
+  {
+    "question": "The relative lightness or darkness of a color or neutral gray is termed its ______",
+    "options": {
+      "a": "Hue",
+      "b": "Value",
+      "c": "Chroma",
+      "d": "Saturation"
+    },
+    "answer": "b",
+    "explanation": "Value (or tone) refers to the lightness or darkness of a color, ranging from pure white to deep black."
+  },
+  {
+    "question": "What distinguishes a three-dimensional 'form' from a two-dimensional 'shape' in art?",
+    "options": {
+      "a": "Form is always geometric, while shape is always organic",
+      "b": "Form can only be drawn with pencil, while shape is always painted",
+      "c": "Form has height, width, and depth (volume), while shape possesses only height and width",
+      "d": "Form lacks physical texture entirely"
+    },
+    "answer": "c",
+    "explanation": "A shape is a two-dimensional flat area enclosed by lines (height and width), whereas form is three-dimensional possessing volume and occupying space."
+  },
+  {
+    "question": "Which type of balance occurs when visual elements radiate outward from a central focal point like the spokes of a bicycle wheel?",
+    "options": {
+      "a": "Radial balance",
+      "b": "Asymmetrical balance",
+      "c": "Symmetrical balance",
+      "d": "Bilateral balance"
+    },
+    "answer": "a",
+    "explanation": "Radial balance is arranged around a central axis point, directing viewer attention toward or away from the central origin (common in mandalas and rosettes)."
+  },
+  {
+    "question": "The artistic convention where the physical size of human figures indicates their spiritual, political, or social importance rather than realistic scale is called ______",
+    "options": {
+      "a": "Atmospheric scale",
+      "b": "Hierarchical proportion (scale)",
+      "c": "Golden ratio",
+      "d": "Foreshortened proportion"
+    },
+    "answer": "b",
+    "explanation": "Hierarchical proportion depicts higher-status individuals (such as kings, deities, or pharaohs) on a much larger scale than surrounding attendants or subjects."
+  },
+  {
+    "question": "The principle of design that makes a specific area or element stand out to catch the viewer's first attention is ______",
+    "options": {
+      "a": "Rhythm",
+      "b": "Harmony",
+      "c": "Emphasis (Focal point)",
+      "d": "Pattern"
+    },
+    "answer": "c",
+    "explanation": "Emphasis draws the viewer's eye to a focal point through high contrast, isolation, vibrant color, placement, or size."
+  },
+  {
+    "question": "The actual physical surface quality of an artwork that can be physically felt with the fingers is known as ______",
+    "options": {
+      "a": "Abstract texture",
+      "b": "Simulated (visual) texture",
+      "c": "Invented texture",
+      "d": "Tactile (actual) texture"
+    },
+    "answer": "d",
+    "explanation": "Tactile texture is the real, physical, tangible feel of a surface (such as rough impasto oil paint or carved wood), unlike simulated texture which only looks textured."
+  },
+  {
+    "question": "The regular, repeated occurrence of motifs or design elements across a visual composition creates ______",
+    "options": {
+      "a": "Aerial perspective",
+      "b": "Chiaroscuro",
+      "c": "Visual rhythm and pattern",
+      "d": "Atmospheric blur"
+    },
+    "answer": "c",
+    "explanation": "Visual rhythm is created by the organized repetition of elements (lines, shapes, colours) across a work of art to suggest movement and harmony."
+  },
+  {
+    "question": "In linear perspective, the point on the horizon line where parallel lines receding into the distance appear to converge and meet is the ______",
+    "options": {
+      "a": "Vanishing point",
+      "b": "Station point",
+      "c": "Focal node",
+      "d": "Zenith"
+    },
+    "answer": "a",
+    "explanation": "The vanishing point is the spot on the horizon line at which receding parallel orthogonal lines seem to intersect and disappear."
+  },
+  {
+    "question": "The imaginary horizontal line in a perspective drawing that corresponds directly to the viewer's eye level is called the ______",
+    "options": {
+      "a": "Horizon line",
+      "b": "Ground line",
+      "c": "Orthogonal line",
+      "d": "Picture plane"
+    },
+    "answer": "a",
+    "explanation": "The horizon line represents the physical eye level of the artist or viewer in a drawing or painting, separating the ground from the sky."
+  },
+  {
+    "question": "Which perspective system is used when drawing a building viewed directly from the front, with receding lines converging to a single central vanishing point?",
+    "options": {
+      "a": "One-point perspective",
+      "b": "Two-point perspective",
+      "c": "Three-point perspective",
+      "d": "Isometric projection"
+    },
+    "answer": "a",
+    "explanation": "One-point perspective uses a single vanishing point on the horizon line, commonly used when viewing an object or hallway head-on from the front."
+  },
+  {
+    "question": "When drawing a building from an angular corner view, showing two receding sides converging to two separate vanishing points on the horizon line, the artist uses ______",
+    "options": {
+      "a": "One-point perspective",
+      "b": "Two-point perspective",
+      "c": "Curvilinear perspective",
+      "d": "Orthographic projection"
+    },
+    "answer": "b",
+    "explanation": "Two-point perspective is employed when viewing an object at an angle, where edges recede toward two distinct vanishing points on the horizon line."
+  },
+  {
+    "question": "Which type of perspective incorporates a third vanishing point located either high above or deep below the horizon to convey extreme heights or worm's-eye views?",
+    "options": {
+      "a": "Parallel perspective",
+      "b": "Oblique perspective",
+      "c": "Three-point perspective",
+      "d": "Planar perspective"
+    },
+    "answer": "c",
+    "explanation": "Three-point perspective uses three vanishing points (two on the horizon line and a third above or below), creating extreme bird's-eye or worm's-eye angles."
+  },
+  {
+    "question": "The visual effect in painting where distant landscapes appear paler, cooler, bluer, and less distinct due to dust and moisture particles in the atmosphere is ______",
+    "options": {
+      "a": "Linear perspective",
+      "b": "Foreshortening",
+      "c": "Atmospheric (aerial) perspective",
+      "d": "Isometric perspective"
+    },
+    "answer": "c",
+    "explanation": "Atmospheric (or aerial) perspective simulates depth by painting distant objects with reduced contrast, softer edges, and cooler, bluish tones."
+  },
+  {
+    "question": "The optical illusion in drawing where an arm, leg, or object pointing directly toward the viewer appears compressed, shortened, and distorted in length is termed ______",
+    "options": {
+      "a": "Anamorphosis",
+      "b": "Flattening",
+      "c": "Juxtaposition",
+      "d": "Foreshortening"
+    },
+    "answer": "d",
+    "explanation": "Foreshortening is the visual technique of depicting an object or human figure in depth by shortening the parts that project forward toward the observer."
+  },
+  {
+    "question": "In traditional subtractive color theory for artists' pigments, the three primary colors that cannot be created by mixing other pigments are ______",
+    "options": {
+      "a": "Red, Green, and Blue",
+      "b": "Red, Yellow, and Blue",
+      "c": "Cyan, Magenta, and Yellow",
+      "d": "Orange, Green, and Violet"
+    },
+    "answer": "b",
+    "explanation": "In classical fine art pigment color mixing, Red, Yellow, and Blue are the traditional three primary hues from which secondary colors are derived."
+  },
+  {
+    "question": "Which secondary color is produced by mixing equal parts of the primary pigments blue and yellow?",
+    "options": {
+      "a": "Orange",
+      "b": "Green",
+      "c": "Purple",
+      "d": "Brown"
+    },
+    "answer": "b",
+    "explanation": "Green is a secondary hue created by mixing the primary colors blue and yellow."
+  },
+  {
+    "question": "A tertiary color is formed by mixing ______",
+    "options": {
+      "a": "Two primary colors together in equal parts",
+      "b": "White and black together",
+      "c": "Two complementary colors in equal quantities",
+      "d": "A primary color with an adjacent secondary color on the color wheel"
+    },
+    "answer": "d",
+    "explanation": "A tertiary (intermediate) color is obtained by mixing a primary color with its neighboring secondary color (e.g., yellow-green, red-orange)."
+  },
+  {
+    "question": "Which of the following pairs represents complementary colors on the standard artist's color wheel?",
+    "options": {
+      "a": "Blue and Green",
+      "b": "Yellow and Orange",
+      "c": "Red and Green",
+      "d": "Blue and Violet"
+    },
+    "answer": "c",
+    "explanation": "Red and green lie directly opposite each other on the 12-hue color wheel, making them complementary colors that intensify each other when placed side-by-side."
+  },
+  {
+    "question": "A color scheme composed of three to five hues that lie immediately adjacent to each other on the color wheel, sharing a common base color, is termed ______",
+    "options": {
+      "a": "Monochromatic",
+      "b": "Triadic",
+      "c": "Polychromatic",
+      "d": "Analogous"
+    },
+    "answer": "d",
+    "explanation": "Analogous colors (e.g., yellow, yellow-green, and green) sit next to one another on the color wheel, producing harmonious, unified compositions."
+  },
+  {
+    "question": "In painting, adding white pigment to a pure hue produces a ______ of that color.",
+    "options": {
+      "a": "Shade",
+      "b": "Tint",
+      "c": "Tone",
+      "d": "Glaze"
+    },
+    "answer": "b",
+    "explanation": "A tint is created by adding white to lighten a pure hue. Adding black creates a shade, while adding grey creates a tone."
+  },
+  {
+    "question": "Which of the following groups consists exclusively of 'warm' colors that evoke feelings of heat, energy, and warmth?",
+    "options": {
+      "a": "Blue, Green, and Violet",
+      "b": "Blue, Indigo, and Cyan",
+      "c": "Red, Yellow, and Orange",
+      "d": "Green, Grey, and White"
+    },
+    "answer": "c",
+    "explanation": "Warm colors (red, yellow, orange) visually advance toward the viewer and are psychologically associated with sunshine, fire, and warmth."
+  },
+  {
+    "question": "A painting executed entirely using different values, tints, and shades of a single color is described as ______",
+    "options": {
+      "a": "Achromatic",
+      "b": "Monochromatic",
+      "c": "Polychrome",
+      "d": "Dichromatic"
+    },
+    "answer": "b",
+    "explanation": "A monochromatic palette utilizes variations of only one hue, modified solely by the addition of white, black, or gray."
+  },
+  {
+    "question": "Which ancient Nigerian culture is renowned for producing the earliest known terracotta sculptures in Sub-Saharan Africa, dating between 500 BC and 200 AD?",
+    "options": {
+      "a": "Ife Culture",
+      "b": "Nok Culture",
+      "c": "Igbo-Ukwu Culture",
+      "d": "Benin Kingdom"
+    },
+    "answer": "b",
+    "explanation": "The Nok culture of central Nigeria (Kaduna/Plateau area) produced the earliest known terracotta sculptures and iron-smelting technology in Sub-Saharan Africa."
+  },
+  {
+    "question": "A prominent stylistic feature universally found on classical Nok terracotta sculpture heads is the presence of ______",
+    "options": {
+      "a": "Completely closed blank eyelids",
+      "b": "Glass bead inlays in the cheeks",
+      "c": "European colonial uniforms",
+      "d": "Perforated triangular or circular piercings through the pupils, nostrils, and mouth"
+    },
+    "answer": "d",
+    "explanation": "Nok sculptures characteristically feature pierced triangular or oval eyes with perforated pupils, pierced nostrils, and open perforated lips."
+  },
+  {
+    "question": "The ancient bronze artifacts discovered accidentally at Igbo-Ukwu in 1938 by Isaiah Anozie were produced using which sophisticated casting technique?",
+    "options": {
+      "a": "Sand casting",
+      "b": "Lost-wax casting (Cire perdue)",
+      "c": "Die-casting",
+      "d": "Repoussé hammering"
+    },
+    "answer": "b",
+    "explanation": "Igbo-Ukwu bronzes were cast using the intricate lost-wax (cire perdue) process, exhibiting ornate surface filigree and roped decoration."
+  },
+  {
+    "question": "The classical brass and terracotta portrait heads of ancient Ife are distinguished by their ______",
+    "options": {
+      "a": "Remarkable lifelike naturalism, serene expressions, and vertical facial striations",
+      "b": "Abstract geometric cubist shapes",
+      "c": "Enormous exaggerated ears and grotesque teeth",
+      "d": "Rough unpolished wooden textures"
+    },
+    "answer": "a",
+    "explanation": "Ife sculptures are world-famous for their idealized naturalism, lifelike human anatomy, serene regal expressions, and delicate facial striations."
+  },
+  {
+    "question": "The famous 16th-century ivory pendant mask representing Queen Mother Idia, adopted as the official emblem of FESTAC '77, originates from the ______",
+    "options": {
+      "a": "Benin Kingdom",
+      "b": "Oyo Empire",
+      "c": "Calabar Kingdom",
+      "d": "Kano Emirate"
+    },
+    "answer": "a",
+    "explanation": "The Queen Mother Idia ivory mask was carved in the 16th century in the Kingdom of Benin (Edo) to commemorate Oba Esigie's mother."
+  },
+  {
+    "question": "The largest known collection of ancient soapstone (steatite) carved human figures in Africa was discovered at ______ in Kwara State, Nigeria.",
+    "options": {
+      "a": "Esie",
+      "b": "Dura",
+      "c": "Owo",
+      "d": "Dutse"
+    },
+    "answer": "a",
+    "explanation": "The Esie stone figures in Kwara State comprise over 800 carved soapstone (steatite) statues, representing the largest soapstone sculpture find in Africa."
+  },
+  {
+    "question": "The famous cast copper seated figure found in Tada village on the banks of the River Niger is historically grouped with the ______",
+    "options": {
+      "a": "Nok terracottas",
+      "b": "Tsoede bronzes",
+      "c": "Dafama stones",
+      "d": "Koma figurines"
+    },
+    "answer": "b",
+    "explanation": "The seated Tada bronze figure, demonstrating ties with Ife art, belongs to the collection of Tsoede bronzes traditionally linked to the Nupe Kingdom."
+  },
+  {
+    "question": "The traditional Gelede masquerade festival celebrated among the Yoruba of southwestern Nigeria is performed primarily to ______",
+    "options": {
+      "a": "Honor the spiritual power and authority of elderly women ('our mothers')",
+      "b": "Prepare warriors for battle",
+      "c": "Celebrate the installation of blacksmiths",
+      "d": "Pray for victory in horse racing"
+    },
+    "answer": "a",
+    "explanation": "Gelede honors 'Iya Nla' (the Great Mother) and the mystical powers of women, promoting social harmony and community fertility."
+  },
+  {
+    "question": "The Adamu Orisha (Eyo) play, characterized by masqueraders draped in flowing white robes wearing wide hats and wielding the 'Opambata' staff, is unique to ______",
+    "options": {
+      "a": "Lagos",
+      "b": "Enugu",
+      "c": "Calabar",
+      "d": "Ibadan"
+    },
+    "answer": "a",
+    "explanation": "The Eyo festival is exclusive to Lagos Island, staged to honor departed monarchs, high chiefs, or significant historical events."
+  },
+  {
+    "question": "Who is widely acknowledged as the pioneer of modern Nigerian academic art and formal art education in Nigerian secondary schools?",
+    "options": {
+      "a": "Ben Enwonwu",
+      "b": "Aina Onabolu",
+      "c": "Bruce Onobrakpeya",
+      "d": "Demas Nwoko"
+    },
+    "answer": "b",
+    "explanation": "Chief Aina Onabolu (1882–1963) is regarded as the father of modern Nigerian art, having introduced formal art teaching into the Nigerian educational curriculum."
+  },
+  {
+    "question": "The Renaissance artistic technique developed by Leonardo da Vinci of blurring sharp outlines to create soft, imperceptible transitions between colors and tones is ______",
+    "options": {
+      "a": "Sfumato",
+      "b": "Impasto",
+      "c": "Tenebrism",
+      "d": "Fresco"
+    },
+    "answer": "a",
+    "explanation": "Sfumato (derived from the Italian for 'smoke') is the subtle blending of colors and tones without harsh outlines, famously seen in the Mona Lisa."
+  },
+  {
+    "question": "Which Italian Renaissance master sculpted the monumental marble statues of 'David' and the 'Pietà' and painted the ceiling frescoes of the Sistine Chapel?",
+    "options": {
+      "a": "Donatello",
+      "b": "Raphael",
+      "c": "Michelangelo Buonarroti",
+      "d": "Sandro Botticelli"
+    },
+    "answer": "c",
+    "explanation": "Michelangelo Buonarroti was the Florentine High Renaissance sculptor and painter renowned for David, Pietà, and the Sistine Chapel ceiling."
+  },
+  {
+    "question": "The famous High Renaissance fresco 'The School of Athens', which depicts ancient philosophers like Plato and Aristotle, was painted by ______",
+    "options": {
+      "a": "Titian",
+      "b": "Leonardo da Vinci",
+      "c": "Raphael Sanzio",
+      "d": "Giotto"
+    },
+    "answer": "c",
+    "explanation": "Raphael painted 'The School of Athens' (1509–1511) in the Apostolic Palace in the Vatican, representing the culmination of Renaissance philosophy and perspective."
+  },
+  {
+    "question": "The cultural and intellectual movement known as the Renaissance originated during the 14th century in which European country?",
+    "options": {
+      "a": "Italy (specifically Florence)",
+      "b": "Germany",
+      "c": "France",
+      "d": "Spain"
+    },
+    "answer": "a",
+    "explanation": "The Renaissance began in Florence, Italy, marking a rebirth of interest in Classical antiquity, humanism, literature, and empirical science."
+  },
+  {
+    "question": "Which 17th-century European art movement was characterized by dynamic movement, high drama, emotional exuberance, and intense theatrical tenebrism?",
+    "options": {
+      "a": "Neoclassicism",
+      "b": "Rococo",
+      "c": "Romanticism",
+      "d": "Baroque"
+    },
+    "answer": "d",
+    "explanation": "The Baroque period (artists like Caravaggio, Bernini, Rembrandt) used theatrical lighting, intense emotion, and dramatic compositions."
+  },
+  {
+    "question": "Which 19th-century French art movement focused on capturing the transient effects of natural sunlight and atmosphere using visible, broken brushstrokes painted outdoors ('en plein air')?",
+    "options": {
+      "a": "Impressionism",
+      "b": "Realism",
+      "c": "Surrealism",
+      "d": "Symbolism"
+    },
+    "answer": "a",
+    "explanation": "Impressionism (founded by Claude Monet, Pierre-Auguste Renoir, and Camille Pissarro) focused on rapid, direct depiction of light and color out in open air."
+  },
+  {
+    "question": "The masterwork 'The Starry Night', celebrated for its swirling, expressive brushwork and intense emotional color palette, was painted by the Post-Impressionist ______",
+    "options": {
+      "a": "Paul Cézanne",
+      "b": "Georges Seurat",
+      "c": "Paul Gauguin",
+      "d": "Vincent van Gogh"
+    },
+    "answer": "d",
+    "explanation": "Vincent van Gogh painted 'The Starry Night' in 1889, using dynamic impasto brushstrokes and vivid cobalt blues and yellows to convey emotional intensity."
+  },
+  {
+    "question": "The 20th-century avant-garde art movement pioneered by Pablo Picasso and Georges Braque that broke objects into multifaceted geometric planes was ______",
+    "options": {
+      "a": "Cubism",
+      "b": "Fauvism",
+      "c": "Dadaism",
+      "d": "Futurism"
+    },
+    "answer": "a",
+    "explanation": "Cubism revolutionized painting by deconstructing objects and figures into geometric fragments, portraying multiple viewpoints simultaneously on a 2D canvas."
+  },
+  {
+    "question": "Carving a statue out of a block of marble or timber is an example of which sculpting method?",
+    "options": {
+      "a": "Substitution method",
+      "b": "Additive method",
+      "c": "Assemblage",
+      "d": "Subtractive method"
+    },
+    "answer": "d",
+    "explanation": "Carving is a subtractive sculpting method where material is progressively chiselled, cut, or chipped away from an initial solid block until the form emerges."
+  },
+  {
+    "question": "In metal sculpture, the traditional 'lost-wax' method is known in technical terminology as ______",
+    "options": {
+      "a": "Trompe l'oeil",
+      "b": "Cire perdue",
+      "c": "Pâte-sur-pâte",
+      "d": "Cloisonné"
+    },
+    "answer": "b",
+    "explanation": "Cire perdue is the French term for 'lost wax', a bronze-casting method where a wax model is melted out of a refractory mold and replaced by molten alloy."
+  },
+  {
+    "question": "A three-dimensional sculpture in which the figures project only slightly from a solid supporting background plane is termed a ______",
+    "options": {
+      "a": "Sunken relief",
+      "b": "Haut-relief (high relief)",
+      "c": "Freestanding sculpture",
+      "d": "Bas-relief (low relief)"
+    },
+    "answer": "d",
+    "explanation": "Bas-relief (low relief) has shallow projection from the background plane, commonly seen on coins, commemorative medals, and architectural wall friezes."
+  },
+  {
+    "question": "A rigid internal framework made of iron wire, metal pipes, or timber used by sculptors to support heavy wet clay or plaster during modeling is a/an ______",
+    "options": {
+      "a": "Plinth",
+      "b": "Armature",
+      "c": "Pedestal",
+      "d": "Caliper"
+    },
+    "answer": "b",
+    "explanation": "An armature acts as an artificial skeleton, providing internal structural strength so modeling clay or wax will not sag, collapse, or crack while being shaped."
+  },
+  {
+    "question": "Which printmaking category includes woodcut and linocut, where the artist cuts away negative space and ink is applied only to the raised surface?",
+    "options": {
+      "a": "Intaglio printing",
+      "b": "Screen printing",
+      "c": "Planographic printing",
+      "d": "Relief printing"
+    },
+    "answer": "d",
+    "explanation": "In relief printmaking, non-printing negative areas are carved away below the surface; the remaining raised matrix receives ink from a roller and prints onto paper."
+  },
+  {
+    "question": "The small hand-held roller with a rubber or gelatin cylinder used to spread a thin, uniform film of ink onto a relief printing block is a ______",
+    "options": {
+      "a": "Burnisher",
+      "b": "Burin",
+      "c": "Brayer",
+      "d": "Squeegee"
+    },
+    "answer": "c",
+    "explanation": "A brayer is a specialized rubber printmaker's roller used to roll out printing ink evenly and roll it across the raised surface of a wood or lino block."
+  },
+  {
+    "question": "In which printmaking process (such as etching and copperplate engraving) is ink deposited into incised recessed grooves and transferred under heavy rolling press pressure?",
+    "options": {
+      "a": "Lithography",
+      "b": "Monotype",
+      "c": "Serigraphy",
+      "d": "Intaglio"
+    },
+    "answer": "d",
+    "explanation": "Intaglio comes from the Italian 'intagliare' (to engrave); ink is forced into incisions beneath the plate surface, wiped clean from the surface, and printed under high press pressure."
+  },
+  {
+    "question": "In serigraphy (silkscreen printing), which flexible rubber-bladed tool is pulled across the screen mesh to force ink through open stencil areas onto the substrate?",
+    "options": {
+      "a": "Palette knife",
+      "b": "Muller",
+      "c": "Squeegee",
+      "d": "Spatula"
+    },
+    "answer": "c",
+    "explanation": "A squeegee has a firm rubber blade fitted into a wooden or metal handle, used to press and wipe ink through the open mesh of a silkscreen stencil."
+  }
+]

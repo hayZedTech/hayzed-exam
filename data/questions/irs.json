@@ -1,0 +1,552 @@
+[
+  {
+    "question": "In which cave on Mount Nur (Jabal an-Nur) did Prophet Muhammad (SAW) receive the first divine revelation through Angel Jibril?",
+    "options": {
+      "a": "Cave of Hira",
+      "b": "Cave of Thawr",
+      "c": "Cave of Uhud",
+      "d": "Cave of Quba"
+    },
+    "answer": "a",
+    "explanation": "Prophet Muhammad (SAW) engaged in solitary contemplation in the Cave of Hira on Jabal an-Nur when Angel Jibril brought the first revelation."
+  },
+  {
+    "question": "The first five verses revealed to Prophet Muhammad (SAW) starting with 'Iqra' (Read/Recite) are found in which chapter of the Holy Qur'an?",
+    "options": {
+      "a": "Surah al-Fatihah",
+      "b": "Surah al-Alaq (Chapter 96)",
+      "c": "Surah al-Muddaththir",
+      "d": "Surah al-Qadr"
+    },
+    "answer": "b",
+    "explanation": "Surah al-Alaq (96:1-5) contains the first revealed words: 'Read in the name of your Lord who created...'"
+  },
+  {
+    "question": "How many Surahs (chapters) are contained in the standard complete codex (Mushaf) of the Holy Qur'an?",
+    "options": {
+      "a": "60",
+      "b": "120",
+      "c": "114",
+      "d": "313"
+    },
+    "answer": "c",
+    "explanation": "The Holy Qur'an comprises exactly 114 Surahs, divided into 30 Juz and 60 Hizb."
+  },
+  {
+    "question": "What is the primary thematic difference between Makkan and Madinan Surahs?",
+    "options": {
+      "a": "Makkan Surahs deal exclusively with military campaigns, while Madinan Surahs discuss poetry",
+      "b": "Makkan Surahs are longer in length than Madinan Surahs",
+      "c": "Makkan Surahs were revealed in Persian, while Madinan Surahs were in Arabic",
+      "d": "Makkan Surahs focus primarily on Tawhid, the Day of Judgment, and moral rectitude, while Madinan Surahs focus on social legislation, governance, and community laws"
+    },
+    "answer": "d",
+    "explanation": "Makkan Surahs established fundamental creed (Aqeedah, Tawhid, eschatology), whereas Madinan Surahs provided civil, penal, family, and constitutional legislation."
+  },
+  {
+    "question": "Which prominent scribe and companion was appointed by Khalifah Abu Bakr (RA) to chair the official committee that compiled the Qur'an into a single book?",
+    "options": {
+      "a": "Zayd ibn Thabit (RA)",
+      "b": "Ubayy ibn Ka'b",
+      "c": "Ali ibn Abi Talib",
+      "d": "Abdullah ibn Mas'ud"
+    },
+    "answer": "a",
+    "explanation": "Following the martyrdom of many Hafizun at the Battle of Yamamah, Abu Bakr commissioned Zayd ibn Thabit to gather the Qur'anic manuscripts into one master codex."
+  },
+  {
+    "question": "Which Rightly Guided Caliph ordered the production of standard copies of the Qur'anic text (Mushaf) to prevent dialectical discrepancies across Islamic provinces?",
+    "options": {
+      "a": "Abu Bakr al-Siddiq",
+      "b": "Uthman ibn Affan (RA)",
+      "c": "Umar ibn al-Khattab",
+      "d": "Ali ibn Abi Talib"
+    },
+    "answer": "b",
+    "explanation": "Khalifah Uthman ibn Affan standardized the Qur'an in the Qurayshi dialect and distributed authorized copies to major cities, unifying Muslim recitation."
+  },
+  {
+    "question": "According to authentic prophetic traditions, reciting Surah al-Ikhlas (Chapter 112) is equal to what fraction of the entire Qur'an in reward and theological significance?",
+    "options": {
+      "a": "One-half",
+      "b": "One-fourth",
+      "c": "One-third",
+      "d": "One-tenth"
+    },
+    "answer": "c",
+    "explanation": "The Prophet (SAW) stated that Surah al-Ikhlas equals one-third of the Qur'an because it succinctly encapsulates the complete essence of Tawhid (divine monotheism)."
+  },
+  {
+    "question": "Which verse in Surah al-Baqarah (2:255) is acclaimed as the greatest verse in the Holy Qur'an, describing Allah's eternal life and supreme dominion?",
+    "options": {
+      "a": "Ayat al-Dayn (The Verse of Debt)",
+      "b": "Ayat al-Birr (The Verse of Piety)",
+      "c": "Ayat al-Nur (The Verse of Light)",
+      "d": "Ayat al-Kursi (The Verse of the Throne)"
+    },
+    "answer": "d",
+    "explanation": "Ayat al-Kursi (2:255) affirms Allah's absolute oneness, eternal sovereignty, all-encompassing knowledge, and supreme authority over heavens and earth."
+  },
+  {
+    "question": "In the sciences of the Holy Qur'an (Ulum al-Qur'an), the branch known as *Asbab al-Nuzul* deals with ______",
+    "options": {
+      "a": "The historical occasions and contextual circumstances surrounding the revelation of specific verses",
+      "b": "The phonetic rules of Tajwid recitation",
+      "c": "The grammatical syntax of classical Arabic vocabulary",
+      "d": "The mathematical calculation of inheritance shares"
+    },
+    "answer": "a",
+    "explanation": "*Asbab al-Nuzul* investigates the historical events, questions, or incidents that prompted the revelation of particular verses."
+  },
+  {
+    "question": "Surah al-Fatihah is known as *Umm al-Kitab* (The Mother of the Book) and *Sab'ul-Mathani* because ______",
+    "options": {
+      "a": "It was the very last chapter revealed in Madinah",
+      "b": "Its seven verses contain the core themes of the Qur'an and are recited in every unit (Rak'ah) of obligatory prayer",
+      "c": "It is the longest chapter in the Qur'an",
+      "d": "It lists the names of all twenty-five prophets"
+    },
+    "answer": "b",
+    "explanation": "Surah al-Fatihah comprises seven oft-repeated verses (*as-Sab' al-Mathani*) whose recitation is an indispensable prerequisite for valid Salat."
+  },
+  {
+    "question": "In Hadith terminology, the unbroken chain of narrators through whom a tradition is transmitted back to the Prophet is called the ______",
+    "options": {
+      "a": "Matn",
+      "b": "Takhrij",
+      "c": "Sanad (Isnad)",
+      "d": "Fiqh"
+    },
+    "answer": "c",
+    "explanation": "The Sanad (or Isnad) is the chronological chain of authorities who reported the prophetic tradition."
+  },
+  {
+    "question": "The actual narrative content, spoken words, or described action of the Prophet in a Hadith is termed the ______",
+    "options": {
+      "a": "Sanad",
+      "b": "Athar",
+      "c": "Rawi",
+      "d": "Matn"
+    },
+    "answer": "d",
+    "explanation": "The Matn is the substantive text or body of the prophetic statement or practice."
+  },
+  {
+    "question": "A Hadith that possesses an unbroken chain of upright, memory-sound narrators and is free from any hidden defect or anomaly is graded as ______",
+    "options": {
+      "a": "Sahih (Authentic)",
+      "b": "Hasan (Good)",
+      "c": "Da'if (Weak)",
+      "d": "Mawdu' (Fabricated)"
+    },
+    "answer": "a",
+    "explanation": "A Hadith Sahih meets all rigorous criteria of authenticity: continuous Isnad, reliable and retentive transmitters, and freedom from defects ('Illah) or irregularities (Shadh)."
+  },
+  {
+    "question": "Which renowned scholar compiled the most authoritative and revered collection of authentic Hadith, titled *al-Jami' al-Sahih*?",
+    "options": {
+      "a": "Imam Malik ibn Anas",
+      "b": "Imam Muhammad ibn Isma'il al-Bukhari",
+      "c": "Imam Muslim ibn al-Hajjaj",
+      "d": "Imam Ahmad ibn Hanbal"
+    },
+    "answer": "b",
+    "explanation": "Imam al-Bukhari (194–256 AH) compiled *Sahih al-Bukhari*, universally acclaimed as the most authentic book after the Holy Qur'an."
+  },
+  {
+    "question": "The six canonical Sunni Hadith compilations (Bukhari, Muslim, Abu Dawud, al-Tirmidhi, al-Nasa'i, and Ibn Majah) are collectively referred to as the ______",
+    "options": {
+      "a": "Sunan Arba'ah",
+      "b": "Masanid Khamsah",
+      "c": "Sihah Sittah (al-Kutub al-Sittah)",
+      "d": "Riyad al-Salihin"
+    },
+    "answer": "c",
+    "explanation": "The Sihah Sittah (The Authentic Six) are the premier collections of prophetic traditions recognized in Sunni Islamic scholarship."
+  },
+  {
+    "question": "According to the famous first Hadith in Imam an-Nawawi's Forty Hadith collection (*Innamal a'malu bin-niyyat*), human deeds are judged solely by ______",
+    "options": {
+      "a": "Their physical outcome",
+      "b": "The financial cost incurred",
+      "c": "The social status of the performer",
+      "d": "Their intentions (Niyyah)"
+    },
+    "answer": "d",
+    "explanation": "The Hadith narrated by Umar ibn al-Khattab establishes that: 'Actions are judged by intentions, and every person will get the reward according to what he intended.'"
+  },
+  {
+    "question": "In the famous 'Hadith Jibril' (Hadith 2 of an-Nawawi), Angel Jibril questioned the Prophet (SAW) regarding Islam, Iman, and ______",
+    "options": {
+      "a": "Ihsan",
+      "b": "Jihad",
+      "c": "Khilafah",
+      "d": "Zakat"
+    },
+    "answer": "a",
+    "explanation": "The Hadith of Jibril delineates the three progressive dimensions of religion: Islam (outward practice), Iman (inward faith), and Ihsan (spiritual excellence)."
+  },
+  {
+    "question": "How did Prophet Muhammad (SAW) define *Ihsan* in the Hadith of Jibril?",
+    "options": {
+      "a": "To pray fifty times a day without sleeping",
+      "b": "To worship Allah as though you see Him, for even if you do not see Him, He sees you",
+      "c": "To donate all your wealth to the poor and needy",
+      "d": "To recite the entire Qur'an in a single night"
+    },
+    "answer": "b",
+    "explanation": "Ihsan is cultivating acute consciousness of Allah's omnipresence: 'To worship Allah as if you see Him, and if you cannot see Him, surely He sees you.'"
+  },
+  {
+    "question": "A tradition wherein the Prophet quotes Allah speaking in the first person, but whose wording is not part of the recited Holy Qur'an, is classified as ______",
+    "options": {
+      "a": "Hadith Nabawi",
+      "b": "Hadith Marfu'",
+      "c": "Hadith Qudsi",
+      "d": "Hadith Mawquf"
+    },
+    "answer": "c",
+    "explanation": "A Hadith Qudsi (Sacred Hadith) contains divine speech transmitted through the Prophet's phrasing, distinct from the literal word-for-word revelation of the Qur'an."
+  },
+  {
+    "question": "A spurious narration falsely invented and deceptively attributed to Prophet Muhammad (SAW) is classified by Hadith scholars as ______",
+    "options": {
+      "a": "Hadith Da'if",
+      "b": "Hadith Mursal",
+      "c": "Hadith Mu'allaq",
+      "d": "Hadith Mawdu'"
+    },
+    "answer": "d",
+    "explanation": "A Hadith Mawdu' is a fabricated forgery rejected completely by scholars, and narrating it knowing it is fabricated without pointing it out is forbidden."
+  },
+  {
+    "question": "The branch of Islamic monotheism affirming that Allah alone is the Creator, Sustainer, Sovereign, and Provider of all creation is ______",
+    "options": {
+      "a": "Tawhid al-Rububiyyah",
+      "b": "Tawhid al-Uluhiyyah",
+      "c": "Tawhid al-Asma' was-Sifat",
+      "d": "Shirk al-Khafi"
+    },
+    "answer": "a",
+    "explanation": "Tawhid al-Rububiyyah is the recognition of Allah's exclusive Lordship in creation, ownership, and maintenance of the universe."
+  },
+  {
+    "question": "Which archangel is divinely appointed to blow the Trumpet (as-Sur) to inaugurate the Day of Resurrection and Reckoning?",
+    "options": {
+      "a": "Jibril",
+      "b": "Israfil",
+      "c": "Mika'il",
+      "d": "Malik"
+    },
+    "answer": "b",
+    "explanation": "Angel Israfil is tasked with sounding the Trumpet twice: first to bring death to all creation, and second to resurrect creation for Judgment."
+  },
+  {
+    "question": "According to Islamic scripture, which divine holy book was revealed to Prophet Dawud (David, AS)?",
+    "options": {
+      "a": "Tawrat (Torah)",
+      "b": "Injil (Gospel)",
+      "c": "Zabur (Psalms)",
+      "d": "Suhuf (Scrolls of Ibrahim)"
+    },
+    "answer": "c",
+    "explanation": "The Holy Qur'an explicitly states: 'And to Dawud We gave the Zabur (Psalms)' (Surah an-Nisa 4:163)."
+  },
+  {
+    "question": "The standard ritual ablution performed with water to cleanse oneself from minor ritual impurities before Salat is known as ______",
+    "options": {
+      "a": "Ghusl",
+      "b": "Tayammum",
+      "c": "Istinja",
+      "d": "Wudu"
+    },
+    "answer": "d",
+    "explanation": "Wudu is the ritual ablution involving washing the hands, mouth, nostrils, face, arms up to the elbows, wiping the head, and washing the feet."
+  },
+  {
+    "question": "When clean water is unavailable or its use would aggravate a serious medical illness, what dry ritual purification is permitted using clean earth or dust?",
+    "options": {
+      "a": "Tayammum",
+      "b": "Istihsan",
+      "c": "Ghusl",
+      "d": "Taharah"
+    },
+    "answer": "a",
+    "explanation": "Tayammum is dry purification using clean earth or sand, wiping the face and hands, sanctioned when water is lacking or dangerous to use."
+  },
+  {
+    "question": "How many obligatory daily prayers (Salat) are enjoined upon every sane adult Muslim?",
+    "options": {
+      "a": "Three",
+      "b": "Five",
+      "c": "Seven",
+      "d": "Twelve"
+    },
+    "answer": "b",
+    "explanation": "The five prescribed daily prayers are Fajr (dawn), Dhuhr (noon), Asr (afternoon), Maghrib (sunset), and Isha (night)."
+  },
+  {
+    "question": "The two prostrations performed at the conclusion of prayer to compensate for an inadvertent omission, addition, or doubt during Salat are called ______",
+    "options": {
+      "a": "Sujud al-Shukr",
+      "b": "Sujud al-Tilawah",
+      "c": "Sujud al-Sahw",
+      "d": "Ruku'"
+    },
+    "answer": "c",
+    "explanation": "Sujud al-Sahw (prostrations of forgetfulness) are performed before or after Taslim to rectify accidental mistakes during prayer."
+  },
+  {
+    "question": "The minimum quantitative threshold of wealth that makes a Muslim legally liable to pay Zakat is termed the ______",
+    "options": {
+      "a": "Sadaqah",
+      "b": "Hawl",
+      "c": "Fitrah",
+      "d": "Nisab"
+    },
+    "answer": "d",
+    "explanation": "Nisab is the minimum threshold of surplus wealth (equivalent to 85g of pure gold or 595g of silver) that obligates payment of Zakat."
+  },
+  {
+    "question": "What is the standard annual rate of Zakat payable on qualifying cash savings, commercial inventory, gold, and silver held for one full lunar year (Hawl)?",
+    "options": {
+      "a": "2.5% (one-fortieth)",
+      "b": "5%",
+      "c": "10%",
+      "d": "20% (one-fifth)"
+    },
+    "answer": "a",
+    "explanation": "The standard rate of Zakat on liquid funds, gold, silver, and business inventory held for a full lunar year (Hawl) is 2.5% (or 1/40th)."
+  },
+  {
+    "question": "During the sacred month of Ramadan, fasting (Sawm) requires complete abstinence from food, drink, and conjugal relations from ______",
+    "options": {
+      "a": "Sunrise until sunset",
+      "b": "True dawn (al-Fajr as-Sadiq) until sunset (al-Maghrib)",
+      "c": "Midnight until noon",
+      "d": "Fajr prayer until Isha prayer"
+    },
+    "answer": "b",
+    "explanation": "Islamic fasting commences at true dawn (*al-Fajr as-Sadiq*) and terminates promptly upon sunset (*al-Maghrib*)."
+  },
+  {
+    "question": "The blessed night during the last ten odd nights of Ramadan, described in the Qur'an as 'better than a thousand months', is ______",
+    "options": {
+      "a": "Laylat al-Bara'ah",
+      "b": "Laylat al-Mi'raj",
+      "c": "Laylat al-Qadr (The Night of Decree)",
+      "d": "Yawm al-Arafah"
+    },
+    "answer": "c",
+    "explanation": "Surah al-Qadr (Chapter 97) extols Laylat al-Qadr as superior to a thousand months of worship, marking the initial descent of the Holy Qur'an."
+  },
+  {
+    "question": "Which supreme pillar of the Hajj pilgrimage, performed on the 9th day of Dhul-Hijjah on the plains outside Makkah, is so essential that without it Hajj is completely invalid?",
+    "options": {
+      "a": "Tawaf al-Qudum",
+      "b": "Sa'y between Safa and Marwah",
+      "c": "Ramy al-Jamarat at Mina",
+      "d": "Wuquf (Standing) at Arafat"
+    },
+    "answer": "d",
+    "explanation": "The Prophet (SAW) declared: 'Al-Hajju Arafah' (Hajj is Arafat). Missing the standing at Arafat on the 9th of Dhul-Hijjah renders the Hajj void."
+  },
+  {
+    "question": "In the Year of the Elephant (c. 570 CE), which Christian Abyssinian viceroy in Yemen marched with war elephants intending to destroy the Ka'bah?",
+    "options": {
+      "a": "Abrahah al-Ashram",
+      "b": "Heraclius",
+      "c": "Chosroes II",
+      "d": "Negus Ashama"
+    },
+    "answer": "a",
+    "explanation": "Abrahah led an army with elephants against Makkah to demolish the Ka'bah, but his forces were destroyed by flocks of birds (*Ababil*) as recounted in Surah al-Fil."
+  },
+  {
+    "question": "At the age of twenty-five, Prophet Muhammad (SAW) married a noble, virtuous, and prosperous merchant of Makkah named ______",
+    "options": {
+      "a": "A'ishah bint Abi Bakr",
+      "b": "Khadijah bint Khuwaylid (RA)",
+      "c": "Hafsah bint Umar",
+      "d": "Sawdah bint Zam'ah"
+    },
+    "answer": "b",
+    "explanation": "Khadijah bint Khuwaylid hired Muhammad (SAW) to manage her trade caravan to Syria, was impressed by his honesty (*al-Amin*), and proposed marriage."
+  },
+  {
+    "question": "Who was the first adult, free male to accept the message of Islam immediately without hesitation when the Prophet proclaimed his mission?",
+    "options": {
+      "a": "Umar ibn al-Khattab",
+      "b": "Uthman ibn Affan",
+      "c": "Abu Bakr al-Siddiq (RA)",
+      "d": "Hamzah ibn Abd al-Muttalib"
+    },
+    "answer": "c",
+    "explanation": "Abu Bakr was the Prophet's closest friend and became the first adult free male to accept Islam without doubt."
+  },
+  {
+    "question": "The miraculous nocturnal journey of Prophet Muhammad (SAW) from Makkah to Jerusalem and his subsequent ascension through the seven heavens is called ______",
+    "options": {
+      "a": "The Hijrah",
+      "b": "The Fath",
+      "c": "The Bai'ah",
+      "d": "Al-Isra' wal-Mi'raj"
+    },
+    "answer": "d",
+    "explanation": "Al-Isra' refers to the night journey to al-Masjid al-Aqsa in Jerusalem, and al-Mi'raj refers to the ascension to the divine presence where 5 daily prayers were prescribed."
+  },
+  {
+    "question": "The historic migration of Prophet Muhammad (SAW) and the persecuted Muslims from Makkah to Yathrib in 622 CE is called the ______",
+    "options": {
+      "a": "Hijrah",
+      "b": "Umrah",
+      "c": "Tabuk",
+      "d": "Hudaibiyyah"
+    },
+    "answer": "a",
+    "explanation": "The Hijrah to Yathrib (renamed al-Madinah) in 622 CE marked the establishment of the first Islamic commonwealth and begins the Islamic calendar."
+  },
+  {
+    "question": "In which first major armed confrontation between Muslims and the Quraysh pagan army (17 Ramadan, 2 AH) did 313 Muslims win a stunning victory?",
+    "options": {
+      "a": "Battle of Uhud",
+      "b": "Battle of Badr",
+      "c": "Battle of the Trench (Khandaq)",
+      "d": "Battle of Hunayn"
+    },
+    "answer": "b",
+    "explanation": "At the Battle of Badr (624 CE / 2 AH), 313 poorly equipped Muslims routed a Makkan force of 1,000, killing key pagan leaders like Abu Jahl."
+  },
+  {
+    "question": "At the Battle of Uhud (3 AH), why did the Muslims lose their initial military advantage against the Quraysh cavalry led by Khalid ibn al-Walid?",
+    "options": {
+      "a": "The Prophet was taken captive",
+      "b": "Heavy rain flooded the battlefield",
+      "c": "The Muslim archers positioned on Mount Rumah deserted their station to collect war spoils",
+      "d": "The Madinan allies refused to participate in the battle"
+    },
+    "answer": "c",
+    "explanation": "Forty of the fifty archers disobeying direct orders abandoned Mount Rumah when they saw the enemy fleeing, exposing the Muslim flank to a cavalry counter-attack."
+  },
+  {
+    "question": "The ten-year peace pact concluded in 6 AH (628 CE) between the Prophet and the Quraysh delegation led by Suhayl ibn Amr is the ______",
+    "options": {
+      "a": "Constitution of Madinah",
+      "b": "Covenant of Najran",
+      "c": "Pledge of the Tree (Bay'at al-Ridwan)",
+      "d": "Treaty of al-Hudaybiyyah"
+    },
+    "answer": "d",
+    "explanation": "The Treaty of al-Hudaybiyyah halted hostilities for ten years, allowing peaceful propagation of Islam which the Qur'an designated *Fathan Mubina*."
+  },
+  {
+    "question": "In what year of the Hijrah did the peaceful Conquest of Makkah (*Fath Makkah*) occur, resulting in general amnesty and the cleansing of idols from the Ka'bah?",
+    "options": {
+      "a": "8 AH (630 CE)",
+      "b": "6 AH",
+      "c": "10 AH",
+      "d": "11 AH"
+    },
+    "answer": "a",
+    "explanation": "In Ramadan 8 AH (630 CE), the Prophet entered Makkah with 10,000 companions, granted general amnesty to his former persecutors, and purified the Ka'bah of 360 idols."
+  },
+  {
+    "question": "Following the passing of Prophet Muhammad (SAW) in 11 AH (632 CE), who was chosen as the first Rightly Guided Caliph (Khalifah)?",
+    "options": {
+      "a": "Umar ibn al-Khattab",
+      "b": "Abu Bakr al-Siddiq (RA)",
+      "c": "Uthman ibn Affan",
+      "d": "Ali ibn Abi Talib"
+    },
+    "answer": "b",
+    "explanation": "The Sahabah pledged allegiance to Abu Bakr al-Siddiq at Saqifah Bani Sa'idah, making him the first successor (Khalifah) to lead the Muslim Ummah."
+  },
+  {
+    "question": "The two primary, immutable, and supreme sources of Islamic Law (Shari'ah) are the Holy Qur'an and the ______",
+    "options": {
+      "a": "Qiyas",
+      "b": "Ijma'",
+      "c": "Sunnah (Prophetic Tradition)",
+      "d": "Urf (Custom)"
+    },
+    "answer": "c",
+    "explanation": "The Holy Qur'an (divine revelation) and the authentic Sunnah (prophetic precepts and practices) form the two primary sources of Shari'ah."
+  },
+  {
+    "question": "In Islamic jurisprudence (*Usul al-Fiqh*), the unanimous consensus of qualified Muslim scholars of an era on a legal ruling after the Prophet's death is ______",
+    "options": {
+      "a": "Qiyas",
+      "b": "Maslahah Mursalah",
+      "c": "Ijtihad",
+      "d": "Ijma'"
+    },
+    "answer": "d",
+    "explanation": "Ijma' represents the unanimous agreement of recognized jurists (Mujtahidun) of a particular generation on a legal issue, forming the third source of Islamic law."
+  },
+  {
+    "question": "The method of analogical deduction by which a legal ruling for a new case is derived based on a known case sharing the same effective cause (*'Illah*) is ______",
+    "options": {
+      "a": "Qiyas",
+      "b": "Ijma'",
+      "c": "Istihsan",
+      "d": "Fatwa"
+    },
+    "answer": "a",
+    "explanation": "Qiyas involves extending an established Shari'ah ruling to a new situation due to an identical underlying cause (e.g., prohibiting cocaine by analogy to wine)."
+  },
+  {
+    "question": "Which founder of the Maliki school of jurisprudence, predominant throughout West Africa and Nigeria, authored the famous legal Hadith compendium *al-Muwatta*?",
+    "options": {
+      "a": "Imam Abu Hanifah",
+      "b": "Imam Malik ibn Anas",
+      "c": "Imam Muhammad al-Shafi'i",
+      "d": "Imam Ahmad ibn Hanbal"
+    },
+    "answer": "b",
+    "explanation": "Imam Malik ibn Anas (93–179 AH), known as the Imam of Madinah, compiled *al-Muwatta'* and established the Maliki Madhhab widely practiced across Nigeria."
+  },
+  {
+    "question": "In the classification of Islamic legal values (*al-Ahkam al-Khamsah*), an action that is strictly forbidden by divine law and whose commission incurs sin and punishment is ______",
+    "options": {
+      "a": "Makruh (Disliked)",
+      "b": "Mubah (Permissible)",
+      "c": "Haram (Forbidden)",
+      "d": "Mandub (Recommended)"
+    },
+    "answer": "c",
+    "explanation": "Haram is an act explicitly and decisively forbidden by divine injunction; committing it incurs punishment, while abstaining from it out of obedience earns reward."
+  },
+  {
+    "question": "The mandatory marital gift or dowry given by the bridegroom directly to the bride as her sole, exclusive property in an Islamic marriage is the ______",
+    "options": {
+      "a": "Wali",
+      "b": "Khul'",
+      "c": "Walimah",
+      "d": "Mahr (Sadaq)"
+    },
+    "answer": "d",
+    "explanation": "Mahr is the obligatory gift pledged by the husband to his wife upon marriage, belonging entirely to her without claim from her parents or groom."
+  },
+  {
+    "question": "The mandatory waiting period observed by a divorced woman or widow before she is legally permitted to remarry is known in Islamic jurisprudence as the ______",
+    "options": {
+      "a": "Iddah",
+      "b": "Li'an",
+      "c": "Talaq",
+      "d": "Hadhanah"
+    },
+    "answer": "a",
+    "explanation": "Iddah is the waiting period (e.g., three menstrual cycles for divorce, or 4 months and 10 days for widowhood) to ascertain non-pregnancy and protect paternity."
+  },
+  {
+    "question": "In Islamic commercial transactions and banking law, any unjustified contractual increase, usury, or interest charged on borrowed money is prohibited as ______",
+    "options": {
+      "a": "Gharar",
+      "b": "Riba",
+      "c": "Mudarabah",
+      "d": "Murabahah"
+    },
+    "answer": "b",
+    "explanation": "Riba (usury/interest) is strictly prohibited in the Holy Qur'an and Sunnah because it exploits debtors and generates unearned profit without equitable risk-sharing."
+  }
+]

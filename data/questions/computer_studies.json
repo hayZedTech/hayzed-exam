@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which component of the Central Processing Unit (CPU) is responsible for coordinating and directing all operations of the computer system?",
+    "options": {
+      "a": "Arithmetic Logic Unit (ALU)",
+      "b": "Memory Data Register (MDR)",
+      "c": "Control Unit (CU)",
+      "d": "Program Counter (PC)"
+    },
+    "answer": "c",
+    "explanation": "The Control Unit (CU) directs the flow of data between the CPU and other devices, decoding instructions and controlling the timing of operations."
+  },
+  {
+    "question": "The fast, small-capacity memory located inside or close to the processor to reduce the average time to access data from the main memory is known as ______",
+    "options": {
+      "a": "Virtual memory",
+      "b": "Flash memory",
+      "c": "Secondary storage",
+      "d": "Cache memory"
+    },
+    "answer": "d",
+    "explanation": "Cache memory is an extremely fast SRAM memory buffer placed between the CPU and RAM to store frequently accessed instructions and data."
+  },
+  {
+    "question": "Which of the following computer ports transmits uncompressed high-definition digital video and multi-channel audio through a single cable?",
+    "options": {
+      "a": "VGA",
+      "b": "HDMI",
+      "c": "DVI",
+      "d": "RS-232"
+    },
+    "answer": "b",
+    "explanation": "HDMI (High-Definition Multimedia Interface) transmits both uncompressed high-definition video and multi-channel digital audio over a single cable."
+  },
+  {
+    "question": "The basic input/output system (BIOS) firmware is permanently stored in which of the following computer components?",
+    "options": {
+      "a": "Random Access Memory (RAM)",
+      "b": "Solid State Drive (SSD)",
+      "c": "Hard Disk Drive (HDD)",
+      "d": "Read Only Memory (ROM)"
+    },
+    "answer": "d",
+    "explanation": "BIOS is non-volatile firmware stored in ROM (or flash ROM chip) on the motherboard, allowing the system to boot before the OS is loaded."
+  },
+  {
+    "question": "An optical character recognition (OCR) device is categorized as a/an ______",
+    "options": {
+      "a": "Direct data entry input device",
+      "b": "Output device",
+      "c": "Storage medium",
+      "d": "Processing unit"
+    },
+    "answer": "a",
+    "explanation": "OCR is a direct data entry input technology that converts typed, handwritten, or printed text into machine-encoded text."
+  },
+  {
+    "question": "In computer architecture, the width of the data bus directly determines ______",
+    "options": {
+      "a": "The amount of data that can be transferred between the CPU and memory at one time",
+      "b": "The maximum number of memory locations the CPU can address",
+      "c": "The clock speed of the processor",
+      "d": "The power consumption of the motherboard"
+    },
+    "answer": "a",
+    "explanation": "The data bus width (e.g., 32-bit, 64-bit) determines how many bits can be transferred simultaneously between the CPU, memory, and peripheral devices."
+  },
+  {
+    "question": "Which of the following magnetic storage media uses concentric tracks and sectors to organize stored information on spinning platters?",
+    "options": {
+      "a": "Solid State Drive",
+      "b": "Compact Disc",
+      "c": "Hard Disk Drive",
+      "d": "Magnetic Tape"
+    },
+    "answer": "c",
+    "explanation": "Hard Disk Drives (HDDs) store data magnetically on circular spinning platters divided into concentric tracks and sectors."
+  },
+  {
+    "question": "Which register in the CPU stores the memory address of the next instruction to be fetched and executed?",
+    "options": {
+      "a": "Accumulator (ACC)",
+      "b": "Program Counter (PC)",
+      "c": "Memory Buffer Register (MBR)",
+      "d": "Instruction Register (IR)"
+    },
+    "answer": "b",
+    "explanation": "The Program Counter (PC) holds the address of the next instruction waiting to be fetched from memory during the instruction cycle."
+  },
+  {
+    "question": "Which language translator converts an entire high-level source code program into machine language object code in one single operation before execution?",
+    "options": {
+      "a": "Compiler",
+      "b": "Interpreter",
+      "c": "Assembler",
+      "d": "Linker"
+    },
+    "answer": "a",
+    "explanation": "A compiler scans and translates the entire source code into an executable object file before program execution begins."
+  },
+  {
+    "question": "Software that manages computer hardware resources and provides common services for application programs is classified as ______",
+    "options": {
+      "a": "System software",
+      "b": "Application software",
+      "c": "Utility software",
+      "d": "Open-source software"
+    },
+    "answer": "a",
+    "explanation": "System software, primarily the Operating System, controls hardware operation and acts as an intermediary between users and hardware."
+  },
+  {
+    "question": "Which utility program rearranges fragmented files on a mechanical hard drive into contiguous sectors to improve access speed?",
+    "options": {
+      "a": "Disk Defragmenter",
+      "b": "Disk Cleanup",
+      "c": "Antivirus",
+      "d": "System Restore"
+    },
+    "answer": "a",
+    "explanation": "Disk Defragmenter consolidates fragmented files and folders on a storage drive so that each occupies a single, contiguous space."
+  },
+  {
+    "question": "An operating system capability that allows two or more processors (CPUs) within a single computer system to execute instructions simultaneously is termed ______",
+    "options": {
+      "a": "Multitasking",
+      "b": "Multiprocessing",
+      "c": "Multithreading",
+      "d": "Multi-user"
+    },
+    "answer": "b",
+    "explanation": "Multiprocessing refers to the simultaneous execution of instructions by two or more central processing units in a single computer."
+  },
+  {
+    "question": "Which type of software license allows users to access, inspect, modify, and distribute the underlying source code freely?",
+    "options": {
+      "a": "Proprietary software",
+      "b": "Shareware",
+      "c": "Open-source software",
+      "d": "Freeware"
+    },
+    "answer": "c",
+    "explanation": "Open-source software (e.g., Linux, Apache) makes its source code available to anyone to view, modify, and redistribute."
+  },
+  {
+    "question": "A translator that converts low-level assembly mnemonic language into machine code is called a/an ______",
+    "options": {
+      "a": "Compiler",
+      "b": "Debugger",
+      "c": "Interpreter",
+      "d": "Assembler"
+    },
+    "answer": "d",
+    "explanation": "An assembler is a specialized translator that translates mnemonic assembly code into binary machine code."
+  },
+  {
+    "question": "In operating systems, a condition where two or more processes are unable to proceed because each is waiting for the other to release a shared resource is called ______",
+    "options": {
+      "a": "Starvation",
+      "b": "Deadlock",
+      "c": "Thrashing",
+      "d": "Spooling"
+    },
+    "answer": "b",
+    "explanation": "Deadlock is a state in which two or more processes are blocked perpetually because each holds a resource that the other requires."
+  },
+  {
+    "question": "In which network topology is every node connected to a central connecting device, such as a switch or hub?",
+    "options": {
+      "a": "Ring topology",
+      "b": "Bus topology",
+      "c": "Mesh topology",
+      "d": "Star topology"
+    },
+    "answer": "d",
+    "explanation": "In a star topology, each computer or node is linked directly to a central networking device (switch or hub) via dedicated cabling."
+  },
+  {
+    "question": "Which layer of the OSI (Open Systems Interconnection) reference model handles logical IP addressing and path routing of packets?",
+    "options": {
+      "a": "Data Link Layer",
+      "b": "Session Layer",
+      "c": "Transport Layer",
+      "d": "Network Layer"
+    },
+    "answer": "d",
+    "explanation": "The Network Layer (Layer 3) handles logical network addressing (IP addresses) and routes packets across diverse networks."
+  },
+  {
+    "question": "What standard networking protocol is used for securely transmitting encrypted web pages between a client browser and a web server?",
+    "options": {
+      "a": "HTTP",
+      "b": "FTP",
+      "c": "HTTPS",
+      "d": "SMTP"
+    },
+    "answer": "c",
+    "explanation": "HTTPS (Hypertext Transfer Protocol Secure) encrypts communications using TLS/SSL to provide secure communication over a network."
+  },
+  {
+    "question": "An IPv4 address consists of how many total bits?",
+    "options": {
+      "a": "16 bits",
+      "b": "32 bits",
+      "c": "64 bits",
+      "d": "128 bits"
+    },
+    "answer": "b",
+    "explanation": "An IPv4 address consists of 32 bits, typically represented as four 8-bit octets separated by dots (e.g., 192.168.1.1)."
+  },
+  {
+    "question": "Which networking device operates at the Physical layer (Layer 1) to amplify and regenerate incoming electrical or optical signals over long distances?",
+    "options": {
+      "a": "Bridge",
+      "b": "Router",
+      "c": "Repeater",
+      "d": "Gateway"
+    },
+    "answer": "c",
+    "explanation": "A repeater regenerates and amplifies digital signals that have attenuated due to travelling long distances over communication channels."
+  },
+  {
+    "question": "Which communication media transmits data signals as pulses of light through thin strands of glass or plastic fibres?",
+    "options": {
+      "a": "Shielded Twisted Pair",
+      "b": "Coaxial cable",
+      "c": "Unshielded Twisted Pair",
+      "d": "Fiber-optic cable"
+    },
+    "answer": "d",
+    "explanation": "Fiber-optic cables transmit digital data signals as light pulses, offering extremely high bandwidth and immunity to electromagnetic interference."
+  },
+  {
+    "question": "Which protocol is responsible for resolving a domain name (such as www.waecdirect.org) into its corresponding numerical IP address?",
+    "options": {
+      "a": "DHCP",
+      "b": "DNS",
+      "c": "SNMP",
+      "d": "ARP"
+    },
+    "answer": "b",
+    "explanation": "DNS (Domain Name System) translates human-readable hostnames into computer-readable IP addresses."
+  },
+  {
+    "question": "A network that connects devices within a limited geographical area, such as a school computer laboratory or an office building, is a ______",
+    "options": {
+      "a": "LAN",
+      "b": "MAN",
+      "c": "WAN",
+      "d": "PAN"
+    },
+    "answer": "a",
+    "explanation": "A Local Area Network (LAN) spans a relatively small geographical area such as a single room, building, or school campus."
+  },
+  {
+    "question": "Convert the decimal number 29 into its binary equivalent.",
+    "options": {
+      "a": "10111_2",
+      "b": "11011_2",
+      "c": "11101_2",
+      "d": "11110_2"
+    },
+    "answer": "c",
+    "explanation": "29 in binary: 29 = 16 + 8 + 4 + 1 = 11101 in base 2."
+  },
+  {
+    "question": "What is the decimal equivalent of the binary number 10110_2?",
+    "options": {
+      "a": "22",
+      "b": "20",
+      "c": "18",
+      "d": "26"
+    },
+    "answer": "a",
+    "explanation": "10110_2 = (1*16) + (0*8) + (1*4) + (1*2) + (0*1) = 16 + 4 + 2 = 22."
+  },
+  {
+    "question": "What is the hexadecimal representation of the 8-bit binary number 11011010_2?",
+    "options": {
+      "a": "DB_16",
+      "b": "DA_16",
+      "c": "CB_16",
+      "d": "EA_16"
+    },
+    "answer": "b",
+    "explanation": "Grouping into 4-bit nibbles: 1101 = D (13), 1010 = A (10). Therefore, 11011010_2 = DA_16."
+  },
+  {
+    "question": "A group of 4 contiguous binary digits (bits) is technically termed a ______",
+    "options": {
+      "a": "Nibble",
+      "b": "Word",
+      "c": "Byte",
+      "d": "Octet"
+    },
+    "answer": "a",
+    "explanation": "A nibble (or nybble) is an aggregation of 4 bits (half of an 8-bit byte)."
+  },
+  {
+    "question": "What is the result of adding the two binary numbers 1011_2 and 0110_2?",
+    "options": {
+      "a": "10001_2",
+      "b": "10010_2",
+      "c": "10011_2",
+      "d": "10101_2"
+    },
+    "answer": "a",
+    "explanation": "1011_2 (11 in decimal) + 0110_2 (6 in decimal) = 17 in decimal, which is 10001_2."
+  },
+  {
+    "question": "What is the two's complement representation of -5 in an 8-bit signed binary format?",
+    "options": {
+      "a": "11111101",
+      "b": "11111010",
+      "c": "10000101",
+      "d": "11111011"
+    },
+    "answer": "d",
+    "explanation": "+5 in 8-bit binary is 00000101. One's complement is 11111010. Adding 1 gives 11111011."
+  },
+  {
+    "question": "In the hexadecimal numbering system, which letter represents the decimal value 14?",
+    "options": {
+      "a": "C",
+      "b": "D",
+      "c": "E",
+      "d": "F"
+    },
+    "answer": "c",
+    "explanation": "In hexadecimal: A=10, B=11, C=12, D=13, E=14, and F=15."
+  },
+  {
+    "question": "How many distinct values can be uniquely encoded using an 8-bit binary register?",
+    "options": {
+      "a": "128",
+      "b": "255",
+      "c": "256",
+      "d": "512"
+    },
+    "answer": "c",
+    "explanation": "An 8-bit register has 2^8 = 256 distinct possible permutations (0 through 255 in unsigned integer representation)."
+  },
+  {
+    "question": "In standard flowcharting, which geometric symbol is used to indicate a decision-making or branching operation?",
+    "options": {
+      "a": "Rectangle",
+      "b": "Parallelogram",
+      "c": "Oval",
+      "d": "Diamond (Rhombus)"
+    },
+    "answer": "d",
+    "explanation": "A diamond symbol indicates a decision point from which two or more alternative paths branch depending on a condition."
+  },
+  {
+    "question": "Which standard flowchart symbol represents an input or output operation?",
+    "options": {
+      "a": "Oval",
+      "b": "Rectangle",
+      "c": "Circle",
+      "d": "Parallelogram"
+    },
+    "answer": "d",
+    "explanation": "A parallelogram is universally used in flowcharts to denote input and output operations (e.g., READ A, PRINT X)."
+  },
+  {
+    "question": "Which logic gate produces an output of HIGH (1) only when all of its inputs are HIGH (1)?",
+    "options": {
+      "a": "OR gate",
+      "b": "AND gate",
+      "c": "XOR gate",
+      "d": "NOR gate"
+    },
+    "answer": "b",
+    "explanation": "The output of an AND gate is 1 (true) if and only if all of its inputs are 1 (true)."
+  },
+  {
+    "question": "A logic gate that outputs 1 when an odd number of inputs are 1, and 0 when inputs are identical, is a/an ______",
+    "options": {
+      "a": "Exclusive-OR (XOR) gate",
+      "b": "NAND gate",
+      "c": "NOR gate",
+      "d": "NOT gate"
+    },
+    "answer": "a",
+    "explanation": "An XOR (Exclusive-OR) gate outputs 1 only when its two inputs are different (one is 1, the other is 0)."
+  },
+  {
+    "question": "What is the Boolean output of the expression Y = NOT(A AND B) when input A = 1 and input B = 0?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "Undefined",
+      "d": "High Impedance"
+    },
+    "answer": "b",
+    "explanation": "A AND B = 1 AND 0 = 0. Therefore, NOT(0) = 1. This is the truth evaluation for a NAND operation."
+  },
+  {
+    "question": "A finite, well-defined, step-by-step sequence of instructions designed to solve a specific computational problem is called a/an ______",
+    "options": {
+      "a": "Pseudocode",
+      "b": "Syntax",
+      "c": "Flowchart",
+      "d": "Algorithm"
+    },
+    "answer": "d",
+    "explanation": "An algorithm is a finite sequence of unambiguous instructions for solving a specific mathematical or computational problem."
+  },
+  {
+    "question": "Which logic gate is universally referred to as an 'inverter'?",
+    "options": {
+      "a": "AND gate",
+      "b": "OR gate",
+      "c": "NOT gate",
+      "d": "BUFFER"
+    },
+    "answer": "c",
+    "explanation": "A NOT gate reverses the logic state of its single input; a 1 becomes 0, and a 0 becomes 1, so it is termed an inverter."
+  },
+  {
+    "question": "In a relational database, a column that uniquely identifies each record or tuple in a table is termed the ______",
+    "options": {
+      "a": "Primary key",
+      "b": "Composite key",
+      "c": "Foreign key",
+      "d": "Candidate key"
+    },
+    "answer": "a",
+    "explanation": "A primary key is an attribute or set of attributes in a relational database table that uniquely identifies each individual row."
+  },
+  {
+    "question": "In relational database terminology, a single row in a table representing a single data entity is formally called a ______",
+    "options": {
+      "a": "Field",
+      "b": "Attribute",
+      "c": "Tuple",
+      "d": "Domain"
+    },
+    "answer": "c",
+    "explanation": "In relational calculus and database design, a row of related values representing a single record is termed a tuple."
+  },
+  {
+    "question": "Which SQL statement is used to retrieve data from one or more tables in a relational database?",
+    "options": {
+      "a": "FETCH",
+      "b": "RETRIEVE",
+      "c": "SELECT",
+      "d": "QUERY"
+    },
+    "answer": "c",
+    "explanation": "The SELECT statement is standard SQL used to query and extract records from a database table."
+  },
+  {
+    "question": "A key in one table that refers to and matches the primary key of another table to establish a link between them is known as a ______",
+    "options": {
+      "a": "Secondary key",
+      "b": "Foreign key",
+      "c": "Super key",
+      "d": "Index key"
+    },
+    "answer": "b",
+    "explanation": "A foreign key is a field (or collection of fields) in one table that uniquely identifies a row of another table, enforcing referential integrity."
+  },
+  {
+    "question": "The process of organizing data attributes in a database to reduce data redundancy and improve data integrity is termed ______",
+    "options": {
+      "a": "Data indexing",
+      "b": "Normalization",
+      "c": "Denormalization",
+      "d": "Data mining"
+    },
+    "answer": "b",
+    "explanation": "Normalization is the systematic design technique of decomposing relational tables to eliminate redundant data and avoid anomalies."
+  },
+  {
+    "question": "Which database model represents data relationships using tree-like, parent-child hierarchical node structures?",
+    "options": {
+      "a": "Hierarchical model",
+      "b": "Network model",
+      "c": "Relational model",
+      "d": "Object-oriented model"
+    },
+    "answer": "a",
+    "explanation": "The hierarchical database model organizes data into a tree-like structure where each child record has only one parent record."
+  },
+  {
+    "question": "A self-replicating malicious program that spreads across computer networks without requiring human intervention or an executable host file is a ______",
+    "options": {
+      "a": "Trojan horse",
+      "b": "Computer worm",
+      "c": "Spyware",
+      "d": "Adware"
+    },
+    "answer": "b",
+    "explanation": "Unlike viruses which require a host program to infect, a computer worm is a standalone malicious software that replicates itself across networks automatically."
+  },
+  {
+    "question": "The fraudulent practice of sending deceptive emails or messages purporting to be from reputable organizations to induce individuals to reveal personal credentials is ______",
+    "options": {
+      "a": "Spamming",
+      "b": "Snooping",
+      "c": "Phishing",
+      "d": "Hacking"
+    },
+    "answer": "c",
+    "explanation": "Phishing is a social engineering attack where fraudsters masquerade as trusted entities to steal sensitive information such as passwords and credit card details."
+  },
+  {
+    "question": "The process of encoding plaintext into ciphertext so that only authorized parties with a decryption key can read it is known as ______",
+    "options": {
+      "a": "Compression",
+      "b": "Defragmentation",
+      "c": "Authentication",
+      "d": "Encryption"
+    },
+    "answer": "d",
+    "explanation": "Encryption converts readable data (plaintext) into an unreadable format (ciphertext) using cryptographic algorithms and keys."
+  },
+  {
+    "question": "A network security system designed to monitor and filter incoming and outgoing traffic based on predetermined security rules is called a/an ______",
+    "options": {
+      "a": "Firewall",
+      "b": "Antivirus",
+      "c": "Proxy server",
+      "d": "Intrusion monitor"
+    },
+    "answer": "a",
+    "explanation": "A firewall acts as a protective barrier between a private network and the public Internet, inspecting and filtering traffic."
+  },
+  {
+    "question": "The study and design of equipment and workspace environments to optimize human posture, comfort, and productivity while minimizing physical strain is ______",
+    "options": {
+      "a": "Cybernetics",
+      "b": "Ergonomics",
+      "c": "Anthropometry",
+      "d": "Bioinformatics"
+    },
+    "answer": "b",
+    "explanation": "Computer ergonomics focuses on arranging workspaces, seating, monitors, and input devices to reduce physical fatigue, eyestrain, and musculoskeletal injuries."
+  },
+  {
+    "question": "Under intellectual property law, the unauthorized copying, distribution, or commercial reproduction of copyrighted software is legally termed ______",
+    "options": {
+      "a": "Identity theft",
+      "b": "Cyberbullying",
+      "c": "Plagiarism",
+      "d": "Software piracy"
+    },
+    "answer": "d",
+    "explanation": "Software piracy refers to the illegal duplication, distribution, or use of commercially copyrighted software programs."
+  }
+]

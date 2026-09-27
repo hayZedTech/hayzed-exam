@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which of the following land tenure systems is characterized by communal ownership where land cannot be permanently alienated or sold by an individual?",
+    "options": {
+      "a": "Freehold system",
+      "b": "Communal land tenure",
+      "c": "Leasehold system",
+      "d": "Tenancy system"
+    },
+    "answer": "b",
+    "explanation": "In communal land tenure, land belongs to the entire community, clan, or village; individual members hold only usufructuary rights to cultivate the land and cannot sell or mortgage it."
+  },
+  {
+    "question": "A primary objective of the Nigerian Land Use Act of 1978 is to ______",
+    "options": {
+      "a": "Make land readily available to all Nigerians for productive development",
+      "b": "Abolish commercial agriculture across the country",
+      "c": "Transfer all agricultural land ownership to foreign multinationals",
+      "d": "Encourage land fragmentation among rural farmers"
+    },
+    "answer": "a",
+    "explanation": "The Land Use Act of 1978 vested all land in the state governor in trust for the people, aiming to curb land speculation, ease acquisition, and ensure equitable access to land for productive agricultural and economic development."
+  },
+  {
+    "question": "The primary implement used for breaking up compacted virgin soil, inverting the furrow slice, and burying weeds during primary tillage is the ______",
+    "options": {
+      "a": "Disc ridger",
+      "b": "Disc plough",
+      "c": "Spring-tine harrow",
+      "d": "Rotary cultivator"
+    },
+    "answer": "b",
+    "explanation": "The disc plough is designed for primary tillage in tropical soils containing hidden stones and roots, cutting through hard ground and inverting soil clods to bury vegetation."
+  },
+  {
+    "question": "Which of the following surveying instruments is used specifically for establishing straight lines and marking reference points along a farm boundary?",
+    "options": {
+      "a": "Ranging pole",
+      "b": "Gunter's chain",
+      "c": "Prismatic compass",
+      "d": "Abney level"
+    },
+    "answer": "a",
+    "explanation": "Ranging poles (ranging rods) are vertically positioned straight wooden or metal poles painted in contrasting bands (red and white) used to mark positions and sight straight lines during farm boundary surveys."
+  },
+  {
+    "question": "Rocks formed by the cooling and solidification of molten magma either beneath or on the Earth's surface are classified as ______",
+    "options": {
+      "a": "Sedimentary rocks",
+      "b": "Metamorphic rocks",
+      "c": "Igneous rocks",
+      "d": "Calcareous rocks"
+    },
+    "answer": "c",
+    "explanation": "Igneous rocks (such as granite, basalt, and pumice) originate directly from the cooling and crystallization of molten rock material (magma or lava)."
+  },
+  {
+    "question": "In a typical mature soil profile, the horizon richest in decomposed organic matter (humus) and microbial activity is the ______",
+    "options": {
+      "a": "A-horizon (Topsoil)",
+      "b": "B-horizon (Subsoil)",
+      "c": "C-horizon (Weathered parent material)",
+      "d": "R-horizon (Bedrock)"
+    },
+    "answer": "a",
+    "explanation": "The A-horizon (topsoil) lies directly beneath the organic surface layer and contains the highest accumulation of decomposed humus, beneficial microorganisms, and plant roots."
+  },
+  {
+    "question": "Which soil textural class has the highest cation exchange capacity (CEC), greatest plasticity, and poorest internal aeration?",
+    "options": {
+      "a": "Sandy soil",
+      "b": "Loamy soil",
+      "c": "Clay soil",
+      "d": "Silty loam"
+    },
+    "answer": "c",
+    "explanation": "Clay soils possess minute colloidal particles (<0.002 mm) with large surface areas and negative charges, yielding high water retention and cation exchange capacity, but poor aeration and drainage."
+  },
+  {
+    "question": "The fraction of soil water that remains held in micropores against the pull of gravity and is readily absorbable by plant roots is called ______",
+    "options": {
+      "a": "Gravitational water",
+      "b": "Capillary water",
+      "c": "Hygroscopic water",
+      "d": "Combined water"
+    },
+    "answer": "b",
+    "explanation": "Capillary water occupies soil micropores held by surface tension and capillary forces against gravity, representing the primary available water source for plant growth."
+  },
+  {
+    "question": "Which of the following compounds is commonly applied to agricultural soils to correct excessive soil acidity (low pH)?",
+    "options": {
+      "a": "Ammonium tetraoxosulfate(VI)",
+      "b": "Calcium trioxocarbonate(IV) (Agricultural lime)",
+      "c": "Potassium chloride",
+      "d": "Urea"
+    },
+    "answer": "b",
+    "explanation": "Agricultural lime (calcium carbonate, CaCO₃) neutralizes active soil hydrogen and aluminium ions, raising the soil pH and reducing toxic metal solubility."
+  },
+  {
+    "question": "A characteristic symptom of severe phosphorus deficiency in growing maize plants is ______",
+    "options": {
+      "a": "Marginal chlorosis of mature leaves",
+      "b": "Purple or reddish-purple pigmentation on older leaves and stems",
+      "c": "Stunted shoot apex with blossom-end rot",
+      "d": "Interveinal chlorosis on young expanding leaves"
+    },
+    "answer": "b",
+    "explanation": "Phosphorus deficiency inhibits normal sugar metabolism and promotes anthocyanin accumulation, causing characteristic purplish coloration on the leaves and stems of young maize."
+  },
+  {
+    "question": "Symbiotic nitrogen fixation in leguminous crop root nodules is carried out by bacteria of the genus ______",
+    "options": {
+      "a": "Azotobacter",
+      "b": "Clostridium",
+      "c": "Rhizobium",
+      "d": "Nitrosomonas"
+    },
+    "answer": "c",
+    "explanation": "Rhizobium bacteria establish a mutualistic symbiosis within the root nodules of legumes, converting atmospheric dinitrogen (N₂) into bioavailable ammonium compounds."
+  },
+  {
+    "question": "A complete chemical fertilizer labeled 15-15-15 contains equal proportions of which three primary plant macronutrients?",
+    "options": {
+      "a": "Nitrogen, Phosphorus (P₂O₅), and Potassium (K₂O)",
+      "b": "Nitrogen, Calcium, and Magnesium",
+      "c": "Nitrogen, Sulfur, and Zinc",
+      "d": "Phosphorus, Potassium, and Iron"
+    },
+    "answer": "a",
+    "explanation": "The grade numbers on an N-P-K fertilizer bag represent the percentages by weight of elemental Nitrogen (N), available Phosphate (P₂O₅), and soluble Potash (K₂O)."
+  },
+  {
+    "question": "The gradual and uniform removal of a thin layer of topsoil from the entire ground surface by running surface runoff is known as ______",
+    "options": {
+      "a": "Splash erosion",
+      "b": "Sheet erosion",
+      "c": "Rill erosion",
+      "d": "Gully erosion"
+    },
+    "answer": "b",
+    "explanation": "Sheet erosion involves the uniform removal of a thin film of topsoil by sheets of surface runoff flowing across gently sloping bare ground."
+  },
+  {
+    "question": "Which of the following irrigation techniques delivers water directly to the root zone drop by drop with maximum water-use efficiency?",
+    "options": {
+      "a": "Furrow irrigation",
+      "b": "Drip (trickle) irrigation",
+      "c": "Border strip irrigation",
+      "d": "Overhead sprinkler irrigation"
+    },
+    "answer": "b",
+    "explanation": "Drip irrigation applies water slowly and directly at the plant root zone through emitters, minimizing evaporative loss, deep percolation, and weed growth between crop rows."
+  },
+  {
+    "question": "The botanical name for the cultivated cowpea crop widely grown across West Africa is ______",
+    "options": {
+      "a": "Glycine max",
+      "b": "Vigna unguiculata",
+      "c": "Phaseolus vulgaris",
+      "d": "Arachis hypogaea"
+    },
+    "answer": "b",
+    "explanation": "Vigna unguiculata is the botanical name for cowpea; Glycine max is soybean, Arachis hypogaea is groundnut, and Phaseolus vulgaris is common bean."
+  },
+  {
+    "question": "Cassava (Manihot esculenta) is primarily and commercially propagated on farms by means of ______",
+    "options": {
+      "a": "True botanical seeds",
+      "b": "Stem cuttings",
+      "c": "Root tubers",
+      "d": "Suckers"
+    },
+    "answer": "b",
+    "explanation": "Cassava is vegetatively propagated using mature hardwood stem cuttings (stakes) usually 20-25 cm long bearing several viable nodal buds."
+  },
+  {
+    "question": "The devastating viral disease of cassava transmitted primarily by the whitefly vector (Bemisia tabaci) is ______",
+    "options": {
+      "a": "Cassava bacterial blight",
+      "b": "Cassava mosaic disease",
+      "c": "Cassava anthracnose",
+      "d": "Cassava root rot"
+    },
+    "answer": "b",
+    "explanation": "Cassava Mosaic Disease (CMD) is caused by Gemini viruses transmitted between plants by the whitefly (Bemisia tabaci) and through infected propagation cuttings."
+  },
+  {
+    "question": "The fungal disease that attacks the pods of cocoa (Theobroma cacao) causing them to turn black and rot in humid rainy conditions is ______",
+    "options": {
+      "a": "Swollen shoot disease",
+      "b": "Black pod disease (Phytophthora pod rot)",
+      "c": "Witches' broom disease",
+      "d": "Vascular streak dieback"
+    },
+    "answer": "b",
+    "explanation": "Black pod disease is caused by Phytophthora palmivora (and P. megakarya), a destructive fungal pathogen that thrives in wet, shaded cocoa plantations."
+  },
+  {
+    "question": "Which of the following forage grasses is a vigorous perennial grass commonly known as Elephant grass?",
+    "options": {
+      "a": "Panicum maximum",
+      "b": "Pennisetum purpureum",
+      "c": "Cynodon dactylon",
+      "d": "Andropogon gayanus"
+    },
+    "answer": "b",
+    "explanation": "Pennisetum purpureum is Elephant grass (or Napier grass); Panicum maximum is Guinea grass, and Cynodon dactylon is Bermuda grass."
+  },
+  {
+    "question": "A weed that is difficult to eradicate because of its deep underground creeping rhizomes and high resistance to drought is ______",
+    "options": {
+      "a": "Imperata cylindrica (Spear grass)",
+      "b": "Amaranthus spinosus (Spiny amaranth)",
+      "c": "Tridax procumbens (Tridax)",
+      "d": "Ageratum conyzoides (Goat weed)"
+    },
+    "answer": "a",
+    "explanation": "Imperata cylindrica (spear grass) regenerates aggressively from extensive underground horizontal rhizomes, making it one of the most stubborn arable crop weeds in West Africa."
+  },
+  {
+    "question": "Chemical compounds formulated specifically to kill or inhibit the growth of unwanted plants in farmland are termed ______",
+    "options": {
+      "a": "Insecticides",
+      "b": "Herbicides",
+      "c": "Fungicides",
+      "d": "Nematicides"
+    },
+    "answer": "b",
+    "explanation": "Herbicides are specialized agrochemicals designed to control, suppress, or eradicate undesirable weeds in agricultural fields."
+  },
+  {
+    "question": "The larva of the maize stem borer (Busseola fusca) damages maize crops primarily by ______",
+    "options": {
+      "a": "Boring into the stems and destroying the vascular tissues",
+      "b": "Sucking sap from the outer leaf margins",
+      "c": "Feeding exclusively on the root tips underground",
+      "d": "Piercing the developing silk threads"
+    },
+    "answer": "a",
+    "explanation": "Stem borer larvae tunnel directly into the stems and growing whorls of young maize plants, causing severe internal vascular damage, 'dead hearts', and stem lodging."
+  },
+  {
+    "question": "The controlled practice of planting trees in an area where there was previously no forest cover is termed ______",
+    "options": {
+      "a": "Deforestation",
+      "b": "Afforestation",
+      "c": "Reforestation",
+      "d": "Selective exploitation"
+    },
+    "answer": "b",
+    "explanation": "Afforestation is the establishment of a new forest plantation on land that did not historically have tree canopy cover, whereas reforestation replants previously forested cleared areas."
+  },
+  {
+    "question": "Which valuable indigenous hardwood timber tree in Nigeria is botanically known as Milicia excelsa?",
+    "options": {
+      "a": "Mahogany",
+      "b": "Iroko",
+      "c": "Obeche",
+      "d": "Teak"
+    },
+    "answer": "b",
+    "explanation": "Milicia excelsa (formerly Chlorophora excelsa) is the botanical name for Iroko, a premier timber species renowned for durable, termite-resistant structural wood."
+  },
+  {
+    "question": "In the ruminant stomach, the compartment known as the 'true stomach' where gastric juice containing enzymes and HCl is secreted is the ______",
+    "options": {
+      "a": "Rumen (Paunch)",
+      "b": "Reticulum (Honeycomb)",
+      "c": "Omasum (Manyplies)",
+      "d": "Abomasum"
+    },
+    "answer": "d",
+    "explanation": "The abomasum is the fourth stomach compartment of ruminants and functions as the true glandular stomach, secreting hydrochloric acid and pepsin to digest proteins and microbial biomass."
+  },
+  {
+    "question": "In the avian digestive tract, mechanical grinding of ingested grain and seeds is accomplished primarily in the ______",
+    "options": {
+      "a": "Crop",
+      "b": "Proventriculus",
+      "c": "Gizzard (Ventriculus)",
+      "d": "Caeca"
+    },
+    "answer": "c",
+    "explanation": "The gizzard (ventriculus) possesses thick muscular walls and a tough keratinous lining; ingested grit and small stones inside the gizzard grind coarse grain particles mechanically."
+  },
+  {
+    "question": "What is the average gestation period of a sow (domestic pig)?",
+    "options": {
+      "a": "60 days",
+      "b": "114 days (3 months, 3 weeks, 3 days)",
+      "c": "150 days",
+      "d": "283 days"
+    },
+    "answer": "b",
+    "explanation": "The gestation period of a domestic pig is approximately 114 days, conventionally remembered as 3 months, 3 weeks, and 3 days."
+  },
+  {
+    "question": "The standard average incubation period for domestic chicken eggs to hatch successfully is ______",
+    "options": {
+      "a": "14 days",
+      "b": "21 days",
+      "c": "28 days",
+      "d": "35 days"
+    },
+    "answer": "b",
+    "explanation": "Under proper incubation conditions (temperature of ~37.5 °C and relative humidity of 55-65%), fertile chicken eggs hatch in 21 days."
+  },
+  {
+    "question": "In artificial insemination (AI) programs for cattle, collected bull semen is routinely cryopreserved for long-term storage in ______",
+    "options": {
+      "a": "Solid carbon dioxide (dry ice) at -78 °C",
+      "b": "Liquid nitrogen at -196 °C",
+      "c": "A commercial freezer at -20 °C",
+      "d": "An ice bath at 0 °C"
+    },
+    "answer": "b",
+    "explanation": "Bull semen is extended with cryoprotectants and frozen in liquid nitrogen tanks at -196 °C, suspending all metabolic activity and preserving sperm viability for decades."
+  },
+  {
+    "question": "Feed rations formulated solely to maintain an animal's constant body weight, vital organ functions, and body temperature without weight gain or product yield are called ______",
+    "options": {
+      "a": "Production rations",
+      "b": "Maintenance rations",
+      "c": "Creep feeds",
+      "d": "Flushing rations"
+    },
+    "answer": "b",
+    "explanation": "A maintenance ration supplies the minimum energy, protein, and minerals necessary to keep an animal in non-productive equilibrium without gaining or losing live weight."
+  },
+  {
+    "question": "Which of the following feedstuffs is incorporated into poultry feeds primarily as an inexpensive source of calcium for robust eggshell formation?",
+    "options": {
+      "a": "Oyster shell meal",
+      "b": "Wheat offal",
+      "c": "Palm kernel cake",
+      "d": "Yellow maize"
+    },
+    "answer": "a",
+    "explanation": "Oyster shell meal (or crushed limestone) is rich in calcium carbonate (>38% Ca), providing the essential calcium ions needed by laying hens for thick, calcified eggshell development."
+  },
+  {
+    "question": "The surgical removal of the horns or destroying the horn buds of young cattle calves is known as ______",
+    "options": {
+      "a": "Castration",
+      "b": "Dehorning (Disbudding)",
+      "c": "Docking",
+      "d": "Dipping"
+    },
+    "answer": "b",
+    "explanation": "Dehorning (or disbudding in young calves) prevents cattle from injuring one another, reduces aggression during handling, and saves space at feeding troughs."
+  },
+  {
+    "question": "Newborn piglets are routinely injected with iron dextran within 3 to 5 days of birth to prevent ______",
+    "options": {
+      "a": "Rickets",
+      "b": "Nutritional anemia",
+      "c": "Goitre",
+      "d": "Night blindness"
+    },
+    "answer": "b",
+    "explanation": "Sow's milk is naturally deficient in iron, and indoor reared piglets have limited placental iron stores; without supplemental iron injection, rapid growth causes severe nutritional anemia."
+  },
+  {
+    "question": "The management practice of increasing the nutritional plane and energy intake of breeding ewes 2 to 3 weeks prior to mating is known as ______",
+    "options": {
+      "a": "Steaming up",
+      "b": "Flushing",
+      "c": "Creep feeding",
+      "d": "Culling"
+    },
+    "answer": "b",
+    "explanation": "Flushing improves the nutritional body condition of female animals before breeding, stimulating follicular development and increasing the ovulation rate and twinning frequency."
+  },
+  {
+    "question": "Newcastle disease in domestic poultry is caused by a ______",
+    "options": {
+      "a": "Bacterium",
+      "b": "Virus",
+      "c": "Protozoan",
+      "d": "Fungus"
+    },
+    "answer": "b",
+    "explanation": "Newcastle disease is an acute, highly contagious avian disease caused by an Avian Paramyxovirus (APMV-1), producing severe respiratory, digestive, and nervous system symptoms."
+  },
+  {
+    "question": "Which highly fatal zoonotic bacterial disease of cattle is caused by Bacillus anthracis and characterized by sudden death with dark unclotted blood oozing from body openings?",
+    "options": {
+      "a": "Tuberculosis",
+      "b": "Anthrax",
+      "c": "Brucellosis",
+      "d": "Blackquarter"
+    },
+    "answer": "b",
+    "explanation": "Anthrax is caused by spore-forming Bacillus anthracis. Victims exhibit high fever, rapid death, incomplete rigor mortis, and dark tarry unclotted blood oozing from all natural body orifices."
+  },
+  {
+    "question": "Trypanosomiasis (nagana) in livestock across tropical West Africa is transmitted by the bite of the ______",
+    "options": {
+      "a": "Housefly (Musca domestica)",
+      "b": "Tsetse fly (Glossina species)",
+      "c": "Stable fly (Stomoxys calcitrans)",
+      "d": "Tick (Boophilus microplus)"
+    },
+    "answer": "b",
+    "explanation": "Tsetse flies (Glossina spp.) are biological vectors for pathogenic trypanosomes (such as Trypanosoma vivax and T. congolense), transmitting animal trypanosomiasis (nagana)."
+  },
+  {
+    "question": "Coccidiosis in domestic chickens is a severe intestinal parasitic disease caused by species of the protozoan genus ______",
+    "options": {
+      "a": "Plasmodium",
+      "b": "Eimeria",
+      "c": "Trypanosoma",
+      "d": "Entamoeba"
+    },
+    "answer": "b",
+    "explanation": "Coccidiosis is caused by protozoan parasites of the genus Eimeria (such as E. tenella and E. necatrix), causing bloody diarrhea and high mortality in growing broilers and pullets."
+  },
+  {
+    "question": "The intermediate snail host in the life cycle of the common liver fluke (Fasciola hepatica) of cattle and sheep is ______",
+    "options": {
+      "a": "Lymnaea species",
+      "b": "Bulinus species",
+      "c": "Biomphalaria species",
+      "d": "Achatina species"
+    },
+    "answer": "a",
+    "explanation": "The developmental stages of Fasciola hepatica (miracidium, sporocyst, redia, cercaria) develop inside freshwater mud snails of the genus Lymnaea."
+  },
+  {
+    "question": "An example of a freshwater fish species possessing an accessory air-breathing organ and widely cultured in Nigerian fish ponds is ______",
+    "options": {
+      "a": "Oreochromis niloticus (Nile tilapia)",
+      "b": "Clarias gariepinus (African catfish)",
+      "c": "Cyprinus carpio (Common carp)",
+      "d": "Lates niloticus (Nile perch)"
+    },
+    "answer": "b",
+    "explanation": "Clarias gariepinus (African mud catfish) has a suprabranchial organ that enables it to breathe atmospheric oxygen, making it extremely hardy and suitable for high-density aquaculture."
+  },
+  {
+    "question": "In fish farming, quicklime (calcium oxide) is applied to newly constructed or drained pond bottoms primarily to ______",
+    "options": {
+      "a": "Eradicate parasites and pathogens while neutralizing soil acidity",
+      "b": "Supply carbohydrates to growing fingerlings",
+      "c": "Increase water turbidity to shade phytoplankton",
+      "d": "Attract wild fingerlings from surrounding swamps"
+    },
+    "answer": "a",
+    "explanation": "Liming neutralizes soil acidity, enhances biological availability of phosphorus, and disinfects pond sediments by eliminating harmful parasites, weed fish, and bacterial pathogens."
+  },
+  {
+    "question": "The commonest, traditional method of preserving harvested freshwater fish among artisanal fisherfolk in rural West Africa is ______",
+    "options": {
+      "a": "Freeze drying",
+      "b": "Smoke curing (Smoking)",
+      "c": "Irradiation",
+      "d": "Canning"
+    },
+    "answer": "b",
+    "explanation": "Smoke curing combines mild cooking, dehydration, and antimicrobial smoke deposition, making it the most accessible and cost-effective artisanal fish preservation method."
+  },
+  {
+    "question": "According to the Law of Diminishing Returns, when successive units of a variable input are added to a fixed input, total product initially increases until ______",
+    "options": {
+      "a": "Marginal product reaches its peak and begins to decline",
+      "b": "Fixed costs become zero",
+      "c": "Selling price doubles",
+      "d": "Average fixed cost equals total revenue"
+    },
+    "answer": "a",
+    "explanation": "The Law of Diminishing Returns states that as additional units of a variable factor are combined with fixed resources, marginal product eventually declines beyond the point of diminishing marginal returns."
+  },
+  {
+    "question": "In agricultural production economics, which of the following expenses represents a fixed cost for a farm business?",
+    "options": {
+      "a": "Cost of certified hybrid seeds",
+      "b": "Annual tractor insurance premium",
+      "c": "Cost of hired casual weeding labor",
+      "d": "Cost of broiler starter feed"
+    },
+    "answer": "b",
+    "explanation": "Fixed costs do not vary with the volume of agricultural output in the short run; annual tractor insurance or equipment depreciation must be paid regardless of farm production levels."
+  },
+  {
+    "question": "A farm financial statement showing total business assets, liabilities, and owner's net equity on a specific calendar date is the ______",
+    "options": {
+      "a": "Cash flow summary",
+      "b": "Balance sheet (Net worth statement)",
+      "c": "Enterprise budget",
+      "d": "Profit and loss statement"
+    },
+    "answer": "b",
+    "explanation": "A balance sheet presents a financial snapshot of a farm enterprise at a specific point in time, displaying total assets, liabilities, and owner's net worth (Assets = Liabilities + Equity)."
+  },
+  {
+    "question": "The agricultural marketing function that involves sorting agricultural produce into standardized classes based on weight, size, color, and quality is ______",
+    "options": {
+      "a": "Assembling",
+      "b": "Grading and standardization",
+      "c": "Wholesaling",
+      "d": "Transportation"
+    },
+    "answer": "b",
+    "explanation": "Grading is the practice of sorting harvested commodities into uniform lots according to recognized official commercial quality specifications, sizes, and standards."
+  },
+  {
+    "question": "Which of the following agricultural extension teaching methods is categorized as a mass dissemination method?",
+    "options": {
+      "a": "Farm and home visits",
+      "b": "Method demonstrations",
+      "c": "Radio farm broadcasts",
+      "d": "Group discussions"
+    },
+    "answer": "c",
+    "explanation": "Radio broadcasts reach thousands of widely dispersed farming households simultaneously across vast geographic regions, functioning as an effective mass communication medium."
+  },
+  {
+    "question": "An extension teaching technique where the extension agent practically shows farmers step-by-step how to carry out a new technical operation is a ______",
+    "options": {
+      "a": "Result demonstration",
+      "b": "Method demonstration",
+      "c": "Circular letter",
+      "d": "Field day exhibition"
+    },
+    "answer": "b",
+    "explanation": "A method demonstration is a teaching procedure where an extension educator shows a group of farmers hands-on how to execute a specific skill (e.g., calibrating a knapsack sprayer or budding citrus)."
+  },
+  {
+    "question": "Which of the following tillage implements is classified as a secondary tillage implement used for seedbed preparation?",
+    "options": {
+      "a": "Subsoiler",
+      "b": "Mouldboard plough",
+      "c": "Disc harrow",
+      "d": "Chisel plough"
+    },
+    "answer": "c",
+    "explanation": "Disc harrows pulverize clods, level furrow ridges, and crush soil crumbs after initial ploughing, categorizing them as secondary tillage implements."
+  },
+  {
+    "question": "The practice of growing different crops in systematic succession on the same parcel of land over several growing seasons is termed ______",
+    "options": {
+      "a": "Monoculture",
+      "b": "Mixed farming",
+      "c": "Crop rotation",
+      "d": "Continuous cropping"
+    },
+    "answer": "c",
+    "explanation": "Crop rotation systematically alternates deep-rooted and shallow-rooted crops, as well as legumes and cereals, on the same plot to preserve soil fertility, break pest cycles, and reduce weed pressures."
+  }
+]

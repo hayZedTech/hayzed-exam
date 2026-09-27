@@ -1,0 +1,552 @@
+[
+  {
+    "question": "The modification in structure, physiology and behaviour of plant and animal over generations is termed ______",
+    "options": {
+      "a": "Adaptation",
+      "b": "Evolution",
+      "c": "Variation",
+      "d": "Succession"
+    },
+    "answer": "a",
+    "explanation": "Adaptation refers to characteristics that enhance an organism's survival and reproductive fitness in its environment."
+  },
+  {
+    "question": "A bacterium that has a spherical or spherical-like shape is known scientifically as a ______",
+    "options": {
+      "a": "Diplobacillus",
+      "b": "Coccus",
+      "c": "Bacillus",
+      "d": "Vibrio"
+    },
+    "answer": "b",
+    "explanation": "Coccus (plural: cocci) is any bacterium that has a spherical, ovoid, or generally round shape."
+  },
+  {
+    "question": "In flatworms such as the liver fluke and planaria, excretory function is performed primarily by ______",
+    "options": {
+      "a": "Flame cells (Protonephridia)",
+      "b": "Nematodes",
+      "c": "Malpighian tubules",
+      "d": "Contractile vacuoles"
+    },
+    "answer": "a",
+    "explanation": "Flame cells are specialized excretory and osmoregulatory cells found in Platyhelminthes (flatworms)."
+  },
+  {
+    "question": "Which of the following is an example of an organism acting as a biological vector of disease?",
+    "options": {
+      "a": "Fungi decomposing forest leaf litter",
+      "b": "Female Anopheles mosquito transmitting Plasmodium",
+      "c": "Lactobacillus bacteria fermenting milk",
+      "d": "Spirogyra producing oxygen through photosynthesis"
+    },
+    "answer": "b",
+    "explanation": "Female Anopheles transmits the malaria parasite (Plasmodium) and supports an essential phase of its life cycle."
+  },
+  {
+    "question": "The semi-permeable membrane that surrounds the central vacuole in a plant cell is called the ______",
+    "options": {
+      "a": "Elaioplast",
+      "b": "Amyloplast",
+      "c": "Tonoplast",
+      "d": "Cytoplast"
+    },
+    "answer": "c",
+    "explanation": "The tonoplast is the specialized cytoplasmic membrane bounding the plant cell central vacuole."
+  },
+  {
+    "question": "Which organ is NOT part of the human alimentary canal through which food directly passes?",
+    "options": {
+      "a": "Oesophagus",
+      "b": "Large intestine",
+      "c": "Liver",
+      "d": "Small intestine"
+    },
+    "answer": "c",
+    "explanation": "The liver is an accessory digestive gland; ingested food does not pass through the liver itself."
+  },
+  {
+    "question": "A terrestrial biome characterized by high summer temperatures, low annual rainfall, and drought-resistant vegetation is the ______",
+    "options": {
+      "a": "Temperate rainforest",
+      "b": "Tropical desert",
+      "c": "Alpine tundra",
+      "d": "Deciduous woodland"
+    },
+    "answer": "b",
+    "explanation": "Deserts experience low precipitation (<250mm/yr) and support xerophytic vegetation with succulent water storage."
+  },
+  {
+    "question": "The site of cellular respiration and aerobic ATP synthesis within eukaryotic cells is the ______",
+    "options": {
+      "a": "Ribosome",
+      "b": "Mitochondrion",
+      "c": "Golgi apparatus",
+      "d": "Endoplasmic reticulum"
+    },
+    "answer": "b",
+    "explanation": "Mitochondria generate cellular energy (ATP) via the Krebs cycle and oxidative phosphorylation."
+  },
+  {
+    "question": "Which enzyme in human saliva begins the chemical breakdown of dietary starch into maltose?",
+    "options": {
+      "a": "Pepsin",
+      "b": "Salivary amylase (Ptyalin)",
+      "c": "Lipase",
+      "d": "Trypsin"
+    },
+    "answer": "b",
+    "explanation": "Ptyalin (salivary amylase) hydrolyzes alpha-1,4-glycosidic bonds in cooked starch into maltose."
+  },
+  {
+    "question": "In Mendelian genetics, a cross between two heterozygous tall pea plants (Tt x Tt) produces a phenotypic ratio of ______",
+    "options": {
+      "a": "3 Tall : 1 Dwarf",
+      "b": "1 Tall : 2 Medium : 1 Dwarf",
+      "c": "2 Tall : 2 Dwarf",
+      "d": "4 Tall : 0 Dwarf"
+    },
+    "answer": "a",
+    "explanation": "Tt x Tt gives genotypes 1 TT : 2 Tt : 1 tt, resulting in a 3 tall to 1 dwarf phenotypic ratio."
+  },
+  {
+    "question": "The process by which green plants synthesize organic compounds from water and carbon dioxide in the presence of sunlight is ______",
+    "options": {
+      "a": "Chemosynthesis",
+      "b": "Photosynthesis",
+      "c": "Transpiration",
+      "d": "Fermentation"
+    },
+    "answer": "b",
+    "explanation": "Photosynthesis produces glucose and oxygen from carbon dioxide and water using light absorbed by chlorophyll."
+  },
+  {
+    "question": "Which of the following blood components is primarily responsible for the transport of dissolved oxygen in humans?",
+    "options": {
+      "a": "Blood platelets",
+      "b": "White blood cells",
+      "c": "Red blood cells (Erythrocytes)",
+      "d": "Blood plasma"
+    },
+    "answer": "c",
+    "explanation": "Erythrocytes contain hemoglobin, an iron-rich pigment that binds oxygen to form oxyhemoglobin."
+  },
+  {
+    "question": "The loss of water vapor from the aerial parts of a living plant through stomata is known as ______",
+    "options": {
+      "a": "Guttation",
+      "b": "Transpiration",
+      "c": "Imbibition",
+      "d": "Translocation"
+    },
+    "answer": "b",
+    "explanation": "Transpiration is the evaporative loss of water from stomata on plant leaves and green stems."
+  },
+  {
+    "question": "Which hormone regulates blood glucose levels by promoting cellular glucose uptake and glycogen synthesis?",
+    "options": {
+      "a": "Thyroxine",
+      "b": "Insulin",
+      "c": "Glucagon",
+      "d": "Adrenaline"
+    },
+    "answer": "b",
+    "explanation": "Insulin, secreted by beta cells of the islets of Langerhans in the pancreas, lowers elevated blood glucose."
+  },
+  {
+    "question": "In ecology, a group of organisms of the same species living together in a defined geographical area at a given time is a ______",
+    "options": {
+      "a": "Community",
+      "b": "Population",
+      "c": "Ecosystem",
+      "d": "Niche"
+    },
+    "answer": "b",
+    "explanation": "A population is an interbreeding group of individuals of the same species occupying a specific habitat."
+  },
+  {
+    "question": "The functional and structural filtration unit of the mammalian kidney is the ______",
+    "options": {
+      "a": "Neuron",
+      "b": "Nephron",
+      "c": "Alveolus",
+      "d": "Hepatocyte"
+    },
+    "answer": "b",
+    "explanation": "Each kidney contains approximately one million nephrons that perform ultrafiltration and selective reabsorption."
+  },
+  {
+    "question": "Which of the following vitamin deficiencies is directly linked to night blindness in humans?",
+    "options": {
+      "a": "Vitamin A (Retinol)",
+      "b": "Vitamin C (Ascorbic acid)",
+      "c": "Vitamin D (Calciferol)",
+      "d": "Vitamin K"
+    },
+    "answer": "a",
+    "explanation": "Vitamin A is essential for the regeneration of rhodopsin (visual purple) in retinal rod photoreceptor cells."
+  },
+  {
+    "question": "The movement of water molecules from a region of higher water potential to lower water potential across a selectively permeable membrane is ______",
+    "options": {
+      "a": "Diffusion",
+      "b": "Osmosis",
+      "c": "Active transport",
+      "d": "Plasmolysis"
+    },
+    "answer": "b",
+    "explanation": "Osmosis is the net movement of water solvent molecules across a semi-permeable membrane down a water potential gradient."
+  },
+  {
+    "question": "Which class of arthropods possesses three body segments (head, thorax, abdomen) and three pairs of jointed legs?",
+    "options": {
+      "a": "Arachnida",
+      "b": "Insecta",
+      "c": "Crustacea",
+      "d": "Myriapoda"
+    },
+    "answer": "b",
+    "explanation": "Insects possess three pairs of thoracic walking legs and bodies divided distinctly into head, thorax, and abdomen."
+  },
+  {
+    "question": "The female reproductive part of a flowering plant (angiosperm) is collectively known as the ______",
+    "options": {
+      "a": "Androecium",
+      "b": "Gynoecium (Pistil)",
+      "c": "Calyx",
+      "d": "Corolla"
+    },
+    "answer": "b",
+    "explanation": "The gynoecium consists of one or more carpels, comprising the stigma, style, and ovary."
+  },
+  {
+    "question": "Which of the following is an example of an abiotic ecological factor in a freshwater pond habitat?",
+    "options": {
+      "a": "Tilapia fish",
+      "b": "Dissolved oxygen concentration",
+      "c": "Water lily plants",
+      "d": "Bacteria of decay"
+    },
+    "answer": "b",
+    "explanation": "Abiotic factors are non-living physical and chemical components, such as pH, temperature, and dissolved oxygen."
+  },
+  {
+    "question": "The genetic condition characterized by the inability of blood to clot normally due to a missing coagulation factor is ______",
+    "options": {
+      "a": "Sickle cell anemia",
+      "b": "Hemophilia",
+      "c": "Thalassemia",
+      "d": "Albinism"
+    },
+    "answer": "b",
+    "explanation": "Hemophilia is an X-linked recessive hereditary disorder that impairs the blood's ability to form blood clots."
+  },
+  {
+    "question": "Which cellular organelle is responsible for synthesizing ribosomal RNA and assembling ribosome subunits?",
+    "options": {
+      "a": "Centrosome",
+      "b": "Nucleolus",
+      "c": "Peroxisome",
+      "d": "Lysosome"
+    },
+    "answer": "b",
+    "explanation": "The nucleolus is a dense subnuclear structure where rRNA transcription and ribosome assembly take place."
+  },
+  {
+    "question": "In mammalian blood circulation, which blood vessel carries oxygenated blood from the lungs directly to the left atrium of the heart?",
+    "options": {
+      "a": "Pulmonary artery",
+      "b": "Pulmonary vein",
+      "c": "Superior vena cava",
+      "d": "Hepatic portal vein"
+    },
+    "answer": "b",
+    "explanation": "The pulmonary veins are unique among adult veins because they carry freshly oxygenated blood from lungs to heart."
+  },
+  {
+    "question": "The breakdown of glucose into two molecules of pyruvate during anaerobic or aerobic respiration is called ______",
+    "options": {
+      "a": "Krebs cycle",
+      "b": "Glycolysis",
+      "c": "Oxidative phosphorylation",
+      "d": "Gluconeogenesis"
+    },
+    "answer": "b",
+    "explanation": "Glycolysis occurs in the cytosol, cleaving one 6-carbon glucose molecule into two 3-carbon pyruvate molecules."
+  },
+  {
+    "question": "Which of the following organisms exhibits saprophytic nutrition?",
+    "options": {
+      "a": "Tapeworm",
+      "b": "Mushroom (Agaricus)",
+      "c": "Euglena",
+      "d": "Amoeba"
+    },
+    "answer": "b",
+    "explanation": "Saprophytes like mushrooms feed by secreting digestive enzymes onto dead organic matter and absorbing soluble products."
+  },
+  {
+    "question": "The type of joint found at the human knee and elbow that allows movement in only one plane is a ______",
+    "options": {
+      "a": "Ball and socket joint",
+      "b": "Hinge joint",
+      "c": "Pivot joint",
+      "d": "Gliding joint"
+    },
+    "answer": "b",
+    "explanation": "Hinge joints permit motion primarily in one plane (flexion and extension), akin to a mechanical door hinge."
+  },
+  {
+    "question": "Which gas is released as a byproduct during the light-dependent reactions of photosynthesis through photolysis of water?",
+    "options": {
+      "a": "Carbon dioxide",
+      "b": "Oxygen",
+      "c": "Nitrogen",
+      "d": "Methane"
+    },
+    "answer": "b",
+    "explanation": "Photolysis splits water molecules into electrons, protons, and oxygen gas molecules."
+  },
+  {
+    "question": "The process by which an unfertilized egg develops into a viable new organism without fertilization by sperm is ______",
+    "options": {
+      "a": "Binary fission",
+      "b": "Parthenogenesis",
+      "c": "Hermaphroditism",
+      "d": "Conjugation"
+    },
+    "answer": "b",
+    "explanation": "Parthenogenesis is asexual reproduction where an embryo develops from an unfertilized egg cell (e.g. honeybee drones)."
+  },
+  {
+    "question": "Which plant tissue is responsible for transporting manufactured sucrose and amino acids from leaves to other tissues?",
+    "options": {
+      "a": "Xylem",
+      "b": "Phloem",
+      "c": "Parenchyma",
+      "d": "Sclerenchyma"
+    },
+    "answer": "b",
+    "explanation": "Phloem sieve tubes and companion cells translocate organic food materials synthesized during photosynthesis."
+  },
+  {
+    "question": "In humans, the fertilization of the ovum by a sperm cell normally takes place in the ______",
+    "options": {
+      "a": "Ovary",
+      "b": "Fallopian tube (Oviduct)",
+      "c": "Uterus",
+      "d": "Cervix"
+    },
+    "answer": "b",
+    "explanation": "Fertilization typically occurs in the ampulla region of the Fallopian tube before the blastocyst implants in the uterus."
+  },
+  {
+    "question": "The ecological role or position of an organism within its community, including its habitat, food, and interactions, is its ______",
+    "options": {
+      "a": "Biome",
+      "b": "Ecological niche",
+      "c": "Trophic level",
+      "d": "Ecosystem"
+    },
+    "answer": "b",
+    "explanation": "An ecological niche encompasses how an organism responds to resources and competitors in its habitat."
+  },
+  {
+    "question": "Which of the following diseases is caused by a protozoan parasite?",
+    "options": {
+      "a": "Tuberculosis",
+      "b": "Malaria",
+      "c": "Cholera",
+      "d": "Typhoid"
+    },
+    "answer": "b",
+    "explanation": "Malaria is caused by the unicellular eukaryotic protozoan parasite belonging to the genus Plasmodium."
+  },
+  {
+    "question": "The structure in mammalian ear responsible for maintaining balance and dynamic body equilibrium is the ______",
+    "options": {
+      "a": "Cochlea",
+      "b": "Semicircular canals",
+      "c": "Tympanic membrane",
+      "d": "Eustachian tube"
+    },
+    "answer": "b",
+    "explanation": "The three fluid-filled semicircular canals detect angular acceleration and rotational movement of the head."
+  },
+  {
+    "question": "Which organism possesses both plant-like (chloroplasts) and animal-like (flagellum, eyespot, gullet) characteristics?",
+    "options": {
+      "a": "Paramecium",
+      "b": "Euglena viridis",
+      "c": "Volvox",
+      "d": "Chlamydomonas"
+    },
+    "answer": "b",
+    "explanation": "Euglena viridis undergoes autotrophic photosynthesis in sunlight but feeds heterotrophically when kept in darkness."
+  },
+  {
+    "question": "The type of natural selection that favors intermediate variants against extreme phenotypes is called ______",
+    "options": {
+      "a": "Disruptive selection",
+      "b": "Stabilizing selection",
+      "c": "Directional selection",
+      "d": "Artificial selection"
+    },
+    "answer": "b",
+    "explanation": "Stabilizing selection eliminates phenotypic extremes, maintaining uniformity in a stable environment (e.g. human birth weight)."
+  },
+  {
+    "question": "Which nitrogenous base is present in RNA molecules but absent in DNA molecules?",
+    "options": {
+      "a": "Adenine",
+      "b": "Uracil",
+      "c": "Thymine",
+      "d": "Cytosine"
+    },
+    "answer": "b",
+    "explanation": "In RNA, uracil replaces thymine and base-pairs with adenine during transcription."
+  },
+  {
+    "question": "The term used to describe flowers that possess both functional stamens and carpels is ______",
+    "options": {
+      "a": "Dioecious",
+      "b": "Bisexual (Hermaphrodite)",
+      "c": "Staminate",
+      "d": "Pistillate"
+    },
+    "answer": "b",
+    "explanation": "Bisexual (perfect) flowers have both male (androecium) and female (gynoecium) reproductive organs on the same bloom."
+  },
+  {
+    "question": "Which part of the mammalian brain coordinates skeletal muscle contractions, posture, and motor balance?",
+    "options": {
+      "a": "Cerebrum",
+      "b": "Cerebellum",
+      "c": "Hypothalamus",
+      "d": "Medulla oblongata"
+    },
+    "answer": "b",
+    "explanation": "The cerebellum coordinates precision, voluntary motor movements, muscle tone, and body posture."
+  },
+  {
+    "question": "What is the primary role of decomposers in an ecosystem nutrient cycle?",
+    "options": {
+      "a": "Producing primary biomass",
+      "b": "Recycling mineral elements back to soil and water",
+      "c": "Consuming top carnivores",
+      "d": "Preventing soil erosion"
+    },
+    "answer": "b",
+    "explanation": "Decomposers (bacteria and saprophytic fungi) break down dead organic matter, releasing inorganic minerals back to the environment."
+  },
+  {
+    "question": "Which of the following is a sexually transmitted infection caused by the bacterium Treponema pallidum?",
+    "options": {
+      "a": "Gonorrhea",
+      "b": "Syphilis",
+      "c": "Chlamydia",
+      "d": "Herpes"
+    },
+    "answer": "b",
+    "explanation": "Syphilis is a spirochetal bacterial infection transmitted primarily through direct sexual contact."
+  },
+  {
+    "question": "The muscular wall separating the thoracic and abdominal cavities that aids in mammalian ventilation is the ______",
+    "options": {
+      "a": "Pericardium",
+      "b": "Diaphragm",
+      "c": "Pleura",
+      "d": "Peritoneum"
+    },
+    "answer": "b",
+    "explanation": "Contraction of the diaphragm increases thoracic volume, drawing air into the lungs during inhalation."
+  },
+  {
+    "question": "In plants, cell elongation and apical dominance are primarily stimulated by which class of phytohormones?",
+    "options": {
+      "a": "Abscisic acid",
+      "b": "Auxins (e.g. Indole-3-acetic acid)",
+      "c": "Ethylene",
+      "d": "Cytokinins"
+    },
+    "answer": "b",
+    "explanation": "Auxins promote cell elongation in shoot tips and inhibit lateral bud outgrowth, maintaining apical dominance."
+  },
+  {
+    "question": "The mutualistic symbiotic relationship where both cooperating species derive nutritional or protective benefits is ______",
+    "options": {
+      "a": "Commensalism",
+      "b": "Mutualism",
+      "c": "Parasitism",
+      "d": "Amensalism"
+    },
+    "answer": "b",
+    "explanation": "Mutualism is an obligate or facultative symbiotic relationship that benefits both participating species (e.g. Rhizobium in legumes)."
+  },
+  {
+    "question": "Which organelle contains hydrolytic acid enzymes capable of degrading worn-out organelles and cellular debris?",
+    "options": {
+      "a": "Ribosome",
+      "b": "Lysosome",
+      "c": "Centrosome",
+      "d": "Vacuole"
+    },
+    "answer": "b",
+    "explanation": "Lysosomes are membrane-bound digestive vesicles loaded with acid hydrolases that degrade cellular macromolecules."
+  },
+  {
+    "question": "A person with blood group AB is described as a universal recipient because their blood plasma contains ______",
+    "options": {
+      "a": "Both Anti-A and Anti-B antibodies",
+      "b": "Neither Anti-A nor Anti-B antibodies",
+      "c": "Only Anti-A antibodies",
+      "d": "Only Rh antibodies"
+    },
+    "answer": "b",
+    "explanation": "Group AB plasma lacks anti-A and anti-B antibodies, allowing individuals to receive packed RBCs of any ABO group."
+  },
+  {
+    "question": "The stage of mitosis where sister chromatids separate and move toward opposite poles of the spindle is ______",
+    "options": {
+      "a": "Prophase",
+      "b": "Metaphase",
+      "c": "Anaphase",
+      "d": "Telophase"
+    },
+    "answer": "c",
+    "explanation": "During anaphase, centromeres divide and spindle fibers pull daughter chromosomes to opposite spindle poles."
+  },
+  {
+    "question": "The primary excretory product of birds and terrestrial reptiles, adapted to conserve bodily water, is ______",
+    "options": {
+      "a": "Ammonia",
+      "b": "Uric acid",
+      "c": "Urea",
+      "d": "Creatinine"
+    },
+    "answer": "b",
+    "explanation": "Uric acid is insoluble in water and excreted as a semi-solid paste, maximizing water conservation in arid environments."
+  },
+  {
+    "question": "Which of the following pairs represents homologous anatomical structures indicating common evolutionary ancestry?",
+    "options": {
+      "a": "Bat wing and bird wing",
+      "b": "Human arm and flipper of a whale",
+      "c": "Butterfly wing and bat wing",
+      "d": "Fish fin and dolphin fin"
+    },
+    "answer": "b",
+    "explanation": "The human arm and whale flipper share the pentadactyl limb bone arrangement (humerus, radius, ulna, carpals), proving homology."
+  },
+  {
+    "question": "In the human eye, the photoreceptor cells responsible for color perception and high-acuity daytime vision are ______",
+    "options": {
+      "a": "Rods",
+      "b": "Cones",
+      "c": "Ganglion cells",
+      "d": "Bipolar cells"
+    },
+    "answer": "b",
+    "explanation": "Cones operate in photopic (bright) light conditions and contain iodopsin photopigments sensitive to red, green, and blue wavelengths."
+  }
+]

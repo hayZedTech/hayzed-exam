@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Convert the denary (base 10) number 125₁₀ to an octal (base 8) number.",
+    "options": {
+      "a": "175₈",
+      "b": "157₈",
+      "c": "165₈",
+      "d": "173₈"
+    },
+    "answer": "a",
+    "explanation": "Dividing 125 successively by 8 gives: 125 ÷ 8 = 15 remainder 5; 15 ÷ 8 = 1 remainder 7; 1 ÷ 8 = 0 remainder 1. Reading remainders from bottom to top yields 175₈."
+  },
+  {
+    "question": "If 34ₓ = 25₁₀, find the base x.",
+    "options": {
+      "a": "6",
+      "b": "7",
+      "c": "8",
+      "d": "9"
+    },
+    "answer": "b",
+    "explanation": "Expanding in powers of base x: 3(x¹) + 4(x⁰) = 25 => 3x + 4 = 25 => 3x = 21 => x = 7."
+  },
+  {
+    "question": "Evaluate (19 × 24) (mod 7).",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "5"
+    },
+    "answer": "a",
+    "explanation": "19 ≡ 5 (mod 7) and 24 ≡ 3 (mod 7). Therefore, (19 × 24) ≡ (5 × 3) ≡ 15 ≡ 1 (mod 7)."
+  },
+  {
+    "question": "Solve for x in the exponential equation: 9^(2x - 1) = 27^(x + 1).",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "7"
+    },
+    "answer": "c",
+    "explanation": "Expressing both sides with base 3: (3²)^(2x - 1) = (3³)^(x + 1) => 3^(4x - 2) = 3^(3x + 3). Equating powers: 4x - 2 = 3x + 3 => x = 5."
+  },
+  {
+    "question": "Simplify the expression: (64)^(-2/3) × (16)^(3/4).",
+    "options": {
+      "a": "1/4",
+      "b": "1/2",
+      "c": "1",
+      "d": "2"
+    },
+    "answer": "b",
+    "explanation": "(64)^(-2/3) = (4³)^(-2/3) = 4⁻² = 1/16. (16)^(3/4) = (2⁴)^(3/4) = 2³ = 8. (1/16) × 8 = 1/2."
+  },
+  {
+    "question": "Solve for x in the logarithmic equation: log₂(x + 2) + log₂(x - 2) = 5.",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "16"
+    },
+    "answer": "b",
+    "explanation": "Using log rules: log₂[(x + 2)(x - 2)] = 5 => log₂(x² - 4) = 5 => x² - 4 = 2⁵ = 32 => x² = 36. Since x must be greater than 2 for real logs, x = 6."
+  },
+  {
+    "question": "Given that log₁₀ 2 = 0.3010 and log₁₀ 3 = 0.4771, evaluate log₁₀ 72.",
+    "options": {
+      "a": "1.8572",
+      "b": "1.7781",
+      "c": "1.6020",
+      "d": "2.1583"
+    },
+    "answer": "a",
+    "explanation": "72 = 2³ × 3². log₁₀ 72 = 3 log₁₀ 2 + 2 log₁₀ 3 = 3(0.3010) + 2(0.4771) = 0.9030 + 0.9542 = 1.8572."
+  },
+  {
+    "question": "Simplify: √75 - √12 + √27.",
+    "options": {
+      "a": "4√3",
+      "b": "6√3",
+      "c": "8√3",
+      "d": "10√3"
+    },
+    "answer": "b",
+    "explanation": "Simplifying each radical: √75 = √(25 × 3) = 5√3; √12 = √(4 × 3) = 2√3; √27 = √(9 × 3) = 3√3. Combining terms: 5√3 - 2√3 + 3√3 = 6√3."
+  },
+  {
+    "question": "Rationalize the denominator and simplify: (3 + √2) / (3 - √2).",
+    "options": {
+      "a": "(11 + 6√2)/7",
+      "b": "(7 + 6√2)/11",
+      "c": "(11 - 6√2)/7",
+      "d": "(9 + 4√2)/7"
+    },
+    "answer": "a",
+    "explanation": "Multiply numerator and denominator by the conjugate (3 + √2): Numerator = (3 + √2)² = 9 + 6√2 + 2 = 11 + 6√2. Denominator = 3² - (√2)² = 9 - 2 = 7. Result = (11 + 6√2)/7."
+  },
+  {
+    "question": "In a class of 50 students, 30 study Physics, 25 study Chemistry, and 10 study both subjects. How many students study neither Physics nor Chemistry?",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "10",
+      "d": "15"
+    },
+    "answer": "b",
+    "explanation": "Total studying at least one subject = n(P ∪ C) = n(P) + n(C) - n(P ∩ C) = 30 + 25 - 10 = 45. Students studying neither = 50 - 45 = 5."
+  },
+  {
+    "question": "Find the value of k if (x - 2) is a factor of f(x) = 2x³ - 5x² + kx + 6.",
+    "options": {
+      "a": "-1",
+      "b": "1",
+      "c": "-2",
+      "d": "3"
+    },
+    "answer": "a",
+    "explanation": "By the Factor Theorem, f(2) = 0: 2(2)³ - 5(2)² + k(2) + 6 = 0 => 16 - 20 + 2k + 6 = 0 => 2 + 2k = 0 => 2k = -2 => k = -1."
+  },
+  {
+    "question": "Find the remainder when P(x) = x³ - 4x² + 5x - 7 is divided by (x - 3).",
+    "options": {
+      "a": "-1",
+      "b": "2",
+      "c": "5",
+      "d": "-7"
+    },
+    "answer": "a",
+    "explanation": "By the Remainder Theorem, Remainder = P(3) = (3)³ - 4(3)² + 5(3) - 7 = 27 - 36 + 15 - 7 = -1."
+  },
+  {
+    "question": "If α and β are the roots of the quadratic equation 2x² - 7x + 3 = 0, find the value of (α + β) / (αβ).",
+    "options": {
+      "a": "3/7",
+      "b": "7/3",
+      "c": "7/6",
+      "d": "14/3"
+    },
+    "answer": "b",
+    "explanation": "Sum of roots α + β = -(-7)/2 = 7/2. Product of roots αβ = 3/2. Therefore, (α + β) / (αβ) = (7/2) / (3/2) = 7/3."
+  },
+  {
+    "question": "Find the range of values of x for which the inequality x² - 7x + 10 < 0 holds.",
+    "options": {
+      "a": "x < 2 or x > 5",
+      "b": "2 < x < 5",
+      "c": "-5 < x < -2",
+      "d": "x < -5 or x > 2"
+    },
+    "answer": "b",
+    "explanation": "Factoring the quadratic: (x - 2)(x - 5) < 0. The product is negative when x lies strictly between the roots 2 and 5: 2 < x < 5."
+  },
+  {
+    "question": "Solve the simultaneous equations: 3x + 2y = 13 and 2x - y = 4. What is the value of (x + y)?",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "7"
+    },
+    "answer": "b",
+    "explanation": "From the second equation, y = 2x - 4. Substituting into the first: 3x + 2(2x - 4) = 13 => 7x - 8 = 13 => 7x = 21 => x = 3. Then y = 2(3) - 4 = 2. Thus, x + y = 3 + 2 = 5."
+  },
+  {
+    "question": "Find the solutions for x satisfying the simultaneous equations: y = x + 2 and y = x² - 4x + 6.",
+    "options": {
+      "a": "x = 1 or x = 4",
+      "b": "x = 2 or x = 3",
+      "c": "x = -1 or x = -4",
+      "d": "x = 0 or x = 5"
+    },
+    "answer": "a",
+    "explanation": "Equating the expressions for y: x² - 4x + 6 = x + 2 => x² - 5x + 4 = 0 => (x - 1)(x - 4) = 0. Hence, x = 1 or x = 4."
+  },
+  {
+    "question": "The 4th term of an Arithmetic Progression (AP) is 15 and the 9th term is 35. What is the 15th term of the AP?",
+    "options": {
+      "a": "55",
+      "b": "59",
+      "c": "63",
+      "d": "67"
+    },
+    "answer": "b",
+    "explanation": "T₄ = a + 3d = 15; T₉ = a + 8d = 35. Subtracting gives 5d = 20 => d = 4. Then a + 3(4) = 15 => a = 3. The 15th term T₁₅ = a + 14d = 3 + 14(4) = 3 + 56 = 59."
+  },
+  {
+    "question": "Calculate the sum of the first 20 terms of the Arithmetic Progression: 3, 7, 11, 15, ...",
+    "options": {
+      "a": "780",
+      "b": "820",
+      "c": "860",
+      "d": "900"
+    },
+    "answer": "b",
+    "explanation": "Here a = 3, d = 4, n = 20. Sₙ = (n/2)[2a + (n - 1)d] => S₂₀ = (20/2)[2(3) + 19(4)] = 10[6 + 76] = 10(82) = 820."
+  },
+  {
+    "question": "The 3rd term of a Geometric Progression (GP) is 18 and the 6th term is 486. Find the first term, a.",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "6"
+    },
+    "answer": "b",
+    "explanation": "T₃ = ar² = 18; T₆ = ar⁵ = 486. Dividing: ar⁵ / ar² = r³ = 486 / 18 = 27 => r = 3. Substituting back: a(3)² = 18 => 9a = 18 => a = 2."
+  },
+  {
+    "question": "Determine the sum to infinity of the Geometric Progression: 16, 8, 4, 2, ...",
+    "options": {
+      "a": "24",
+      "b": "30",
+      "c": "32",
+      "d": "64"
+    },
+    "answer": "c",
+    "explanation": "Here a = 16 and common ratio r = 8/16 = 1/2. Since |r| < 1, S_∞ = a / (1 - r) = 16 / (1 - 0.5) = 16 / 0.5 = 32."
+  },
+  {
+    "question": "Evaluate the determinant of the 2×2 matrix M = [[4, -3], [2, 5]].",
+    "options": {
+      "a": "14",
+      "b": "20",
+      "c": "26",
+      "d": "-26"
+    },
+    "answer": "c",
+    "explanation": "For a 2×2 matrix [[a, b], [c, d]], det = ad - bc = (4)(5) - (-3)(2) = 20 - (-6) = 20 + 6 = 26."
+  },
+  {
+    "question": "What is the inverse of the matrix A = [[3, 2], [7, 5]]?",
+    "options": {
+      "a": "[[5, -2], [-7, 3]]",
+      "b": "[[-5, 2], [7, -3]]",
+      "c": "[[3, -2], [-7, 5]]",
+      "d": "[[5, 2], [7, 3]]"
+    },
+    "answer": "a",
+    "explanation": "det(A) = (3)(5) - (2)(7) = 15 - 14 = 1. A⁻¹ = (1/det) * [[d, -b], [-c, a]] = [[5, -2], [-7, 3]]."
+  },
+  {
+    "question": "Calculate the distance between the two points P(-2, 3) and Q(4, -5) in the Cartesian plane.",
+    "options": {
+      "a": "8 units",
+      "b": "10 units",
+      "c": "12 units",
+      "d": "14 units"
+    },
+    "answer": "b",
+    "explanation": "d = √[(x₂ - x₁)² + (y₂ - y₁)²] = √[(4 - (-2))² + (-5 - 3)²] = √[6² + (-8)²] = √[36 + 64] = √100 = 10 units."
+  },
+  {
+    "question": "Find the coordinates of the midpoint of the line segment joining the points A(-4, 7) and B(8, -1).",
+    "options": {
+      "a": "(2, 3)",
+      "b": "(4, 3)",
+      "c": "(2, 4)",
+      "d": "(6, 3)"
+    },
+    "answer": "a",
+    "explanation": "Midpoint M = ((x₁ + x₂)/2, (y₁ + y₂)/2) = ((-4 + 8)/2, (7 + (-1))/2) = (4/2, 6/2) = (2, 3)."
+  },
+  {
+    "question": "Find the equation of a straight line with gradient -3 passing through the point (2, -1).",
+    "options": {
+      "a": "3x + y - 5 = 0",
+      "b": "3x - y + 5 = 0",
+      "c": "3x + y + 5 = 0",
+      "d": "x + 3y - 5 = 0"
+    },
+    "answer": "a",
+    "explanation": "Using point-slope form: y - y₁ = m(x - x₁) => y - (-1) = -3(x - 2) => y + 1 = -3x + 6 => 3x + y - 5 = 0."
+  },
+  {
+    "question": "What is the gradient of a line that is perpendicular to the line 4x - 2y + 7 = 0?",
+    "options": {
+      "a": "2",
+      "b": "-2",
+      "c": "1/2",
+      "d": "-1/2"
+    },
+    "answer": "d",
+    "explanation": "Rearranging to y = mx + c: 2y = 4x + 7 => y = 2x + 7/2, so m₁ = 2. For perpendicular lines, m₁ * m₂ = -1 => m₂ = -1/2."
+  },
+  {
+    "question": "Evaluate: (sin 60° × cos 30°) / tan 45°.",
+    "options": {
+      "a": "1/2",
+      "b": "3/4",
+      "c": "√3/2",
+      "d": "1"
+    },
+    "answer": "b",
+    "explanation": "sin 60° = √3/2, cos 30° = √3/2, and tan 45° = 1. Thus, (√3/2 × √3/2) / 1 = 3/4."
+  },
+  {
+    "question": "If sin θ = 5/13 and θ is an acute angle, find the value of (cos θ + tan θ).",
+    "options": {
+      "a": "209/156",
+      "b": "17/13",
+      "c": "119/156",
+      "d": "25/156"
+    },
+    "answer": "a",
+    "explanation": "Using Pythagoras: adjacent side = √(13² - 5²) = 12. cos θ = 12/13 and tan θ = 5/12. cos θ + tan θ = 12/13 + 5/12 = (144 + 65)/156 = 209/156."
+  },
+  {
+    "question": "From a point on horizontal ground 30 m away from the base of a vertical tower, the angle of elevation of the top of the tower is 30°. Find the height of the tower.",
+    "options": {
+      "a": "10√3 m",
+      "b": "30√3 m",
+      "c": "15 m",
+      "d": "20 m"
+    },
+    "answer": "a",
+    "explanation": "tan 30° = height / 30 => height = 30 * tan 30° = 30 * (1/√3) = 30√3 / 3 = 10√3 m."
+  },
+  {
+    "question": "In triangle ABC, angle A = 30°, angle B = 45°, and side a = 8 cm. Calculate the length of side b.",
+    "options": {
+      "a": "4√2 cm",
+      "b": "8√2 cm",
+      "c": "16√2 cm",
+      "d": "8 cm"
+    },
+    "answer": "b",
+    "explanation": "By the Sine Rule: a / sin A = b / sin B => b = a * (sin 45° / sin 30°) = 8 * ( (√2/2) / (1/2) ) = 8√2 cm."
+  },
+  {
+    "question": "In triangle PQR, p = 5 cm, q = 7 cm, and angle R = 60°. Calculate the length of side r.",
+    "options": {
+      "a": "√39 cm",
+      "b": "√49 cm",
+      "c": "√74 cm",
+      "d": "√59 cm"
+    },
+    "answer": "a",
+    "explanation": "By the Cosine Rule: r² = p² + q² - 2pq cos R = 5² + 7² - 2(5)(7) cos 60° = 25 + 49 - 70(0.5) = 74 - 35 = 39. Hence, r = √39 cm."
+  },
+  {
+    "question": "A ship sails 40 km due East and then 30 km due South. What is the direct straight-line distance of the ship from its starting point?",
+    "options": {
+      "a": "50 km",
+      "b": "70 km",
+      "c": "60 km",
+      "d": "10 km"
+    },
+    "answer": "a",
+    "explanation": "By Pythagoras' theorem: Distance = √(40² + 30²) = √(1600 + 900) = √2500 = 50 km."
+  },
+  {
+    "question": "A sector of a circle of radius 14 cm subtends an angle of 90° at the center. Calculate the area of the sector. [Take π = 22/7]",
+    "options": {
+      "a": "77 cm²",
+      "b": "154 cm²",
+      "c": "308 cm²",
+      "d": "616 cm²"
+    },
+    "answer": "b",
+    "explanation": "Area of sector = (θ / 360°) * πr² = (90° / 360°) * (22/7) * (14)² = (1/4) * (22/7) * 196 = (1/4) * 616 = 154 cm²."
+  },
+  {
+    "question": "A sector of a circle of radius 7 cm has a central angle of 60°. Calculate the perimeter of the sector. [Take π = 22/7]",
+    "options": {
+      "a": "21.33 cm",
+      "b": "7.33 cm",
+      "c": "14.33 cm",
+      "d": "28.00 cm"
+    },
+    "answer": "a",
+    "explanation": "Arc length L = (60/360) * 2πr = (1/6) * 2 * (22/7) * 7 = 44/6 = 7.33 cm. Perimeter = L + 2r = 7.33 + 2(7) = 7.33 + 14 = 21.33 cm."
+  },
+  {
+    "question": "Calculate the volume of a solid right circular cylinder with base radius 7 cm and height 10 cm. [Take π = 22/7]",
+    "options": {
+      "a": "440 cm³",
+      "b": "1540 cm³",
+      "c": "770 cm³",
+      "d": "3080 cm³"
+    },
+    "answer": "b",
+    "explanation": "Volume = πr²h = (22/7) * 7² * 10 = (22/7) * 49 * 10 = 22 * 7 * 10 = 1540 cm³."
+  },
+  {
+    "question": "A right circular cone has a base radius of 6 cm and a vertical height of 8 cm. What is its curved surface area? [Take π = 3.142]",
+    "options": {
+      "a": "188.5 cm²",
+      "b": "150.8 cm²",
+      "c": "240.0 cm²",
+      "d": "301.6 cm²"
+    },
+    "answer": "a",
+    "explanation": "Slant height l = √(r² + h²) = √(6² + 8²) = √100 = 10 cm. Curved surface area = πrl = 3.142 * 6 * 10 = 188.52 cm² ≈ 188.5 cm²."
+  },
+  {
+    "question": "Find the total surface area of a solid sphere of radius 7 cm. [Take π = 22/7]",
+    "options": {
+      "a": "154 cm²",
+      "b": "308 cm²",
+      "c": "616 cm²",
+      "d": "1437 cm²"
+    },
+    "answer": "c",
+    "explanation": "Surface area of sphere = 4πr² = 4 * (22/7) * 7² = 4 * 154 = 616 cm²."
+  },
+  {
+    "question": "In a circle with center O, an arc subtends an angle of 110° at the center. What is the angle subtended by the same arc at any point on the remaining circumference?",
+    "options": {
+      "a": "55°",
+      "b": "70°",
+      "c": "110°",
+      "d": "220°"
+    },
+    "answer": "a",
+    "explanation": "By the Circle Theorem, the angle subtended by an arc at the center is twice the angle subtended by it at any point on the circumference: 110° / 2 = 55°."
+  },
+  {
+    "question": "In a cyclic quadrilateral ABCD, angle ABC = 85°. Find the size of the opposite interior angle ADC.",
+    "options": {
+      "a": "85°",
+      "b": "95°",
+      "c": "105°",
+      "d": "170°"
+    },
+    "answer": "b",
+    "explanation": "Opposite angles of a cyclic quadrilateral are supplementary (sum to 180°): Angle ADC = 180° - 85° = 95°."
+  },
+  {
+    "question": "A tangent PT touches a circle at point T, and chord AB is drawn such that angle TAB = 52°. According to the alternate segment theorem, what is the angle subtended by chord AB in the alternate segment?",
+    "options": {
+      "a": "38°",
+      "b": "52°",
+      "c": "104°",
+      "d": "128°"
+    },
+    "answer": "b",
+    "explanation": "The alternate segment theorem states that the angle between a tangent and a chord through the point of contact equals the angle subtended by the chord in the alternate segment (52°)."
+  },
+  {
+    "question": "Differentiate the function y = 4x³ - 5x² + 7x - 9 with respect to x.",
+    "options": {
+      "a": "12x² - 10x + 7",
+      "b": "12x² - 5x + 7",
+      "c": "4x² - 10x + 7",
+      "d": "12x³ - 10x² + 7"
+    },
+    "answer": "a",
+    "explanation": "Applying the power rule d/dx(axⁿ) = a·n·xⁿ⁻¹: dy/dx = 4(3x²) - 5(2x) + 7(1) - 0 = 12x² - 10x + 7."
+  },
+  {
+    "question": "Find the gradient of the curve y = 2x² - 3x + 1 at the point where x = 4.",
+    "options": {
+      "a": "5",
+      "b": "11",
+      "c": "13",
+      "d": "21"
+    },
+    "answer": "c",
+    "explanation": "Gradient function dy/dx = 4x - 3. Substituting x = 4: dy/dx = 4(4) - 3 = 16 - 3 = 13."
+  },
+  {
+    "question": "Find the x-coordinate of the stationary (turning) point of the curve y = x² - 6x + 8.",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "6"
+    },
+    "answer": "b",
+    "explanation": "At a stationary point, dy/dx = 0. Here dy/dx = 2x - 6 = 0 => 2x = 6 => x = 3."
+  },
+  {
+    "question": "The displacement s (in meters) of a moving body after t seconds is given by s = 2t³ - 9t² + 12t. At what times is the body momentarily at rest?",
+    "options": {
+      "a": "t = 1 s and t = 2 s",
+      "b": "t = 2 s and t = 3 s",
+      "c": "t = 0 s and t = 3 s",
+      "d": "t = 1.5 s only"
+    },
+    "answer": "a",
+    "explanation": "Velocity v = ds/dt = 6t² - 18t + 12. Setting v = 0: 6(t² - 3t + 2) = 0 => 6(t - 1)(t - 2) = 0 => t = 1 s and t = 2 s."
+  },
+  {
+    "question": "Evaluate the indefinite integral: ∫ (6x² - 4x + 5) dx.",
+    "options": {
+      "a": "2x³ - 2x² + 5x + C",
+      "b": "3x³ - 4x² + 5x + C",
+      "c": "6x³ - 2x² + 5x + C",
+      "d": "2x³ - 4x² + 5x + C"
+    },
+    "answer": "a",
+    "explanation": "Integrating term-by-term: ∫ 6x² dx = 2x³, ∫ -4x dx = -2x², ∫ 5 dx = 5x. Adding the constant of integration yields 2x³ - 2x² + 5x + C."
+  },
+  {
+    "question": "Evaluate the definite integral: ∫₁³ (3x² + 2x) dx.",
+    "options": {
+      "a": "30",
+      "b": "34",
+      "c": "36",
+      "d": "40"
+    },
+    "answer": "b",
+    "explanation": "Antiderivative = [x³ + x²] evaluated from 1 to 3: (3³ + 3²) - (1³ + 1²) = (27 + 9) - (1 + 1) = 36 - 2 = 34."
+  },
+  {
+    "question": "Calculate the arithmetic mean of the set of numbers: 4, 7, 8, 9, 12.",
+    "options": {
+      "a": "7.5",
+      "b": "8.0",
+      "c": "8.5",
+      "d": "9.0"
+    },
+    "answer": "b",
+    "explanation": "Mean = (4 + 7 + 8 + 9 + 12) / 5 = 40 / 5 = 8.0."
+  },
+  {
+    "question": "A fair six-sided die and an unbiased coin are tossed simultaneously. What is the probability of obtaining an even number on the die and a head on the coin?",
+    "options": {
+      "a": "1/2",
+      "b": "1/3",
+      "c": "1/4",
+      "d": "1/6"
+    },
+    "answer": "c",
+    "explanation": "P(even on die) = 3/6 = 1/2. P(head on coin) = 1/2. Since the events are independent, P(even and head) = 1/2 * 1/2 = 1/4."
+  },
+  {
+    "question": "In how many distinct ways can the letters of the word 'SUCCESS' be arranged?",
+    "options": {
+      "a": "210",
+      "b": "420",
+      "c": "840",
+      "d": "5040"
+    },
+    "answer": "b",
+    "explanation": "Total letters = 7, with S repeating 3 times and C repeating 2 times. Distinct permutations = 7! / (3! * 2!) = 5040 / (6 * 2) = 5040 / 12 = 420."
+  },
+  {
+    "question": "Calculate the compound interest accrued on ₦50,000 for 2 years at an annual interest rate of 10% compounded annually.",
+    "options": {
+      "a": "₦10,000",
+      "b": "₦10,500",
+      "c": "₦11,000",
+      "d": "₦12,500"
+    },
+    "answer": "b",
+    "explanation": "Amount A = P(1 + r/100)ⁿ = 50000(1 + 0.10)² = 50000 * 1.21 = ₦60,500. Compound Interest = Amount - Principal = ₦60,500 - ₦50,000 = ₦10,500."
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "question": "Neither the principal nor the teachers ______ present at the emergency briefing yesterday.",
+    "options": {
+      "a": "were",
+      "b": "was",
+      "c": "is",
+      "d": "are"
+    },
+    "answer": "a",
+    "explanation": "When subject components are joined by 'neither... nor', the verb agrees with the closer subject ('the teachers', plural) and takes past tense ('were') due to 'yesterday'."
+  },
+  {
+    "question": "The disciplinary committee recommended that the errant student ______ suspended for one academic semester.",
+    "options": {
+      "a": "is",
+      "b": "be",
+      "c": "was",
+      "d": "should be"
+    },
+    "answer": "b",
+    "explanation": "Verbs of recommendation, demand, or insistence (mandative subjunctive) require the base form of the verb ('be') in the that-clause regardless of the subject."
+  },
+  {
+    "question": "The dean congratulated the graduating valedictorian ______ her extraordinary academic accomplishments.",
+    "options": {
+      "a": "for",
+      "b": "with",
+      "c": "on",
+      "d": "about"
+    },
+    "answer": "c",
+    "explanation": "The standard preposition that follows the verb 'congratulate' is 'on' (congratulate someone on something)."
+  },
+  {
+    "question": "The governor, alongside several members of his cabinet, ______ scheduled to inspect the bridge tomorrow.",
+    "options": {
+      "a": "have been",
+      "b": "are",
+      "c": "were",
+      "d": "is"
+    },
+    "answer": "d",
+    "explanation": "Intervening prepositional phrases such as 'alongside...', 'together with...', or 'as well as' do not affect the grammatical number of the true subject ('The governor', singular)."
+  },
+  {
+    "question": "Let us take a brief recess before starting the afternoon session, ______?",
+    "options": {
+      "a": "shall we",
+      "b": "can we",
+      "c": "will we",
+      "d": "should we"
+    },
+    "answer": "a",
+    "explanation": "Suggestions introduced by 'Let us' or 'Let's' take the question tag 'shall we?'."
+  },
+  {
+    "question": "If the goalkeeper had reacted a fraction of a second sooner, he ______ the penalty kick.",
+    "options": {
+      "a": "would save",
+      "b": "would have saved",
+      "c": "will have saved",
+      "d": "had saved"
+    },
+    "answer": "b",
+    "explanation": "In a third conditional sentence expressing an unreal past event ('if + past perfect'), the main clause takes 'would have + past participle'."
+  },
+  {
+    "question": "Hardly had the invigilator distributed the examination booklets ______ the fire alarm sounded loudly.",
+    "options": {
+      "a": "than",
+      "b": "then",
+      "c": "when",
+      "d": "before"
+    },
+    "answer": "c",
+    "explanation": "The correlative structure beginning with 'Hardly had...' correctly pairs with 'when', while 'No sooner had...' pairs with 'than'."
+  },
+  {
+    "question": "The elderly woman ______ handbag was snatched at the bus terminus reported the incident immediately.",
+    "options": {
+      "a": "who",
+      "b": "whom",
+      "c": "which",
+      "d": "whose"
+    },
+    "answer": "d",
+    "explanation": "'Whose' is the possessive relative pronoun required here to show ownership of the handbag."
+  },
+  {
+    "question": "Emeka is one of those gifted scholars who ______ consistently dedicated to innovative scientific research.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "was",
+      "d": "has been"
+    },
+    "answer": "a",
+    "explanation": "In 'one of those [plural noun] who...', the relative pronoun 'who' refers back to the plural antecedent ('gifted scholars'), demanding a plural verb ('are')."
+  },
+  {
+    "question": "There was ______ hope of rescuing the trapped miners after the tunnel collapsed completely.",
+    "options": {
+      "a": "few",
+      "b": "little",
+      "c": "a few",
+      "d": "a little"
+    },
+    "answer": "b",
+    "explanation": "'Hope' is an uncountable noun requiring 'little' to convey a negative meaning (almost none)."
+  },
+  {
+    "question": "The inter-state highway was closed to commercial vehicles ______ the heavy flooding.",
+    "options": {
+      "a": "because",
+      "b": "owing",
+      "c": "on account of",
+      "d": "with regards to"
+    },
+    "answer": "c",
+    "explanation": "'On account of' is a compound preposition used before a noun phrase ('the heavy flooding') to denote cause."
+  },
+  {
+    "question": "______ thoroughly exhausted by the long trek through the jungle, the explorers pitched camp early.",
+    "options": {
+      "a": "To be",
+      "b": "Been",
+      "c": "Having",
+      "d": "Being"
+    },
+    "answer": "d",
+    "explanation": "The participial phrase 'Being thoroughly exhausted...' acts as an adverbial modifier explaining the reason for pitching camp early."
+  },
+  {
+    "question": "The reclusive author seldom attends public literary festivals, ______?",
+    "options": {
+      "a": "does he",
+      "b": "doesn't he",
+      "c": "isn't he",
+      "d": "did he"
+    },
+    "answer": "a",
+    "explanation": "The adverb 'seldom' conveys a negative meaning, which requires a positive question tag ('does he?')."
+  },
+  {
+    "question": "The school management purchased ten new ______ for the administrative offices.",
+    "options": {
+      "a": "furnitures",
+      "b": "pieces of furniture",
+      "c": "sets of furnitures",
+      "d": "piece of furnitures"
+    },
+    "answer": "b",
+    "explanation": "'Furniture' is an uncountable mass noun that does not take a plural '-s'; countable units are expressed as 'pieces of furniture'."
+  },
+  {
+    "question": "The higher the hot air balloon ascends into the atmosphere, ______ the surrounding air becomes.",
+    "options": {
+      "a": "more cool",
+      "b": "cooler",
+      "c": "the cooler",
+      "d": "the coolest"
+    },
+    "answer": "c",
+    "explanation": "Parallel increase or decrease requires the double comparative construction: 'The higher..., the cooler...'."
+  },
+  {
+    "question": "Choose the option NEAREST IN MEANING to the italicized word: The bank manager's *affable* disposition put nervous loan applicants at ease.",
+    "options": {
+      "a": "arrogant",
+      "b": "stern",
+      "c": "indifferent",
+      "d": "cordial"
+    },
+    "answer": "d",
+    "explanation": "'Affable' means pleasant, approachable, and easy to talk to; its closest synonym is 'cordial' or 'friendly'."
+  },
+  {
+    "question": "Choose the option NEAREST IN MEANING to the italicized word: The defense counsel presented a *cogent* argument that persuaded the judge.",
+    "options": {
+      "a": "convincing",
+      "b": "flimsy",
+      "c": "lengthy",
+      "d": "convoluted"
+    },
+    "answer": "a",
+    "explanation": "'Cogent' means clear, logical, and convincing in force."
+  },
+  {
+    "question": "Choose the option NEAREST IN MEANING to the italicized word: The prolonged dry season resulted in a severe *paucity* of green pasture.",
+    "options": {
+      "a": "abundance",
+      "b": "scarcity",
+      "c": "diversity",
+      "d": "surplus"
+    },
+    "answer": "b",
+    "explanation": "'Paucity' denotes the presence of something only in small or insufficient quantities; scarcity."
+  },
+  {
+    "question": "Choose the option NEAREST IN MEANING to the italicized word: The forensic auditor performed a *meticulous* examination of the financial ledger.",
+    "options": {
+      "a": "cursory",
+      "b": "hasty",
+      "c": "painstaking",
+      "d": "reluctant"
+    },
+    "answer": "c",
+    "explanation": "'Meticulous' means showing great attention to detail and precision; painstaking."
+  },
+  {
+    "question": "Choose the option NEAREST IN MEANING to the italicized word: The professor's monograph on quantum cosmology was too *esoteric* for lay readers.",
+    "options": {
+      "a": "mundane",
+      "b": "shallow",
+      "c": "elementary",
+      "d": "abstruse"
+    },
+    "answer": "d",
+    "explanation": "'Esoteric' refers to knowledge intended for or likely to be understood by only a small group with specialized knowledge; abstruse."
+  },
+  {
+    "question": "Choose the option NEAREST IN MEANING to the italicized word: The intelligence operatives executed a *clandestine* mission behind enemy lines.",
+    "options": {
+      "a": "covert",
+      "b": "reckless",
+      "c": "conspicuous",
+      "d": "patriotic"
+    },
+    "answer": "a",
+    "explanation": "'Clandestine' means kept secret or done secretively, especially because illicit or classified; covert."
+  },
+  {
+    "question": "Choose the option NEAREST IN MEANING to the italicized word: Youthful fame is often *fleeting*, fading before adulthood sets in.",
+    "options": {
+      "a": "permanent",
+      "b": "transitory",
+      "c": "enduring",
+      "d": "glorious"
+    },
+    "answer": "b",
+    "explanation": "'Fleeting' means lasting for a very short time; transitory or ephemeral."
+  },
+  {
+    "question": "Choose the option NEAREST IN MEANING to the italicized word: His *audacious* venture into uncharted aerospace engineering amazed industry veterans.",
+    "options": {
+      "a": "timid",
+      "b": "foolish",
+      "c": "daring",
+      "d": "modest"
+    },
+    "answer": "c",
+    "explanation": "'Audacious' describes a willingness to take bold, fearless risks; daring."
+  },
+  {
+    "question": "Choose the option NEAREST IN MEANING to the italicized word: The community demonstrated remarkable *resilience* in rebuilding after the storm.",
+    "options": {
+      "a": "fragility",
+      "b": "indifference",
+      "c": "passivity",
+      "d": "endurance"
+    },
+    "answer": "d",
+    "explanation": "'Resilience' is the capacity to withstand or recover quickly from difficult conditions; endurance or tenacity."
+  },
+  {
+    "question": "Choose the option NEAREST IN MEANING to the italicized word: The magistrate delivered a *stern* reprimand to the habitual traffic offender.",
+    "options": {
+      "a": "strict",
+      "b": "lenient",
+      "c": "casual",
+      "d": "polite"
+    },
+    "answer": "a",
+    "explanation": "'Stern' means serious, unyielding, and strict in demeanor or discipline."
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the italicized word: The minister's policy statement was deliberately *ambiguous*.",
+    "options": {
+      "a": "vague",
+      "b": "lucid",
+      "c": "equivocal",
+      "d": "obscure"
+    },
+    "answer": "b",
+    "explanation": "'Ambiguous' means open to more than one interpretation or unclear. Its direct antonym is 'lucid' (clear and easily understood)."
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the italicized word: Despite his immense wealth, the philanthropist remained remarkably *humble*.",
+    "options": {
+      "a": "modest",
+      "b": "generous",
+      "c": "arrogant",
+      "d": "docile"
+    },
+    "answer": "c",
+    "explanation": "'Humble' means having a modest estimate of one's own importance; the antonym is 'arrogant' or 'haughty'."
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the italicized word: The tension in the courtroom was *palpable* as the jury foreman stood up.",
+    "options": {
+      "a": "tangible",
+      "b": "obvious",
+      "c": "manifest",
+      "d": "imperceptible"
+    },
+    "answer": "d",
+    "explanation": "'Palpable' means so intense as to seem almost tangible or noticeable; its opposite is 'imperceptible' or 'undetectable'."
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the italicized word: Continuous drought transformed once *fertile* valleys into dusty plains.",
+    "options": {
+      "a": "barren",
+      "b": "arable",
+      "c": "productive",
+      "d": "lush"
+    },
+    "answer": "a",
+    "explanation": "'Fertile' describes land capable of producing abundant crops; its antonym is 'barren' (infertile)."
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the italicized word: The police uncovered evidence proving the suspect's document was *spurious*.",
+    "options": {
+      "a": "counterfeit",
+      "b": "authentic",
+      "c": "fraudulent",
+      "d": "questionable"
+    },
+    "answer": "b",
+    "explanation": "'Spurious' means false, fake, or inauthentic; the exact antonym is 'authentic'."
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the italicized word: The accountant was praised for her *frugal* management of departmental funds.",
+    "options": {
+      "a": "economical",
+      "b": "prudent",
+      "c": "extravagant",
+      "d": "stingy"
+    },
+    "answer": "c",
+    "explanation": "'Frugal' means sparing or prudent regarding money and food; its opposite is 'extravagant' (wastefully spending)."
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the italicized word: After decades of boundary dispute, the neighboring towns formed a *harmonious* pact.",
+    "options": {
+      "a": "peaceful",
+      "b": "concordant",
+      "c": "cordial",
+      "d": "hostile"
+    },
+    "answer": "d",
+    "explanation": "'Harmonious' denotes friendly and peaceful agreement; its opposite is 'hostile'."
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the italicized word: Copper is favored in wire manufacturing because it is highly *pliable*.",
+    "options": {
+      "a": "rigid",
+      "b": "ductile",
+      "c": "flexible",
+      "d": "malleable"
+    },
+    "answer": "a",
+    "explanation": "'Pliable' means easily bent or flexible; the opposite is 'rigid' or 'stiff'."
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the italicized word: The students found the visiting lecturer's delivery utterly *tedious*.",
+    "options": {
+      "a": "monotonous",
+      "b": "fascinating",
+      "c": "dreary",
+      "d": "tiresome"
+    },
+    "answer": "b",
+    "explanation": "'Tedious' means boring, dull, and too long; the opposite is 'fascinating' or 'engaging'."
+  },
+  {
+    "question": "Choose the option OPPOSITE IN MEANING to the italicized word: The monarch's rule was criticized by international observers as entirely *despotic*.",
+    "options": {
+      "a": "tyrannical",
+      "b": "autocratic",
+      "c": "democratic",
+      "d": "authoritarian"
+    },
+    "answer": "c",
+    "explanation": "'Despotic' refers to exercising absolute, tyrannical power; its direct antonym is 'democratic'."
+  },
+  {
+    "question": "The candidate decided to *burn the midnight oil* throughout the final week before the examination. This means that the candidate ______",
+    "options": {
+      "a": "lit oil lamps at night due to power outage",
+      "b": "wasted valuable fuel needlessly",
+      "c": "slept throughout the day to avoid daytime heat",
+      "d": "studied or worked diligently late into the night"
+    },
+    "answer": "d",
+    "explanation": "To 'burn the midnight oil' is an idiom meaning to study or work until very late at night."
+  },
+  {
+    "question": "When the audit exposed the missing funds, the bursar had to *face the music*. This means that the bursar ______",
+    "options": {
+      "a": "accepted the unpleasant consequences of his actions",
+      "b": "performed in an orchestral concert",
+      "c": "listened to soft music to calm his nerves",
+      "d": "denied all charges brought against him"
+    },
+    "answer": "a",
+    "explanation": "To 'face the music' means to confront and accept the unpleasant consequences or criticism of one's actions."
+  },
+  {
+    "question": "Although they are identical twins, Chidi and Kelechi rarely *see eye to eye* on political matters. This implies that they ______",
+    "options": {
+      "a": "suffer from mutual visual impairment",
+      "b": "seldom agree with each other",
+      "c": "rarely meet each other physically",
+      "d": "always consult one another before voting"
+    },
+    "answer": "b",
+    "explanation": "To 'see eye to eye' means to be in complete agreement; rarely seeing eye to eye means they seldom agree."
+  },
+  {
+    "question": "After eight hours of intense negotiations without reaching consensus, the committee decided to *call it a day*. This means they ______",
+    "options": {
+      "a": "celebrated their milestone achievements",
+      "b": "vowed never to negotiate again",
+      "c": "stopped working for the remainder of the day",
+      "d": "extended the meeting into the night"
+    },
+    "answer": "c",
+    "explanation": "To 'call it a day' means to stop what you are doing, often because you have done enough or reached a temporary halt."
+  },
+  {
+    "question": "Tunde inadvertently *spilled the beans* about his sister's surprise birthday celebration. This means that Tunde ______",
+    "options": {
+      "a": "purchased the wrong presents for the party",
+      "b": "ruined the banquet food by knocking over a dish",
+      "c": "refused to attend the birthday event",
+      "d": "accidentally revealed secret information"
+    },
+    "answer": "d",
+    "explanation": "To 'spill the beans' means to disclose confidential information or reveal a secret prematurely."
+  },
+  {
+    "question": "Young scholars should not *take for granted* the sacrifices made by their parents. This means they should not ______",
+    "options": {
+      "a": "fail to appreciate the true worth of those sacrifices",
+      "b": "accept financial aid from relatives",
+      "c": "demand legal guarantees for school fees",
+      "d": "rely exclusively on scholarship grants"
+    },
+    "answer": "a",
+    "explanation": "To 'take something for granted' means to assume it will always be available without appreciating its value or merit."
+  },
+  {
+    "question": "The national aviation union threatened to *call off* the scheduled industrial action if their allowances were paid. 'Call off' means to ______",
+    "options": {
+      "a": "postpone indefinitely",
+      "b": "cancel",
+      "c": "escalate",
+      "d": "prolong"
+    },
+    "answer": "b",
+    "explanation": "The phrasal verb 'call off' means to cancel an event, action, or operation."
+  },
+  {
+    "question": "The contractor was penalized after he tried to *back out of* the commercial real estate agreement. 'Back out of' means to ______",
+    "options": {
+      "a": "subcontract the work to another firm",
+      "b": "delay payment intentionally",
+      "c": "withdraw from an agreed commitment",
+      "d": "demand a higher profit margin"
+    },
+    "answer": "c",
+    "explanation": "To 'back out of' something means to withdraw from an agreement, promise, or negotiation before completion."
+  },
+  {
+    "question": "With constant practice, the rookie driver was able to *keep up with* the seasoned veterans on the track. 'Keep up with' means to ______",
+    "options": {
+      "a": "overtake recklessly",
+      "b": "obstruct the movement of",
+      "c": "lag behind safely",
+      "d": "maintain the same speed and standard as"
+    },
+    "answer": "d",
+    "explanation": "To 'keep up with' means to move or progress at the same rate as others."
+  },
+  {
+    "question": "I cannot understand how she manages to *put up with* her neighbor's noisy generator every night. 'Put up with' means to ______",
+    "options": {
+      "a": "tolerate",
+      "b": "extinguish",
+      "c": "repair",
+      "d": "ignore legally"
+    },
+    "answer": "a",
+    "explanation": "The phrasal verb 'put up with' means to tolerate or endure something unpleasant without complaining."
+  },
+  {
+    "question": "Which of the following words contains the long vowel sound /iː/ as in the word *seat*?",
+    "options": {
+      "a": "myth",
+      "b": "people",
+      "c": "build",
+      "d": "women"
+    },
+    "answer": "b",
+    "explanation": "In 'people' (/ˈpiːpəl/), the 'eo' represents the long vowel sound /iː/, whereas 'myth', 'build', and 'women' contain the short vowel /ɪ/."
+  },
+  {
+    "question": "Choose the word that has the same vowel sound as the underlined vowel in *c<u>o</u>mb*.",
+    "options": {
+      "a": "tomb",
+      "b": "bomb",
+      "c": "home",
+      "d": "come"
+    },
+    "answer": "c",
+    "explanation": "'Comb' (/kəʊm/) has the diphthong /əʊ/, exactly matching the sound in 'home' (/həʊm/). 'Tomb' has /uː/, 'bomb' has /ɒ/, and 'come' has /ʌ/."
+  },
+  {
+    "question": "Identify the word that contains the voiceless dental fricative consonant sound /θ/ as in *think*.",
+    "options": {
+      "a": "clothe",
+      "b": "brother",
+      "c": "smooth",
+      "d": "theatre"
+    },
+    "answer": "d",
+    "explanation": "'Theatre' begins with the voiceless dental fricative /θ/, while 'brother', 'smooth', and 'clothe' have the voiced dental fricative /ð/."
+  },
+  {
+    "question": "In which of the following words is the consonant letter 'b' silent?",
+    "options": {
+      "a": "tomb",
+      "b": "amber",
+      "c": "timber",
+      "d": "cabbage"
+    },
+    "answer": "a",
+    "explanation": "In 'tomb' (/tuːm/), the final letter 'b' is completely silent, as in 'climb', 'plumber', and 'comb'."
+  },
+  {
+    "question": "Which of the following words rhymes perfectly with the word *suite*?",
+    "options": {
+      "a": "suit",
+      "b": "sweet",
+      "c": "soot",
+      "d": "sweat"
+    },
+    "answer": "b",
+    "explanation": "'Suite' is pronounced identically to 'sweet' (/swiːt/), making them perfect homophones and rhymes."
+  },
+  {
+    "question": "Choose the word containing the closing diphthong /aɪ/ as in the word *eye*.",
+    "options": {
+      "a": "weight",
+      "b": "gauge",
+      "c": "guide",
+      "d": "quay"
+    },
+    "answer": "c",
+    "explanation": "'Guide' (/ɡaɪd/) contains the diphthong /aɪ/. 'Gauge' and 'weight' have /eɪ/, while 'quay' has /kiː/."
+  },
+  {
+    "question": "In which of the following words is the initial consonant letter 'p' silent?",
+    "options": {
+      "a": "placid",
+      "b": "prophet",
+      "c": "paradox",
+      "d": "psychology"
+    },
+    "answer": "d",
+    "explanation": "In Greek-derived words beginning with 'ps' such as 'psychology', 'psalm', and 'psychic', the letter 'p' is silent."
+  },
+  {
+    "question": "Identify the word that contains the voiceless postalveolar fricative consonant sound /ʃ/ as in *shoe*.",
+    "options": {
+      "a": "chef",
+      "b": "choir",
+      "c": "chorus",
+      "d": "character"
+    },
+    "answer": "a",
+    "explanation": "In French loanwords such as 'chef' (/ʃef/), 'chivalry', and 'chiffon', 'ch' is pronounced as /ʃ/. 'Choir' has /kw/, while 'chorus' and 'character' have /k/."
+  },
+  {
+    "question": "Which syllable receives the primary stress in the word *photograph*?",
+    "options": {
+      "a": "Second syllable (pho-TO-graph)",
+      "b": "First syllable (PHO-to-graph)",
+      "c": "Third syllable (pho-to-GRAPH)",
+      "d": "Equally stressed on all syllables"
+    },
+    "answer": "b",
+    "explanation": "The noun 'photograph' has primary stress on the first syllable: /ˈfəʊ.tə.ɡrɑːf/. (Contrast with pho-TOG-ra-pher)."
+  },
+  {
+    "question": "Choose the word in which the primary stress falls on the THIRD syllable.",
+    "options": {
+      "a": "contemplate",
+      "b": "development",
+      "c": "electrician",
+      "d": "organize"
+    },
+    "answer": "c",
+    "explanation": "'Electrician' is pronounced /ɪˌlekˈtrɪʃ.ən/, with primary stress on the third syllable ('tri')."
+  },
+  {
+    "question": "Which of the following two-syllable words is stressed on the FIRST syllable when used as a noun?",
+    "options": {
+      "a": "machine",
+      "b": "police",
+      "c": "today",
+      "d": "import"
+    },
+    "answer": "d",
+    "explanation": "Two-syllable noun-verb homographs typically have first-syllable stress for the noun (IM-port) and second-syllable stress for the verb (im-PORT)."
+  },
+  {
+    "question": "Choose the word with primary stress on the SECOND syllable.",
+    "options": {
+      "a": "contribute",
+      "b": "democratic",
+      "c": "education",
+      "d": "photographic"
+    },
+    "answer": "a",
+    "explanation": "'Contribute' is stressed on the second syllable: /kənˈtrɪb.juːt/ (con-TRIB-ute), whereas the others are stressed on the third syllable."
+  },
+  {
+    "question": "In the sentence below, the word in CAPITAL letters has the emphatic stress: Bolu bought a NEW car yesterday. Which question does this sentence appropriately answer?",
+    "options": {
+      "a": "Did Bolu rent a new car yesterday?",
+      "b": "Did Bolu buy an old car yesterday?",
+      "c": "Did Ade buy a new car yesterday?",
+      "d": "Did Bolu buy a new bicycle yesterday?"
+    },
+    "answer": "b",
+    "explanation": "Emphatic stress on 'NEW' highlights that the car was new, not old or used. Therefore, it answers: 'Did Bolu buy an old car yesterday?'"
+  },
+  {
+    "question": "In the sentence below, the phrase in CAPITAL letters has the emphatic stress: The professor visited the laboratory IN THE MORNING. Which question does this sentence appropriately answer?",
+    "options": {
+      "a": "Did the dean visit the laboratory in the morning?",
+      "b": "Did the professor visit the library in the morning?",
+      "c": "Did the professor visit the laboratory in the afternoon?",
+      "d": "Did the professor demolish the laboratory in the morning?"
+    },
+    "answer": "c",
+    "explanation": "Emphatic stress on 'IN THE MORNING' contradicts the time, answering the question: 'Did the professor visit the laboratory in the afternoon?'"
+  },
+  {
+    "question": "In the sentence below, the word in CAPITAL letters has the emphatic stress: FATIMA baked the delicious coconut cake. Which question does this sentence appropriately answer?",
+    "options": {
+      "a": "Did Fatima bake the delicious apple pie?",
+      "b": "Did Fatima buy the delicious coconut cake?",
+      "c": "Did Fatima bake the tasteless coconut cake?",
+      "d": "Did Zainab bake the delicious coconut cake?"
+    },
+    "answer": "d",
+    "explanation": "Emphatic stress on 'FATIMA' emphasizes the person who performed the action, directly answering and clarifying: 'Did Zainab bake the delicious coconut cake?'"
+  }
+]

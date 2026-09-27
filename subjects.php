@@ -915,7 +915,8 @@ $examModes = [
                 return { questions: 40, duration: 40 };
             }
             if (type === 'neco') {
-                return { questions: 60, duration: 60 };
+                if (slug === 'english') return { questions: 60, duration: 60 };
+                return { questions: 50, duration: 60 };
             }
             // WAEC
             if (slug === 'english') return { questions: 50, duration: 60 };

@@ -1,0 +1,552 @@
+[
+  {
+    "question": "The figure of speech that attributes human qualities, emotions, or actions to inanimate objects or abstract concepts is ______",
+    "options": {
+      "a": "Personification",
+      "b": "Metaphor",
+      "c": "Hyperbole",
+      "d": "Synecdoche"
+    },
+    "answer": "a",
+    "explanation": "Personification is a figure of speech in which non-human things or abstractions are endowed with human traits or actions."
+  },
+  {
+    "question": "When the audience or reader possesses crucial knowledge about a unfolding situation of which the characters on stage are ignorant, this creates ______",
+    "options": {
+      "a": "Verbal irony",
+      "b": "Dramatic irony",
+      "c": "Situational irony",
+      "d": "Comic relief"
+    },
+    "answer": "b",
+    "explanation": "Dramatic irony occurs when the audience understands the true gravity or reality of a character's actions while the character remains in the dark."
+  },
+  {
+    "question": "A literary device by which an author provides subtle clues or hints suggesting future plot developments is known as ______",
+    "options": {
+      "a": "Flashback",
+      "b": "In media res",
+      "c": "Foreshadowing",
+      "d": "Deus ex machina"
+    },
+    "answer": "c",
+    "explanation": "Foreshadowing gives readers an advance warning or hint of what is to come later in the story."
+  },
+  {
+    "question": "A dramatic genre characterized by lighthearted tone, witty dialogue, humorous conflicts, and an ultimately happy resolution is a ______",
+    "options": {
+      "a": "Tragedy",
+      "b": "Melodrama",
+      "c": "Farce",
+      "d": "Comedy"
+    },
+    "answer": "d",
+    "explanation": "Comedy is a dramatic work intended to provoke laughter, depict amusing social situations, and conclude with a cheerful ending."
+  },
+  {
+    "question": "In drama, an extended speech delivered by a character alone on stage revealing their innermost thoughts and feelings to the audience is a ______",
+    "options": {
+      "a": "Soliloquy",
+      "b": "Dialogue",
+      "c": "Monologue",
+      "d": "Aside"
+    },
+    "answer": "a",
+    "explanation": "A soliloquy is spoken by an actor alone on stage to voice internal contemplations directly to the audience."
+  },
+  {
+    "question": "According to Aristotle's Poetics, the purging of pity and fear experienced by spectators at the conclusion of a tragedy is termed ______",
+    "options": {
+      "a": "Anagnorisis",
+      "b": "Catharsis",
+      "c": "Hamartia",
+      "d": "Peripeteia"
+    },
+    "answer": "b",
+    "explanation": "Catharsis represents the emotional purification and release of pity and fear evoked by tragic art."
+  },
+  {
+    "question": "The fatal character flaw or critical error in judgment that precipitates the downfall of a tragic hero is known as ______",
+    "options": {
+      "a": "Nemesis",
+      "b": "Hubris",
+      "c": "Hamartia",
+      "d": "Epiphany"
+    },
+    "answer": "c",
+    "explanation": "Hamartia is the inherent character defect or tragic misjudgment that leads inexorably to the protagonist's ruin."
+  },
+  {
+    "question": "The poetic device involving the deliberate repetition of identical consonant sounds at the beginnings of adjacent or closely linked words is ______",
+    "options": {
+      "a": "Assonance",
+      "b": "Onomatopoeia",
+      "c": "Consonance",
+      "d": "Alliteration"
+    },
+    "answer": "d",
+    "explanation": "Alliteration is the repetition of initial consonant sounds in consecutive or neighboring words (e.g., 'wild winds weep')."
+  },
+  {
+    "question": "A lyric poem consisting of exactly fourteen lines of iambic pentameter with a specified rhyme scheme is a ______",
+    "options": {
+      "a": "Sonnet",
+      "b": "Ode",
+      "c": "Elegy",
+      "d": "Ballad"
+    },
+    "answer": "a",
+    "explanation": "A sonnet is a fixed fourteen-line poetic form written in iambic pentameter, commonly following Petrarchan or Shakespearean rhyme schemes."
+  },
+  {
+    "question": "The phrase 'parting is such sweet sorrow' combines two contradictory terms for rhetorical effect, exemplifying an ______",
+    "options": {
+      "a": "Paradox",
+      "b": "Oxymoron",
+      "c": "Antithesis",
+      "d": "Euphemism"
+    },
+    "answer": "b",
+    "explanation": "An oxymoron brings two contradictory terms together side-by-side in a single phrase (e.g., 'sweet sorrow', 'living dead')."
+  },
+  {
+    "question": "Using the phrase 'all hands on deck' to mean 'all sailors or workers present' is an example of ______",
+    "options": {
+      "a": "Metonymy",
+      "b": "Hyperbole",
+      "c": "Synecdoche",
+      "d": "Litotes"
+    },
+    "answer": "c",
+    "explanation": "Synecdoche is a figure of speech in which a part is made to represent the whole (hands for the entire crew)."
+  },
+  {
+    "question": "A narrative point of view where the narrator is not a character in the story but knows the thoughts, motives, and feelings of all characters is ______",
+    "options": {
+      "a": "First-person subjective",
+      "b": "Third-person limited",
+      "c": "Second-person directive",
+      "d": "Third-person omniscient"
+    },
+    "answer": "d",
+    "explanation": "The third-person omniscient narrator possesses an all-knowing perspective, revealing the inner workings of any character."
+  },
+  {
+    "question": "In Wole Soyinka's *The Lion and the Jewel*, Lakunle refuses to pay the traditional bride price for Sidi because he ______",
+    "options": {
+      "a": "considers the practice barbaric, outdated, and unchristian",
+      "b": "is completely destitute and cannot afford cowries",
+      "c": "secretly loves Sadiku, the head wife of the Bale",
+      "d": "plans to elope with her to Lagos immediately"
+    },
+    "answer": "a",
+    "explanation": "Lakunle views bride price as a savage African custom that treats women like bought chattel, reflecting his naive westernized ideology."
+  },
+  {
+    "question": "In Wole Soyinka's *The Lion and the Jewel*, how does Baroka successfully lure and conquer Sidi?",
+    "options": {
+      "a": "By offering her wealth greater than any chief in Yoruba land",
+      "b": "By feigning sexual impotence through Sadiku to disarm her guard",
+      "c": "By threatening to burn down the village school",
+      "d": "By physically abducting her from the village square"
+    },
+    "answer": "b",
+    "explanation": "Baroka cunningly confides to Sadiku that his manhood is gone, knowing she will boast to Sidi; when Sidi visits to mock him, Baroka woos and seduces her."
+  },
+  {
+    "question": "In Ola Rotimi's *The Gods Are Not to Blame*, who is King Odewale's biological father?",
+    "options": {
+      "a": "Alaka the cocoa merchant",
+      "b": "Hunter Ogundele of Ijekun",
+      "c": "King Adetusa of Kutuje",
+      "d": "Chief Aderopo"
+    },
+    "answer": "c",
+    "explanation": "King Adetusa and Queen Ojuola of Kutuje were Odewale's true biological parents before casting him away due to an ominous prophecy."
+  },
+  {
+    "question": "In Ola Rotimi's *The Gods Are Not to Blame*, what is King Odewale's catastrophic character flaw?",
+    "options": {
+      "a": "Unrestrained greed for royal wealth",
+      "b": "Extreme gullibility and indecisiveness",
+      "c": "Physical cowardice in the face of warfare",
+      "d": "Uncontrolled quickness to anger and ethnic paranoia"
+    },
+    "answer": "d",
+    "explanation": "Odewale suffers from an ungovernable violent temper and excessive sensitivity regarding his ethnic origins, triggering his tragedy."
+  },
+  {
+    "question": "In Wole Soyinka's *Death and the King's Horseman*, why must Elesin Oba commit ritual suicide following the Alaafin's passing?",
+    "options": {
+      "a": "To accompany the deceased king's spirit to the ancestors and preserve cosmic harmony",
+      "b": "To satisfy British colonial penal legislation",
+      "c": "To atone for embezzling market revenues from Iyaloja",
+      "d": "To avoid execution by the incoming monarch"
+    },
+    "answer": "a",
+    "explanation": "Yoruba metaphysical tradition mandates that the King's Horseman must accompany his dead sovereign to the realm of the ancestors to maintain cosmic balance."
+  },
+  {
+    "question": "In Wole Soyinka's *Death and the King's Horseman*, who takes Elesin Oba's place in death to redeem the honor of his family and lineage?",
+    "options": {
+      "a": "Mr. Simon Pilkings",
+      "b": "His eldest son, Olunde",
+      "c": "Iyaloja",
+      "d": "The Praise Singer"
+    },
+    "answer": "b",
+    "explanation": "When Elesin hesitates and is arrested by Pilkings, his medical student son Olunde commits ritual suicide to fulfill the cosmic duty."
+  },
+  {
+    "question": "Femi Osofisan's acclaimed drama *Women of Owu* is an African theatrical adaptation of which classical Greek tragedy?",
+    "options": {
+      "a": "Sophocles' *Antigone*",
+      "b": "Aeschylus' *Agamemnon*",
+      "c": "Euripides' *The Trojan Women*",
+      "d": "Euripides' *Medea*"
+    },
+    "answer": "c",
+    "explanation": "*Women of Owu* adapts Euripides' *The Trojan Women* to dramatize the ruinous sack of the Owu Kingdom by allied Ife, Ijebu, and Oyo armies in the 19th century."
+  },
+  {
+    "question": "In John K. Kargbo's historical play *Let Me Die Alone*, Madam Yoko's ascent to paramount chieftaincy of the Mende requires her to sacrifice ______",
+    "options": {
+      "a": "her entire royal fortune and palace jewels",
+      "b": "her secret membership in the Sande society",
+      "c": "her allegiance to the British Governor",
+      "d": "her motherhood and potential to bear children"
+    },
+    "answer": "d",
+    "explanation": "To attain supreme political authority, Madam Yoko takes a sacred medicine (Poro/Sande oath) that renders her barren, abandoning childbearing for power."
+  },
+  {
+    "question": "In William Shakespeare's *Othello*, what physical token does Iago manipulate to convince Othello of Desdemona's alleged infidelity?",
+    "options": {
+      "a": "A strawberry-embroidered handkerchief",
+      "b": "A gold-encrusted signet ring",
+      "c": "A secret pearl necklace from Cyprus",
+      "d": "A handwritten love letter to Cassio"
+    },
+    "answer": "a",
+    "explanation": "The strawberry-spotted handkerchief given to Desdemona by Othello is retrieved by Emilia and planted by Iago in Michael Cassio's chamber."
+  },
+  {
+    "question": "What is Othello's principal tragic flaw (hamartia) that leads to his utter catastrophe in Shakespeare's *Othello*?",
+    "options": {
+      "a": "Excessive greed for Venetian gold",
+      "b": "Susceptibility to jealousy and misplaced trust in Iago",
+      "c": "Political ambition to usurp the Duke",
+      "d": "Religious fanaticism on the battlefield"
+    },
+    "answer": "b",
+    "explanation": "Othello is vulnerable to green-eyed jealousy and naively trusts 'honest Iago', allowing poisoned falsehoods to overwhelm his judgment."
+  },
+  {
+    "question": "In William Shakespeare's *Macbeth*, the Weird Sisters initially prophesy that Macbeth will become ______",
+    "options": {
+      "a": "Thane of Fife and Lord Protector",
+      "b": "Prince of Cumberland and Duke of Albany",
+      "c": "Thane of Glamis, Thane of Cawdor, and King of Scotland",
+      "d": "King of England and Emperor of Ireland"
+    },
+    "answer": "c",
+    "explanation": "The witches greet him: 'All hail, Macbeth! hail to thee, Thane of Glamis! All hail, Macbeth! hail to thee, Thane of Cawdor! All hail, Macbeth, that shalt be King hereafter!'"
+  },
+  {
+    "question": "In William Shakespeare's *Macbeth*, how is the prophecy that 'none of woman born shall harm Macbeth' fulfilled?",
+    "options": {
+      "a": "Malcolm was adopted by King Duncan",
+      "b": "Lady Macbeth poisoned his evening wine",
+      "c": "Banquo's ghost struck him down with an invisible sword",
+      "d": "Macduff was delivered via Caesarean section ('from his mother's womb untimely ripped')"
+    },
+    "answer": "d",
+    "explanation": "Macduff reveals that he was surgically delivered prematurely by Caesarean section, exempting him from being born in the natural sense."
+  },
+  {
+    "question": "In August Wilson's *Fences*, why is Troy Maxson intensely bitter about professional sports?",
+    "options": {
+      "a": "He was barred from Major League Baseball due to racial segregation",
+      "b": "He suffered a career-ending injury during his first season",
+      "c": "His manager embezzled all his tournament earnings",
+      "d": "He was suspended permanently for gambling"
+    },
+    "answer": "a",
+    "explanation": "Troy was an elite baseball hitter in the Negro Leagues but was aged out before Major League Baseball integrated, leaving him disillusioned."
+  },
+  {
+    "question": "In Lorraine Hansberry's *A Raisin in the Sun*, what anticipated event sparks the internal conflict among the Younger family?",
+    "options": {
+      "a": "The eviction notice served by their Chicago landlord",
+      "b": "The arrival of a $10,000 life insurance check after Big Walter's death",
+      "c": "Beneatha's scholarship offer to study medicine in Nigeria",
+      "d": "Walter Lee's promotion to company executive"
+    },
+    "answer": "b",
+    "explanation": "The receipt of the $10,000 insurance payout creates divergent family aspirations: a house, a liquor store business, or medical school tuition."
+  },
+  {
+    "question": "In William Shakespeare's *Hamlet*, how was King Hamlet murdered by his brother Claudius?",
+    "options": {
+      "a": "Stabbed with an unbated, envenomed rapier",
+      "b": "Drowned in a brook while hunting deer",
+      "c": "Poisoned with hebona poured into his ear while he slept in the orchard",
+      "d": "Suffocated in his royal bedchambers"
+    },
+    "answer": "c",
+    "explanation": "The Ghost reveals that Claudius crept into the garden during his afternoon nap and poured lethal hebona juice into his ear."
+  },
+  {
+    "question": "In John Osborne's play *Look Back in Anger*, Jimmy Porter represents the post-World War II British phenomenon known as the ______",
+    "options": {
+      "a": "Lost Generation",
+      "b": "Romantic Revivalists",
+      "c": "Beat Poets",
+      "d": "Angry Young Men"
+    },
+    "answer": "d",
+    "explanation": "Jimmy Porter is the archetype of the 'Angry Young Men'—working-class intellectuals alienated by Britain's rigid, hypocritical class establishment."
+  },
+  {
+    "question": "In Chinua Achebe's *Things Fall Apart*, why is Okonkwo banished from Umuofia for seven years to his motherland, Mbanta?",
+    "options": {
+      "a": "His gun accidentally exploded during Ezeudu's funeral, killing a sixteen-year-old boy",
+      "b": "He murdered Ikemefuna contrary to the Oracle's warning",
+      "c": "He assaulted his youngest wife during the sacred Week of Peace",
+      "d": "He refused to pay tribute to the colonial District Commissioner"
+    },
+    "answer": "a",
+    "explanation": "Okonkwo committed an inadvertent 'female' ochu (manslaughter) when his old gun exploded, requiring a 7-year exile to appease Ani."
+  },
+  {
+    "question": "In Chinua Achebe's *Things Fall Apart*, what is Okonkwo's overriding lifelong fear?",
+    "options": {
+      "a": "Fear of the forest spirits and the Evil Forest",
+      "b": "Fear of failure, weakness, and resembling his shiftless father, Unoka",
+      "c": "Fear of European military firepower",
+      "d": "Fear of premature death before taking royal titles"
+    },
+    "answer": "b",
+    "explanation": "Okonkwo's entire life is dominated by the terror of resembling his lazy, debtor father Unoka, causing him to despise gentleness as weakness."
+  },
+  {
+    "question": "In Chimamanda Ngozi Adichie's *Purple Hibiscus*, what environment offers Kambili and Jaja their first taste of intellectual freedom and warmth?",
+    "options": {
+      "a": "St. Agnes Catholic Church in Enugu",
+      "b": "Their grandfather Papa-Nnukwu's ancestral compound",
+      "c": "Aunty Ifeoma's lively academic household in Nsukka",
+      "d": "The boarding school dormitories in Lagos"
+    },
+    "answer": "c",
+    "explanation": "Aunty Ifeoma's home in Nsukka encourages open conversation, laughter, debate, and music, contrasting sharply with Papa Eugene's oppressive domestic regime."
+  },
+  {
+    "question": "In Chimamanda Ngozi Adichie's *Purple Hibiscus*, the rare purple hibiscus flowers cultivated in Nsukka symbolize ______",
+    "options": {
+      "a": "Blind submission to religious dogmatism",
+      "b": "Unrequited romantic longing between Kambili and Father Amadi",
+      "c": "The impending breakdown of civil governance in Nigeria",
+      "d": "Quiet rebellion, individual liberation, and spiritual hope"
+    },
+    "answer": "d",
+    "explanation": "The purple hibiscus represents freedom, defiance against Eugene's rigid control, and the blossoming of personal autonomy."
+  },
+  {
+    "question": "In Buchi Emecheta's *Second Class Citizen*, what act of cruelty by Francis decisively shatters Adah's hope for creative fulfillment?",
+    "options": {
+      "a": "Burning the completed handwritten manuscript of her first novel, *The Bride Price*",
+      "b": "Forcing her to work as a cleaner in Camden",
+      "c": "Refusing to register their children for primary education",
+      "d": "Selling her winter coats to buy lottery tickets"
+    },
+    "answer": "a",
+    "explanation": "Francis burns Adah's beloved manuscript *The Bride Price*, telling her she is just a second-class woman whose writing is worthless."
+  },
+  {
+    "question": "In Buchi Emecheta's *Second Class Citizen*, Adah's experiences in England highlight the double burden of ______",
+    "options": {
+      "a": "Industrial pollution and urban loneliness",
+      "b": "Racial discrimination abroad and patriarchal domestic abuse at home",
+      "c": "Language barriers and religious conversions",
+      "d": "Political radicalism and police surveillance"
+    },
+    "answer": "b",
+    "explanation": "Adah confronts overt racial prejudice as an African immigrant in London while simultaneously enduring violent marital subjugation by Francis."
+  },
+  {
+    "question": "In Alex Agyei-Agyiri's novel *Unexpected Joy at Dawn*, the socio-political backdrop centers upon ______",
+    "options": {
+      "a": "The Mau Mau rebellion against British land grabs",
+      "b": "The diamond conflicts in civil war Sierra Leone",
+      "c": "Mutual xenophobic mass expulsions of immigrants between Ghana and Nigeria",
+      "d": "Apartheid segregation and township pass laws in South Africa"
+    },
+    "answer": "c",
+    "explanation": "The novel explores reciprocal expulsions: Ghana's 1969 Aliens Compliance Order and Nigeria's 1983 expulsion of undocumented West Africans ('Ghana Must Go')."
+  },
+  {
+    "question": "In Amma Darko's *Faceless*, the tragic life and murder of Baby T exposes the harrowing realities of ______",
+    "options": {
+      "a": "Electoral corruption in Ghanaian municipal councils",
+      "b": "Female university students in elite boarding schools",
+      "c": "Illegal maritime poaching along the Gold Coast",
+      "d": "Destitution, child prostitution, and street children in the slums of Accra"
+    },
+    "answer": "d",
+    "explanation": "*Faceless* exposes the vulnerable world of street children in Accra's Agbogbloshie slum ('Sodom and Gomorrah'), where Baby T is exploited and murdered."
+  },
+  {
+    "question": "In George Orwell's satirical novella *Animal Farm*, which character serves as an allegorical representation of the Soviet revolutionary Leon Trotsky?",
+    "options": {
+      "a": "Snowball",
+      "b": "Boxer",
+      "c": "Squealer",
+      "d": "Old Major"
+    },
+    "answer": "a",
+    "explanation": "Snowball, the inventive pig driven into exile by Napoleon's hounds, directly allegorizes Leon Trotsky, who was purged by Joseph Stalin."
+  },
+  {
+    "question": "In George Orwell's *Animal Farm*, what final single commandment supplants the original Seven Commandments inscribed on the barn wall?",
+    "options": {
+      "a": "'Four legs good, two legs better!'",
+      "b": "'All animals are equal, but some animals are more equal than others.'",
+      "c": "'No animal shall sleep in a bed with sheets.'",
+      "d": "'Man is the only creature that consumes without producing.'"
+    },
+    "answer": "b",
+    "explanation": "The ultimate betrayal of Animalism concludes with the pigs amending the final commandment to legitimize their totalitarian elite status."
+  },
+  {
+    "question": "In Emily Brontë's *Wuthering Heights*, what primary motive drives Heathcliff's relentless vengeance against the Earnshaws and Lintons?",
+    "options": {
+      "a": "Greed to control the coal mines of Gimmerton",
+      "b": "His unlawful arrest by Mr. Lockwood",
+      "c": "The humiliation of his degraded status and Catherine's marriage to Edgar Linton",
+      "d": "The burning of his ancestral family home"
+    },
+    "answer": "c",
+    "explanation": "Heathcliff is consumed by destructive revenge after being abused as an orphan and heartbroken by Catherine's social marriage to Edgar Linton."
+  },
+  {
+    "question": "In Harper Lee's *To Kill a Mockingbird*, what grave false charge is brought against the black laborer Tom Robinson in Maycomb, Alabama?",
+    "options": {
+      "a": "Robbing the Maycomb County Treasury",
+      "b": "Trespassing on Boo Radley's property",
+      "c": "Arson of Miss Maudie's residence",
+      "d": "Raping and assaulting Mayella Ewell"
+    },
+    "answer": "d",
+    "explanation": "Tom Robinson is falsely accused and convicted of raping Mayella Ewell, despite clear evidence that Bob Ewell beat his own daughter."
+  },
+  {
+    "question": "In Richard Wright's *Native Son*, the protagonist Bigger Thomas is driven toward tragic homicide predominantly by ______",
+    "options": {
+      "a": "Pervasive racial terror, social conditioning, and systemic disenfranchisement",
+      "b": "Premeditated greed for ransom money",
+      "c": "Religious fanaticism inspired by local cults",
+      "d": "Gang rivalries on the South Side of Chicago"
+    },
+    "answer": "a",
+    "explanation": "Bigger's accidental killing of Mary Dalton stems from suffocating panic, terror, and the dehumanizing racial oppression of 1930s America."
+  },
+  {
+    "question": "In Kazuo Ishiguro's dystopian novel *Never Let Me Go*, what is the grim underlying reality facing the students raised at Hailsham?",
+    "options": {
+      "a": "They are child soldiers trained for overseas conflict",
+      "b": "They are clones reared solely to provide vital organ donations until they 'complete'",
+      "c": "They are genetic experiments created to replace industrial laborers",
+      "d": "They are political hostages detained to enforce civilian obedience"
+    },
+    "answer": "b",
+    "explanation": "The students at Hailsham are human clones whose sole destined purpose in society is to undergo repeated organ harvesting until death."
+  },
+  {
+    "question": "In Gabriel Okara's celebrated poem 'Piano and Drums', what central thematic conflict is dramatized?",
+    "options": {
+      "a": "The ecological destruction caused by modern industrial oil drilling",
+      "b": "A musical contest between traditional griots and classical European pianists",
+      "c": "The dilemma of an African trapped between primal indigenous heritage and complex European civilization",
+      "d": "The violent military struggle for African national independence"
+    },
+    "answer": "c",
+    "explanation": "The poem contrasts the raw, intuitive spirituality of African drums with the labyrinthine, technical complexity of the Western piano."
+  },
+  {
+    "question": "In Birago Diop's poem 'Vanity', the poet chides modern Africans for foolishly ______",
+    "options": {
+      "a": "Refusing to adopt Western formal education",
+      "b": "Engaging in ethnic wars over communal boundaries",
+      "c": "Accumulating transient material wealth",
+      "d": "Ignoring the eternal presence, voices, and counsel of their ancestral spirits"
+    },
+    "answer": "d",
+    "explanation": "Diop admonishes contemporary Africans for their blind vanity in neglecting the ancestors who speak in the air, water, and trees."
+  },
+  {
+    "question": "In Kofi Awoonor's poem 'The Weaver Bird', the weaver bird's aggressive colonization of the sacred shrine allegorically represents ______",
+    "options": {
+      "a": "The devastating arrival and cultural disruption of European colonialism in Africa",
+      "b": "The migration of locust swarms destroying farm harvests",
+      "c": "The spread of traditional religious shrines along the coast",
+      "d": "The introduction of modern scientific agriculture"
+    },
+    "answer": "a",
+    "explanation": "The weaver bird that arrived in search of shelter and ended up claiming the shrine symbolizes European colonial intrusion and dispossession."
+  },
+  {
+    "question": "In Maya Angelou's poem 'Caged Bird', the caged bird sings 'with a fearful trill / of things unknown / but longed for still' because ______",
+    "options": {
+      "a": "It is mourning the death of its fledglings",
+      "b": "Its physical captivity cannot extinguish its innate yearning for freedom",
+      "c": "It is mimicking the song of forest birds outside",
+      "d": "It fears the predator stalking outside its enclosure"
+    },
+    "answer": "b",
+    "explanation": "Though physically confined with clipped wings and tied feet, the caged bird's song is an unconquerable cry for civil freedom and human dignity."
+  },
+  {
+    "question": "In John Donne's Holy Sonnet 'Death, Be Not Proud', what prominent literary device is employed as the speaker directly addresses Death?",
+    "options": {
+      "a": "Onomatopoeia",
+      "b": "Synecdoche",
+      "c": "Apostrophe",
+      "d": "Litotes"
+    },
+    "answer": "c",
+    "explanation": "Apostrophe is a figure of speech in which an abstract quality, absent person, or non-human entity (Death) is addressed directly as if present."
+  },
+  {
+    "question": "In T.S. Eliot's poem 'The Journey of the Magi', the arduous winter journey undertaken by the Wise Men symbolizes ______",
+    "options": {
+      "a": "The physical decline of Roman imperial road networks",
+      "b": "A royal diplomatic expedition across Persia",
+      "c": "The commercial difficulties of trading frankincense in winter",
+      "d": "The painful spiritual death of an old pagan order to achieve new Christian faith"
+    },
+    "answer": "d",
+    "explanation": "The Magi's grueling trek represents the painful existential death of their old worldly dispensations to attain spiritual enlightenment."
+  },
+  {
+    "question": "In William Wordsworth's 'I Wandered Lonely as a Cloud' (Daffodils), the poet emphasizes the therapeutic power of nature through the ______",
+    "options": {
+      "a": "Recollection of golden daffodils by the 'inward eye' during pensive or vacant moods",
+      "b": "Sudden arrival of refreshing spring rains",
+      "c": "Careful scientific classification of lakeside wildflowers",
+      "d": "Joyful dance with village children among the hills"
+    },
+    "answer": "a",
+    "explanation": "Wordsworth explains that memory and imagination ('the inward eye / Which is the bliss of solitude') revive the serene beauty of the daffodils."
+  },
+  {
+    "question": "In Wole Soyinka's satirical poem 'Telephone Conversation', what social vice is humorously yet incisively exposed?",
+    "options": {
+      "a": "The technical inefficiency of British telephone operators",
+      "b": "Subtle, hypocritical racial discrimination encountered by an African apartment seeker in Britain",
+      "c": "The economic exploitation of tenants by London property cartels",
+      "d": "The loneliness of foreign scholars living in Europe"
+    },
+    "answer": "b",
+    "explanation": "The poem lampoons British polite racial prejudice when a landlady interrogates an African caller about the exact pigment darkness of his skin."
+  }
+]

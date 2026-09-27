@@ -1,0 +1,552 @@
+[
+  {
+    "question": "What is the dimension of universal gravitational constant, G?",
+    "options": {
+      "a": "M⁻¹ L³ T⁻²",
+      "b": "M L² T⁻²",
+      "c": "M⁻¹ L² T⁻¹",
+      "d": "M L³ T⁻²"
+    },
+    "answer": "a",
+    "explanation": "From Newton's law of gravitation, F = G(m₁m₂)/r², so G = Fr²/(m₁m₂). Substituting dimensions: [G] = (M L T⁻²)(L²) / (M²) = M⁻¹ L³ T⁻²."
+  },
+  {
+    "question": "Two forces of magnitudes 6 N and 8 N act at a point at right angles to each other. What is the magnitude of their resultant force?",
+    "options": {
+      "a": "2 N",
+      "b": "10 N",
+      "c": "14 N",
+      "d": "48 N"
+    },
+    "answer": "b",
+    "explanation": "Since the forces are perpendicular (θ = 90°), the resultant R = √(F₁² + F₂²) = √(6² + 8²) = √(36 + 64) = √100 = 10 N."
+  },
+  {
+    "question": "A car accelerates uniformly from rest at 2.5 m/s² for 8 seconds. What total distance does it cover during this period?",
+    "options": {
+      "a": "20 m",
+      "b": "40 m",
+      "c": "80 m",
+      "d": "160 m"
+    },
+    "answer": "c",
+    "explanation": "Using the equation of motion s = ut + 0.5at²: since u = 0, s = 0.5 * 2.5 * (8)² = 0.5 * 2.5 * 64 = 80 m."
+  },
+  {
+    "question": "A projectile is launched from the ground with an initial velocity of 40 m/s at an angle of 30° to the horizontal. Calculate the maximum height reached. [g = 10 m/s²]",
+    "options": {
+      "a": "20 m",
+      "b": "40 m",
+      "c": "10 m",
+      "d": "80 m"
+    },
+    "answer": "a",
+    "explanation": "The maximum height H = (u² sin²θ) / (2g). Here u = 40 m/s and sin 30° = 0.5. H = (40² * 0.5²) / (2 * 10) = (1600 * 0.25) / 20 = 400 / 20 = 20 m."
+  },
+  {
+    "question": "A constant net force of 25 N acts on a body of mass 5 kg initially at rest for 4 seconds. What is the final momentum of the body?",
+    "options": {
+      "a": "20 kg·m/s",
+      "b": "100 kg·m/s",
+      "c": "500 kg·m/s",
+      "d": "25 kg·m/s"
+    },
+    "answer": "b",
+    "explanation": "Impulse = Change in momentum = Force * time. Since the body starts from rest (initial momentum = 0), Final Momentum = F * Δt = 25 N * 4 s = 100 kg·m/s."
+  },
+  {
+    "question": "A ball of mass 0.4 kg moving with a velocity of 15 m/s collides head-on with a stationary ball of mass 0.6 kg and sticks to it. What is the common velocity of the balls after the collision?",
+    "options": {
+      "a": "6.0 m/s",
+      "b": "7.5 m/s",
+      "c": "10.0 m/s",
+      "d": "3.0 m/s"
+    },
+    "answer": "a",
+    "explanation": "By conservation of linear momentum: m₁u₁ + m₂u₂ = (m₁ + m₂)v. (0.4 * 15) + (0.6 * 0) = (0.4 + 0.6)v => 6.0 = 1.0 * v => v = 6.0 m/s."
+  },
+  {
+    "question": "A machine with a velocity ratio of 5 requires an effort of 60 N to lift a load of 240 N. What is the efficiency of the machine?",
+    "options": {
+      "a": "40%",
+      "b": "75%",
+      "c": "80%",
+      "d": "85%"
+    },
+    "answer": "c",
+    "explanation": "Mechanical Advantage (M.A.) = Load / Effort = 240 / 60 = 4. Efficiency = (M.A. / V.R.) * 100% = (4 / 5) * 100% = 80%."
+  },
+  {
+    "question": "If the distance between two masses is doubled, the gravitational force of attraction between them is ______",
+    "options": {
+      "a": "Doubled",
+      "b": "Halved",
+      "c": "Quadrupled",
+      "d": "Reduced to one-fourth"
+    },
+    "answer": "d",
+    "explanation": "By Newton's Universal Law of Gravitation, F ∝ 1/r². When distance r is multiplied by 2, the force becomes 1/(2)² = 1/4 of its initial value."
+  },
+  {
+    "question": "An object of mass 2 kg moves with a constant speed of 10 m/s in a circular path of radius 5 m. What is the centripetal force acting on the object?",
+    "options": {
+      "a": "20 N",
+      "b": "40 N",
+      "c": "100 N",
+      "d": "4 N"
+    },
+    "answer": "b",
+    "explanation": "Centripetal force F = (m * v²) / r = (2 * 10²) / 5 = (2 * 100) / 5 = 200 / 5 = 40 N."
+  },
+  {
+    "question": "A simple pendulum has a period of 2.0 seconds on Earth. If its length is quadrupled, its new period will be ______",
+    "options": {
+      "a": "1.0 s",
+      "b": "4.0 s",
+      "c": "8.0 s",
+      "d": "0.5 s"
+    },
+    "answer": "b",
+    "explanation": "Period of a simple pendulum T = 2π√(L/g), meaning T ∝ √L. If length L is quadrupled (4L), the period is multiplied by √4 = 2. New period = 2.0 * 2 = 4.0 s."
+  },
+  {
+    "question": "A spiral spring is extended by 0.04 m when a load of 20 N is suspended from it. What is the elastic potential energy stored in the spring?",
+    "options": {
+      "a": "0.40 J",
+      "b": "0.80 J",
+      "c": "0.08 J",
+      "d": "1.60 J"
+    },
+    "answer": "a",
+    "explanation": "Elastic potential energy E = 0.5 * F * e = 0.5 * 20 N * 0.04 m = 0.40 J."
+  },
+  {
+    "question": "Calculate the hydrostatic pressure exerted by water at the bottom of a swimming pool 3.0 m deep. [Density of water = 1000 kg/m³, g = 9.8 m/s²]",
+    "options": {
+      "a": "2.94 × 10⁴ N/m²",
+      "b": "3.33 × 10⁴ N/m²",
+      "c": "2.94 × 10³ N/m²",
+      "d": "9.80 × 10⁴ N/m²"
+    },
+    "answer": "a",
+    "explanation": "Hydrostatic pressure P = h * ρ * g = 3.0 m * 1000 kg/m³ * 9.8 m/s² = 29,400 N/m² = 2.94 × 10⁴ N/m²."
+  },
+  {
+    "question": "A solid body weighs 5.0 N in air and 3.8 N when completely immersed in water. What is the upthrust exerted by the water on the body?",
+    "options": {
+      "a": "8.8 N",
+      "b": "5.0 N",
+      "c": "1.2 N",
+      "d": "3.8 N"
+    },
+    "answer": "c",
+    "explanation": "Upthrust = Real weight in air - Apparent weight in water = 5.0 N - 3.8 N = 1.2 N."
+  },
+  {
+    "question": "The rise or depression of liquid in a narrow tube of small bore is termed ______",
+    "options": {
+      "a": "Capillarity",
+      "b": "Diffusion",
+      "c": "Osmosis",
+      "d": "Viscosity"
+    },
+    "answer": "a",
+    "explanation": "Capillarity is the phenomenon where liquid rises or falls in a narrow bore tube due to the relative magnitudes of adhesive and cohesive forces."
+  },
+  {
+    "question": "Which of the following temperature readings on the Celsius scale corresponds to absolute zero?",
+    "options": {
+      "a": "-100 °C",
+      "b": "-273.15 °C",
+      "c": "0 °C",
+      "d": "-373.15 °C"
+    },
+    "answer": "b",
+    "explanation": "Absolute zero is 0 Kelvin, which corresponds to 0 - 273.15 = -273.15 °C on the Celsius scale."
+  },
+  {
+    "question": "A brass rod of length 100 cm is heated from 20 °C to 70 °C. If the linear expansivity of brass is 1.9 × 10⁻⁵ K⁻¹, calculate the increase in length.",
+    "options": {
+      "a": "0.095 cm",
+      "b": "0.190 cm",
+      "c": "0.0095 cm",
+      "d": "0.950 cm"
+    },
+    "answer": "a",
+    "explanation": "Increase in length ΔL = L₀ * α * ΔT = 100 cm * (1.9 × 10⁻⁵ K⁻¹) * (70 - 20) K = 100 * 1.9 × 10⁻⁵ * 50 = 0.095 cm."
+  },
+  {
+    "question": "How much heat energy is required to raise the temperature of 2.0 kg of copper from 25 °C to 65 °C? [Specific heat capacity of copper = 400 J/(kg·K)]",
+    "options": {
+      "a": "16,000 J",
+      "b": "32,000 J",
+      "c": "52,000 J",
+      "d": "8,000 J"
+    },
+    "answer": "b",
+    "explanation": "Q = mcΔT = 2.0 kg * 400 J/(kg·K) * (65 - 25) K = 2.0 * 400 * 40 = 32,000 J."
+  },
+  {
+    "question": "The quantity of heat required to change a unit mass of a solid to liquid at its melting point without a change in temperature is called ______",
+    "options": {
+      "a": "Specific heat capacity",
+      "b": "Specific latent heat of vaporization",
+      "c": "Specific latent heat of fusion",
+      "d": "Thermal conductivity"
+    },
+    "answer": "c",
+    "explanation": "Specific latent heat of fusion is defined as the amount of heat energy required to change 1 kg of a substance from solid to liquid state at its melting point without a temperature change."
+  },
+  {
+    "question": "A silvered vacuum flask reduces heat transfer by radiation primarily through its ______",
+    "options": {
+      "a": "Double glass walls",
+      "b": "Evacuated vacuum space",
+      "c": "Silvered interior surfaces",
+      "d": "Cork or plastic stopper"
+    },
+    "answer": "c",
+    "explanation": "Silvered surfaces are poor emitters and excellent reflectors of radiant heat, minimizing heat transfer by thermal radiation."
+  },
+  {
+    "question": "Which of the following types of waves is longitudinal in nature?",
+    "options": {
+      "a": "Radio waves",
+      "b": "Light waves",
+      "c": "Sound waves in air",
+      "d": "Water ripples"
+    },
+    "answer": "c",
+    "explanation": "Sound waves in air propagate by alternating compressions and rarefactions where air particles oscillate parallel to the wave propagation direction, making them longitudinal waves."
+  },
+  {
+    "question": "A radio transmitter emits radio waves of frequency 100 MHz. What is the wavelength of the waves? [Speed of light c = 3.0 × 10⁸ m/s]",
+    "options": {
+      "a": "3.0 m",
+      "b": "0.33 m",
+      "c": "30.0 m",
+      "d": "300.0 m"
+    },
+    "answer": "a",
+    "explanation": "Using wave speed equation v = f * λ: λ = v / f = (3.0 × 10⁸ m/s) / (100 × 10⁶ Hz) = 3.0 m."
+  },
+  {
+    "question": "A boy stands 170 m in front of a tall vertical wall and claps his hands. If the speed of sound in air is 340 m/s, how long after clapping does he hear the echo?",
+    "options": {
+      "a": "0.5 s",
+      "b": "1.0 s",
+      "c": "2.0 s",
+      "d": "1.5 s"
+    },
+    "answer": "b",
+    "explanation": "For an echo: total distance travelled = 2 * d. Time t = (2 * d) / v = (2 * 170 m) / 340 m/s = 340 / 340 = 1.0 s."
+  },
+  {
+    "question": "The pitch of a musical sound note is directly determined by its ______",
+    "options": {
+      "a": "Amplitude",
+      "b": "Frequency",
+      "c": "Waveform",
+      "d": "Intensity"
+    },
+    "answer": "b",
+    "explanation": "Pitch is the subjective sensation of how high or low a musical note sounds, which depends directly on the frequency of the sound wave."
+  },
+  {
+    "question": "An open organ pipe has a length of 0.85 m. If the speed of sound in air is 340 m/s, what is the fundamental frequency produced by the pipe?",
+    "options": {
+      "a": "100 Hz",
+      "b": "200 Hz",
+      "c": "400 Hz",
+      "d": "85 Hz"
+    },
+    "answer": "b",
+    "explanation": "For an open organ pipe, the fundamental frequency f₀ = v / (2L) = 340 / (2 * 0.85) = 340 / 1.70 = 200 Hz."
+  },
+  {
+    "question": "How many images are formed when an object is placed between two plane mirrors inclined at an angle of 60° to each other?",
+    "options": {
+      "a": "5",
+      "b": "6",
+      "c": "4",
+      "d": "7"
+    },
+    "answer": "a",
+    "explanation": "Number of images n = (360° / θ) - 1 = (360° / 60°) - 1 = 6 - 1 = 5."
+  },
+  {
+    "question": "An object is placed 15 cm in front of a concave mirror of focal length 10 cm. What is the image distance?",
+    "options": {
+      "a": "6 cm",
+      "b": "25 cm",
+      "c": "30 cm",
+      "d": "15 cm"
+    },
+    "answer": "c",
+    "explanation": "Using the mirror formula: 1/f = 1/u + 1/v => 1/10 = 1/15 + 1/v => 1/v = 1/10 - 1/15 = (3 - 2)/30 = 1/30. Therefore, v = 30 cm."
+  },
+  {
+    "question": "The critical angle for a transparent medium in air is 30°. What is the refractive index of the medium?",
+    "options": {
+      "a": "0.50",
+      "b": "1.33",
+      "c": "1.50",
+      "d": "2.00"
+    },
+    "answer": "d",
+    "explanation": "The refractive index n is related to the critical angle c by n = 1 / sin(c) = 1 / sin(30°) = 1 / 0.5 = 2.00."
+  },
+  {
+    "question": "A converging lens has a focal length of +20 cm. What is its optical power in dioptres (D)?",
+    "options": {
+      "a": "+0.05 D",
+      "b": "+2.0 D",
+      "c": "+5.0 D",
+      "d": "+20.0 D"
+    },
+    "answer": "c",
+    "explanation": "Power of a lens P = 1 / f(in meters). Since f = +20 cm = +0.20 m, P = 1 / 0.20 = +5.0 D."
+  },
+  {
+    "question": "A person who cannot focus clearly on distant objects suffers from shortsightedness (myopia). This defect is corrected by using a ______",
+    "options": {
+      "a": "Cylindrical lens",
+      "b": "Bifocal lens",
+      "c": "Diverging (concave) lens",
+      "d": "Converging (convex) lens"
+    },
+    "answer": "c",
+    "explanation": "Myopia occurs when the eye's refractive system focuses images in front of the retina. A diverging (concave) lens spreads the incoming parallel rays so they focus precisely on the retina."
+  },
+  {
+    "question": "The separation of white light into its component colors as it passes through a triangular glass prism is known as ______",
+    "options": {
+      "a": "Diffraction",
+      "b": "Polarization",
+      "c": "Dispersion",
+      "d": "Total internal reflection"
+    },
+    "answer": "c",
+    "explanation": "Dispersion occurs because different wavelengths (colors) of light travel at different speeds through the glass and thus experience different degrees of refraction."
+  },
+  {
+    "question": "Two point charges of +2.0 µC and +8.0 µC are separated by a distance of 0.2 m in a vacuum. Calculate the electrostatic repulsive force between them. [1/(4πε₀) = 9.0 × 10⁹ N·m²/C²]",
+    "options": {
+      "a": "3.6 N",
+      "b": "0.72 N",
+      "c": "36.0 N",
+      "d": "7.2 N"
+    },
+    "answer": "a",
+    "explanation": "By Coulomb's law: F = (k * q₁ * q₂) / r² = (9.0 × 10⁹ * 2.0 × 10⁻⁶ * 8.0 × 10⁻⁶) / (0.2)² = (0.144) / 0.04 = 3.6 N."
+  },
+  {
+    "question": "What is the equivalent capacitance of two capacitors of 4 µF and 6 µF connected in series?",
+    "options": {
+      "a": "10.0 µF",
+      "b": "2.4 µF",
+      "c": "1.2 µF",
+      "d": "24.0 µF"
+    },
+    "answer": "b",
+    "explanation": "For two capacitors in series: 1/C_eq = 1/C₁ + 1/C₂ => C_eq = (C₁ * C₂) / (C₁ + C₂) = (4 * 6) / (4 + 6) = 24 / 10 = 2.4 µF."
+  },
+  {
+    "question": "A 10 µF capacitor is charged to a potential difference of 200 V. What is the electrical energy stored in the capacitor?",
+    "options": {
+      "a": "0.20 J",
+      "b": "0.40 J",
+      "c": "2.00 J",
+      "d": "0.02 J"
+    },
+    "answer": "a",
+    "explanation": "Energy stored E = 0.5 * C * V² = 0.5 * (10 × 10⁻⁶ F) * (200 V)² = 0.5 * 10⁻⁵ * 40,000 = 0.20 J."
+  },
+  {
+    "question": "A cylindrical copper wire has resistance R. If its length is doubled and its radius is halved, its new resistance becomes ______",
+    "options": {
+      "a": "2R",
+      "b": "4R",
+      "c": "8R",
+      "d": "16R"
+    },
+    "answer": "c",
+    "explanation": "R = ρL / A = ρL / (πr²). When length becomes 2L and radius becomes r/2, cross-sectional area becomes A/4. New resistance R' = ρ(2L) / (A/4) = 8(ρL/A) = 8R."
+  },
+  {
+    "question": "Three resistors of 2 Ω, 3 Ω, and 6 Ω are connected in parallel. What is their combined effective resistance?",
+    "options": {
+      "a": "11 Ω",
+      "b": "1 Ω",
+      "c": "1.5 Ω",
+      "d": "0.5 Ω"
+    },
+    "answer": "b",
+    "explanation": "1/R_p = 1/2 + 1/3 + 1/6 = 3/6 + 2/6 + 1/6 = 6/6 = 1 Ω⁻¹. Thus, R_p = 1 Ω."
+  },
+  {
+    "question": "A cell of e.m.f. 1.5 V and internal resistance 0.5 Ω is connected across an external resistor of 4.5 Ω. What is the current flowing in the circuit?",
+    "options": {
+      "a": "0.30 A",
+      "b": "0.33 A",
+      "c": "0.25 A",
+      "d": "3.00 A"
+    },
+    "answer": "a",
+    "explanation": "Total resistance R_total = R + r = 4.5 + 0.5 = 5.0 Ω. By Ohm's law: I = E / (R + r) = 1.5 / 5.0 = 0.30 A."
+  },
+  {
+    "question": "An electric heater is rated 1000 W, 240 V. Calculate the electrical energy consumed if it is operated continuously for 5 hours.",
+    "options": {
+      "a": "5 kWh",
+      "b": "200 kWh",
+      "c": "1.2 kWh",
+      "d": "50 kWh"
+    },
+    "answer": "a",
+    "explanation": "Energy in kWh = (Power in watts * Time in hours) / 1000 = (1000 W * 5 h) / 1000 = 5 kWh."
+  },
+  {
+    "question": "A straight wire of length 0.5 m carries a current of 4 A perpendicular to a uniform magnetic field of 0.6 T. What is the magnetic force experienced by the wire?",
+    "options": {
+      "a": "1.2 N",
+      "b": "2.4 N",
+      "c": "0.6 N",
+      "d": "4.8 N"
+    },
+    "answer": "a",
+    "explanation": "Magnetic force F = B * I * L * sin θ. Since θ = 90° (perpendicular), sin 90° = 1. F = 0.6 T * 4 A * 0.5 m * 1 = 1.2 N."
+  },
+  {
+    "question": "Lenz's law of electromagnetic induction is a direct consequence of the law of conservation of ______",
+    "options": {
+      "a": "Charge",
+      "b": "Energy",
+      "c": "Linear momentum",
+      "d": "Mass"
+    },
+    "answer": "b",
+    "explanation": "Lenz's law states that an induced current always flows in such a direction that its magnetic effect opposes the change that produces it, satisfying the law of conservation of energy."
+  },
+  {
+    "question": "An ideal step-down transformer has 1200 primary turns and 60 secondary turns. If the primary alternating voltage is 240 V, what is the output secondary voltage?",
+    "options": {
+      "a": "12 V",
+      "b": "24 V",
+      "c": "48 V",
+      "d": "6 V"
+    },
+    "answer": "a",
+    "explanation": "Using transformer turns ratio: V_s / V_p = N_s / N_p => V_s = V_p * (N_s / N_p) = 240 * (60 / 1200) = 240 * (1 / 20) = 12 V."
+  },
+  {
+    "question": "The root-mean-square (r.m.s.) voltage of a standard household sinusoidal AC supply is 220 V. What is the peak (maximum) voltage?",
+    "options": {
+      "a": "155.6 V",
+      "b": "311.1 V",
+      "c": "440.0 V",
+      "d": "220.0 V"
+    },
+    "answer": "b",
+    "explanation": "Peak voltage V₀ = V_rms * √2 ≈ 220 V * 1.4142 ≈ 311.1 V."
+  },
+  {
+    "question": "In a series R-L-C circuit at resonance, the electrical impedance Z of the circuit is ______",
+    "options": {
+      "a": "Equal to zero",
+      "b": "At its maximum value",
+      "c": "Purely resistive and equal to R",
+      "d": "Purely reactive"
+    },
+    "answer": "c",
+    "explanation": "At resonance, the inductive reactance equals capacitive reactance (X_L = X_C), completely cancelling each other out. The impedance Z = √(R² + (X_L - X_C)²) reduces to its minimum value, which is simply R."
+  },
+  {
+    "question": "The threshold frequency for a metallic cathode is 6.0 × 10¹⁴ Hz. What is the work function of the metal? [Planck's constant h = 6.63 × 10⁻³⁴ J·s]",
+    "options": {
+      "a": "3.98 × 10⁻¹⁹ J",
+      "b": "1.10 × 10⁻⁴⁸ J",
+      "c": "4.42 × 10⁻¹⁹ J",
+      "d": "9.05 × 10⁻¹⁹ J"
+    },
+    "answer": "a",
+    "explanation": "Work function W₀ = h * f₀ = 6.63 × 10⁻³⁴ J·s * 6.0 × 10¹⁴ Hz = 3.978 × 10⁻¹⁹ J ≈ 3.98 × 10⁻¹⁹ J."
+  },
+  {
+    "question": "In an X-ray tube, the kinetic energy of striking electrons is converted into X-ray photons. If the accelerating potential difference is 50 kV, what is the maximum kinetic energy of the electrons? [e = 1.6 × 10⁻¹⁹ C]",
+    "options": {
+      "a": "8.0 × 10⁻¹⁵ J",
+      "b": "3.1 × 10⁻²³ J",
+      "c": "8.0 × 10⁻¹⁶ J",
+      "d": "1.6 × 10⁻¹⁴ J"
+    },
+    "answer": "a",
+    "explanation": "Maximum kinetic energy KE_max = e * V = 1.6 × 10⁻¹⁹ C * 50,000 V = 8.0 × 10⁻¹⁵ J."
+  },
+  {
+    "question": "A radioactive isotope has a half-life of 12 days. What fraction of the original sample remains undecayed after 48 days?",
+    "options": {
+      "a": "1/4",
+      "b": "1/8",
+      "c": "1/16",
+      "d": "1/32"
+    },
+    "answer": "c",
+    "explanation": "Number of elapsed half-lives n = total time / half-life = 48 / 12 = 4. The remaining fraction is (1/2)⁴ = 1/16."
+  },
+  {
+    "question": "When a radioactive nucleus of Thorium-232 (²³²₉₀Th) emits an alpha particle, the resulting daughter nucleus has atomic number and mass number of ______",
+    "options": {
+      "a": "88 and 228",
+      "b": "91 and 232",
+      "c": "89 and 228",
+      "d": "88 and 230"
+    },
+    "answer": "a",
+    "explanation": "Alpha decay emits an alpha particle (⁴₂He), reducing the mass number by 4 (232 - 4 = 228) and the atomic number by 2 (90 - 2 = 88). The daughter nucleus is ²²⁸₈₈Ra."
+  },
+  {
+    "question": "Which of the following optical phenomena provides decisive experimental evidence that light travels as a transverse wave?",
+    "options": {
+      "a": "Interference",
+      "b": "Diffraction",
+      "c": "Polarization",
+      "d": "Refraction"
+    },
+    "answer": "c",
+    "explanation": "Polarization restricts wave vibrations to a single plane perpendicular to the direction of propagation; only transverse waves can be polarized."
+  },
+  {
+    "question": "A stone of mass 0.5 kg is dropped from the top of a building 20 m high. What is its kinetic energy just before hitting the ground? [g = 10 m/s², ignore air resistance]",
+    "options": {
+      "a": "50 J",
+      "b": "100 J",
+      "c": "200 J",
+      "d": "10 J"
+    },
+    "answer": "b",
+    "explanation": "By conservation of mechanical energy, the kinetic energy at the ground equals the initial potential energy at the top: KE = mgh = 0.5 kg * 10 m/s² * 20 m = 100 J."
+  },
+  {
+    "question": "In a hydraulic press, an effort applied to a small piston of cross-sectional area 0.02 m² generates a force that lifts a load on a larger piston of area 0.80 m². If an effort force of 50 N is applied, calculate the maximum load that can be lifted.",
+    "options": {
+      "a": "1000 N",
+      "b": "2000 N",
+      "c": "4000 N",
+      "d": "500 N"
+    },
+    "answer": "b",
+    "explanation": "By Pascal's principle, pressure is transmitted equally: P₁ = P₂ => F₁ / A₁ = F₂ / A₂ => F₂ = F₁ * (A₂ / A₁) = 50 * (0.80 / 0.02) = 50 * 40 = 2000 N."
+  },
+  {
+    "question": "What is the angle of dip (magnetic inclination) at the Earth's magnetic equator?",
+    "options": {
+      "a": "0°",
+      "b": "45°",
+      "c": "90°",
+      "d": "180°"
+    },
+    "answer": "a",
+    "explanation": "At the Earth's magnetic equator, the magnetic lines of force run completely horizontal to the Earth's surface, so the angle of dip is 0° (and 90° at the magnetic poles)."
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which of the following planets in the solar system is closest to the Sun?",
+    "options": {
+      "a": "Venus",
+      "b": "Mars",
+      "c": "Mercury",
+      "d": "Earth"
+    },
+    "answer": "c",
+    "explanation": "Mercury is the innermost planet in the solar system, orbiting closest to the Sun at an average distance of approximately 57.9 million kilometers."
+  },
+  {
+    "question": "The true shape of the Earth is best described as an ______",
+    "options": {
+      "a": "elongated ellipsoid",
+      "b": "oblate spheroid (geoid)",
+      "c": "exact geometrical sphere",
+      "d": "irregular flat disk"
+    },
+    "answer": "b",
+    "explanation": "The Earth is slightly flattened at the North and South Poles and bulges at the Equator due to centrifugal force from rotation, forming an oblate spheroid (geoid)."
+  },
+  {
+    "question": "Which of the following provides irrefutable evidence of the spherical shape of the Earth?",
+    "options": {
+      "a": "The changing phases of the moon during the month",
+      "b": "The occurrence of ocean tides twice every day",
+      "c": "The circular shadow cast by the Earth on the moon during a lunar eclipse",
+      "d": "The seasonal deflection of trade winds"
+    },
+    "answer": "c",
+    "explanation": "During a lunar eclipse, the Earth casts an unmistakably circular shadow on the moon from every angle, proving its spherical curvature."
+  },
+  {
+    "question": "The rotation of the Earth on its axis from west to east is directly responsible for ______",
+    "options": {
+      "a": "the alternation of day and night and deflection of winds",
+      "b": "varying lengths of daylight throughout the year",
+      "c": "the succession of the four seasons",
+      "d": "equinoxes and solstices"
+    },
+    "answer": "a",
+    "explanation": "Earth's 24-hour axial rotation causes the alternation of day and night and the Coriolis force that deflects planetary winds."
+  },
+  {
+    "question": "If the local time at Greenwich (0° longitude) is 12:00 noon, what is the local solar time in a town situated on longitude 45°E?",
+    "options": {
+      "a": "9:00 am",
+      "b": "3:00 pm",
+      "c": "6:00 pm",
+      "d": "1:00 pm"
+    },
+    "answer": "b",
+    "explanation": "The Earth rotates 15° per hour (or 1° in 4 minutes). 45° difference = 45 / 15 = 3 hours. Since the town is East of Greenwich, time is ahead: 12:00 noon + 3 hours = 3:00 pm."
+  },
+  {
+    "question": "The International Date Line lies along which approximate meridian of longitude?",
+    "options": {
+      "a": "360° meridian",
+      "b": "180° meridian",
+      "c": "90°W meridian",
+      "d": "0° meridian"
+    },
+    "answer": "b",
+    "explanation": "The International Date Line follows roughly the 180° meridian in the Pacific Ocean; crossing westward adds a calendar day, while crossing eastward subtracts a day."
+  },
+  {
+    "question": "The Earth is at perihelion (closest to the Sun) around ______",
+    "options": {
+      "a": "March 21",
+      "b": "July 4",
+      "c": "January 3",
+      "d": "September 23"
+    },
+    "answer": "c",
+    "explanation": "Earth reaches perihelion (approx. 147 million km from the Sun) around January 3 each year, and aphelion (farthest, approx. 152 million km) around July 4."
+  },
+  {
+    "question": "An equinox occurs when the overhead sun is directly above the ______",
+    "options": {
+      "a": "Equator (0°)",
+      "b": "Tropic of Cancer (23.5°N)",
+      "c": "Arctic Circle (66.5°N)",
+      "d": "Tropic of Capricorn (23.5°S)"
+    },
+    "answer": "a",
+    "explanation": "Equinoxes occur on March 21 and September 23 when the midday sun is vertical at the Equator, resulting in equal 12-hour day and night worldwide."
+  },
+  {
+    "question": "The intermediate layer of the Earth situated directly beneath the crust is the ______",
+    "options": {
+      "a": "Mantle (Mesosphere)",
+      "b": "Outer Core",
+      "c": "Hydrosphere",
+      "d": "Inner Core"
+    },
+    "answer": "a",
+    "explanation": "Beneath the thin outer crust (lithosphere) lies the dense mantle (mesosphere), extending to a depth of about 2,900 km, composed predominantly of silicate rocks rich in iron and magnesium."
+  },
+  {
+    "question": "The core (barysphere) of the Earth is composed predominantly of ______",
+    "options": {
+      "a": "silica and alumina (sial)",
+      "b": "silica and magnesium (sima)",
+      "c": "calcium and carbonate",
+      "d": "nickel and iron (nife)"
+    },
+    "answer": "d",
+    "explanation": "The core of the Earth is known as 'Nife' because of its heavy metallic composition dominated by nickel (Ni) and iron (Fe)."
+  },
+  {
+    "question": "Granite and gabbro are classified geologically as ______",
+    "options": {
+      "a": "organically formed sedimentary rocks",
+      "b": "volcanic (extrusive) igneous rocks",
+      "c": "plutonic (intrusive) igneous rocks",
+      "d": "foliated metamorphic rocks"
+    },
+    "answer": "c",
+    "explanation": "Plutonic igneous rocks cool and solidify slowly deep within the Earth's crust, developing large, coarse crystalline mineral grains (e.g. granite, gabbro, diorite)."
+  },
+  {
+    "question": "Which of the following is an example of an organically formed sedimentary rock?",
+    "options": {
+      "a": "Basalt",
+      "b": "Coal",
+      "c": "Sandstone",
+      "d": "Gneiss"
+    },
+    "answer": "b",
+    "explanation": "Coal is formed from vegetative plant remains compressed and carbonized under immense pressure over millions of years."
+  },
+  {
+    "question": "Under intense heat and dynamic pressure within the crust, limestone metamorphoses into ______",
+    "options": {
+      "a": "Marble",
+      "b": "Slate",
+      "c": "Schist",
+      "d": "Quartzite"
+    },
+    "answer": "a",
+    "explanation": "When sedimentary limestone undergoes thermal and contact metamorphism, its calcite crystals recrystallize to form marble."
+  },
+  {
+    "question": "Which of the following mountain ranges was formed as a result of large-scale tectonic folding?",
+    "options": {
+      "a": "The Himalayas in Asia",
+      "b": "The Vosges in France",
+      "c": "The Black Forest in Germany",
+      "d": "The Drakensberg in South Africa"
+    },
+    "answer": "a",
+    "explanation": "The Himalayas are young fold mountains formed by the compressional collision of the Indo-Australian plate with the Eurasian plate."
+  },
+  {
+    "question": "A graben or rift valley is formed primarily by tectonic ______",
+    "options": {
+      "a": "compressional folding forming anticlines",
+      "b": "marine wave erosion cutting coastal cliffs",
+      "c": "wind deflation scooping sand basins",
+      "d": "tensional faulting causing subsidence of a central crustal block"
+    },
+    "answer": "d",
+    "explanation": "A rift valley (graben), such as the East African Rift Valley, is formed when tensional crustal forces cause the central block of rock between parallel faults to subside."
+  },
+  {
+    "question": "An intrusive igneous rock structure formed when magma solidifies horizontally along bedding planes between rock layers is a ______",
+    "options": {
+      "a": "Sill",
+      "b": "Batholith",
+      "c": "Laccolith",
+      "d": "Dyke"
+    },
+    "answer": "a",
+    "explanation": "A sill is a horizontal sheet-like concordant igneous intrusion that solidifies parallel to existing sedimentary strata. A dyke cuts vertically across strata."
+  },
+  {
+    "question": "The point on the Earth's surface situated vertically directly above the underground origin (focus) of an earthquake is the ______",
+    "options": {
+      "a": "fault scarp",
+      "b": "subduction trench",
+      "c": "epicenter",
+      "d": "anticline"
+    },
+    "answer": "c",
+    "explanation": "The epicenter is the geographic point on the surface directly above the hypocenter (focus) where earthquake shock waves first hit and are felt most severely."
+  },
+  {
+    "question": "Exfoliation (onion-skin peeling) is a common form of physical weathering prevalent in ______",
+    "options": {
+      "a": "hot, arid desert environments with extreme diurnal temperature ranges",
+      "b": "dense equatorial tropical rain forests",
+      "c": "temperate marine coastal beaches",
+      "d": "perennially frozen polar tundra regions"
+    },
+    "answer": "a",
+    "explanation": "In deserts, extreme diurnal temperature fluctuations cause alternating expansion and contraction of outer rock layers, causing them to crack and peel away like onion skins."
+  },
+  {
+    "question": "The chemical weathering process responsible for the formation of sinkholes, caves, and underground pillars in limestone regions is ______",
+    "options": {
+      "a": "hydrolysis",
+      "b": "hydration",
+      "c": "oxidation",
+      "d": "carbonation (solution)"
+    },
+    "answer": "d",
+    "explanation": "Rainwater absorbs atmospheric carbon dioxide to form weak carbonic acid, which reacts with insoluble calcium carbonate to form soluble calcium bicarbonate."
+  },
+  {
+    "question": "Which of the following river features is typically found in the upper (youthful) course of a river?",
+    "options": {
+      "a": "Ox-bow lake",
+      "b": "Waterfall and V-shaped gorge",
+      "c": "Arcuate delta",
+      "d": "Extensive floodplain"
+    },
+    "answer": "b",
+    "explanation": "In the youthful upper stage, steep gradients and dominant vertical erosion produce steep V-shaped valleys, waterfalls, rapids, and interlocking spurs."
+  },
+  {
+    "question": "An ox-bow lake is a characteristic depositional-erosional fluvial feature found in the ______",
+    "options": {
+      "a": "glaciated cirque basin",
+      "b": "youthful mountain torrent stage",
+      "c": "limestone swallow hole",
+      "d": "lower or mature flood plain course of a river"
+    },
+    "answer": "d",
+    "explanation": "Ox-bow lakes form in the middle and lower river stages when continuous lateral erosion and deposition across a meandering river neck eventually cut off a meander loop."
+  },
+  {
+    "question": "A triangular or fan-shaped alluvial depositional landform formed at the mouth of a river as it enters a quiet sea is an ______",
+    "options": {
+      "a": "estuary",
+      "b": "interlocking spur",
+      "c": "alluvial terrace",
+      "d": "arcuate delta"
+    },
+    "answer": "d",
+    "explanation": "An arcuate delta (like the Niger or Nile delta) is a triangular, fan-shaped depositional feature composed of alluvium deposited where a river discharges into a low-tidal body of water."
+  },
+  {
+    "question": "A desert erosional landform consisting of sharp, steep-sided ridges of hard rock alternating with wind-scoured troughs of soft rock aligned parallel to the prevailing wind is a ______",
+    "options": {
+      "a": "Zeugen",
+      "b": "Pediment",
+      "c": "Yardang",
+      "d": "Barchan"
+    },
+    "answer": "c",
+    "explanation": "Yardangs are vertical, parallel ridges of resistant rock separated by wind-abraded furrows, formed in arid regions where vertical rock bands lie parallel to the wind."
+  },
+  {
+    "question": "A crescent-shaped sand dune whose two convex horns point in the direction of the prevailing wind is a ______",
+    "options": {
+      "a": "Loess plateau",
+      "b": "Sand spit",
+      "c": "Barchan",
+      "d": "Seif dune"
+    },
+    "answer": "c",
+    "explanation": "A Barchan is a crescent-shaped mobile sand dune with a gentle windward slope and a steep leeward slip face, with crescent tips (horns) pointing downwind."
+  },
+  {
+    "question": "In coastal geomorphology, a narrow ridge of sand or shingle deposited across an ocean bay connecting an offshore island to the mainland is known as a ______",
+    "options": {
+      "a": "Stack",
+      "b": "Spit",
+      "c": "Tombolo",
+      "d": "Wave-cut notch"
+    },
+    "answer": "c",
+    "explanation": "A tombolo is a depositional coastal landform consisting of a spit or sandbar that joins an offshore island to the mainland (e.g. Chesil Beach connecting Isle of Portland)."
+  },
+  {
+    "question": "A steep-sided, isolated pillar of rock standing offshore in the sea formed when a coastal arch collapses under wave attack is a ______",
+    "options": {
+      "a": "Barchan",
+      "b": "Stack",
+      "c": "Spit",
+      "d": "Stump"
+    },
+    "answer": "b",
+    "explanation": "Continuous hydraulic action and wave abrasion erode caves through headlands into natural arches; when the roof of an arch collapses, the isolated seaward pillar remaining is a stack."
+  },
+  {
+    "question": "In a limestone cave, a conical calcium carbonate formation growing upward from the floor of the cavern is a ______",
+    "options": {
+      "a": "Doline",
+      "b": "Stalagmite",
+      "c": "Uvala",
+      "d": "Stalactite"
+    },
+    "answer": "b",
+    "explanation": "Stalagmites grow upward from the cave floor where water droplets fall and deposit calcite, while stalactites hang down from the cave ceiling."
+  },
+  {
+    "question": "A steep-sided, amphitheatre-shaped armchair hollow carved out of a mountainside by glacial plucking and frost-shattering is a ______",
+    "options": {
+      "a": "Esker",
+      "b": "Cirque (Corrie)",
+      "c": "Drumlin",
+      "d": "Moraine"
+    },
+    "answer": "b",
+    "explanation": "A cirque (also called a corrie or cwm) is an armchair-shaped, steep-walled glacial basin formed at high elevations by freeze-thaw weathering and glacial plucking."
+  },
+  {
+    "question": "A Stevenson screen used at a meteorological weather station is painted white primarily to ______",
+    "options": {
+      "a": "increase visibility to aircraft flying overhead",
+      "b": "protect internal electronic components from fungal attack",
+      "c": "reflect solar radiation and avoid absorbing heat from sunlight",
+      "d": "prevent moisture condensation on the glass instruments"
+    },
+    "answer": "c",
+    "explanation": "The white paint reflects incoming direct sunlight, and louvered sides provide free ventilation, ensuring thermometers record true ambient shade temperature."
+  },
+  {
+    "question": "Which meteorological instrument is utilized to measure atmospheric humidity (the amount of water vapour in the air)?",
+    "options": {
+      "a": "Campbell-Stokes sunshine recorder",
+      "b": "Cup anemometer",
+      "c": "Hygrometer (wet-and-dry bulb thermometer)",
+      "d": "Aneroid barometer"
+    },
+    "answer": "c",
+    "explanation": "A hygrometer (psychrometer), consisting of dry and wet-bulb thermometers, calculates relative humidity by comparing the depression of the wet bulb."
+  },
+  {
+    "question": "In the troposphere, air temperature normally decreases with increasing altitude at the average environmental lapse rate of approximately ______",
+    "options": {
+      "a": "6.5°C per 1,000 metres",
+      "b": "0.1°C per 100 metres",
+      "c": "15°C per 1,000 metres",
+      "d": "1°C per 1,000 metres"
+    },
+    "answer": "a",
+    "explanation": "The normal (environmental) lapse rate in the lower atmosphere averages approximately 6.5°C per 1,000 meters (or 1°C per 160 meters) of ascent."
+  },
+  {
+    "question": "Relief (orographic) rainfall occurs predominantly when moisture-laden winds ______",
+    "options": {
+      "a": "converge at a warm maritime low-pressure trough",
+      "b": "are heated intensely by the equatorial midday sun",
+      "c": "descend into deep interior continental rift valleys",
+      "d": "are forced to rise rapidly over a mountain barrier"
+    },
+    "answer": "d",
+    "explanation": "Orographic rain occurs when moist air masses encounter high relief barriers (mountains), rise, cool adiabatically, condense, and precipitate on the windward slope."
+  },
+  {
+    "question": "The Inter-Tropical Convergence Zone (ITCZ) is a low-pressure belt where ______",
+    "options": {
+      "a": "polar easterlies collide with the mid-latitude westerlies",
+      "b": "cold ocean currents cause chronic coastal aridity",
+      "c": "subtropical jet streams subduct beneath the troposphere",
+      "d": "the northeast trade winds and southeast trade winds converge"
+    },
+    "answer": "d",
+    "explanation": "The ITCZ is the equatorial zone of low atmospheric pressure where the Northeast trade winds (Harmattan in West Africa) converge with the moist Southwest monsoon winds."
+  },
+  {
+    "question": "The dry, cold, and dust-laden trade wind that blows across West Africa from the Sahara Desert between November and February is the ______",
+    "options": {
+      "a": "Southwest Monsoon",
+      "b": "Sirocco",
+      "c": "Mistral",
+      "d": "Harmattan (Northeast Trade)"
+    },
+    "answer": "d",
+    "explanation": "The Harmattan originates from the Sahara Desert as the Northeast Trade Wind, characterized by dry, hazy conditions and cool night temperatures across West Africa."
+  },
+  {
+    "question": "Which climatic type is characterized by hot, dry summers and mild, rainy winters?",
+    "options": {
+      "a": "Tundra climate",
+      "b": "Mediterranean climate",
+      "c": "Tropical continental (Sudan) climate",
+      "d": "Equatorial climate"
+    },
+    "answer": "b",
+    "explanation": "The Mediterranean climate (found around the Mediterranean Sea, Central Chile, Cape Town, SW Australia) is famed for hot, dry summers and cyclonic winter rainfall."
+  },
+  {
+    "question": "The Tropical Rainforest vegetation belt is characterized by ______",
+    "options": {
+      "a": "tall deciduous trees that shed their leaves in winter",
+      "b": "multi-layered tree canopies, broad-leaved evergreens, and buttress roots",
+      "c": "thick spongy cushions of mosses and lichens",
+      "d": "scattered acacia shrubs and extensive expanses of short grass"
+    },
+    "answer": "b",
+    "explanation": "Tropical rainforests feature intense biodiversity arranged in stratified layers (emergents, canopy, understorey) with tall broad-leaved evergreens, lianas, and buttress root systems."
+  },
+  {
+    "question": "A mature soil profile typically exhibits distinct horizontal zones called horizons. The 'A' horizon corresponds to the ______",
+    "options": {
+      "a": "topsoil rich in decayed organic matter (humus)",
+      "b": "impermeable cemented clay pan",
+      "c": "zone of accumulation or subsoil",
+      "d": "unaltered solid parent bedrock"
+    },
+    "answer": "a",
+    "explanation": "The 'A' horizon (topsoil) is the uppermost mineral horizon containing biologically active decomposed organic matter (humus), essential for plant nutrition."
+  },
+  {
+    "question": "Lateritic soils found extensively in hot, humid tropical regions are formed primarily by intense ______",
+    "options": {
+      "a": "accumulation of marine coral carbonates",
+      "b": "windblown deposition of fine loess dust",
+      "c": "leaching of silica, leaving oxides of iron and aluminum in upper horizons",
+      "d": "frost shatter in mountain crevices"
+    },
+    "answer": "c",
+    "explanation": "High rainfall and temperatures promote intense leaching (laterization), dissolving and washing away soluble silica and alkalis, leaving insoluble reddish iron and aluminum sesquioxides."
+  },
+  {
+    "question": "On a topographic map drawn to a Representative Fraction (R.F.) scale of 1:50,000, a measured distance of 10 cm on the map represents an actual ground distance of ______",
+    "options": {
+      "a": "50 km",
+      "b": "0.5 km",
+      "c": "500 km",
+      "d": "5 km"
+    },
+    "answer": "d",
+    "explanation": "10 cm on map = 10 * 50,000 cm = 500,000 cm. Since 100,000 cm = 1 km, 500,000 cm = 5 km."
+  },
+  {
+    "question": "On a contoured map, contour lines drawn very close together depict a terrain with a ______",
+    "options": {
+      "a": "gentle slope",
+      "b": "uniform low plateau",
+      "c": "broad flat floodplain",
+      "d": "steep slope or cliff"
+    },
+    "answer": "d",
+    "explanation": "Contour lines represent points of equal elevation above sea level. Closely packed contour lines indicate a rapid change in elevation over short horizontal distance (steep slope)."
+  },
+  {
+    "question": "Nigeria's primary commercial deposits of crude petroleum and natural gas are concentrated in the ______",
+    "options": {
+      "a": "Benue Trough near Yola",
+      "b": "Niger Delta Basin",
+      "c": "Jos Plateau",
+      "d": "Sokoto Basin"
+    },
+    "answer": "b",
+    "explanation": "Nigeria's hydrocarbon reserves are situated predominantly within the sedimentary tertiary strata of the Niger Delta Basin, onshore and offshore in the Gulf of Guinea."
+  },
+  {
+    "question": "In Nigeria, sub-bituminous coal has been historically mined in commercial quantities in ______",
+    "options": {
+      "a": "Bida (Niger State)",
+      "b": "Enugu (Enugu State)",
+      "c": "Warri (Delta State)",
+      "d": "Jos (Plateau State)"
+    },
+    "answer": "b",
+    "explanation": "Commercial coal mining in Nigeria began in 1916 around Enugu along the Udi hills escarpment."
+  },
+  {
+    "question": "Cassiterite (tin ore) and columbite have been historically extracted on an extensive commercial scale on the ______",
+    "options": {
+      "a": "Mambilla Plateau",
+      "b": "Mandara Mountains",
+      "c": "Jos Plateau",
+      "d": "Biú Plateau"
+    },
+    "answer": "c",
+    "explanation": "The Jos Plateau is internationally renowned for its rich alluvial deposits of cassiterite (tin ore) and columbite mined since the colonial era."
+  },
+  {
+    "question": "The largest iron ore deposit in Nigeria, exploited to feed the Ajaokuta Steel Plant, is situated at ______",
+    "options": {
+      "a": "Ogoja in Cross River State",
+      "b": "Birnin Gwari in Kaduna State",
+      "c": "Akiri in Nasarawa State",
+      "d": "Itakpe in Kogi State"
+    },
+    "answer": "d",
+    "explanation": "The Itakpe Iron Ore deposit in Kogi State was developed to provide iron concentrate feeds for the Ajaokuta Steel Complex and the Delta Steel Company at Aladja."
+  },
+  {
+    "question": "Nigeria's pioneer and major hydroelectric power generating station is built on the River Niger at ______",
+    "options": {
+      "a": "Kainji (Niger State)",
+      "b": "Bakolori (Zamfara State)",
+      "c": "Tiga (Kano State)",
+      "d": "Kiri (Adamawa State)"
+    },
+    "answer": "a",
+    "explanation": "The Kainji Dam, commissioned in 1968 across the River Niger in Niger State, is Nigeria's premier large-scale hydroelectric generating installation."
+  },
+  {
+    "question": "The principal agricultural export cash crop cultivated across the cocoa belt of Southwestern Nigeria (Ondo, Osun, Oyo) is ______",
+    "options": {
+      "a": "Theobroma cacao (Cocoa)",
+      "b": "Gossypium hirsutum (Cotton)",
+      "c": "Hevea brasiliensis (Rubber)",
+      "d": "Elaeis guineensis (Oil Palm)"
+    },
+    "answer": "a",
+    "explanation": "Cocoa cultivation thrives in the deep, well-drained loam and forest ecology of Southwestern Nigeria, which historically formed the mainstay of the regional economy."
+  },
+  {
+    "question": "The devastating environmental land degradation problem involving severe gully erosion is most pronounced in which geopolitical zone of Nigeria?",
+    "options": {
+      "a": "North-Central Zone",
+      "b": "North-West Zone",
+      "c": "South-West Zone",
+      "d": "South-East Zone (Anambra, Imo, Abia)"
+    },
+    "answer": "d",
+    "explanation": "The South-East zone (especially Agulu-Nanka in Anambra, and parts of Imo and Abia) suffers severe catastrophic gully erosion driven by friable sandy soils, high rainfall, and deforestation."
+  },
+  {
+    "question": "Desertification poses the most severe environmental challenge to human settlement and agriculture in Nigeria's ______",
+    "options": {
+      "a": "Western undulating cocoa belt",
+      "b": "Southern coastal mangrove swamps",
+      "c": "Far northern frontline states (Sokoto, Katsina, Yobe, Borno)",
+      "d": "Eastern palm oil belt"
+    },
+    "answer": "c",
+    "explanation": "The Sahelian northern border states of Nigeria are severely threatened by advancing desertification, drought, and sand dune encroachment."
+  },
+  {
+    "question": "A rural settlement pattern where houses and farms are dispersed far apart with extensive agricultural holdings between them is classified as a ______",
+    "options": {
+      "a": "dispersed (scattered) settlement",
+      "b": "conurbation",
+      "c": "linear settlement",
+      "d": "nucleated settlement"
+    },
+    "answer": "a",
+    "explanation": "Dispersed (scattered) settlements consist of isolated farmsteads spaced over a broad area, typical of regions where farmers live on their extensive family holdings."
+  },
+  {
+    "question": "Which of the following ocean currents is a cold current that causes aridity along the southwestern coast of Africa (Namib Desert)?",
+    "options": {
+      "a": "The Mozambique Current",
+      "b": "The Benguela Current",
+      "c": "The Agulhas Current",
+      "d": "The Guinea Current"
+    },
+    "answer": "b",
+    "explanation": "The cold Benguela Current cools onshore winds, suppressing convection and creating stable, dry atmospheric conditions responsible for the coastal Namib Desert."
+  }
+]

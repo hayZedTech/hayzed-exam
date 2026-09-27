@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which baton exchange technique is standard in the 4 × 100 metres sprint relay, where the outgoing runner does not look back at the incoming runner?",
+    "options": {
+      "a": "Visual pass",
+      "b": "Stationary pass",
+      "c": "Non-visual (blind) pass",
+      "d": "Overhand eye pass"
+    },
+    "answer": "c",
+    "explanation": "In 4x100m sprint relays, the non-visual (blind) pass is used so the outgoing runner maintains forward acceleration without looking back."
+  },
+  {
+    "question": "In sprint races, what are the three sequential verbal and auditory commands given by the starter before a race begins?",
+    "options": {
+      "a": "'Get ready', 'Stand by', 'Go'",
+      "b": "'On your marks', 'Set', and the starter's gun fire",
+      "c": "'Take your place', 'Attention', 'Run'",
+      "d": "'Ready', 'Steady', and whistle blow"
+    },
+    "answer": "b",
+    "explanation": "Standard World Athletics commands for sprint events up to 400m are 'On your marks', 'Set', followed by the firing of the starter's gun."
+  },
+  {
+    "question": "In standard track and field athletics, in which direction do athletes run around the oval track?",
+    "options": {
+      "a": "Clockwise direction",
+      "b": "Direction determined by coin toss",
+      "c": "Alternating by heat",
+      "d": "Anticlockwise (left-hand inside) direction"
+    },
+    "answer": "d",
+    "explanation": "All running events on a standard 400-metre oval track are run with the athlete's left hand on the inside (anticlockwise)."
+  },
+  {
+    "question": "In the long jump event, a jump is declared a foul (illegal) if the competitor ______",
+    "options": {
+      "a": "Crosses the take-off line touching the indicator board with their shoe during take-off",
+      "b": "Lands on both feet in the sand pit",
+      "c": "Runs down the runway with varying stride rhythm",
+      "d": "Walks forward out of the sand pit after landing"
+    },
+    "answer": "a",
+    "explanation": "A foul is recorded if any part of the jumper's take-off foot breaks the vertical plane of the take-off line touching the plasticine foul board."
+  },
+  {
+    "question": "Which modern high jump technique involves the athlete clearing the crossbar backwards with their head and shoulders crossing first?",
+    "options": {
+      "a": "Fosbury Flop",
+      "b": "Eastern cut-off",
+      "c": "Straddle technique",
+      "d": "Scissors jump"
+    },
+    "answer": "a",
+    "explanation": "The Fosbury Flop, popularized by Dick Fosbury, involves running along a curved approach and jumping backward over the bar with arched back."
+  },
+  {
+    "question": "What is the standard weight of the shot put implement used in official senior male competitions?",
+    "options": {
+      "a": "7.26 kg (16 lbs)",
+      "b": "5.00 kg",
+      "c": "6.00 kg",
+      "d": "4.00 kg"
+    },
+    "answer": "a",
+    "explanation": "The official weight of the senior men's shot put is 7.260 kg (16 lb), while senior women use a 4.00 kg implement."
+  },
+  {
+    "question": "In the discus throw event, the implement must be released ______",
+    "options": {
+      "a": "From between the legs with two hands",
+      "b": "Off the index finger with a clockwise spin (for a right-handed thrower)",
+      "c": "Over the head like a basketball throw",
+      "d": "Straight forward with no rotation"
+    },
+    "answer": "b",
+    "explanation": "A right-handed discus thrower spins the discus off the index finger in a clockwise direction to generate aerodynamic stability and gyroscopic lift."
+  },
+  {
+    "question": "For a throw in the javelin event to be ruled valid, the javelin must ______",
+    "options": {
+      "a": "Break into pieces upon impact",
+      "b": "Pass outside the sector lines and bounce in",
+      "c": "Land completely flat on its shaft",
+      "d": "Land with its metal head or tip striking the ground first inside the marked sector"
+    },
+    "answer": "d",
+    "explanation": "Under World Athletics rules, the tip of the metal head must touch the ground first before any other part of the javelin within the landing sector."
+  },
+  {
+    "question": "How many barriers (hurdles and water jumps) must a runner clear in a standard 3,000-metre steeplechase event?",
+    "options": {
+      "a": "20 hurdles and 5 water jumps",
+      "b": "35 hurdle jumps and no water jumps",
+      "c": "15 hurdles and 10 water jumps",
+      "d": "28 hurdle jumps and 7 water jumps"
+    },
+    "answer": "d",
+    "explanation": "A standard 3,000m steeplechase features 28 hurdle clearances and 7 water jump clearances over 7.5 laps."
+  },
+  {
+    "question": "Under current World Athletics rules, an athlete who commits a false start in any sprint race is ______",
+    "options": {
+      "a": "Given a verbal warning and restart",
+      "b": "Allowed one additional chance",
+      "c": "Penalized by moving back two metres",
+      "d": "Immediately disqualified from the race"
+    },
+    "answer": "d",
+    "explanation": "Since 2010, World Athletics regulations mandate immediate disqualification for any athlete responsible for a false start."
+  },
+  {
+    "question": "In association football (soccer), what is the regulation distance from the goal line to the penalty spot?",
+    "options": {
+      "a": "9.15 metres (10 yards)",
+      "b": "16.50 metres (18 yards)",
+      "c": "15.00 metres (16.4 yards)",
+      "d": "11.00 metres (12 yards)"
+    },
+    "answer": "d",
+    "explanation": "The penalty spot is marked exactly 11 metres (12 yards) from the midpoint between the two goalposts on the goal line."
+  },
+  {
+    "question": "In association football, an attacking player is in an offside position if they are nearer to the opponent's goal line than both the ball and the ______",
+    "options": {
+      "a": "Goalkeeper only",
+      "b": "Corner flag post",
+      "c": "Centre circle",
+      "d": "Second-last opponent (including the goalkeeper)"
+    },
+    "answer": "d",
+    "explanation": "A player is offside if closer to the opponent's goal line than the second-last opponent (usually the last outfield defender, with the goalkeeper being the last)."
+  },
+  {
+    "question": "In basketball, illegally moving one or both feet in excess of the prescribed limits without dribbling the ball is called ______",
+    "options": {
+      "a": "Charging",
+      "b": "Travelling",
+      "c": "Carrying",
+      "d": "Goaltending"
+    },
+    "answer": "b",
+    "explanation": "Travelling is a violation in basketball that occurs when a player holding the ball moves one or both feet without dribbling."
+  },
+  {
+    "question": "What is the three-second rule in basketball?",
+    "options": {
+      "a": "A player must shoot within 3 seconds of catching the ball",
+      "b": "Substitutions must be completed within 3 seconds",
+      "c": "A player has only 3 seconds to take a free throw",
+      "d": "An offensive player cannot remain continuously for more than 3 seconds in the opponent's restricted key area"
+    },
+    "answer": "d",
+    "explanation": "An attacking player cannot remain inside the opponent's restricted area (the key or lane) for more than 3 consecutive seconds while their team controls the ball."
+  },
+  {
+    "question": "In volleyball, how many active players from each team are on the playing court during play?",
+    "options": {
+      "a": "5 players",
+      "b": "11 players",
+      "c": "7 players",
+      "d": "6 players"
+    },
+    "answer": "d",
+    "explanation": "A standard volleyball team has six players on the court: three front-row players and three back-row players."
+  },
+  {
+    "question": "In volleyball, which specialist player wears a contrasting coloured jersey and is restricted to playing in the back row with no serving, blocking, or attacking above the net?",
+    "options": {
+      "a": "Setter",
+      "b": "Libero",
+      "c": "Opposite hitter",
+      "d": "Middle blocker"
+    },
+    "answer": "b",
+    "explanation": "The Libero is a defensive specialist who wears a distinctive jersey, cannot serve, block, or attack the ball above net height."
+  },
+  {
+    "question": "In team handball, what is the maximum number of steps an outfield player can take while holding the ball before dribbling, passing, or shooting?",
+    "options": {
+      "a": "2 steps",
+      "b": "5 steps",
+      "c": "4 steps",
+      "d": "3 steps"
+    },
+    "answer": "d",
+    "explanation": "In handball, a player can hold the ball for a maximum of 3 seconds and take no more than 3 steps before bouncing, passing, or shooting."
+  },
+  {
+    "question": "In lawn tennis, when both players are tied at 40-40 in a game, the score is called ______",
+    "options": {
+      "a": "Advantage",
+      "b": "Deuce",
+      "c": "Tiebreak",
+      "d": "Deadlock"
+    },
+    "answer": "b",
+    "explanation": "A score of 40-40 in lawn tennis is called 'Deuce'. A player must then win two consecutive points (Advantage, then Game) to win the game."
+  },
+  {
+    "question": "In modern table tennis (ping-pong), how many points must a player score to win a single game, provided there is a lead of at least two points?",
+    "options": {
+      "a": "21 points",
+      "b": "15 points",
+      "c": "11 points",
+      "d": "25 points"
+    },
+    "answer": "c",
+    "explanation": "Under ITTF rules adopted in 2001, a table tennis game is played to 11 points (a player must win by a 2-point margin if the score reaches 10-10)."
+  },
+  {
+    "question": "In field hockey, a player is committing a foul if they strike the ball with ______",
+    "options": {
+      "a": "The flat side of the hockey stick",
+      "b": "The rounded reverse side of the hockey stick",
+      "c": "The edge of the flat face",
+      "d": "The toe of the stick"
+    },
+    "answer": "b",
+    "explanation": "Field hockey players are only permitted to play the ball with the flat face or the edges of the flat face; using the rounded back of the stick is a foul."
+  },
+  {
+    "question": "Recreation is best defined as ______",
+    "options": {
+      "a": "Mandatory physical training carried out during school hours",
+      "b": "Intensive professional training to qualify for international sports championships",
+      "c": "Any voluntary, socially acceptable activity engaged in during leisure time for enjoyment and relaxation",
+      "d": "Strenuous manual work performed for economic profit"
+    },
+    "answer": "c",
+    "explanation": "Recreation consists of wholesome, voluntary activities pursued during free or leisure time for personal satisfaction, rejuvenation, and amusement."
+  },
+  {
+    "question": "Which of the following is classified as a passive form of recreation?",
+    "options": {
+      "a": "Jogging on the beach",
+      "b": "Watching a football match on television",
+      "c": "Playing tennis",
+      "d": "Swimming laps in a pool"
+    },
+    "answer": "b",
+    "explanation": "Passive recreation involves sedentary enjoyment with minimal physical exertion, such as reading, listening to radio, or watching sports broadcasts."
+  },
+  {
+    "question": "In outdoor camping and adventurous recreation, the navigation sport that involves finding one's way through unfamiliar terrain using a topographical map and a magnetic compass is ______",
+    "options": {
+      "a": "Mountaineering",
+      "b": "Orienteering",
+      "c": "Abseiling",
+      "d": "Geocaching"
+    },
+    "answer": "b",
+    "explanation": "Orienteering is an outdoor navigational sport where participants use a map and magnetic compass to navigate through checkpoints across varied terrain."
+  },
+  {
+    "question": "Traditional folk dance in Nigerian cultural communities serves primarily to ______",
+    "options": {
+      "a": "Imitate foreign western pop choreographies",
+      "b": "Preserve cultural heritage, celebrate festivals, and foster social solidarity",
+      "c": "Replace all formal academic physical education curricula",
+      "d": "Generate commercial royalties for the state government"
+    },
+    "answer": "b",
+    "explanation": "Traditional Nigerian dances communicate history, folklore, religious celebrations, rites of passage, and strengthen community unity."
+  },
+  {
+    "question": "Which gymnastics apparatus is exclusive to women's artistic gymnastics competitions?",
+    "options": {
+      "a": "Balance Beam",
+      "b": "Still Rings",
+      "c": "Pommel Horse",
+      "d": "Parallel Bars"
+    },
+    "answer": "a",
+    "explanation": "The Balance Beam (along with uneven bars) is an apparatus used exclusively in women's artistic gymnastics, testing poise and flexibility."
+  },
+  {
+    "question": "Gymnastic conditioning exercises such as push-ups, squats, and lunges that rely purely on body weight without specialized apparatus are called ______",
+    "options": {
+      "a": "Plyometrics",
+      "b": "Calisthenics",
+      "c": "Isokinetics",
+      "d": "Weightlifting"
+    },
+    "answer": "b",
+    "explanation": "Calisthenics consists of rhythmic bodyweight exercises designed to build strength, flexibility, and physical fitness without gym weights."
+  },
+  {
+    "question": "Which of the following groups of bones belongs exclusively to the axial skeleton of the human body?",
+    "options": {
+      "a": "Femur, patella, and tibia",
+      "b": "Humerus, radius, and ulna",
+      "c": "Skull, vertebral column, and rib cage",
+      "d": "Pelvic girdle and scapula"
+    },
+    "answer": "c",
+    "explanation": "The axial skeleton forms the central axis of the body and comprises the skull, vertebral column, ribs, and sternum (80 bones total)."
+  },
+  {
+    "question": "Which type of synovial joint provides the greatest freedom and multiaxial range of movement in the human body?",
+    "options": {
+      "a": "Hinge joint (elbow)",
+      "b": "Pivot joint (atlas and axis)",
+      "c": "Gliding joint (carpals)",
+      "d": "Ball-and-socket joint (shoulder and hip)"
+    },
+    "answer": "d",
+    "explanation": "Ball-and-socket joints (glenohumeral and hip joints) allow movement in all planes, including flexion, extension, abduction, adduction, and circumduction."
+  },
+  {
+    "question": "A muscular contraction where muscle tension develops without any observable change in muscle length or joint angle is termed ______",
+    "options": {
+      "a": "Isometric contraction",
+      "b": "Concentric contraction",
+      "c": "Isotonic contraction",
+      "d": "Eccentric contraction"
+    },
+    "answer": "a",
+    "explanation": "In an isometric contraction (such as pushing against an immovable wall or holding a plank), muscle tension rises while muscle length remains constant."
+  },
+  {
+    "question": "During prolonged high-intensity anaerobic sprinting, muscular fatigue and burning sensation are primarily associated with the accumulation of ______",
+    "options": {
+      "a": "Lactic acid (lactate and hydrogen ions)",
+      "b": "Adenosine triphosphate (ATP)",
+      "c": "Glycogen",
+      "d": "Hemoglobin"
+    },
+    "answer": "a",
+    "explanation": "Anaerobic glycolysis produces lactate and hydrogen ions (lactic acid) faster than they can be cleared, lowering intramuscular pH and inducing fatigue."
+  },
+  {
+    "question": "In the human circulatory system, pulmonary circulation carries ______",
+    "options": {
+      "a": "Oxygenated blood from the left ventricle to systemic tissues",
+      "b": "Hormones from the pituitary gland to target organs",
+      "c": "Nutrient-rich blood from the digestive tract to the liver",
+      "d": "Deoxygenated blood from the right ventricle to the lungs and returns oxygenated blood to the left atrium"
+    },
+    "answer": "d",
+    "explanation": "Pulmonary circulation pumps deoxygenated blood via the pulmonary arteries to the lungs for gaseous exchange and returns oxygenated blood to the left atrium."
+  },
+  {
+    "question": "According to William Sheldon's somatotyping system, an individual with a naturally muscular, athletic, broad-shouldered, and sturdy build is classified as a/an ______",
+    "options": {
+      "a": "Ectomorph",
+      "b": "Endomorph",
+      "c": "Mesomorph",
+      "d": "Polymorph"
+    },
+    "answer": "c",
+    "explanation": "A mesomorph is characterized by a muscular frame, broad shoulders, narrow waist, low body fat, and excellent suitability for athletic power sports."
+  },
+  {
+    "question": "The maximum volume of air that can be forcefully exhaled from the lungs after a maximum inhalation is known as ______",
+    "options": {
+      "a": "Tidal volume",
+      "b": "Residual volume",
+      "c": "Vital capacity",
+      "d": "Minute ventilation"
+    },
+    "answer": "c",
+    "explanation": "Vital capacity is the total volume of air exhaled forcefully following maximal inspiration, measuring overall functional lung capacity."
+  },
+  {
+    "question": "Which energy system predominates during an endurance event like the 10,000 metres race or a marathon?",
+    "options": {
+      "a": "Aerobic (oxidative) system",
+      "b": "Anaerobic glycolytic (lactic acid) system",
+      "c": "ATP-PC (phosphagen) system",
+      "d": "Myokinase system"
+    },
+    "answer": "a",
+    "explanation": "Endurance events lasting several minutes to hours rely on the aerobic (oxidative) energy system, which utilizes oxygen to metabolize carbohydrates and fats."
+  },
+  {
+    "question": "Which of the following is NOT one of the three primary objectives of First Aid?",
+    "options": {
+      "a": "Preserve life",
+      "b": "Prevent the casualty's condition from worsening",
+      "c": "Prescribe permanent antibiotic medication",
+      "d": "Promote recovery"
+    },
+    "answer": "c",
+    "explanation": "The three universally recognized '3 Ps' of First Aid are: Preserve life, Prevent worsening, and Promote recovery. First aiders do not prescribe pharmaceuticals."
+  },
+  {
+    "question": "A sports injury involving the stretching or tearing of a ligament connecting bone to bone at a joint is defined as a ______",
+    "options": {
+      "a": "Sprain",
+      "b": "Strain",
+      "c": "Fracture",
+      "d": "Bursitis"
+    },
+    "answer": "a",
+    "explanation": "A sprain is an injury to a ligament (fibrous tissue connecting bone to bone). A strain is an injury to a muscle or its tendon."
+  },
+  {
+    "question": "In sports medicine, what does the acronym R.I.C.E. stand for in the immediate management of acute soft-tissue injuries?",
+    "options": {
+      "a": "Running, Ingestion, Cooling, Exercise",
+      "b": "Rest, Ice, Compression, Elevation",
+      "c": "Resuscitation, Immobilization, Circulation, Evaluation",
+      "d": "Rotation, Injection, Casting, Extension"
+    },
+    "answer": "b",
+    "explanation": "R.I.C.E. stands for Rest, Ice, Compression, and Elevation, which minimizes swelling, haemorrhage, and pain after acute sprains or strains."
+  },
+  {
+    "question": "The complete separation or displacement of articulating bones from their normal anatomical positions at a joint is termed a ______",
+    "options": {
+      "a": "Dislocation",
+      "b": "Greenstick fracture",
+      "c": "Contusion",
+      "d": "Hernia"
+    },
+    "answer": "a",
+    "explanation": "A dislocation (luxation) occurs when the bones forming a joint are forcibly displaced from their normal anatomical alignment."
+  },
+  {
+    "question": "In basic life support cardiopulmonary resuscitation (CPR), what is the recommended ratio of chest compressions to rescue breaths for an adult casualty?",
+    "options": {
+      "a": "30 compressions to 2 breaths",
+      "b": "15 compressions to 2 breaths",
+      "c": "5 compressions to 1 breath",
+      "d": "50 compressions to 5 breaths"
+    },
+    "answer": "a",
+    "explanation": "International resuscitation guidelines recommend a standard ratio of 30 external chest compressions followed by 2 rescue breaths for adult CPR."
+  },
+  {
+    "question": "What is the immediate first aid treatment for an athlete experiencing an acute muscle cramp in the calf?",
+    "options": {
+      "a": "Apply heavy boiling water compresses and force the athlete to sprint",
+      "b": "Strike the muscle firmly with a hard object",
+      "c": "Gently stretch the affected muscle in the opposite direction and lightly massage it",
+      "d": "Immobilize the leg in a rigid plaster cast"
+    },
+    "answer": "c",
+    "explanation": "Cramp relief involves gently extending and stretching the contracted muscle (dorsiflexing the foot for a calf cramp), gentle massage, and electrolyte replenishment."
+  },
+  {
+    "question": "A medical emergency characterized by a dangerously high body temperature (above 40°C), absence of sweating, hot dry red skin, and altered mental state is ______",
+    "options": {
+      "a": "Heat cramps",
+      "b": "Heat stroke",
+      "c": "Heat exhaustion",
+      "d": "Heat syncope"
+    },
+    "answer": "b",
+    "explanation": "Heat stroke is a life-threatening breakdown of the body's thermoregulatory mechanisms, manifesting with cessation of sweating, hot dry skin, and coma/confusion."
+  },
+  {
+    "question": "Bleeding characterized by bright red blood spurting vigorously in rhythm with the heartbeat originates from a damaged ______",
+    "options": {
+      "a": "Vein",
+      "b": "Capillary",
+      "c": "Lymph vessel",
+      "d": "Artery"
+    },
+    "answer": "d",
+    "explanation": "Arterial blood is oxygenated (bright red) and under high ventricular pumping pressure, causing it to pulsate or spurt rhythmically from wounds."
+  },
+  {
+    "question": "Which of the following medical conditions is classified as a non-communicable disease (NCD)?",
+    "options": {
+      "a": "Cholera",
+      "b": "Tuberculosis",
+      "c": "Essential hypertension",
+      "d": "Typhoid fever"
+    },
+    "answer": "c",
+    "explanation": "Essential hypertension is a chronic non-infectious lifestyle/genetic disease that cannot be transmitted directly or indirectly between people."
+  },
+  {
+    "question": "The biological vector responsible for transmitting Trypanosoma gambiense, the protozoan causing African sleeping sickness, is the ______",
+    "options": {
+      "a": "Female Anopheles mosquito",
+      "b": "Blackfly (Simulium)",
+      "c": "Tsetse fly (Glossina species)",
+      "d": "Housefly (Musca domestica)"
+    },
+    "answer": "c",
+    "explanation": "The tsetse fly transmits African trypanosomiasis (sleeping sickness) when taking a blood meal from humans or wild reservoirs."
+  },
+  {
+    "question": "At the domestic household level, the simplest and most reliable physical method for purifying drinking water to destroy pathogenic bacteria is ______",
+    "options": {
+      "a": "Sedimentation",
+      "b": "Aeration",
+      "c": "Boiling vigorously for several minutes",
+      "d": "Filtering through a cloth sieve"
+    },
+    "answer": "c",
+    "explanation": "Vigorous boiling kills bacteria, protozoa, and viruses by denaturing their enzymes and cell proteins, making contaminated water safe to drink."
+  },
+  {
+    "question": "Dental caries (tooth decay) begins primarily when oral bacteria metabolize dietary carbohydrates to produce ______ which demineralizes the enamel.",
+    "options": {
+      "a": "Lactic acid",
+      "b": "Sodium fluoride",
+      "c": "Calcium carbonate",
+      "d": "Hydrogen peroxide"
+    },
+    "answer": "a",
+    "explanation": "Bacteria in dental plaque (notably Streptococcus mutans) ferment sugars into lactic acid, lowering oral pH and dissolving tooth enamel apatite crystals."
+  },
+  {
+    "question": "The type of immunity acquired when an individual produces their own antibodies in response to vaccination or natural pathogen infection is termed ______",
+    "options": {
+      "a": "Active immunity",
+      "b": "Artificial passive immunity",
+      "c": "Natural passive immunity",
+      "d": "Innate herd immunity"
+    },
+    "answer": "a",
+    "explanation": "Active immunity occurs when the host's own immune system responds to antigens (via infection or vaccination) by producing specific antibodies and memory cells."
+  },
+  {
+    "question": "Anabolic-androgenic steroids are synthetic derivatives of which hormone, illicitly abused by athletes to enhance muscle mass and athletic performance?",
+    "options": {
+      "a": "Insulin",
+      "b": "Testosterone",
+      "c": "Thyroxine",
+      "d": "Adrenaline"
+    },
+    "answer": "b",
+    "explanation": "Anabolic steroids are synthetic variations of the male sex hormone testosterone, used illegitimately to stimulate protein synthesis and muscular hypertrophy."
+  },
+  {
+    "question": "Which of the following is a major confirmed mode of transmission for the Human Immunodeficiency Virus (HIV)?",
+    "options": {
+      "a": "Sharing dining utensils and drinking glasses",
+      "b": "Mosquito and insect bites",
+      "c": "Unprotected sexual intercourse with an infected person",
+      "d": "Touching toilet seats"
+    },
+    "answer": "c",
+    "explanation": "HIV is transmitted through unprotected sexual intercourse, infected blood transfusions, sharing unsterilized sharps, and vertical transmission from mother to child."
+  },
+  {
+    "question": "Chronic alcohol abuse and heavy ethanol ingestion most commonly lead to progressive destruction of which vital organ?",
+    "options": {
+      "a": "Liver (causing cirrhosis)",
+      "b": "Gallbladder",
+      "c": "Urinary bladder",
+      "d": "Thyroid gland"
+    },
+    "answer": "a",
+    "explanation": "The liver metabolizes ethanol; chronic alcohol abuse leads to fatty liver disease, alcoholic hepatitis, and irreversible scarring (cirrhosis)."
+  }
+]
