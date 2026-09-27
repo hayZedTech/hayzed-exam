@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e40af"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="capGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="2" stdDeviation="1.5" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Background rounded squircle -->
+  <rect width="64" height="64" rx="14" fill="url(#bgGrad)"/>
+  <rect width="60" height="60" x="2" y="2" rx="12" fill="none" stroke="rgba(255, 255, 255, 0.25)" stroke-width="1.5"/>
+
+  <!-- Graduation Cap (Mortarboard) -->
+  <g filter="url(#shadow)">
+    <!-- Skull Cap base -->
+    <path d="M21 28.5 L21 38 C21 44.5 43 44.5 43 38 L43 28.5 C39 31.8 25 31.8 21 28.5 Z" fill="#cbd5e1"/>
+    <path d="M22 29.5 L22 37.5 C22 43 42 43 42 37.5 L42 29.5 C38 32.2 26 32.2 22 29.5 Z" fill="#f8fafc"/>
+
+    <!-- Diamond Mortarboard top -->
+    <polygon points="32,15 53,24.5 32,34 11,24.5" fill="url(#capGrad)"/>
+
+    <!-- Gold Center Button -->
+    <circle cx="32" cy="24.5" r="2.2" fill="#f59e0b"/>
+
+    <!-- Gold Tassel Ribbon -->
+    <path d="M32 24.5 C38 25.5 47 28 47 34 L47 41" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
+    <!-- Tassel Fringe -->
+    <polygon points="44.5,40.5 49.5,40.5 48.5,47.5 45.5,47.5" fill="#f59e0b"/>
+  </g>
+</svg>
