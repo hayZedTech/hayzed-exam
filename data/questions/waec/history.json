@@ -1,0 +1,552 @@
+[
+  {
+    "question": "The world-famous terracotta heads dating between 500 BC and 200 AD were first discovered in which Nigerian archaeological site?",
+    "options": {
+      "a": "Nok village in Kaduna State",
+      "b": "Igbo-Ukwu in Anambra State",
+      "c": "Ile-Ife in Osun State",
+      "d": "Daima mound in Borno State"
+    },
+    "answer": "a",
+    "explanation": "Nok culture terracotta sculptures were first unearthed in 1928 in the tin-mining village of Nok, near Kaduna in central Nigeria."
+  },
+  {
+    "question": "The Nok civilization is especially celebrated in West African historiography for introducing ______",
+    "options": {
+      "a": "Stone masonry techniques",
+      "b": "Iron smelting technology",
+      "c": "Arabic script and literacy",
+      "d": "Gunpowder manufacturing"
+    },
+    "answer": "b",
+    "explanation": "Archaeological excavation confirms that the Nok culture developed sophisticated iron smelting furnaces as early as the mid-first millennium BC."
+  },
+  {
+    "question": "The intricate copper and bronze artifacts discovered at Igbo-Ukwu dating to the 9th century AD are historically associated with the ______",
+    "options": {
+      "a": "Arochukwu Long Juju oracle",
+      "b": "Oba of Benin's royal palace",
+      "c": "Eze Nri and the Nri theocratic civilization",
+      "d": "Alaafin of Oyo's imperial treasury"
+    },
+    "answer": "c",
+    "explanation": "Igbo-Ukwu's lost-wax bronze castings, excavated by Thurstan Shaw, represent the sacred royal regalia of the divine priest-king, the Eze Nri."
+  },
+  {
+    "question": "In Yoruba oral historiography, who is revered as the ancestral founder of the Yoruba people and first divine ruler of Ile-Ife?",
+    "options": {
+      "a": "Oranmiyan",
+      "b": "Obatala",
+      "c": "Moremi",
+      "d": "Oduduwa"
+    },
+    "answer": "d",
+    "explanation": "Oduduwa is revered as the ancestral progenitor of the Yoruba nation and the first sacred Ooni of Ile-Ife, from whom Yoruba monarchs trace their crowns."
+  },
+  {
+    "question": "Which Oba of Benin transformed Benin into a formidable imperial power, built defensive moats, and patronized the brass casters guild in the 15th century?",
+    "options": {
+      "a": "Oba Ewuare the Great",
+      "b": "Oba Eweka I",
+      "c": "Oba Esigie",
+      "d": "Oba Ovonramwen"
+    },
+    "answer": "a",
+    "explanation": "Oba Ewuare the Great (c. 1440–1473) fortified Benin City with massive earthwork moats, instituted the Igun Eronmwon (brass casters guild), and expanded Benin's borders."
+  },
+  {
+    "question": "In the classical administrative system of the Benin Kingdom, the leader of the town chiefs (Eghaevbo n'Ore) and commander-in-chief was the ______",
+    "options": {
+      "a": "Oliha",
+      "b": "Iyase",
+      "c": "Ezomo",
+      "d": "Uwangue"
+    },
+    "answer": "b",
+    "explanation": "The Iyase served as the traditional Prime Minister, leader of the town chiefs, and supreme military commander, balancing the royal authority of the Oba."
+  },
+  {
+    "question": "The aristocratic council of seven kingmakers that acted as a constitutional check on the monarch in the Old Oyo Empire was the ______",
+    "options": {
+      "a": "Eso Ikoyi",
+      "b": "Ogboni",
+      "c": "Oyomesi",
+      "d": "Ilari"
+    },
+    "answer": "c",
+    "explanation": "The Oyo Mesi, headed by the Bashorun, was the supreme council of kingmakers representing the seven metropolitan wards of Old Oyo."
+  },
+  {
+    "question": "What traditional constitutional measure was taken by the Bashorun and Oyo Mesi to remove a despotic or tyrannical Alaafin in Old Oyo?",
+    "options": {
+      "a": "Imprisoning him in the sacred shrine of Sango",
+      "b": "Exiling him permanently to the coast of Dahomey",
+      "c": "Stripping his lineage of all land holdings",
+      "d": "Handing him an empty calabash or parrot's eggs, compelling him to commit ritual suicide"
+    },
+    "answer": "d",
+    "explanation": "If an Alaafin ruled tyrannically, the Bashorun presented him an empty calabash or parrot's eggs, pronouncing 'the gods reject you, the people reject you', requiring suicide."
+  },
+  {
+    "question": "The ruling dynasty that governed the Kanem-Borno Empire for over a millennium, making it one of the longest-lived dynasties in world history, was the ______",
+    "options": {
+      "a": "Sayfawa dynasty",
+      "b": "Almoravid dynasty",
+      "c": "Keita dynasty",
+      "d": "Askia dynasty"
+    },
+    "answer": "a",
+    "explanation": "The Sayfawa (or Saifawa) dynasty ruled the Kanem-Borno Empire from around the 9th century until 1846."
+  },
+  {
+    "question": "According to the Bayajidda legend, what heroic deed did Bayajidda perform at Daura before marrying Queen Daurama and fathering the Hausa Bakwai?",
+    "options": {
+      "a": "He defeated a massive invading army from Songhai",
+      "b": "He slew a venomous serpent (Sarki) that prevented the townsfolk from drawing well water",
+      "c": "He built the defensive red-clay walls of Daura in a single month",
+      "d": "He introduced cattle rearing to the savannah"
+    },
+    "answer": "b",
+    "explanation": "Bayajidda killed the sacred snake named Sarki inhabiting the Kusum well, which only allowed people to fetch water on Fridays."
+  },
+  {
+    "question": "The 'House System' (Wari) was an indigenous socio-economic and defensive organization developed among which pre-colonial Nigerian communities?",
+    "options": {
+      "a": "The Nupe kingdom of Bida",
+      "b": "The Tiv communities of the Benue Valley",
+      "c": "The Niger Delta city-states (such as Bonny, Nembe, and Kalabari)",
+      "d": "The Berom farmers of the Jos Plateau"
+    },
+    "answer": "c",
+    "explanation": "The Canoe House system (Wari) in the Niger Delta was a commercial, social, and naval corporation organized around war-canoes for palm oil and coastal trade."
+  },
+  {
+    "question": "The supreme spiritual and political ruler of the Kwararafa (Jukun) confederacy, revered as a divine priest-king with cosmic control over rainfall, was the ______",
+    "options": {
+      "a": "Tor Tiv",
+      "b": "Attah of Igala",
+      "c": "Etsu of Nupe",
+      "d": "Aku Uka of Wukari"
+    },
+    "answer": "d",
+    "explanation": "The Aku Uka of Wukari was the sacred divine ruler of the Jukun Kingdom whose spiritual well-being was directly linked to the fertility of crops and rain."
+  },
+  {
+    "question": "Which vital mineral commodity mined in the Saharan desert was transported southwards to exchange for West African gold, ivory, and kola nuts?",
+    "options": {
+      "a": "Rock salt",
+      "b": "Copper ore",
+      "c": "Coal",
+      "d": "Tin ingots"
+    },
+    "answer": "a",
+    "explanation": "Rock salt mined at desert depots like Taghaza, Bilma, and Taoudenni was indispensable to forest and savannah peoples and traded ounce-for-ounce for gold."
+  },
+  {
+    "question": "Which animal introduced across North Africa and the Sahara by the 3rd century AD revolutionized Trans-Saharan trade routes?",
+    "options": {
+      "a": "The Arabian horse",
+      "b": "The dromedary camel",
+      "c": "The pack mule",
+      "d": "The Asian elephant"
+    },
+    "answer": "b",
+    "explanation": "The dromedary camel ('the ship of the desert'), with its ability to travel days without water carrying heavy loads, transformed trans-desert commerce."
+  },
+  {
+    "question": "The Wangarawa merchant-scholars who introduced Islam to the Hausa city-state of Kano during the reign of Sarki Yaji in the 14th century migrated from ______",
+    "options": {
+      "a": "Egypt",
+      "b": "Morocco",
+      "c": "Mali",
+      "d": "Yemen"
+    },
+    "answer": "c",
+    "explanation": "According to the Kano Chronicle, Wangarawa Muslim merchants and clerics migrated from Mali during the reign of Sarki Yaji (1349–1385)."
+  },
+  {
+    "question": "Which Mai of Borno modernized his cavalry with Ottoman firearms and Turkish instructors, built Cairo hostels for pilgrims, and codified Sharia courts?",
+    "options": {
+      "a": "Mai Dunama Dabbalemi",
+      "b": "Shehu Umar al-Kanemi",
+      "c": "Mai Ali Ghaji",
+      "d": "Mai Idris Alooma"
+    },
+    "answer": "d",
+    "explanation": "Mai Idris Alooma (reigned 1571–1603) elevated Borno to its zenith by importing Ottoman Turkish musketeers, improving river boats, and enforcing Islamic jurisprudence."
+  },
+  {
+    "question": "The celebrated North African jurist invited to Kano by Sarki Muhammad Rumfa in the 15th century to author *The Obligations of Princes* was ______",
+    "options": {
+      "a": "Muhammad al-Maghili",
+      "b": "Ibn Battuta",
+      "c": "Ibn Khaldun",
+      "d": "Leo Africanus"
+    },
+    "answer": "a",
+    "explanation": "Sheikh Muhammad al-Maghili of Tlemcen advised Muhammad Rumfa and wrote the political treatise *Taj al-Din fi ma yajib 'ala al-Muluk* (The Obligations of Princes)."
+  },
+  {
+    "question": "The major eastern Trans-Saharan trade route connecting Tripoli on the Mediterranean coast directly to Borno passed through which key oasis?",
+    "options": {
+      "a": "Sijilmasa and Taghaza",
+      "b": "Fezzan and Bilma",
+      "c": "Walata and Timbuktu",
+      "d": "Gao and Agadez"
+    },
+    "answer": "b",
+    "explanation": "The Tripoli-Fezzan-Bilma-Borno corridor was the primary eastern Trans-Saharan highway linking Lake Chad directly to the Mediterranean."
+  },
+  {
+    "question": "What major economic shift occurred in West Africa from the late 16th century following the expansion of European maritime contact?",
+    "options": {
+      "a": "Trans-Saharan trade expanded while coastal ports were abandoned",
+      "b": "Gold mining was completely replaced by textile manufacturing",
+      "c": "Economic prominence shifted from the interior Sudanese empires to coastal forest trading states",
+      "d": "West African states severed all trade with Europe and Asia"
+    },
+    "answer": "c",
+    "explanation": "The Atlantic maritime trade diverted wealth and commerce toward coastal states, causing a steady decline in the ancient trans-desert trading networks."
+  },
+  {
+    "question": "The famous 1324 pilgrimage to Mecca that distributed so much West African gold that it devalued gold across Egypt for over a decade was led by ______",
+    "options": {
+      "a": "Sundiata Keita",
+      "b": "Sunni Ali Ber",
+      "c": "Askia Muhammad of Songhai",
+      "d": "Mansa Kankan Musa of Mali"
+    },
+    "answer": "d",
+    "explanation": "Mansa Musa's lavish pilgrimage through Cairo in 1324 put Mali on European world maps (like the Catalan Atlas) and depressed gold prices across the Middle East."
+  },
+  {
+    "question": "Which European maritime nation was the first to establish direct contact with the Benin Kingdom and the Nigerian coast in the late 15th century?",
+    "options": {
+      "a": "The Portuguese",
+      "b": "Great Britain",
+      "c": "The Dutch",
+      "d": "The French"
+    },
+    "answer": "a",
+    "explanation": "Portuguese explorers led by Ruy de Sequeira (1472) and Afonso de Aveiro (1485) were the first Europeans to reach Benin and trade pepper and ivory."
+  },
+  {
+    "question": "The devastating oceanic transit in which millions of enslaved Africans were chained below deck on European ships across the Atlantic was termed the ______",
+    "options": {
+      "a": "Bight Crossing",
+      "b": "Middle Passage",
+      "c": "Sahara Trek",
+      "d": "Guinea Run"
+    },
+    "answer": "b",
+    "explanation": "The 'Middle Passage' was the middle leg of the triangular transatlantic trade, infamous for horrific suffering and high mortality."
+  },
+  {
+    "question": "Following Britain's abolition of the slave trade in 1807, which naval formation was deployed along the West African coast to suppress contraband slaving?",
+    "options": {
+      "a": "The Atlantic Coastguard",
+      "b": "The Royal Marines Brigade",
+      "c": "The West Africa Squadron",
+      "d": "The Mediterranean Fleet"
+    },
+    "answer": "c",
+    "explanation": "The Royal Navy established the West Africa Squadron (Preventative Squadron) based at Freetown to patrol coastal waters and intercept slave ships."
+  },
+  {
+    "question": "What primary agricultural commodity replaced the export of slaves as the mainstay of 'legitimate commerce' in the Niger Delta during the 19th century?",
+    "options": {
+      "a": "Cocoa beans",
+      "b": "Raw cotton",
+      "c": "Groundnuts",
+      "d": "Palm oil and palm kernel"
+    },
+    "answer": "d",
+    "explanation": "Palm oil was desperately needed in Industrial Revolution Britain to lubricate factory machinery and manufacture soap and candles."
+  },
+  {
+    "question": "Why did King Jaja of Opobo face fierce hostility and military pressure from British consular authorities in the Oil Rivers?",
+    "options": {
+      "a": "He created an independent trading monopoly and prevented British merchants from bypassing him to buy palm oil directly from interior producers",
+      "b": "He revived the trans-Atlantic slave trade across Bonny",
+      "c": "He seized British warships docked at Brass",
+      "d": "He refused to speak English with colonial diplomats"
+    },
+    "answer": "a",
+    "explanation": "Jaja successfully controlled the palm oil markets of the interior and demanded comey (export duties), resisting British attempts at free interior trade."
+  },
+  {
+    "question": "In what year was King Jaja of Opobo lured aboard HMS Goshawk, captured through treachery by Vice-Consul Harry Johnston, and exiled to Saint Vincent?",
+    "options": {
+      "a": "1861",
+      "b": "1887",
+      "c": "1897",
+      "d": "1900"
+    },
+    "answer": "b",
+    "explanation": "In 1887, Vice-Consul Harry Johnston pledged safe conduct to King Jaja for talks aboard a gunboat, but broke the pledge, arrested him, and exiled him."
+  },
+  {
+    "question": "Chief Nana Olomu of Ebrohimi, a powerful Itsekiri merchant prince, was attacked and exiled by British forces in 1894 primarily because ______",
+    "options": {
+      "a": "He executed British missionaries in Warri",
+      "b": "He refused to pay taxes to the Oba of Benin",
+      "c": "His commercial monopoly over the Benin River palm trade obstructed British free-trade dominance",
+      "d": "He allied with German colonial forces in Cameroon"
+    },
+    "answer": "c",
+    "explanation": "Nana's armed fleet and monopoly over the Urhobo palm oil hinterland blocked British merchants, prompting a British naval bombardment of his Ebrohimi fortress in 1894."
+  },
+  {
+    "question": "Which Scottish physician and explorer solved the mystery of the direction of the River Niger (flowing eastward) before perishing at Bussa in 1806?",
+    "options": {
+      "a": "David Livingstone",
+      "b": "Heinrich Barth",
+      "c": "Hugh Clapperton",
+      "d": "Mungo Park"
+    },
+    "answer": "d",
+    "explanation": "Mungo Park established in 1796 that the Niger flowed eastward towards the rising sun, and died during his second expedition in 1806 at the Bussa rapids."
+  },
+  {
+    "question": "The termination and Atlantic exit of the River Niger into the Gulf of Guinea was finally confirmed in 1830 by the expedition of ______",
+    "options": {
+      "a": "Richard and John Lander",
+      "b": "Frederick Lugard and George Goldie",
+      "c": "Mungo Park and Alexander Laing",
+      "d": "Walter Oudney and Dixon Denham"
+    },
+    "answer": "a",
+    "explanation": "The Lander brothers (Richard and John) sailed by canoe down the Niger from Bussa to its mouth at Brass, proving the Oil Rivers were the Niger Delta."
+  },
+  {
+    "question": "The liberated former slave who became the first African Anglican bishop, led the CMS Niger Mission, and translated the Holy Bible into Yoruba was ______",
+    "options": {
+      "a": "Rev. Henry Townsend",
+      "b": "Bishop Samuel Ajayi Crowther",
+      "c": "Dr. James Africanus Horton",
+      "d": "Rev. Mojola Agbebi"
+    },
+    "answer": "b",
+    "explanation": "Samuel Ajayi Crowther was rescued from a slave ship by the British navy, educated in Sierra Leone and England, consecrated bishop in 1864, and published the Yoruba Bible."
+  },
+  {
+    "question": "The 1884–1885 European diplomatic conference that established rules for the partition and 'effective occupation' of Africa was convened in ______",
+    "options": {
+      "a": "London",
+      "b": "Paris",
+      "c": "Berlin",
+      "d": "Brussels"
+    },
+    "answer": "c",
+    "explanation": "German Chancellor Otto von Bismarck convened the Berlin Conference (1884–1885), sparking the rapid colonial 'Scramble for Africa'."
+  },
+  {
+    "question": "In 1861, Lagos was formally annexed as a British Crown Colony under Oba Dosunmu primarily through the ______",
+    "options": {
+      "a": "Colonial Border Act",
+      "b": "Protectorate Accord",
+      "c": "Royal Charter of Lagos",
+      "d": "Treaty of Cession"
+    },
+    "answer": "d",
+    "explanation": "Under threat of naval bombardment, Oba Dosunmu signed the Treaty of Cession on August 6, 1861, making Lagos an official British Crown Colony."
+  },
+  {
+    "question": "Which chartered commercial company founded by Sir George Taubman Goldie administered British interests along the Niger basin from 1886 to 1899?",
+    "options": {
+      "a": "Royal Niger Company",
+      "b": "British South Africa Company",
+      "c": "United African Company of London",
+      "d": "Imperial West African Company"
+    },
+    "answer": "a",
+    "explanation": "The National African Company was granted a royal charter in 1886 as the Royal Niger Company, exercising political and administrative rule along the Niger."
+  },
+  {
+    "question": "When the British Crown revoked the charter of the Royal Niger Company on January 1, 1900, the Nigerian interior was reorganized into the ______",
+    "options": {
+      "a": "Colony and Protectorate of the Bights",
+      "b": "Protectorate of Northern Nigeria and Protectorate of Southern Nigeria",
+      "c": "Federal Territory of the Niger",
+      "d": "Federation of Eastern and Western Provinces"
+    },
+    "answer": "b",
+    "explanation": "On January 1, 1900, the British Government declared the Protectorate of Northern Nigeria (governed by Lugard) and the Protectorate of Southern Nigeria."
+  },
+  {
+    "question": "On what historic date was the formal amalgamation of the Northern and Southern Protectorates of Nigeria proclaimed by Lord Frederick Lugard?",
+    "options": {
+      "a": "October 1, 1960",
+      "b": "December 25, 1900",
+      "c": "January 1, 1914",
+      "d": "April 1, 1919"
+    },
+    "answer": "c",
+    "explanation": "Lord Frederick Lugard officially amalgamated the Northern and Southern Protectorates on January 1, 1914, creating a unified Nigeria under British rule."
+  },
+  {
+    "question": "The administrative framework devised by Lord Lugard where colonial rule was exercised through indigenous traditional institutions and rulers was called ______",
+    "options": {
+      "a": "Direct Rule",
+      "b": "Association policy",
+      "c": "Assimilation policy",
+      "d": "Indirect Rule"
+    },
+    "answer": "d",
+    "explanation": "Indirect Rule utilized traditional authorities (Emirs, Obas, Chiefs) and Native Authorities/Courts to govern subjects under British supervision."
+  },
+  {
+    "question": "Why did the British policy of Indirect Rule face severe administrative failure and popular unrest in southeastern Nigeria (Igboland)?",
+    "options": {
+      "a": "The lack of centralized monarchies and the resentment against arbitrarily appointed 'Warrant Chiefs'",
+      "b": "A complete ban on Christian missionary schools by local councils",
+      "c": "The refusal of British officers to learn the Igbo language",
+      "d": "The absence of fertile farmland for cash crops"
+    },
+    "answer": "a",
+    "explanation": "Igbo political systems were egalitarian and consensus-based. Imposing appointed 'Warrant Chiefs' provoked widespread defiance and corruption."
+  },
+  {
+    "question": "The massive 1929 grassroots uprising in southeastern Nigeria sparked by fears of direct taxation of women under the Warrant Chief system is known as the ______",
+    "options": {
+      "a": "Enugu Colliery Strike",
+      "b": "Aba Women's War (Ogu Umunwanyi)",
+      "c": "Egba Uprising",
+      "d": "Satiru Rebellion"
+    },
+    "answer": "b",
+    "explanation": "The Aba Women's War (1929) was an anti-colonial revolt led by market women across Owerri and Calabar provinces against taxation and warrant chiefs."
+  },
+  {
+    "question": "The Clifford Constitution of 1922 is particularly significant in Nigerian constitutional development because it ______",
+    "options": {
+      "a": "Created the first regional governments",
+      "b": "Abolished the Privy Council judicial jurisdiction",
+      "c": "Introduced the elective principle for the first time in Nigeria (allowing elected seats for Lagos and Calabar)",
+      "d": "Granted universal adult suffrage to all Nigerian citizens"
+    },
+    "answer": "c",
+    "explanation": "The 1922 Clifford Constitution introduced the elective principle for 4 legislative council seats (3 for Lagos, 1 for Calabar), sparking political parties."
+  },
+  {
+    "question": "Which colonial constitution formally divided Nigeria into three distinct administrative regions (Northern, Western, and Eastern) in 1946?",
+    "options": {
+      "a": "Clifford Constitution",
+      "b": "Lyttelton Constitution",
+      "c": "Macpherson Constitution",
+      "d": "Richards Constitution"
+    },
+    "answer": "d",
+    "explanation": "The Richards Constitution of 1946 created Regional Houses of Assembly in the Northern, Western, and Eastern Regions to reflect regional diversity."
+  },
+  {
+    "question": "What unique feature characterized the preparation and adoption of the Macpherson Constitution of 1951?",
+    "options": {
+      "a": "It underwent extensive consultations from village, district, provincial, and regional levels before ratification",
+      "b": "It was drafted entirely by British parliamentarians without African input",
+      "c": "It was approved by a nationwide military decree",
+      "d": "It made French the co-official language of administration"
+    },
+    "answer": "a",
+    "explanation": "Governor John Macpherson initiated unprecedented grassroots consultations at village, district, and regional levels to avoid the criticisms of previous constitutions."
+  },
+  {
+    "question": "Which constitution established a true federal structure for Nigeria in 1954, making regions autonomous with their own Premiers, civil services, and legislative powers?",
+    "options": {
+      "a": "Richards Constitution",
+      "b": "Lyttelton Constitution",
+      "c": "Clifford Constitution",
+      "d": "Independence Constitution"
+    },
+    "answer": "b",
+    "explanation": "The 1954 Lyttelton Constitution established a genuine federal system, granting residual legislative powers and regional executive premierships to the regions."
+  },
+  {
+    "question": "Who is widely revered as the 'Father of Nigerian Nationalism' and founded Nigeria's first political party, the NNDP, in 1923?",
+    "options": {
+      "a": "Dr. Nnamdi Azikiwe",
+      "b": "Sir Ahmadu Bello",
+      "c": "Herbert Macaulay",
+      "d": "Chief Obafemi Awolowo"
+    },
+    "answer": "c",
+    "explanation": "Civil engineer and journalist Herbert Macaulay founded the Nigerian National Democratic Party (NNDP) in 1923 and spearheaded anti-colonial campaigns."
+  },
+  {
+    "question": "The influential daily newspaper established in 1937 that energized radical youth nationalism and anti-colonial mobilization across Nigeria was the ______",
+    "options": {
+      "a": "Lagos Daily News",
+      "b": "Daily Times of Nigeria",
+      "c": "Nigerian Tribune",
+      "d": "West African Pilot (founded by Nnamdi Azikiwe)"
+    },
+    "answer": "d",
+    "explanation": "Dr. Nnamdi Azikiwe established the *West African Pilot* in 1937 with the motto 'Show the light and the people will find the way', galvanizing Nigerian nationalism."
+  },
+  {
+    "question": "In March 1953, who moved the historic motion on the floor of the Federal House of Representatives demanding 'self-government in 1956'?",
+    "options": {
+      "a": "Chief Anthony Enahoro",
+      "b": "Chief Obafemi Awolowo",
+      "c": "Sir Abubakar Tafawa Balewa",
+      "d": "Mallam Aminu Kano"
+    },
+    "answer": "a",
+    "explanation": "Action Group parliamentarian Chief Anthony Enahoro moved the landmark motion in March 1953 demanding that Nigeria attain self-government in 1956."
+  },
+  {
+    "question": "In what year did the Western and Eastern Regions achieve internal self-government prior to national independence?",
+    "options": {
+      "a": "1954",
+      "b": "1957",
+      "c": "1959",
+      "d": "1960"
+    },
+    "answer": "b",
+    "explanation": "The Western and Eastern regional governments achieved internal self-government in 1957, while the Northern Region followed in 1959."
+  },
+  {
+    "question": "In what year did the Northern Region formally achieve internal self-government?",
+    "options": {
+      "a": "1956",
+      "b": "1957",
+      "c": "1959",
+      "d": "1963"
+    },
+    "answer": "c",
+    "explanation": "The Northern Region attained internal self-government on March 15, 1959, under Premier Sir Ahmadu Bello, the Sardauna of Sokoto."
+  },
+  {
+    "question": "Following the pivotal December 1959 federal elections, which two political parties formed a coalition federal government to usher Nigeria into independence?",
+    "options": {
+      "a": "Action Group (AG) and Northern Elements Progressive Union (NEPU)",
+      "b": "Action Group (AG) and Dynamic Party",
+      "c": "United Middle Belt Congress (UMBC) and NNDP",
+      "d": "Northern People's Congress (NPC) and National Council of Nigeria and the Cameroons (NCNC)"
+    },
+    "answer": "d",
+    "explanation": "The NPC (led by Ahmadu Bello/Tafawa Balewa) and the NCNC (led by Nnamdi Azikiwe) formed a parliamentary coalition government in December 1959."
+  },
+  {
+    "question": "Who served as Nigeria's first and only federal Prime Minister at independence on October 1, 1960?",
+    "options": {
+      "a": "Sir Abubakar Tafawa Balewa",
+      "b": "Dr. Nnamdi Azikiwe",
+      "c": "Chief Obafemi Awolowo",
+      "d": "Sir Ahmadu Bello"
+    },
+    "answer": "a",
+    "explanation": "Sir Abubakar Tafawa Balewa was the federal Prime Minister of independent Nigeria, while Dr. Nnamdi Azikiwe served as Governor-General."
+  },
+  {
+    "question": "On October 1, 1963, Nigeria adopted a Republican Constitution which decisively ______",
+    "options": {
+      "a": "Abolished the office of Prime Minister in favor of military rule",
+      "b": "Severed constitutional ties with the British Crown, replacing Queen Elizabeth II with Dr. Nnamdi Azikiwe as President",
+      "c": "Dissolved the regional governments and parliaments",
+      "d": "Rejoined the League of Nations as a mandated territory"
+    },
+    "answer": "b",
+    "explanation": "The 1963 Republican Constitution replaced the British Monarch as ceremonial Head of State with an indigenous President (Dr. Nnamdi Azikiwe)."
+  }
+]

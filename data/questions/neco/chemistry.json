@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which of the following electronic configurations represents an element in Group 2 (alkaline earth metals) of the periodic table?",
+    "options": {
+      "a": "1s2 2s2 2p6 3s1",
+      "b": "1s2 2s2 2p6 3s2",
+      "c": "1s2 2s2 2p6 3s2 3p2",
+      "d": "1s2 2s2 2p6 3s2 3p6"
+    },
+    "answer": "b",
+    "explanation": "Elements with a valence shell configuration of ns2 (here, 1s2 2s2 2p6 3s2, Magnesium) possess two valence electrons and belong to Group 2."
+  },
+  {
+    "question": "What is the oxidation number of chromium in potassium dichromate, K2Cr2O7?",
+    "options": {
+      "a": "+3",
+      "b": "+4",
+      "c": "+6",
+      "d": "+7"
+    },
+    "answer": "c",
+    "explanation": "In K2Cr2O7: 2(+1) + 2(Cr) + 7(-2) = 0 => 2 + 2(Cr) - 14 = 0 => 2(Cr) = +12 => Cr = +6."
+  },
+  {
+    "question": "According to Charles's law, the volume of a fixed mass of gas is directly proportional to its absolute temperature provided that the",
+    "options": {
+      "a": "pressure remains constant",
+      "b": "volume remains constant",
+      "c": "density remains constant",
+      "d": "temperature is measured in degrees Celsius"
+    },
+    "answer": "a",
+    "explanation": "Charles's law states that at constant pressure, the volume of a given mass of gas is directly proportional to its thermodynamic (Kelvin) temperature (V ∝ T)."
+  },
+  {
+    "question": "Which of the following compounds exhibits coordinate (dative) covalent bonding in its structure?",
+    "options": {
+      "a": "Sodium chloride (NaCl)",
+      "b": "Ammonium ion (NH4+)",
+      "c": "Methane (CH4)",
+      "d": "Magnesium oxide (MgO)"
+    },
+    "answer": "b",
+    "explanation": "In NH4+, a lone pair of electrons from the nitrogen atom of ammonia (NH3) is donated to a hydrogen ion (H+) to form a coordinate covalent bond."
+  },
+  {
+    "question": "The rate of diffusion of gas X is twice that of gas Y. If the relative molecular mass of Y is 64, what is the relative molecular mass of X?",
+    "options": {
+      "a": "8",
+      "b": "16",
+      "c": "32",
+      "d": "128"
+    },
+    "answer": "b",
+    "explanation": "By Graham's Law of Diffusion: Rx / Ry = √(My / Mx) => 2 = √(64 / Mx) => 4 = 64 / Mx => Mx = 64 / 4 = 16."
+  },
+  {
+    "question": "Which of the following salts produces an acidic solution when dissolved in water due to hydrolysis?",
+    "options": {
+      "a": "Sodium chloride (NaCl)",
+      "b": "Ammonium chloride (NH4Cl)",
+      "c": "Sodium ethanoate (CH3COONa)",
+      "d": "Potassium sulfate (K2SO4)"
+    },
+    "answer": "b",
+    "explanation": "NH4Cl is the salt of a weak base (NH3) and a strong acid (HCl). The NH4+ ion hydrolyses with water producing H3O+ ions, rendering the solution acidic."
+  },
+  {
+    "question": "What volume of oxygen gas at s.t.p. is required for the complete combustion of 5.0 dm3 of propane (C3H8)? [Equation: C3H8(g) + 5O2(g) -> 3CO2(g) + 4H2O(l)]",
+    "options": {
+      "a": "10.0 dm3",
+      "b": "15.0 dm3",
+      "c": "25.0 dm3",
+      "d": "30.0 dm3"
+    },
+    "answer": "c",
+    "explanation": "By Gay-Lussac's Law of Combining Volumes, 1 volume of C3H8 reacts with 5 volumes of O2. Therefore, 5.0 dm3 of C3H8 requires 5 x 5.0 = 25.0 dm3 of O2."
+  },
+  {
+    "question": "Which catalyst is employed industrially in the Contact process for the manufacture of tetraoxosulphate(VI) acid?",
+    "options": {
+      "a": "Finely divided iron",
+      "b": "Vanadium(V) oxide (V2O5)",
+      "c": "Nickel",
+      "d": "Platinum gauze"
+    },
+    "answer": "b",
+    "explanation": "Vanadium(V) oxide (V2O5) is the primary catalyst used in the catalytic oxidation of sulfur dioxide to sulfur trioxide (2SO2 + O2 ⇌ 2SO3) at 450 °C."
+  },
+  {
+    "question": "During the electrolysis of dilute copper(II) sulfate solution using copper electrodes, what observation is made at the anode?",
+    "options": {
+      "a": "Oxygen gas is evolved",
+      "b": "Hydrogen gas is evolved",
+      "c": "Copper anode dissolves and decreases in mass",
+      "d": "Brown copper metal is deposited"
+    },
+    "answer": "c",
+    "explanation": "With active copper electrodes, copper atoms in the anode oxidize to Cu2+ ions (Cu -> Cu2+ + 2e-), causing the anode to dissolve and lose mass."
+  },
+  {
+    "question": "How many faradays of electricity are required to deposit 54 g of aluminium during electrolysis? [Al = 27, 1 F = 96,500 C]",
+    "options": {
+      "a": "2 F",
+      "b": "3 F",
+      "c": "6 F",
+      "d": "9 F"
+    },
+    "answer": "c",
+    "explanation": "Al3+ + 3e- -> Al. 1 mole of Al (27 g) requires 3 F. Thus, 54 g of Al corresponds to 54 / 27 = 2 moles. Total charge = 2 moles x 3 F/mole = 6 F."
+  },
+  {
+    "question": "Which of the following compounds exhibits geometrical (cis-trans) isomerism?",
+    "options": {
+      "a": "Propene",
+      "b": "But-1-ene",
+      "c": "But-2-ene",
+      "d": "2-Methylpropene"
+    },
+    "answer": "c",
+    "explanation": "But-2-ene (CH3-CH=CH-CH3) has two different groups (a methyl group and a hydrogen atom) attached to each carbon of the double bond, allowing cis and trans configurations."
+  },
+  {
+    "question": "The functional group present in alkanols (alcohols) is the",
+    "options": {
+      "a": "carbonyl group (-C=O)",
+      "b": "hydroxyl group (-OH)",
+      "c": "carboxyl group (-COOH)",
+      "d": "alkoxy group (-O-)"
+    },
+    "answer": "b",
+    "explanation": "Alkanols contain the hydroxyl group (-OH) covalently bonded to a saturated carbon atom."
+  },
+  {
+    "question": "The reaction between ethanol and ethanoic acid in the presence of concentrated H2SO4 produces an ester called",
+    "options": {
+      "a": "methyl ethanoate",
+      "b": "ethyl methanoate",
+      "c": "ethyl ethanoate",
+      "d": "propyl ethanoate"
+    },
+    "answer": "c",
+    "explanation": "C2H5OH + CH3COOH ⇌ CH3COOC2H5 (ethyl ethanoate) + H2O in an acid-catalyzed esterification."
+  },
+  {
+    "question": "Which gas gives a rotten-egg smell and turns lead(II) ethanoate paper black?",
+    "options": {
+      "a": "Sulfur dioxide (SO2)",
+      "b": "Hydrogen sulfide (H2S)",
+      "c": "Ammonia (NH3)",
+      "d": "Carbon dioxide (CO2)"
+    },
+    "answer": "b",
+    "explanation": "Hydrogen sulfide (H2S) has a characteristic foul odour of rotten eggs and forms a black precipitate of lead(II) sulfide (PbS) with lead ethanoate."
+  },
+  {
+    "question": "Which of the following elements has the highest first ionization energy?",
+    "options": {
+      "a": "Sodium (Na)",
+      "b": "Magnesium (Mg)",
+      "c": "Chlorine (Cl)",
+      "d": "Argon (Ar)"
+    },
+    "answer": "d",
+    "explanation": "Argon possesses a stable octet noble gas electron configuration, making the removal of an outer electron require the highest energy across Period 3."
+  },
+  {
+    "question": "A substance that can act as both an acid and a base is termed",
+    "options": {
+      "a": "amphoteric",
+      "b": "hygroscopic",
+      "c": "deliquescent",
+      "d": "efflorescent"
+    },
+    "answer": "a",
+    "explanation": "Amphoteric substances (such as aluminum oxide, Al2O3, and zinc hydroxide, Zn(OH)2) react with both acids and bases to yield salts and water."
+  },
+  {
+    "question": "The pH of a 0.001 mol dm-3 aqueous solution of hydrochloric acid is",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "explanation": "HCl is a strong monoprotic acid: [H+] = 0.001 mol dm-3 = 10^-3 mol dm-3. pH = -log[H+] = -log(10^-3) = 3."
+  },
+  {
+    "question": "What is the IUPAC name of the compound with the formula CH3-CH(CH3)-CH2-CH3?",
+    "options": {
+      "a": "2-Methylbutane",
+      "b": "3-Methylbutane",
+      "c": "Pentane",
+      "d": "2,2-Dimethylpropane"
+    },
+    "answer": "a",
+    "explanation": "The longest continuous carbon chain has four carbons (butane) with a methyl group at position 2 (numbering from the end closest to the substituent)."
+  },
+  {
+    "question": "Which of the following allotropes of carbon is an electrical conductor?",
+    "options": {
+      "a": "Diamond",
+      "b": "Graphite",
+      "c": "Fullerene C60",
+      "d": "Carbon black"
+    },
+    "answer": "b",
+    "explanation": "In graphite, each carbon atom is bonded to three others in hexagonal planar layers, leaving one delocalized pi electron per carbon free to conduct electricity."
+  },
+  {
+    "question": "The shape of the water molecule (H2O) is described as",
+    "options": {
+      "a": "linear",
+      "b": "trigonal planar",
+      "c": "v-shaped (bent)",
+      "d": "tetrahedral"
+    },
+    "answer": "c",
+    "explanation": "The oxygen atom has four electron pairs (two bonding pairs and two lone pairs); repulsion between the lone pairs distorts the molecule into a bent or V-shape with a bond angle of 104.5°."
+  },
+  {
+    "question": "In the chemical equilibrium N2(g) + 3H2(g) ⇌ 2NH3(g) [ΔH = -92 kJ mol-1], an increase in pressure at constant temperature will",
+    "options": {
+      "a": "shift the equilibrium position to the right",
+      "b": "shift the equilibrium position to the left",
+      "c": "decrease the yield of ammonia",
+      "d": "have no effect on the equilibrium"
+    },
+    "answer": "a",
+    "explanation": "According to Le Chatelier's principle, increasing pressure favours the side with fewer moles of gas. The forward reaction reduces 4 moles of gas to 2 moles, shifting the equilibrium to the right."
+  },
+  {
+    "question": "Which of the following compounds gives a brick-red precipitate when heated with Fehling's solution?",
+    "options": {
+      "a": "Ethanal",
+      "b": "Propan-2-one",
+      "c": "Ethanol",
+      "d": "Ethanoic acid"
+    },
+    "answer": "a",
+    "explanation": "Aldehydes like ethanal are readily oxidized by Fehling's solution to carboxylate ions, reducing copper(II) to copper(I) oxide (Cu2O), which precipitates as a brick-red solid."
+  },
+  {
+    "question": "The primary ore from which aluminium is extracted industrially is",
+    "options": {
+      "a": "Haematite",
+      "b": "Bauxite",
+      "c": "Cassiterite",
+      "d": "Galena"
+    },
+    "answer": "b",
+    "explanation": "Bauxite (hydrated aluminium oxide, Al2O3.2H2O) is the principal mineral ore from which pure alumina is obtained and electrolyzed."
+  },
+  {
+    "question": "What type of reaction is represented by the conversion of ethene to bromoethane? [C2H4 + HBr -> C2H5Br]",
+    "options": {
+      "a": "Electrophilic substitution",
+      "b": "Electrophilic addition",
+      "c": "Nucleophilic addition",
+      "d": "Free radical substitution"
+    },
+    "answer": "b",
+    "explanation": "Alkenes possess electron-rich carbon-carbon double bonds that undergo electrophilic addition reactions with hydrogen halides."
+  },
+  {
+    "question": "Which of the following metals displaces hydrogen gas from cold water with vigorous fizzing?",
+    "options": {
+      "a": "Iron",
+      "b": "Copper",
+      "c": "Potassium",
+      "d": "Zinc"
+    },
+    "answer": "c",
+    "explanation": "Potassium is an alkali metal high in the electrochemical reactivity series that reacts violently with cold water to produce potassium hydroxide and hydrogen gas."
+  },
+  {
+    "question": "The process of converting higher molecular weight hydrocarbons into lower molecular weight hydrocarbons by the action of heat and catalysts is called",
+    "options": {
+      "a": "polymerization",
+      "b": "thermal reforming",
+      "c": "catalytic cracking",
+      "d": "fractional distillation"
+    },
+    "answer": "c",
+    "explanation": "Cracking breaks long-chain alkane molecules into shorter, more useful alkanes and alkenes under high temperature and in the presence of catalysts such as zeolite/aluminosilicate."
+  },
+  {
+    "question": "Which indicator is most suitable for the titration of a weak acid against a strong base?",
+    "options": {
+      "a": "Methyl orange",
+      "b": "Phenolphthalein",
+      "c": "Bromothymol blue",
+      "d": "Litmus paper"
+    },
+    "answer": "b",
+    "explanation": "The equivalence point of a weak acid - strong base titration lies in the alkaline region (pH 8 to 10), which falls perfectly within the colour change range of phenolphthalein (pH 8.3 - 10.0)."
+  },
+  {
+    "question": "What is the percentage by mass of nitrogen in urea, (NH2)2CO? [N = 14, H = 1, C = 12, O = 16]",
+    "options": {
+      "a": "23.3%",
+      "b": "35.0%",
+      "c": "46.7%",
+      "d": "60.0%"
+    },
+    "answer": "c",
+    "explanation": "Molar mass of (NH2)2CO = 2(14 + 2) + 12 + 16 = 32 + 28 = 60 g mol-1. Mass of nitrogen = 2 x 14 = 28 g. Percentage = (28 / 60) x 100% = 46.67% ≈ 46.7%."
+  },
+  {
+    "question": "The spontaneous loss of water of crystallization by hydrated salts when exposed to the atmosphere is called",
+    "options": {
+      "a": "deliquescence",
+      "b": "efflorescence",
+      "c": "hygroscopy",
+      "d": "sublimation"
+    },
+    "answer": "b",
+    "explanation": "Efflorescence is the phenomenon where a hydrated crystalline salt (e.g., Na2CO3.10H2O) loses water of crystallization to dry air, forming a powdery crust."
+  },
+  {
+    "question": "Which of the following compounds will decolourize bromine water in the absence of sunlight?",
+    "options": {
+      "a": "Ethane",
+      "b": "Propane",
+      "c": "Cyclohexane",
+      "d": "Ethene"
+    },
+    "answer": "d",
+    "explanation": "Ethene is an unsaturated alkene; it rapidly adds bromine across the double bond to yield colourless 1,2-dibromoethane without requiring sunlight or UV radiation."
+  },
+  {
+    "question": "Which law states that the total enthalpy change in a chemical reaction is independent of the pathway taken, provided initial and final states are identical?",
+    "options": {
+      "a": "Hess's Law of Constant Heat Summation",
+      "b": "First Law of Thermodynamics",
+      "c": "Henry's Law",
+      "d": "Raoult's Law"
+    },
+    "answer": "a",
+    "explanation": "Hess's Law states that the overall enthalpy change of a reaction depends only on the enthalpies of the reactants and products, not on the intermediate reaction route."
+  },
+  {
+    "question": "The number of unpaired electrons in the ground state of an isolated nitrogen atom (atomic number 7) is",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "0"
+    },
+    "answer": "c",
+    "explanation": "Nitrogen has electron configuration 1s2 2s2 2p3. By Hund's rule of maximum multiplicity, the three 2p electrons singly occupy the px, py, and pz orbitals with parallel spins."
+  },
+  {
+    "question": "Which gas is liberated when concentrated hydrochloric acid reacts with manganese(IV) oxide under heating?",
+    "options": {
+      "a": "Hydrogen (H2)",
+      "b": "Oxygen (O2)",
+      "c": "Chlorine (Cl2)",
+      "d": "Sulfur dioxide (SO2)"
+    },
+    "answer": "c",
+    "explanation": "MnO2 + 4HCl -> MnCl2 + 2H2O + Cl2(g). Manganese(IV) oxide oxidizes chloride ions to greenish-yellow chlorine gas."
+  },
+  {
+    "question": "Which bond is primarily responsible for the unexpectedly high boiling point of water compared to hydrogen sulfide (H2S)?",
+    "options": {
+      "a": "Ionic bond",
+      "b": "Hydrogen bond",
+      "c": "Covalent bond",
+      "d": "Metallic bond"
+    },
+    "answer": "b",
+    "explanation": "Water forms strong intermolecular hydrogen bonds due to the high electronegativity of oxygen and small atomic radius, requiring substantial energy to separate molecules."
+  },
+  {
+    "question": "What is the empirical formula of a hydrocarbon containing 85.7% carbon and 14.3% hydrogen by mass? [C = 12, H = 1]",
+    "options": {
+      "a": "CH",
+      "b": "CH2",
+      "c": "CH3",
+      "d": "C2H5"
+    },
+    "answer": "b",
+    "explanation": "Moles of C = 85.7 / 12 = 7.14; moles of H = 14.3 / 1 = 14.3. Ratio C:H = 7.14/7.14 : 14.3/7.14 = 1 : 2. Empirical formula is CH2."
+  },
+  {
+    "question": "The bleaching action of sulfur(IV) oxide (SO2) on dyed fabrics is due to its property as a",
+    "options": {
+      "a": "reducing agent",
+      "b": "oxidizing agent",
+      "c": "dehydrating agent",
+      "d": "neutralizing agent"
+    },
+    "answer": "a",
+    "explanation": "Sulfur dioxide bleaches coloured substances by reduction in the presence of moisture; this bleaching is temporary as aerial oxidation can restore the colour."
+  },
+  {
+    "question": "Which of the following compounds is an aromatic hydrocarbon?",
+    "options": {
+      "a": "Cyclohexane",
+      "b": "Benzene",
+      "c": "Hex-1-ene",
+      "d": "Octane"
+    },
+    "answer": "b",
+    "explanation": "Benzene (C6H6) is a planar cyclic conjugated system possessing (4n + 2) pi electrons (Hückel's rule where n=1), characteristic of aromatic hydrocarbons."
+  },
+  {
+    "question": "In the extraction of iron in the blast furnace, limestone (calcium carbonate) is added primarily to",
+    "options": {
+      "a": "reduce haematite to iron",
+      "b": "remove silica impurities as slag (calcium silicate)",
+      "c": "supply carbon monoxide fuel",
+      "d": "lower the melting point of iron"
+    },
+    "answer": "b",
+    "explanation": "CaCO3 thermally decomposes to CaO, which acts as a basic flux reacting with acidic sand/silica impurities (SiO2) to form molten slag (CaSiO3)."
+  },
+  {
+    "question": "What is the product obtained when ethyne (acetylene) undergoes complete catalytic hydrogenation in the presence of nickel catalyst?",
+    "options": {
+      "a": "Ethene",
+      "b": "Ethane",
+      "c": "Methane",
+      "d": "Ethanol"
+    },
+    "answer": "b",
+    "explanation": "Complete hydrogenation of ethyne (C2H2 + 2H2 -> C2H6) converts the triple bond entirely into a saturated single bond, yielding ethane."
+  },
+  {
+    "question": "Which of the following oxides is classified as a neutral oxide?",
+    "options": {
+      "a": "Carbon monoxide (CO)",
+      "b": "Carbon dioxide (CO2)",
+      "c": "Sulfur dioxide (SO2)",
+      "d": "Sodium oxide (Na2O)"
+    },
+    "answer": "a",
+    "explanation": "Carbon monoxide (CO), dinitrogen monoxide (N2O), and nitrogen monoxide (NO) are neutral oxides that do not react with either acids or bases."
+  },
+  {
+    "question": "A spontaneous chemical reaction at constant temperature and pressure is characterized by",
+    "options": {
+      "a": "ΔG > 0",
+      "b": "ΔG < 0",
+      "c": "ΔH > 0 and ΔS < 0",
+      "d": "ΔG = 0"
+    },
+    "answer": "b",
+    "explanation": "For a reaction to occur spontaneously at constant T and P, the Gibbs free energy change (ΔG = ΔH - TΔS) must be negative (ΔG < 0)."
+  },
+  {
+    "question": "What is the molarity of a solution prepared by dissolving 4.0 g of sodium hydroxide (NaOH) in water to make 250 cm3 of solution? [Na = 23, O = 16, H = 1]",
+    "options": {
+      "a": "0.10 mol dm-3",
+      "b": "0.20 mol dm-3",
+      "c": "0.40 mol dm-3",
+      "d": "0.80 mol dm-3"
+    },
+    "answer": "c",
+    "explanation": "Molar mass of NaOH = 40 g mol-1. Moles = 4.0 / 40 = 0.10 mol. Volume = 250 / 1000 = 0.25 dm3. Molarity = 0.10 / 0.25 = 0.40 mol dm-3."
+  },
+  {
+    "question": "Which family of organic compounds gives a silver mirror on the inner wall of a test tube when treated with Tollens' reagent?",
+    "options": {
+      "a": "Ketones",
+      "b": "Alkanols",
+      "c": "Aliphatic aldehydes",
+      "d": "Carboxylic acids"
+    },
+    "answer": "c",
+    "explanation": "Aldehydes possess a readily oxidizable carbonyl hydrogen and reduce ammoniacal silver nitrate (Tollens' reagent) to metallic silver, forming a mirror."
+  },
+  {
+    "question": "In the standard galvanic cell Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s), electrons flow externally through the connecting wire from the",
+    "options": {
+      "a": "copper cathode to zinc anode",
+      "b": "zinc anode to copper cathode",
+      "c": "salt bridge to zinc electrode",
+      "d": "salt bridge to copper electrode"
+    },
+    "answer": "b",
+    "explanation": "Zinc is more reactive and oxidizes at the anode releasing electrons (Zn -> Zn2+ + 2e-); electrons flow through the external circuit to the copper cathode where reduction occurs."
+  },
+  {
+    "question": "The radioactive decay of uranium-238 to thorium-234 occurs by the emission of an",
+    "options": {
+      "a": "alpha particle (helium nucleus)",
+      "b": "beta particle (electron)",
+      "c": "gamma ray photon",
+      "d": "positron"
+    },
+    "answer": "a",
+    "explanation": "Alpha decay reduces the atomic mass number by 4 (from 238 to 234) and the atomic number by 2 (from 92 to 90), corresponding to an alpha particle (4_2 He)."
+  },
+  {
+    "question": "Which property of a liquid is measured by the temperature at which its saturated vapour pressure equals atmospheric pressure?",
+    "options": {
+      "a": "Melting point",
+      "b": "Normal boiling point",
+      "c": "Critical point",
+      "d": "Flash point"
+    },
+    "answer": "b",
+    "explanation": "The boiling point of a liquid is the exact temperature at which its saturated vapour pressure becomes equal to the external ambient atmospheric pressure."
+  },
+  {
+    "question": "Polymerization of vinyl chloride (chloroethene) produces the commercial polymer known as",
+    "options": {
+      "a": "Nylon-6,6",
+      "b": "Polyvinyl chloride (PVC)",
+      "c": "Polystyrene",
+      "d": "Polytetrafluoroethene (Teflon)"
+    },
+    "answer": "b",
+    "explanation": "Chloroethene (CH2=CHCl) undergoes addition polymerization to yield polychloroethene, universally known as polyvinyl chloride (PVC)."
+  },
+  {
+    "question": "Which gas is evolved when calcium carbide reacts with cold water?",
+    "options": {
+      "a": "Methane (CH4)",
+      "b": "Ethyne (C2H2)",
+      "c": "Ethene (C2H4)",
+      "d": "Carbon monoxide (CO)"
+    },
+    "answer": "b",
+    "explanation": "CaC2 + 2H2O -> Ca(OH)2 + C2H2(g). Calcium carbide hydrolyzes readily with water to generate ethyne (acetylene) gas."
+  },
+  {
+    "question": "A catalyst increases the rate of a chemical reaction principally by",
+    "options": {
+      "a": "increasing the enthalpy change of reaction (ΔH)",
+      "b": "providing an alternative reaction pathway with lower activation energy",
+      "c": "increasing the kinetic energy of reacting molecules",
+      "d": "shifting the chemical equilibrium toward products"
+    },
+    "answer": "b",
+    "explanation": "A catalyst provides an alternative mechanistic pathway with a lower activation energy barrier, enabling a higher fraction of molecular collisions to be effective."
+  },
+  {
+    "question": "Which of the following elements exhibits diagonal relationship with magnesium in the periodic table?",
+    "options": {
+      "a": "Beryllium",
+      "b": "Lithium",
+      "c": "Boron",
+      "d": "Sodium"
+    },
+    "answer": "b",
+    "explanation": "Lithium (Group 1, Period 2) and Magnesium (Group 2, Period 3) display a well-documented diagonal relationship due to their similar polarizing power (charge-to-size ratio)."
+  }
+]

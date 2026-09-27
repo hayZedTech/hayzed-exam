@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Which ancient Nigerian art tradition, dating from roughly 500 BC to 200 AD, is renowned for its hollow terracotta human figures featuring pierced pupils, nostrils, and ears with elaborate hairstyles?",
+    "options": {
+      "a": "Igbo-Ukwu culture",
+      "b": "Nok culture",
+      "c": "Ife culture",
+      "d": "Benin kingdom art"
+    },
+    "answer": "b",
+    "explanation": "The Nok culture, discovered in 1928 during tin-mining operations near the village of Nok in Kaduna State, is renowned for its stylized terracotta sculptures featuring perforated triangular eyes and pupils, flared nostrils, and hollow modeling to prevent cracking during firing."
+  },
+  {
+    "question": "The 1938 accidental archaeological discovery of intricate, highly leaded bronze artifacts—including the famous roped pot and ceremonial staff heads—at Igbo-Ukwu occurred on the property of:",
+    "options": {
+      "a": "Bernard Fagg",
+      "b": "Isaiah Anozie",
+      "c": "Thurstan Shaw",
+      "d": "Ekpo Eyo"
+    },
+    "answer": "b",
+    "explanation": "In 1938, Isaiah Anozie was digging a water cistern in his compound in Igbo-Ukwu, Anambra State, when he unearthed bronze castings later scientifically excavated by archaeologist Thurstan Shaw."
+  },
+  {
+    "question": "Which characteristic most distinguishes the classical bronze and terracotta portrait sculptures of ancient Ile-Ife from other historical West African sculptural traditions?",
+    "options": {
+      "a": "Extreme geometric abstraction and elongated tubular limbs",
+      "b": "Remarkable lifelike naturalism, idealized proportions, and facial striations (scarification)",
+      "c": "Exclusive use of carved steatite (soapstone)",
+      "d": "Gigantic monumental sizes exceeding five meters in height"
+    },
+    "answer": "b",
+    "explanation": "Ancient Ife art (11th–15th century) is famous for its serene, refined naturalism, delicate human facial proportions, and fine parallel facial striations depicting royal personages."
+  },
+  {
+    "question": "The historical ivory pendant mask depicting Queen Mother Idia, adopted as the official emblem of the Second World Black and African Festival of Arts and Culture (FESTAC '77), originates from which art tradition?",
+    "options": {
+      "a": "Benin art",
+      "b": "Owo art",
+      "c": "Tada art",
+      "d": "Nok art"
+    },
+    "answer": "a",
+    "explanation": "The 16th-century ivory pendant mask depicting Idia, mother of Oba Esigie of the Kingdom of Benin, was chosen as the iconic symbol for FESTAC '77 in Lagos, Nigeria."
+  },
+  {
+    "question": "Who among the following pioneers is celebrated as the 'Father of Modern Nigerian Art' for championing formal visual art education in the Nigerian school curriculum against colonial doubts?",
+    "options": {
+      "a": "Ben Enwonwu",
+      "b": "Aina Onabolu",
+      "c": "Bruce Onobrakpeya",
+      "d": "Yusuf Grillo"
+    },
+    "answer": "b",
+    "explanation": "Aina Onabolu (1882–1963) was Nigeria's first academically trained modern artist; he successfully convinced the British colonial education department to introduce formal art education into secondary schools in 1923."
+  },
+  {
+    "question": "The revolutionary concept of 'Natural Synthesis'—advocating the blending of traditional African artistic heritage with European academic techniques—was formulated in 1958 by the:",
+    "options": {
+      "a": "Oshogbo Art Movement",
+      "b": "Zaria Art Society (Zaria Rebels)",
+      "c": "Mbari Mbayo Artists Club",
+      "d": "Nsukka School of Painters"
+    },
+    "answer": "b",
+    "explanation": "The Zaria Art Society (led by Uche Okeke, Yusuf Grillo, Demas Nwoko, Bruce Onobrakpeya, and others at the Nigerian College of Arts, Science and Technology, Zaria) formulated 'Natural Synthesis' to merge indigenous Nigerian cultural themes with formal academic techniques."
+  },
+  {
+    "question": "In color theory, what is produced when an artist mixes a pure hue with varying amounts of white?",
+    "options": {
+      "a": "A Shade",
+      "b": "A Tint",
+      "c": "A Tone",
+      "d": "A Neutral"
+    },
+    "answer": "b",
+    "explanation": "A tint is created by adding white to a pure hue to lighten its value. Adding black produces a shade, while adding grey creates a tone."
+  },
+  {
+    "question": "Which of the following pairs of pigment colors are complementary to each other on the standard color wheel?",
+    "options": {
+      "a": "Red and Orange",
+      "b": "Blue and Orange",
+      "c": "Yellow and Green",
+      "d": "Red and Blue"
+    },
+    "answer": "b",
+    "explanation": "Blue and orange are complementary colors because they sit diametrically opposite each other on the standard artist's 12-hue color wheel."
+  },
+  {
+    "question": "The famous copper casting of a seated figure discovered in Tada village on the banks of the River Niger shows stylistic affinity with the art of:",
+    "options": {
+      "a": "Ile-Ife",
+      "b": "Nok",
+      "c": "Esie",
+      "d": "Ashanti"
+    },
+    "answer": "a",
+    "explanation": "The seated Tada bronze figure, cast from almost pure copper, demonstrates exquisite naturalism, relaxed posture, and facial features closely linked to the classical Ile-Ife metallurgical tradition."
+  },
+  {
+    "question": "In printmaking, which method involves cutting away the negative areas from a wood or linoleum block so that ink is transferred only from the raised surface?",
+    "options": {
+      "a": "Intaglio printing",
+      "b": "Relief printing",
+      "c": "Planographic printing (Lithography)",
+      "d": "Serigraphy (Screen printing)"
+    },
+    "answer": "b",
+    "explanation": "In relief printmaking (such as woodcut or linocut), the non-image areas are carved away below the surface, leaving the design raised to receive ink from a brayer roller."
+  },
+  {
+    "question": "Which famous Renaissance master executed the celebrated fresco 'The School of Athens' located in the Apostolic Palace in the Vatican?",
+    "options": {
+      "a": "Leonardo da Vinci",
+      "b": "Raphael Sanzio",
+      "c": "Michelangelo Buonarroti",
+      "d": "Donatello"
+    },
+    "answer": "b",
+    "explanation": "Raphael Sanzio painted 'The School of Athens' (1509–1511) in the Stanza della Segnatura in the Vatican, depicting great classical Greek philosophers such as Plato and Aristotle using perfect one-point linear perspective."
+  },
+  {
+    "question": "The Renaissance painting technique developed by Leonardo da Vinci characterized by subtle, hazy blending of colors and tones without sharp outlines is called:",
+    "options": {
+      "a": "Chiaroscuro",
+      "b": "Sfumato",
+      "c": "Impasto",
+      "d": "Grisaille"
+    },
+    "answer": "b",
+    "explanation": "Sfumato (derived from the Italian for 'smoke' or 'evaporated') is the technique of applying thin translucent glazes to create soft, imperceptible transitions between colors and tones without harsh outlines."
+  },
+  {
+    "question": "In graphic design and typography, what term describes the proportional adjustment of spacing between individual pairs of adjacent letters to achieve visual harmony?",
+    "options": {
+      "a": "Kerning",
+      "b": "Tracking",
+      "c": "Leading",
+      "d": "Justification"
+    },
+    "answer": "a",
+    "explanation": "Kerning refers to the adjustment of space between two specific adjacent typographical characters to eliminate awkward gaps, distinct from tracking which adjusts uniform spacing across a word or line."
+  },
+  {
+    "question": "The largest collection of soapstone (steatite) carvings in sub-Saharan Africa, numbering over eight hundred human figurines, is found at:",
+    "options": {
+      "a": "Esie in Kwara State",
+      "b": "Birnin Kudu in Jigawa State",
+      "c": "Ikom in Cross River State",
+      "d": "Dutsen Habude in Kano State"
+    },
+    "answer": "a",
+    "explanation": "The town of Esie in Irepodun LGA, Kwara State, is home to over 800 soapstone (steatite) carved figures portraying men, women, and animals discovered in 1933, making it the largest collection of stone carvings in Africa."
+  },
+  {
+    "question": "Which contemporary Nigerian artist invented the printmaking medium known as 'Plastocast' (hydrostone deep-etching relief)?",
+    "options": {
+      "a": "Bruce Onobrakpeya",
+      "b": "Ben Enwonwu",
+      "c": "Uche Okeke",
+      "d": "Twins Seven-Seven"
+    },
+    "answer": "a",
+    "explanation": "Prof. Bruce Onobrakpeya innovated several unique printmaking processes, notably 'Plastocast' and 'Ivorex', which utilize plaster, polyester resins, and epoxy to create three-dimensional low-relief prints."
+  },
+  {
+    "question": "In ceramics, what is the term for pottery that has undergone its initial firing in a kiln, rendering it durable and porous, ready for glaze application?",
+    "options": {
+      "a": "Greenware",
+      "b": "Leather-hard ware",
+      "c": "Bisque (Bisc) ware",
+      "d": "Bone-dry ware"
+    },
+    "answer": "c",
+    "explanation": "Bisque (or bisc) refers to unglazed ceramic ware that has undergone its first firing, converting dried clay into insoluble, hard, yet porous ceramic that readily absorbs liquid glazes."
+  },
+  {
+    "question": "Which prominent Western art movement, spearheaded by Pablo Picasso and Georges Braque in the early 20th century, fragmented subject matter into multi-faceted geometric planes viewed from multiple viewpoints simultaneously?",
+    "options": {
+      "a": "Surrealism",
+      "b": "Cubism",
+      "c": "Fauvism",
+      "d": "Romanticism"
+    },
+    "answer": "b",
+    "explanation": "Cubism (developed c. 1907–1914) shattered traditional Renaissance single-point perspective, breaking subjects down into geometric facets and reassembling them to depict multiple perspectives simultaneously."
+  },
+  {
+    "question": "What is the ancient metallurgical technique universally used in Ife, Benin, and Igbo-Ukwu to cast intricate, hollow bronze and brass sculptures?",
+    "options": {
+      "a": "Repoussé and chasing",
+      "b": "Lost-wax process (Cire perdue)",
+      "c": "Die stamping",
+      "d": "Sand casting with wooden patterns"
+    },
+    "answer": "b",
+    "explanation": "The lost-wax process (cire perdue) involves sculpting a model in beeswax over a clay core, investing it in clay, melting out the wax in a furnace, and pouring molten metal into the hollow cavity."
+  },
+  {
+    "question": "Traditional Yoruba 'Adire Eleko' textile fabric is created using which resist technique?",
+    "options": {
+      "a": "Melted paraffin wax applied with a tjanting tool",
+      "b": "Cassava starch paste applied by hand painting or through zinc stencils before indigo dyeing",
+      "c": "Tying pebbles with raffia cords",
+      "d": "Stitching intricate folds with copper wire"
+    },
+    "answer": "b",
+    "explanation": "Adire Eleko is a resist-dyed cloth made by applying a paste of fermented cassava starch (lafun) onto fabric using chicken feathers or stencils, drying it, and immersing it in fermented indigo dye pots."
+  },
+  {
+    "question": "Which principle of visual art and design refers to the deliberate juxtaposition of opposing elements—such as light against dark, or rough against smooth—to create visual excitement?",
+    "options": {
+      "a": "Harmony",
+      "b": "Contrast",
+      "c": "Symmetry",
+      "d": "Dominance"
+    },
+    "answer": "b",
+    "explanation": "Contrast is the arrangement of opposing elements (such as light vs. dark values, complementary hues, or rough vs. smooth textures) within a composition to create visual tension and interest."
+  },
+  {
+    "question": "The renowned Nigerian sculptor who created the bronze statue of 'Anyanwu' (The Awakening) at the National Museum in Lagos, and the statue of 'Sango' outside the ECN headquarters, was:",
+    "options": {
+      "a": "Ben Enwonwu",
+      "b": "Ladi Kwali",
+      "c": "Felix Idubor",
+      "d": "Erhabor Emokpae"
+    },
+    "answer": "a",
+    "explanation": "Prof. Benedict Chuka Enwonwu (1917–1994) sculpted 'Anyanwu' (Sun god / The Awakening) and the iconic statue of 'Sango' (the Yoruba deity of lightning) at the NEPA/ECN headquarters in Marina, Lagos."
+  },
+  {
+    "question": "Which of the following classical orders of ancient Greek architecture features columns with ornate bell-shaped capitals adorned with sculpted acanthus leaves?",
+    "options": {
+      "a": "Doric order",
+      "b": "Ionic order",
+      "c": "Corinthian order",
+      "d": "Tuscan order"
+    },
+    "answer": "c",
+    "explanation": "The Corinthian order is the most elaborate of the classical Greek architectural orders, characterized by slender fluted columns and ornate capitals decorated with rows of stylized acanthus leaves."
+  },
+  {
+    "question": "In drawing and painting, what is the term for a rapid, preliminary, loosely executed sketch used to capture the primary gesture, movement, and proportions of a live model?",
+    "options": {
+      "a": "Croquis (Gesture drawing)",
+      "b": "Carton",
+      "c": "Foreshortening",
+      "d": "Sgraffito"
+    },
+    "answer": "a",
+    "explanation": "A croquis is a quick, expressive gesture sketch that captures the essential pose, energy, and rhythm of a live subject in just a few minutes."
+  },
+  {
+    "question": "The Mbari cultural institution, characterized by painted mud shrines erected in honor of Ala, the earth goddess, is an architectural and artistic tradition of the:",
+    "options": {
+      "a": "Yoruba of Oyo",
+      "b": "Igbo of Owerri and surrounding districts",
+      "c": "Efik of Calabar",
+      "d": "Nupe of Bida"
+    },
+    "answer": "b",
+    "explanation": "Mbari houses are sacred, brightly painted mud temple-shrines constructed by the Owerri Igbo to honor Ala (the earth goddess) featuring modeled clay figures depicting daily life, deities, and beasts."
+  },
+  {
+    "question": "What is the primary function of an internal armature constructed from wire, wood, or metal pipes when making a freestanding clay or plaster sculpture?",
+    "options": {
+      "a": "To serve as a decorative external frame",
+      "b": "To provide rigid internal structural support that prevents the heavy modeling material from sagging or collapsing",
+      "c": "To ensure uniform coloration during chemical patination",
+      "d": "To seal the sculpture against atmospheric humidity"
+    },
+    "answer": "b",
+    "explanation": "An armature is a skeletal framework (commonly made of malleable wire, metal piping, or wood) built inside a plastic modeling material like wet clay or wax to support its weight."
+  },
+  {
+    "question": "In painting, the term 'impasto' refers to:",
+    "options": {
+      "a": "A transparent underpainting executed exclusively in sepia washes",
+      "b": "The thick, textural application of paint to a canvas surface so that brush or palette knife strokes remain distinctly visible",
+      "c": "Painting executed directly on wet plaster walls",
+      "d": "A mixture of egg yolk and dry powdered pigments"
+    },
+    "answer": "b",
+    "explanation": "Impasto is a painting technique where oil or acrylic paint is laid on thickly with a brush or palette knife, standing out from the canvas surface to provide tangible three-dimensional texture."
+  },
+  {
+    "question": "Which celebrated Nigerian potter popularized traditional Gwari hand-built pottery techniques internationally through her work at the Pottery Training Centre in Suleja (Abuja) founded by Michael Cardew?",
+    "options": {
+      "a": "Ladi Kwali",
+      "b": "Madam Asake",
+      "c": "Colette Omogbai",
+      "d": "Binta Bello"
+    },
+    "answer": "a",
+    "explanation": "Dr. Hadiza Ladi Kwali (1925–1984) gained worldwide acclaim for combining traditional coiled Gwari pottery with modern European stoneware glazing at the Abuja Pottery Training Centre."
+  },
+  {
+    "question": "In fine art, the visual illusion whereby an object or human limb appears shorter and compressed when pointed directly towards or away from the viewer is called:",
+    "options": {
+      "a": "Atmospheric perspective",
+      "b": "Foreshortening",
+      "c": "Isometric projection",
+      "d": "Anamorphic distortion"
+    },
+    "answer": "b",
+    "explanation": "Foreshortening is the optical effect in drawing and painting where an object or anatomical limb appears compressed in length when aligned along the line of sight."
+  },
+  {
+    "question": "The renowned Dutch Post-Impressionist painter famous for expressive swirling brushwork, vibrant emotional color, and masterpieces such as 'The Starry Night' and 'Sunflowers' is:",
+    "options": {
+      "a": "Claude Monet",
+      "b": "Vincent van Gogh",
+      "c": "Paul Cézanne",
+      "d": "Edouard Manet"
+    },
+    "answer": "b",
+    "explanation": "Vincent van Gogh (1853–1890) was a Dutch Post-Impressionist master whose passionate color application, dramatic impasto strokes, and psychological intensity produced iconic works like 'The Starry Night'."
+  },
+  {
+    "question": "Which traditional West African woven cloth features vibrant geometric patterns, multi-colored strip weaves, and symbolic proverbs, originating among the Ashanti and Ewe peoples of Ghana?",
+    "options": {
+      "a": "Akwete cloth",
+      "b": "Kente cloth",
+      "c": "Aso Oke cloth",
+      "d": "Kanga cloth"
+    },
+    "answer": "b",
+    "explanation": "Kente cloth is a traditional Ghanaian silk-and-cotton fabric woven on narrow strip looms by Ashanti and Ewe weavers, featuring rich geometric patterns symbolizing status, history, and proverbs."
+  },
+  {
+    "question": "The traditional Uli art tradition, revived and integrated into modern Nigerian painting and drawing by artists of the Nsukka School, originated as:",
+    "options": {
+      "a": "Igbo body decoration and sacred earthen wall murals drawn by women using organic plant dyes",
+      "b": "Yoruba palace courtyard veranda post carvings",
+      "c": "Hausa indigo-dyed embroidery motifs on riga robes",
+      "d": "Benin bronze relief plaques for royal altars"
+    },
+    "answer": "a",
+    "explanation": "Uli is a traditional Igbo design tradition composed of elegant, linear abstract patterns drawn on women's skin using juice from the Uli berry (Rothmannia) and painted as murals on clay compound walls."
+  },
+  {
+    "question": "Which of the following describes the printmaking process known as 'Lithography'?",
+    "options": {
+      "a": "Etching lines into a copper plate using concentrated nitric acid",
+      "b": "A planographic process based on the chemical antipathy and mutual repulsion of oil (grease) and water on a flat limestone slab or metal plate",
+      "c": "Pushing viscous ink through a fine mesh fabric stencil with a squeegee",
+      "d": "Engraving deep trenches into end-grain boxwood with a sharp burin"
+    },
+    "answer": "b",
+    "explanation": "Lithography (invented by Alois Senefelder) is a planographic printing method that relies on the natural chemical repulsion between oil and water on a polished Bavarian limestone or metal plate."
+  },
+  {
+    "question": "In art history, the 1897 British Punitive Expedition against the Kingdom of Benin resulted in:",
+    "options": {
+      "a": "The introduction of formal European easel painting techniques to Oba Ovonramwen's court",
+      "b": "The looting and dispersal of thousands of Benin royal brass, bronze, and ivory treasures to European museums and private collections",
+      "c": "The discovery of the ancient Nok terracotta figurines in the Niger delta",
+      "d": "The establishment of the first National Art Gallery in Benin City"
+    },
+    "answer": "b",
+    "explanation": "During the British Punitive Expedition of February 1897, British troops conquered Benin City, deposed Oba Ovonramwen, and looted over 3,000 royal bronze plaques, commemorative heads, and ivory carvings."
+  },
+  {
+    "question": "Which element of art describes the lightness or darkness of a color, or the gradations from white through intermediate greys to pure black?",
+    "options": {
+      "a": "Hue",
+      "b": "Value",
+      "c": "Saturation",
+      "d": "Texture"
+    },
+    "answer": "b",
+    "explanation": "Value (or tone) refers to the relative lightness or darkness of a hue or grey, essential for creating volume, contrast, and depth in drawings and paintings."
+  },
+  {
+    "question": "The 16th-century Italian Renaissance marble sculpture of 'David' standing in contemplative contrapposto prior to his encounter with Goliath was created by:",
+    "options": {
+      "a": "Donatello",
+      "b": "Michelangelo Buonarroti",
+      "c": "Gian Lorenzo Bernini",
+      "d": "Leonardo da Vinci"
+    },
+    "answer": "b",
+    "explanation": "Michelangelo Buonarroti carved the monumental 5.17-meter Carrara marble masterpiece 'David' (1501–1504), depicting the biblical hero in classical contrapposto."
+  },
+  {
+    "question": "What is the primary role of a 'gesso' ground applied to a raw stretched canvas or wooden panel before oil painting?",
+    "options": {
+      "a": "To dissolve the synthetic pigments in oil tubes",
+      "b": "To provide a non-absorbent, protective primer surface that shields the organic canvas fibers from the corrosive acids of linseed oil",
+      "c": "To glaze the finished oil painting with a high-gloss protective varnish",
+      "d": "To bleach the colored pigments to their lightest values"
+    },
+    "answer": "b",
+    "explanation": "Gesso primes and seals the porous, absorbent textile fibers of raw canvas, creating a stable, slightly toothy ground while preventing the acidic linseed oil in oil paint from rotting the fibers."
+  },
+  {
+    "question": "Which prominent Western 20th-century artistic movement, spearheaded by artists like Salvador Dalí and René Magritte, explored the irrational imagery of the subconscious mind and dream states?",
+    "options": {
+      "a": "Constructivism",
+      "b": "Surrealism",
+      "c": "Impressionism",
+      "d": "Futurism"
+    },
+    "answer": "b",
+    "explanation": "Founded by writer André Breton in 1924, Surrealism drew heavily on Freudian psychoanalysis, juxtaposing realistic elements in bizarre, dreamlike compositions to tap into the unconscious mind."
+  },
+  {
+    "question": "In graphic communication and advertising, a distinctive pictorial or typographic symbol that identifies an enterprise, institution, or commercial brand is termed a:",
+    "options": {
+      "a": "Monogram",
+      "b": "Logo (Logotype)",
+      "c": "Watermark",
+      "d": "Vignette"
+    },
+    "answer": "b",
+    "explanation": "A logo (or logotype) is a visual trademark, emblem, or stylized symbol adopted by an organization or brand to facilitate immediate public recognition."
+  },
+  {
+    "question": "Which painting medium employs dry ground pigments bound with an emulsion of fresh egg yolk and distilled water, celebrated for its rapid drying and luminous detail in early Renaissance panel paintings?",
+    "options": {
+      "a": "Encaustic",
+      "b": "Egg Tempera",
+      "c": "Gouache",
+      "d": "Acrylic"
+    },
+    "answer": "b",
+    "explanation": "Egg tempera is a historic painting medium consisting of colored mineral pigments mixed with an emulsion of egg yolk and water; it dries rapidly to a durable, satin-sheen surface."
+  },
+  {
+    "question": "The Oshogbo Art School, which blossomed in southwestern Nigeria in the 1960s with renowned artists such as Twins Seven-Seven, Jimoh Buraimoh, and Muraina Oyelami, was centered around which cultural institution?",
+    "options": {
+      "a": "The Mbari Mbayo Club",
+      "b": "The Horn Society",
+      "c": "The Harmon Foundation",
+      "d": "The Society of Nigerian Artists"
+    },
+    "answer": "a",
+    "explanation": "The Mbari Mbayo Club was founded in Oshogbo in 1962 by Ulli Beier, Susanne Wenger, and Duro Ladipo as a vibrant community center, gallery, and theater that nurtured the Osogbo art movement."
+  }
+]

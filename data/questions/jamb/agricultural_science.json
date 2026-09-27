@@ -1,0 +1,442 @@
+[
+    {
+        "question": "Under the Nigerian Land Use Act of 1978, all land within the territory of each state is vested in the:",
+        "options": {
+            "a": "Traditional rulers and family heads",
+            "b": "State Military Governor or Executive Governor",
+            "c": "Federal Minister of Agriculture",
+            "d": "Local Government Chairman exclusively"
+        },
+        "answer": "b",
+        "explanation": "The Land Use Act of 1978 vests all urban and rural land within a state in the Executive Governor of that state, who holds it in trust for the public and issues Certificates of Occupancy (C of O)."
+    },
+    {
+        "question": "Which of the following agricultural research institutes in Nigeria has the national mandate for research into genetic improvement of cocoa, cashew, coffee, kola, and tea?",
+        "options": {
+            "a": "National Cereals Research Institute (NCRI)",
+            "b": "Cocoa Research Institute of Nigeria (CRIN)",
+            "c": "National Root Crops Research Institute (NRCRI)",
+            "d": "Rubber Research Institute of Nigeria (RRIN)"
+        },
+        "answer": "b",
+        "explanation": "The Cocoa Research Institute of Nigeria (CRIN), located at Idi-Ayunre in Ibadan, conducts research on the production, processing, and breeding of cocoa, cashew, coffee, kola, and tea."
+    },
+    {
+        "question": "The structural arrangement of primary soil particles (sand, silt, and clay) into aggregates or peds is known as:",
+        "options": {
+            "a": "Soil texture",
+            "b": "Soil structure",
+            "c": "Soil profile",
+            "d": "Soil consistency"
+        },
+        "answer": "b",
+        "explanation": "Soil structure refers to how individual soil grains clump together to form aggregates (e.g., granular, platy, blocky, prismatic). In contrast, soil texture refers to the relative proportions of sand, silt, and clay."
+    },
+    {
+        "question": "A farmer notices purple or bronze coloration along the margins and older leaves of maize plants, accompanied by stunted root development. This is a characteristic symptom of deficiency in:",
+        "options": {
+            "a": "Nitrogen",
+            "b": "Phosphorus",
+            "c": "Potassium",
+            "d": "Magnesium"
+        },
+        "answer": "b",
+        "explanation": "Phosphorus is essential for root development, energy transfer (ATP), and nucleic acids. Deficiency leads to anthocyanin accumulation, manifesting as distinct reddish-purple pigmentation on older leaves and poor root systems."
+    },
+    {
+        "question": "Which of the following liming materials has the dual benefit of supplying both calcium and magnesium to acidic soils?",
+        "options": {
+            "a": "Quicklime [CaO]",
+            "b": "Slaked lime [Ca(OH)2]",
+            "c": "Dolomite or dolomitic limestone [CaMg(CO3)2]",
+            "d": "Calcite [CaCO3]"
+        },
+        "answer": "c",
+        "explanation": "Dolomitic limestone contains a double carbonate of calcium and magnesium [CaMg(CO3)2]. When applied to acidic soils, it raises soil pH while delivering both essential secondary macronutrients (Ca and Mg)."
+    },
+    {
+        "question": "The primary objective of sub-surface tile drainage in waterlogged agricultural soils is to:",
+        "options": {
+            "a": "Remove excessive salts and lower the high water table below the root zone",
+            "b": "Conserve surface runoff water for seasonal irrigation",
+            "c": "Prevent soil erosion by wind in dry valleys",
+            "d": "Increase the clay content of the upper topsoil"
+        },
+        "answer": "a",
+        "explanation": "Subsurface drainage uses perforated pipes or tiles buried underground to remove gravitational excess water, lowering the groundwater table to allow adequate root aeration and prevent salt accumulation."
+    },
+    {
+        "question": "The botanical fruit of the cowpea plant (Vigna unguiculata) is technically classified as a:",
+        "options": {
+            "a": "Berry",
+            "b": "Legume (pod)",
+            "c": "Caryopsis",
+            "d": "Drupe"
+        },
+        "answer": "b",
+        "explanation": "Cowpea is a leguminous crop that produces a dry, dehiscent monocarpellary fruit known as a legume or pod, which splits open along both dorsal and ventral sutures upon maturity."
+    },
+    {
+        "question": "Which of the following fungal pathogens causes the destructive 'Black Pod' disease in cacao plantations across West Africa?",
+        "options": {
+            "a": "Phytophthora palmivora",
+            "b": "Cercospora personata",
+            "c": "Fusarium oxysporum",
+            "d": "Puccinia polysora"
+        },
+        "answer": "a",
+        "explanation": "Black pod disease in cocoa is caused by Phytophthora species (notably Phytophthora palmivora and Phytophthora megakarya), causing rotting of developing pods and substantial yield loss."
+    },
+    {
+        "question": "In the ruminant stomach, which compartment is characterized by a honey-comb mucosal lining that traps foreign objects and assists in regurgitation?",
+        "options": {
+            "a": "Rumen (paunch)",
+            "b": "Reticulum (honeycomb)",
+            "c": "Omasum (manyplies)",
+            "d": "Abomasum (true stomach)"
+        },
+        "answer": "b",
+        "explanation": "The reticulum has an interior lining resembling a honeycomb. It functions in collecting heavy or dense hardware swallowed by the animal and coordinating the regurgitation of boluses during rumination."
+    },
+    {
+        "question": "In the female avian reproductive tract, the formation and deposition of the hard calcareous eggshell occurs in the:",
+        "options": {
+            "a": "Infundibulum",
+            "b": "Magnum",
+            "c": "Isthmus",
+            "d": "Uterus (shell gland)"
+        },
+        "answer": "d",
+        "explanation": "In poultry, the egg spends about 20 hours in the uterus (shell gland), where calcium carbonate is deposited onto the shell membranes to form the rigid eggshell and shell pigment."
+    },
+    {
+        "question": "Which of the following farm animal diseases is caused by a protozoan parasite transmitted by the tsetse fly?",
+        "options": {
+            "a": "Trypanosomiasis (Nagana)",
+            "b": "Anthrax",
+            "c": "Aspergillosis",
+            "d": "Foot-and-Mouth disease"
+        },
+        "answer": "a",
+        "explanation": "Trypanosomiasis (sleeping sickness or nagana) is caused by Trypanosoma species, which are flagellated protozoans transmitted by the bite of the tsetse fly (Glossina spp.)."
+    },
+    {
+        "question": "Which of the following forage legumes is widely cultivated in improved pastures in Nigeria due to its high crude protein content and deep drought-resistant taproot?",
+        "options": {
+            "a": "Stylosanthes guianensis",
+            "b": "Panicum maximum",
+            "c": "Pennisetum purpureum",
+            "d": "Cynodon dactylon"
+        },
+        "answer": "a",
+        "explanation": "Stylosanthes guianensis (Stylo) is a perennial tropical forage legume that fixes atmospheric nitrogen, enriches pasture protein quality, and survives prolonged dry seasons due to its deep root system."
+    },
+    {
+        "question": "A farm asset that has a useful operational life spanning several farming seasons (such as a tractor, borehole, or barn) is classified as:",
+        "options": {
+            "a": "Working capital",
+            "b": "Fixed capital",
+            "c": "Liquid capital",
+            "d": "Current asset"
+        },
+        "answer": "b",
+        "explanation": "Fixed capital comprises durable assets used in production over multiple years that depreciate over time, such as machinery, processing plants, farm buildings, and permanent plantations."
+    },
+    {
+        "question": "In agricultural economics, the law of diminishing returns states that as successive units of a variable input are added to fixed quantities of other inputs:",
+        "options": {
+            "a": "Total physical product will decrease immediately from the start",
+            "b": "Marginal physical product will eventually decline after a certain point",
+            "c": "Average product will continually increase indefinitely",
+            "d": "Fixed costs will rise exponentially with each extra variable input"
+        },
+        "answer": "b",
+        "explanation": "The law of diminishing marginal returns dictates that when extra increments of a variable input (e.g., fertilizer or labor) are applied to fixed inputs (e.g., land), the resulting addition to total output (marginal product) eventually diminishes."
+    },
+    {
+        "question": "Which of the following farm surveying instruments is used primarily for sighting targets and aligning ranging poles along a straight baseline?",
+        "options": {
+            "a": "Gunter's chain",
+            "b": "Ranging pole",
+            "c": "Prismatic compass",
+            "d": "Measuring tape"
+        },
+        "answer": "b",
+        "explanation": "Ranging poles are straight wooden or metal rods painted with alternating bands of red and white (typically 30 cm bands) used to mark station points and sight lines during surveying."
+    },
+    {
+        "question": "A disc plough is preferred over a mouldboard plough in tropical soils because the disc plough:",
+        "options": {
+            "a": "Completely buries weeds under neat continuous furrows",
+            "b": "Can easily roll over hard, stumpy, stony, and abrasive soils without breaking",
+            "c": "Requires less tractor pulling horsepower on all soil types",
+            "d": "Inverts the furrow slice much more thoroughly in sandy soils"
+        },
+        "answer": "b",
+        "explanation": "Disc ploughs feature rotating concave steel discs that roll over hidden underground roots, tree stumps, and stones, preventing implement damage in tough tropical soils."
+    },
+    {
+        "question": "The insect pest responsible for transmitting the swollen shoot virus disease in cacao trees is the:",
+        "options": {
+            "a": "Capsid bug (Mirid)",
+            "b": "Mealybug (Pseudococcus species)",
+            "c": "Variegated grasshopper",
+            "d": "Pod borer"
+        },
+        "answer": "b",
+        "explanation": "Mealybugs (Pseudococcus njalensis) act as the biological vector that transmits the Cocoa Swollen Shoot Virus (CSSV) between cacao trees during feeding."
+    },
+    {
+        "question": "Which stage in the agricultural extension adoption process represents the final decision where the farmer incorporates the innovation fully into routine farm operations?",
+        "options": {
+            "a": "Interest stage",
+            "b": "Evaluation stage",
+            "c": "Trial stage",
+            "d": "Adoption stage"
+        },
+        "answer": "d",
+        "explanation": "The AIETA adoption model proceeds through Awareness, Interest, Evaluation, Trial, and finally Adoption, where the farmer is fully convinced and applies the technology on a large or permanent scale."
+    },
+    {
+        "question": "The process of removing male flower buds (tassels) from maize plants to facilitate controlled cross-pollination during hybrid seed production is termed:",
+        "options": {
+            "a": "Roguing",
+            "b": "Detasseling",
+            "c": "Thinning",
+            "d": "Pruning"
+        },
+        "answer": "b",
+        "explanation": "Detasseling is the physical removal of the immature pollen-producing tassel from female parent rows in a hybrid seed corn production field to prevent self-pollination."
+    },
+    {
+        "question": "Which of the following is an example of a systemic, non-selective herbicide widely used for total weed clearance before planting?",
+        "options": {
+            "a": "2,4-Dichlorophenoxyacetic acid (2,4-D)",
+            "b": "Atrazine",
+            "c": "Glyphosate",
+            "d": "Propanil"
+        },
+        "answer": "c",
+        "explanation": "Glyphosate is a broad-spectrum, non-selective systemic herbicide absorbed through foliage and translocated throughout the plant to kill annual and perennial weeds completely."
+    },
+    {
+        "question": "In farm animal management, the practice of providing extra, high-energy rations to female breeding animals (ewes or sows) 2 to 3 weeks before mating to increase ovulation rate is known as:",
+        "options": {
+            "a": "Steaming up",
+            "b": "Creep feeding",
+            "c": "Flushing",
+            "d": "Foster rearing"
+        },
+        "answer": "c",
+        "explanation": "Flushing is the practice of increasing dietary energy intake for breeding females a few weeks prior to mating to stimulate the pituitary gland, improve body condition, and boost ovulation and conception rates."
+    },
+    {
+        "question": "A farmer harvested 500 bags of maize and decided to store them for six months to sell during peak scarcity. What type of economic utility was created?",
+        "options": {
+            "a": "Form utility",
+            "b": "Place utility",
+            "c": "Time utility",
+            "d": "Possession utility"
+        },
+        "answer": "c",
+        "explanation": "Time utility is created when agricultural produce is preserved and stored from the harvest season (period of abundance and low prices) until the off-season when supply is scarce and demand is high."
+    },
+    {
+        "question": "Which of the following parasites is an endoparasite that spends part of its life cycle in the freshwater snail (Lymnaea truncatula) before infecting the bile ducts of cattle and sheep?",
+        "options": {
+            "a": "Liver fluke (Fasciola hepatica)",
+            "b": "Roundworm (Ascaris lumbricoides)",
+            "c": "Tapeworm (Taenia saginata)",
+            "d": "Trypanosome (Trypanosoma vivax)"
+        },
+        "answer": "a",
+        "explanation": "Fasciola hepatica (liver fluke) is a trematode parasite whose miracidia infect freshwater amphibious snails (Lymnaea spp.) as intermediate hosts before encysting on grasses as metacercariae ingested by ruminants."
+    },
+    {
+        "question": "What is the primary function of a gizzard (ventriculus) in the avian digestive tract?",
+        "options": {
+            "a": "Secretion of hydrochloric acid and pepsinogen",
+            "b": "Mechanical grinding of coarse grains using ingested grit and strong muscular contractions",
+            "c": "Absorption of water and mineral salts",
+            "d": "Enzymatic hydrolysis of lipids"
+        },
+        "answer": "b",
+        "explanation": "The avian gizzard is lined with a tough keratin-like layer (koilin) and has thick muscular walls; it uses ingested stones/grit to mechanically grind coarse grain and feed particles."
+    },
+    {
+        "question": "The term 'budding' in citrus propagation involves:",
+        "options": {
+            "a": "Rooting a stem while it is still attached to the parent plant",
+            "b": "Inserting a scion bud containing a single vegetative bud into the rootstock bark",
+            "c": "Joining two detached mature branches of equal diameter with a whip-and-tongue cut",
+            "d": "Planting juvenile stem cuttings treated with root-inducing auxins"
+        },
+        "answer": "b",
+        "explanation": "Budding (such as T-budding or shield budding) is a vegetative grafting method where a single vegetative bud with a small shield of bark and cambium (scion) is inserted beneath the bark of a compatible rootstock."
+    },
+    {
+        "question": "Which of the following farm implements is classified as a secondary tillage implement used for breaking clods, leveling seedbeds, and burying weed seedlings?",
+        "options": {
+            "a": "Mouldboard plough",
+            "b": "Subsoiler",
+            "c": "Disc harrow",
+            "d": "Chisel plough"
+        },
+        "answer": "c",
+        "explanation": "Harrows (such as disc harrows and spike-tooth harrows) are secondary tillage tools used after primary ploughing to pulverize large soil clods, level the seedbed, and incorporate fertilizers."
+    },
+    {
+        "question": "The vector of African animal trypanosomiasis (Nagana) in cattle across the sub-Saharan savanna belt is the:",
+        "options": {
+            "a": "Tsetse fly (Glossina species)",
+            "b": "Stable fly (Stomoxys calcitrans)",
+            "c": "Bont tick (Amblyomma variegatum)",
+            "d": "Housefly (Musca domestica)"
+        },
+        "answer": "a",
+        "explanation": "Tsetse flies (Glossina spp.) are biological vectors of protozoan blood parasites belonging to the genus Trypanosoma, which cause Nagana in livestock and sleeping sickness in humans."
+    },
+    {
+        "question": "If a fertilizer bag is labeled NPK 15-15-15, what is the actual percentage of elemental nitrogen present in the bag?",
+        "options": {
+            "a": "5%",
+            "b": "15%",
+            "c": "30%",
+            "d": "45%"
+        },
+        "answer": "b",
+        "explanation": "The grade numbers on an NPK fertilizer bag indicate the percentage by weight of total Nitrogen (N), available Phosphate (P2O5), and soluble Potash (K2O). Here, the percentage of nitrogen is 15%."
+    },
+    {
+        "question": "A farm record that summarizes all assets and liabilities of a farm business at a particular point in time to determine the net worth is the:",
+        "options": {
+            "a": "Cash flow statement",
+            "b": "Balance sheet (Net worth statement)",
+            "c": "Profit and loss account",
+            "d": "Farm inventory log"
+        },
+        "answer": "b",
+        "explanation": "A balance sheet presents the financial condition of a farm at a specific date, listing total assets against total liabilities; the difference represents the farmer's net worth or owner's equity."
+    },
+    {
+        "question": "Which of the following is a major physiological role of potassium (K) in crop plant nutrition?",
+        "options": {
+            "a": "Formation of chlorophyll molecules",
+            "b": "Regulation of stomatal opening and closing and enzymatic activation",
+            "c": "Constituent of amino acids such as methionine and cysteine",
+            "d": "Synthesis of cell wall pectins"
+        },
+        "answer": "b",
+        "explanation": "Potassium (K+) is not incorporated into organic structures; it functions primarily as an osmoregulatory cation that regulates guard cell turgor pressure for stomatal movements and activates over 60 enzymes."
+    },
+    {
+        "question": "The incubation period of domestic chicken (Gallus gallus) eggs under optimal temperature and humidity conditions in an incubator is:",
+        "options": {
+            "a": "14 days",
+            "b": "21 days",
+            "c": "28 days",
+            "d": "35 days"
+        },
+        "answer": "b",
+        "explanation": "Chicken eggs require 21 days of incubation at approximately 37.5 \u00b0C (99.5 \u00b0F) and 60-70% relative humidity. Turkey and duck eggs require 28 days."
+    },
+    {
+        "question": "Which of the following soil conservation methods involves alternating bands of dense erosion-resistant crops (like legumes) with clean-tilled row crops across the slope?",
+        "options": {
+            "a": "Strip cropping",
+            "b": "Terracing",
+            "c": "Shelterbelts",
+            "d": "Cover cropping"
+        },
+        "answer": "a",
+        "explanation": "Strip cropping is the practice of growing erosion-prone cultivated crops in alternating strips with soil-conserving, close-growing forage grasses or legumes across the contour of a slope."
+    },
+    {
+        "question": "Anthrax is an acute, fatal zoonotic disease of cattle caused by the spore-forming bacterium:",
+        "options": {
+            "a": "Bacillus anthracis",
+            "b": "Clostridium chauvoei",
+            "c": "Brucella abortus",
+            "d": "Mycobacterium bovis"
+        },
+        "answer": "a",
+        "explanation": "Bacillus anthracis is a gram-positive, rod-shaped, spore-forming bacterium that causes anthrax, manifested in ruminants by sudden death with dark, uncoagulated blood oozing from natural body orifices."
+    },
+    {
+        "question": "The agricultural marketing function that involves sorting agricultural commodities into distinct lots with uniform quality, size, and weight is called:",
+        "options": {
+            "a": "Assembling",
+            "b": "Grading and standardization",
+            "c": "Processing",
+            "d": "Wholesaling"
+        },
+        "answer": "b",
+        "explanation": "Grading is the sorting of products into classes according to predetermined established standards of quality, weight, color, or maturity, ensuring fair prices and consumer satisfaction."
+    },
+    {
+        "question": "Which of the following farm practices is an effective biological control method against weed species in rice paddies?",
+        "options": {
+            "a": "Applying synthetic selective triazines",
+            "b": "Integrating Azolla fern and duck farming",
+            "c": "Burning dried stubbles after harvest",
+            "d": "Deep mechanical subsoiling"
+        },
+        "answer": "b",
+        "explanation": "Integrating ducks into flooded rice paddies is an effective biological weed and insect control method; ducks eat young weed seedlings and snails without harming mature rice plants."
+    },
+    {
+        "question": "Which caste in a honeybee (Apis mellifera) colony develops from unfertilized eggs through the process of parthenogenesis?",
+        "options": {
+            "a": "Queen bee",
+            "b": "Worker bee",
+            "c": "Drone bee",
+            "d": "Nurse bee"
+        },
+        "answer": "c",
+        "explanation": "In honeybees, drones (males) are haploid individuals that develop from unfertilized eggs via arrhenotokoous parthenogenesis, whereas female queens and workers develop from fertilized diploid eggs."
+    },
+    {
+        "question": "What is the recommended seed rate for sowing maize under standard sole cropping practices in Nigeria?",
+        "options": {
+            "a": "5 - 10 kg/ha",
+            "b": "20 - 25 kg/ha",
+            "c": "50 - 60 kg/ha",
+            "d": "80 - 100 kg/ha"
+        },
+        "answer": "b",
+        "explanation": "Under sole cropping with spacing of 75 cm x 25 cm (one plant per stand) or 75 cm x 50 cm (two plants per stand), the recommended planting seed rate for maize is 20 to 25 kg of seeds per hectare."
+    },
+    {
+        "question": "Which of the following breeds of cattle is indigenous to northern Nigeria and well-known for its large lyre-shaped horns and draft ability?",
+        "options": {
+            "a": "White Fulani (Bunaji)",
+            "b": "Muturu",
+            "c": "N'Dama",
+            "d": "Kuri"
+        },
+        "answer": "a",
+        "explanation": "White Fulani (Bunaji) is the most numerous cattle breed in Nigeria, recognized by its white coat, black points, prominent hump, and long, lyre-shaped horns. Muturu and N'Dama are humpless dwarf trypanotolerant breeds."
+    },
+    {
+        "question": "The primary purpose of adding molasses or crushed grains during the ensiling process (making silage) is to:",
+        "options": {
+            "a": "Prevent the growth of lactic acid bacteria",
+            "b": "Provide readily fermentable carbohydrates for lactic acid fermentation",
+            "c": "Absorb excess moisture to completely dry out the forage",
+            "d": "Increase the fiber and lignin content of the feed"
+        },
+        "answer": "b",
+        "explanation": "Adding soluble carbohydrates like molasses provides fermentable sugars for lactic acid bacteria (Lactobacillus), ensuring rapid acidification (pH < 4.2) that preserves the succulent forage anaerobically."
+    },
+    {
+        "question": "Which of the following crop plants is propagated commercially using stem cuttings possessing at least 2 to 3 nodes?",
+        "options": {
+            "a": "Cassava (Manihot esculenta)",
+            "b": "Yam (Dioscorea rotundata)",
+            "c": "Cowpea (Vigna unguiculata)",
+            "d": "Groundnut (Arachis hypogaea)"
+        },
+        "answer": "a",
+        "explanation": "Cassava is propagated vegetatively by planting hardwood stem cuttings (stakes) about 20-25 cm long, containing 3-5 active buds/nodes, planted slanted or upright into prepared ridges."
+    }
+]

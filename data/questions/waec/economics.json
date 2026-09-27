@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Economics is defined by Professor Lionel Robbins as a science which studies human behaviour as a relationship between ends and scarce means which have ______",
+    "options": {
+      "a": "monetary value",
+      "b": "unlimited uses",
+      "c": "alternative uses",
+      "d": "fixed qualities"
+    },
+    "answer": "c",
+    "explanation": "Lionel Robbins defined economics in 1932 as 'the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses'."
+  },
+  {
+    "question": "A consumer's scale of preference is an arrangement of wants in ______",
+    "options": {
+      "a": "order of their market prices",
+      "b": "order of importance or priority",
+      "c": "chronological order",
+      "d": "alphabetical order"
+    },
+    "answer": "b",
+    "explanation": "A scale of preference is a list of unsatisfied consumer wants arranged in descending order of priority or relative importance."
+  },
+  {
+    "question": "The concept of opportunity cost is also referred to as ______",
+    "options": {
+      "a": "money cost",
+      "b": "real cost or alternative foregone",
+      "c": "marginal cost",
+      "d": "fixed cost of production"
+    },
+    "answer": "b",
+    "explanation": "Opportunity cost refers to the alternative forgone or the satisfaction surrendered when a choice is made between competing alternatives."
+  },
+  {
+    "question": "A point lying inside the Production Possibility Curve (PPC) indicates that ______",
+    "options": {
+      "a": "resources are unemployed or underutilized",
+      "b": "resources are being fully and efficiently utilized",
+      "c": "the economy is producing at maximum capacity",
+      "d": "the combination of goods is unattainable with current technology"
+    },
+    "answer": "a",
+    "explanation": "Points inside the PPC reflect inefficiency, resource underemployment, or underutilization of production factors. Points on the curve show full employment, while points outside are unattainable."
+  },
+  {
+    "question": "In a pure capitalist economic system, resource allocation is determined primarily by the ______",
+    "options": {
+      "a": "price mechanism (forces of demand and supply)",
+      "b": "traditional council of elders",
+      "c": "central planning authority",
+      "d": "joint armed forces commission"
+    },
+    "answer": "a",
+    "explanation": "In a free-market (capitalist) economy, decisions regarding what, how, and for whom to produce are guided by the price mechanism through demand and supply."
+  },
+  {
+    "question": "Which of the following is a major feature of a mixed economic system?",
+    "options": {
+      "a": "Total absence of government intervention",
+      "b": "Complete abolition of private property ownership",
+      "c": "Centralized fixing of all commodity prices by law",
+      "d": "Coexistence of private enterprise and the public sector"
+    },
+    "answer": "d",
+    "explanation": "A mixed economy combines elements of both capitalism and socialism, where private individuals and the government collaborate in resource allocation."
+  },
+  {
+    "question": "The Law of Demand states that, other things being equal, as the price of a commodity increases, the ______",
+    "options": {
+      "a": "demand curve shifts to the right",
+      "b": "equilibrium quantity increases",
+      "c": "quantity demanded decreases",
+      "d": "quantity demanded increases"
+    },
+    "answer": "c",
+    "explanation": "Ceteris paribus, price and quantity demanded are inversely related; when the price rises, quantity demanded falls, and vice versa."
+  },
+  {
+    "question": "A shift of the demand curve to the right is caused by ______",
+    "options": {
+      "a": "an increase in consumer income for a normal good",
+      "b": "a change in the technology of production",
+      "c": "a decrease in the price of the commodity",
+      "d": "an increase in the price of a complementary good"
+    },
+    "answer": "a",
+    "explanation": "An increase in consumer income increases purchasing power for normal goods, shifting the entire demand curve outward to the right."
+  },
+  {
+    "question": "An inferior good is defined in economics as one whose demand ______",
+    "options": {
+      "a": "remains constant regardless of income changes",
+      "b": "increases as consumer income increases",
+      "c": "falls as consumer income increases",
+      "d": "rises when its price rises"
+    },
+    "answer": "c",
+    "explanation": "Inferior goods possess a negative income elasticity of demand; consumers purchase less of them as their real income increases."
+  },
+  {
+    "question": "When the price elasticity of demand is zero (Ed = 0), the demand curve is ______",
+    "options": {
+      "a": "horizontal",
+      "b": "vertical",
+      "c": "upward sloping",
+      "d": "downward sloping"
+    },
+    "answer": "b",
+    "explanation": "A price elasticity of zero indicates perfectly inelastic demand, depicted graphically as a vertical straight line parallel to the price axis."
+  },
+  {
+    "question": "If the price of a commodity falls from N100 to N80 and the quantity demanded rises from 40 units to 60 units, what is the price elasticity of demand?",
+    "options": {
+      "a": "0.5",
+      "b": "3.0",
+      "c": "2.5",
+      "d": "1.0"
+    },
+    "answer": "c",
+    "explanation": "% change in Qd = ((60 - 40) / 40) * 100 = 50%. % change in P = ((100 - 80) / 100) * 100 = 20%. Ed = 50% / 20% = 2.5."
+  },
+  {
+    "question": "If an increase in the price of tea leads to an increase in the demand for coffee, tea and coffee are ______",
+    "options": {
+      "a": "independent goods",
+      "b": "substitute goods",
+      "c": "inferior goods",
+      "d": "complementary goods"
+    },
+    "answer": "b",
+    "explanation": "Substitute goods have positive cross elasticity of demand; a rise in the price of one shifts demand toward the other alternative."
+  },
+  {
+    "question": "The Law of Supply states that, ceteris paribus, ______",
+    "options": {
+      "a": "supply always equals demand at all prices",
+      "b": "producers supply more at higher prices",
+      "c": "producers supply more at lower prices",
+      "d": "price and quantity supplied are inversely related"
+    },
+    "answer": "b",
+    "explanation": "The Law of Supply establishes a direct relationship between price and quantity supplied: sellers offer higher quantities at higher prices to maximize profit."
+  },
+  {
+    "question": "In a free competitive market, an excess supply (surplus) of a commodity will tend to cause its price to ______",
+    "options": {
+      "a": "fall toward equilibrium",
+      "b": "rise continuously",
+      "c": "remain unchanged",
+      "d": "double immediately"
+    },
+    "answer": "a",
+    "explanation": "Surplus occurs when quantity supplied exceeds quantity demanded at the current price; competitive price-cutting by sellers pushes the price down toward equilibrium."
+  },
+  {
+    "question": "A price ceiling (maximum price legislation) legally established below the market equilibrium price results in ______",
+    "options": {
+      "a": "a fall in consumer demand",
+      "b": "excess supply and unsold stocks",
+      "c": "an automatic expansion of factory supply",
+      "d": "shortage, queues, and black marketing"
+    },
+    "answer": "d",
+    "explanation": "When the government fixes a legal maximum price below equilibrium to protect consumers, quantity demanded exceeds quantity supplied, creating shortages and informal rationing."
+  },
+  {
+    "question": "A minimum price legislation (price floor) set above equilibrium is primarily designed to ______",
+    "options": {
+      "a": "stimulate excessive consumption among poor households",
+      "b": "reduce the profit margins of commercial firms",
+      "c": "eliminate government expenditure on agriculture",
+      "d": "protect farmers and producers against price collapse"
+    },
+    "answer": "d",
+    "explanation": "Price floors (such as minimum wage laws or agricultural support prices) are set above market equilibrium to guarantee minimum livable incomes to producers and workers."
+  },
+  {
+    "question": "In the theory of production, the short run is defined as a time period in which ______",
+    "options": {
+      "a": "at least one factor of production is fixed in quantity",
+      "b": "output cannot be altered under any circumstance",
+      "c": "all inputs are completely variable",
+      "d": "the firm earns purely zero total revenue"
+    },
+    "answer": "a",
+    "explanation": "The short run is characterized by the presence of at least one fixed factor of production (e.g. factory building or heavy machinery) while others can vary."
+  },
+  {
+    "question": "According to the Law of Diminishing Marginal Returns, when variable units of labour are added to fixed land, ______",
+    "options": {
+      "a": "fixed costs increase continuously",
+      "b": "marginal product eventually declines",
+      "c": "average product remains constant throughout",
+      "d": "total output declines from the very first unit"
+    },
+    "answer": "b",
+    "explanation": "The Law of Diminishing Returns states that as successive units of a variable factor are added to fixed factors, the addition to total output (marginal product) eventually falls."
+  },
+  {
+    "question": "Total product reaches its maximum point when marginal product is ______",
+    "options": {
+      "a": "at its maximum",
+      "b": "negative",
+      "c": "equal to zero",
+      "d": "equal to average product"
+    },
+    "answer": "c",
+    "explanation": "When marginal product equals zero, no further additions to total output are possible, meaning total product has reached its peak."
+  },
+  {
+    "question": "One major disadvantage of the division of labour and specialization to an individual worker is ______",
+    "options": {
+      "a": "monotony and mental fatigue from routine repetition",
+      "b": "lower speed and operational efficiency",
+      "c": "loss of time in moving between tasks",
+      "d": "higher unit cost of production for the firm"
+    },
+    "answer": "a",
+    "explanation": "Performing the same narrow task repeatedly causes boredom, monotony, mental fatigue, and reduces craftsmanship pride."
+  },
+  {
+    "question": "Internal economies of scale refer to cost advantages that accrue to a firm as a result of ______",
+    "options": {
+      "a": "the expansion and growth of the entire industry",
+      "b": "improvements in nationwide transport infrastructure",
+      "c": "state subsidies provided to all manufacturing businesses",
+      "d": "the growth and expansion of the individual firm's own output"
+    },
+    "answer": "d",
+    "explanation": "Internal economies of scale are internal cost reductions (technical, financial, managerial) achieved by an individual firm expanding its own scale of operations."
+  },
+  {
+    "question": "Which of the following costs is an example of a fixed cost in the short run?",
+    "options": {
+      "a": "Wages of casual daily-paid factory workers",
+      "b": "Annual rent on the factory premises",
+      "c": "Electricity bill based on machinery run-time",
+      "d": "Cost of raw materials used in production"
+    },
+    "answer": "b",
+    "explanation": "Fixed costs do not change with output in the short run; factory rent must be paid regardless of whether production is zero or running at full capacity."
+  },
+  {
+    "question": "Marginal Cost is defined as the ______",
+    "options": {
+      "a": "total amount spent on variable inputs alone",
+      "b": "difference between average revenue and average cost",
+      "c": "addition to total cost resulting from producing one extra unit of output",
+      "d": "total cost divided by total output produced"
+    },
+    "answer": "c",
+    "explanation": "Marginal Cost (MC) represents the change in total cost resulting from the production of one additional unit of output (MC = Delta TC / Delta Q)."
+  },
+  {
+    "question": "Under perfect competition, the firm faces a horizontal demand curve because ______",
+    "options": {
+      "a": "the firm can set any price it desires",
+      "b": "goods produced by competing firms are differentiated",
+      "c": "output is strictly restricted by government regulations",
+      "d": "the firm is a price taker and can sell any quantity at the ruling market price"
+    },
+    "answer": "d",
+    "explanation": "Because products are homogeneous and each firm's market share is infinitesimally small, the competitive firm must accept the market price: Price = AR = MR."
+  },
+  {
+    "question": "Which of the following is NOT a feature of a perfectly competitive market?",
+    "options": {
+      "a": "Free entry and exit of firms",
+      "b": "Perfect knowledge of market conditions",
+      "c": "A large number of buyers and sellers",
+      "d": "Differentiated products with brand loyalty"
+    },
+    "answer": "d",
+    "explanation": "A perfectly competitive market requires homogeneous (identical) products. Product differentiation is a feature of monopolistic competition."
+  },
+  {
+    "question": "A pure monopoly is characterized by ______",
+    "options": {
+      "a": "many sellers producing close substitutes",
+      "b": "unlimited entry and exit of new competitors",
+      "c": "a single seller of a product with no close substitutes",
+      "d": "a horizontal demand curve for the firm"
+    },
+    "answer": "c",
+    "explanation": "Monopoly is a market structure with a single firm producing a unique product with no close substitutes, protected by significant barriers to entry."
+  },
+  {
+    "question": "The kinked demand curve model is used to explain price rigidity under ______",
+    "options": {
+      "a": "monopsony",
+      "b": "monopolistic competition",
+      "c": "oligopoly",
+      "d": "perfect competition"
+    },
+    "answer": "c",
+    "explanation": "Paul Sweezy's kinked demand curve illustrates why prices remain sticky in an oligopoly: rivals follow price cuts but do not match price increases."
+  },
+  {
+    "question": "The necessary condition for a firm to maximize profit or minimize loss in any market structure is that ______",
+    "options": {
+      "a": "Average Revenue equals Average Cost",
+      "b": "Marginal Revenue equals Marginal Cost (MR = MC)",
+      "c": "Price equals Average Fixed Cost",
+      "d": "Total Revenue equals Total Cost"
+    },
+    "answer": "b",
+    "explanation": "Profits are maximized when Marginal Revenue (MR) equals Marginal Cost (MC), provided the MC curve cuts the MR curve from below."
+  },
+  {
+    "question": "According to Thomas Malthus, population tends to increase in a ______",
+    "options": {
+      "a": "logarithmic progression equal to capital stock",
+      "b": "geometric progression while food production grows in arithmetic progression",
+      "c": "harmonic progression while food supply is fixed",
+      "d": "arithmetic progression while food production grows in geometric progression"
+    },
+    "answer": "b",
+    "explanation": "Malthus posited that human population grows exponentially (geometrically: 1, 2, 4, 8, 16...) while subsistence food production grows linearly (arithmetically: 1, 2, 3, 4, 5...)."
+  },
+  {
+    "question": "Optimum population is defined as the population size which, combined with available resources and technology, results in ______",
+    "options": {
+      "a": "zero unemployment across all economic sectors",
+      "b": "the lowest possible level of imports",
+      "c": "the highest rate of population growth",
+      "d": "the maximum output or income per capita"
+    },
+    "answer": "d",
+    "explanation": "Optimum population is that point of population balance where output or real income per head of the population is maximized."
+  },
+  {
+    "question": "The dependency ratio in a country measures the relationship between ______",
+    "options": {
+      "a": "rural dwellers and urban dwellers",
+      "b": "total imports and total domestic exports",
+      "c": "employed graduates and unemployed school leavers",
+      "d": "the economically active population and the non-working age groups (0-14 and 65+)"
+    },
+    "answer": "d",
+    "explanation": "The dependency ratio expresses the number of dependents (aged 0-14 and 65+) supported by every 100 individuals in the working-age population (15-64)."
+  },
+  {
+    "question": "Gross Domestic Product (GDP) measures the total monetary value of ______",
+    "options": {
+      "a": "all intermediate goods produced in an economy over a year",
+      "b": "goods produced by domestic citizens living at home and abroad",
+      "c": "final goods and services produced within a country's borders during a specific period",
+      "d": "net financial assets held by the central bank"
+    },
+    "answer": "c",
+    "explanation": "GDP is the total market value of all finished/final goods and services produced within the geographic borders of a country over a given time period."
+  },
+  {
+    "question": "Net National Product (NNP) at market prices is calculated as ______",
+    "options": {
+      "a": "GDP + Net Factor Income from Abroad",
+      "b": "National Income plus Indirect Taxes",
+      "c": "GNP minus Depreciation (Capital Consumption Allowance)",
+      "d": "Personal Disposable Income minus Savings"
+    },
+    "answer": "c",
+    "explanation": "NNP equals Gross National Product (GNP) minus depreciation (the consumption of fixed capital wear and tear)."
+  },
+  {
+    "question": "The problem of double counting in national income computation can be avoided by using the ______",
+    "options": {
+      "a": "total turnover method",
+      "b": "aggregate price approach",
+      "c": "raw material valuation method",
+      "d": "value added approach"
+    },
+    "answer": "d",
+    "explanation": "By measuring only the value added at each stage of production (or counting only final goods), double counting of intermediate goods is eliminated."
+  },
+  {
+    "question": "Which of the following serves as both a primary function and distinguishing characteristic of money?",
+    "options": {
+      "a": "Basis of credit transfer",
+      "b": "Medium of exchange",
+      "c": "Standard of deferred payments",
+      "d": "Store of value"
+    },
+    "answer": "b",
+    "explanation": "The primary functions of money are medium of exchange and unit of account; serving as a widely accepted medium of exchange overcomes the double coincidence of wants."
+  },
+  {
+    "question": "The ability of commercial banks to create credit depends directly on the ______",
+    "options": {
+      "a": "value of the country's mineral reserves",
+      "b": "amount of currency notes held by foreign embassies",
+      "c": "number of bank branches across rural communities",
+      "d": "statutory cash reserve ratio set by the central bank"
+    },
+    "answer": "d",
+    "explanation": "Credit creation is inversely related to the cash reserve ratio: Credit Multiplier = 1 / Cash Reserve Ratio. A lower reserve requirement expands lending ability."
+  },
+  {
+    "question": "When the Central Bank of Nigeria sells Treasury Bills to commercial banks in the open market, the immediate objective is to ______",
+    "options": {
+      "a": "lower short-term interest rates",
+      "b": "encourage imports of consumer electronics",
+      "c": "expand bank reserves and increase lending",
+      "d": "reduce commercial banks' cash reserves and contract credit"
+    },
+    "answer": "d",
+    "explanation": "Open Market Operations (OMO) sales absorb liquidity from the banking system, reducing loanable reserves and checking inflationary pressures."
+  },
+  {
+    "question": "When a commercial bank faces an acute liquidity shortage, it turns to the Central Bank acting in its capacity as the ______",
+    "options": {
+      "a": "lender of last resort",
+      "b": "foreign exchange speculator",
+      "c": "government's tax collector",
+      "d": "registrar of companies"
+    },
+    "answer": "a",
+    "explanation": "As the lender of last resort, the Central Bank extends discount window loans to solvent commercial banks experiencing temporary liquidity distress to maintain systemic stability."
+  },
+  {
+    "question": "Demand-pull inflation is primarily caused by ______",
+    "options": {
+      "a": "sharp increases in the cost of production and raw materials",
+      "b": "a decrease in the total quantity of money in circulation",
+      "c": "aggregate demand persistently exceeding aggregate supply at full employment",
+      "d": "an increase in company income taxes"
+    },
+    "answer": "c",
+    "explanation": "Demand-pull inflation occurs when aggregate spending outpaces aggregate productive capacity, characterized as 'too much money chasing too few goods'."
+  },
+  {
+    "question": "A sustained increase in the prices of goods resulting from workers demanding higher wages is termed ______",
+    "options": {
+      "a": "hyperinflation",
+      "b": "demand-pull inflation",
+      "c": "cost-push inflation",
+      "d": "imported inflation"
+    },
+    "answer": "c",
+    "explanation": "Cost-push inflation occurs when production costs (wages, energy, raw materials) escalate, forcing suppliers to raise output prices to protect profit margins."
+  },
+  {
+    "question": "A tax is described as progressive when the ______",
+    "options": {
+      "a": "tax rate increases as the taxpayer's income increases",
+      "b": "tax rate remains constant regardless of income level",
+      "c": "tax is imposed solely on imported manufactured items",
+      "d": "tax burden falls more heavily on low-income earners"
+    },
+    "answer": "a",
+    "explanation": "Under a progressive tax system (e.g. personal income tax), higher income brackets are subjected to higher marginal tax rates to promote equity."
+  },
+  {
+    "question": "Which of the following is an example of a direct tax?",
+    "options": {
+      "a": "Customs import duty",
+      "b": "Value Added Tax (VAT)",
+      "c": "Personal Income Tax (PAYE)",
+      "d": "Excise duty"
+    },
+    "answer": "c",
+    "explanation": "Direct taxes are assessed directly on the income, profits, or property of individuals and corporations, and their incidence cannot be shifted to others."
+  },
+  {
+    "question": "Fiscal policy refers to government actions that manipulate ______ to influence macroeconomic performance.",
+    "options": {
+      "a": "taxation and public expenditure",
+      "b": "monetary supply and bank reserve requirements",
+      "c": "the exchange rate and foreign visa quotas",
+      "d": "commercial bank lending rates directly"
+    },
+    "answer": "a",
+    "explanation": "Fiscal policy involves government adjustments to its spending levels and tax revenue to influence national income, employment, and economic growth."
+  },
+  {
+    "question": "David Ricardo's Theory of Comparative Advantage asserts that countries should specialize in producing commodities where they have the ______",
+    "options": {
+      "a": "lowest opportunity cost relative to other nations",
+      "b": "most advanced military technology",
+      "c": "highest absolute production cost",
+      "d": "largest domestic consumer population"
+    },
+    "answer": "a",
+    "explanation": "The law of comparative advantage shows that mutually beneficial trade occurs when each country specializes in goods it can produce at a lower opportunity cost."
+  },
+  {
+    "question": "A country's Balance of Trade records the difference between ______",
+    "options": {
+      "a": "government external debt and foreign exchange reserves",
+      "b": "visible exports and visible imports",
+      "c": "total foreign capital inflows and outflows",
+      "d": "invisible shipping receipts and tourist expenditures"
+    },
+    "answer": "b",
+    "explanation": "Balance of Trade (merchandise balance) measures the difference between visible (physical merchandise) exports and visible imports over a given period."
+  },
+  {
+    "question": "Devaluation of a national currency is intended to correct a balance of payments deficit by making ______",
+    "options": {
+      "a": "imports cheaper and exports more expensive",
+      "b": "exports cheaper to foreigners and imports more expensive to domestic residents",
+      "c": "foreign exchange reserves double automatically",
+      "d": "domestic interest rates decline to zero"
+    },
+    "answer": "b",
+    "explanation": "Devaluation lowers the price of domestic goods in foreign currency terms (boosting exports) and raises import prices in local currency (depressing imports)."
+  },
+  {
+    "question": "The primary objective behind the establishment of the Economic Community of West African States (ECOWAS) in 1975 was to ______",
+    "options": {
+      "a": "adopt a common military alliance against the African Union",
+      "b": "promote trade liberalization and economic integration among member states",
+      "c": "merge all West African central banks into one single bank",
+      "d": "establish a uniform constitution for West African countries"
+    },
+    "answer": "b",
+    "explanation": "ECOWAS was formed to foster economic cooperation, trade liberalization, free movement of persons and goods, and regional self-sufficiency."
+  },
+  {
+    "question": "Which of the following is a primary characteristic of an underdeveloped or developing economy?",
+    "options": {
+      "a": "High dependence on primary commodity exports and low industrialization",
+      "b": "A very low population growth rate",
+      "c": "High per capita income and high human capital development",
+      "d": "Predominance of high-technology capital-intensive manufacturing"
+    },
+    "answer": "a",
+    "explanation": "Developing economies typically exhibit heavy reliance on agriculture/extractive commodities, low industrialization, low per capita income, and rapid population growth."
+  },
+  {
+    "question": "Economic growth differs from economic development because economic growth is concerned strictly with ______",
+    "options": {
+      "a": "a quantitative increase in the real national output (GDP) over time",
+      "b": "improvement in the general standard of living and health status",
+      "c": "structural transformation and institutional reforms in society",
+      "d": "fair distribution of wealth and reduction of extreme poverty"
+    },
+    "answer": "a",
+    "explanation": "Economic growth is a quantitative measure of the increase in real GDP, whereas economic development encompasses growth plus qualitative structural and social improvements."
+  },
+  {
+    "question": "Sustainable economic development requires that current economic expansion ______",
+    "options": {
+      "a": "eliminates government expenditure on renewable energy",
+      "b": "exhausts all finite mineral resources immediately to maximize current growth",
+      "c": "bans all foreign direct investment in agriculture",
+      "d": "meets the needs of the present without compromising the ability of future generations to meet theirs"
+    },
+    "answer": "d",
+    "explanation": "Sustainable development is defined by the Brundtland Commission as development that meets present needs without compromising future generations' ability to meet their own needs."
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "question": "The ancient terracotta sculptures dating between 500 BC and 200 AD in central Nigeria were first discovered in 1928 during tin-mining operations at ______",
+    "options": {
+      "a": "Nok",
+      "b": "Igbo-Ukwu",
+      "c": "Ile-Ife",
+      "d": "Daima"
+    },
+    "answer": "a",
+    "explanation": "The Nok culture was discovered in 1928 near the village of Nok in Kaduna State by Colonel J. Dent Young during tin mining."
+  },
+  {
+    "question": "At which archaeological site in south-eastern Nigeria did Thurstan Shaw excavate intricate 9th-century bronze castings associated with the Eze Nri?",
+    "options": {
+      "a": "Igbo-Ukwu",
+      "b": "Nok",
+      "c": "Tada",
+      "d": "Ife"
+    },
+    "answer": "a",
+    "explanation": "Archaeologist Thurstan Shaw excavated Igbo-Ukwu (Igbo Isaiah, Igbo Richard, and Igbo Jonah) in Anambra State, unearthing magnificent bronze works of the Nri civilization."
+  },
+  {
+    "question": "According to Yoruba historical tradition, which divine ancestor founded the holy city of Ile-Ife and dispatched his royal sons to establish other Yoruba kingdoms?",
+    "options": {
+      "a": "Oduduwa",
+      "b": "Oranmiyan",
+      "c": "Moremi",
+      "d": "Obatala"
+    },
+    "answer": "a",
+    "explanation": "Oduduwa is revered in Yoruba oral tradition as the ancestral father of the Yoruba race and the first divine monarch (Ooni) of Ile-Ife."
+  },
+  {
+    "question": "The first dynastic era of rulers in ancient Benin before the advent of the current Oba dynasty was known as the ______ dynasty.",
+    "options": {
+      "a": "Ogiso",
+      "b": "Uzama",
+      "c": "Eweka",
+      "d": "Egharevba"
+    },
+    "answer": "a",
+    "explanation": "The earliest period of Benin monarchy was ruled by the Ogiso ('Kings of the Sky'), numbering about 31 kings, before the dynasty was succeeded by the line of Oranmiyan."
+  },
+  {
+    "question": "Which prominent Oba of Benin is celebrated in the mid-15th century for building massive defensive earthworks (the Benin Moats/Iya) and radically transforming Benin City into an imperial capital?",
+    "options": {
+      "a": "Oba Ewuare the Great",
+      "b": "Oba Eweka I",
+      "c": "Oba Esigie",
+      "d": "Oba Ozolua"
+    },
+    "answer": "a",
+    "explanation": "Oba Ewuare the Great (c. 1440–1473) reconstructed Benin City, built the monumental inner and outer moats, and established vital political institutions."
+  },
+  {
+    "question": "The title 'Iyoba' (Queen Mother) in the Benin Kingdom was first created by Oba Esigie in the early 16th century to honor his mother, ______",
+    "options": {
+      "a": "Queen Idia",
+      "b": "Queen Emotan",
+      "c": "Queen Moremi",
+      "d": "Queen Amina"
+    },
+    "answer": "a",
+    "explanation": "Oba Esigie created the exalted political office of Iyoba for his mother, Queen Idia, in recognition of her strategic military and spiritual counsel during the Idah War (1515–1516)."
+  },
+  {
+    "question": "The foundational ruling dynasty that governed Kanem-Borno for over a thousand years, making it one of the longest continuous dynasties in world history, was the ______ dynasty.",
+    "options": {
+      "a": "Sayfawa",
+      "b": "Al-Kanemi",
+      "c": "Sarkawa",
+      "d": "Keita"
+    },
+    "answer": "a",
+    "explanation": "The Sayfawa dynasty, tracing its ancestry to the legendary Sayf ibn Dhi Yazan, ruled Kanem and subsequently Borno from the 9th century until 1846."
+  },
+  {
+    "question": "Which famous 16th-century Mai of Borno modernized his imperial army by acquiring firearms and Turkish military advisers from the Ottoman Empire?",
+    "options": {
+      "a": "Mai Idris Alooma",
+      "b": "Mai Dunama Dibalemi",
+      "c": "Mai Ali Gaji",
+      "d": "Mai Hume Jilmi"
+    },
+    "answer": "a",
+    "explanation": "Mai Idris Alooma (1571–1603) introduced musketeers, imported Arabian horses, and employed Ottoman Turkish instructors, turning Borno into a dominant regional military power."
+  },
+  {
+    "question": "According to the legendary Daura tradition (Bayajidda legend), which migrant hero arrived from Baghdad, killed the sacred serpent 'Sarki', and fathered the founders of the Hausa Bakwai?",
+    "options": {
+      "a": "Bayajidda (Abu Yazid)",
+      "b": "Uthman ibn Fodio",
+      "c": "Kanta of Kebbi",
+      "d": "Tsoede"
+    },
+    "answer": "a",
+    "explanation": "The Daura legend credits Prince Bayajidda with slaying the monster snake Sarki at the Kusugu well, marrying the Queen (Daurama), and founding the seven legitimate Hausa states."
+  },
+  {
+    "question": "Which female warrior-queen of Zazzau (Zaria) in the late 16th century led military campaigns to expand her domain and erected renowned defensive earthen walls across Hausaland?",
+    "options": {
+      "a": "Queen Amina",
+      "b": "Queen Zaria",
+      "c": "Queen Bakwa Turunku",
+      "d": "Queen Daurama"
+    },
+    "answer": "a",
+    "explanation": "Queen Amina of Zazzau led cavalry armies across northern Nigeria, exacting tribute from Nupe and Kano, and constructed extensive fortifications known as 'Ganuwar Amina'."
+  },
+  {
+    "question": "The culture hero and ancestral founder of the centralized Nupe Kingdom who introduced sophisticated brass working and ceremonial bronze figures was ______",
+    "options": {
+      "a": "Tsoede (Edegi)",
+      "b": "Etsu Masaba",
+      "c": "Etsu Jubril",
+      "d": "Are Ona Kakanfo"
+    },
+    "answer": "a",
+    "explanation": "Tsoede (also called Edegi) escaped from Idah in the 16th century with royal bronze insignia and established the centralized Nupe state along the Niger River."
+  },
+  {
+    "question": "The paramount spiritual and political ruler of the ancient Jukun (Kwararafa) confederacy, based at Wukari, holds the official title of ______",
+    "options": {
+      "a": "Aku Uka",
+      "b": "Attah",
+      "c": "Tor Tiv",
+      "d": "Etsu"
+    },
+    "answer": "a",
+    "explanation": "The divine priest-king of the Jukun Kingdom at Wukari is titled the Aku Uka."
+  },
+  {
+    "question": "In the constitutional structure of the Old Oyo Empire, which supreme council of seven hereditary noble kingmakers served as the primary check against royal tyranny?",
+    "options": {
+      "a": "The Oyo Mesi",
+      "b": "The Ogboni",
+      "c": "The Eso",
+      "d": "The Uzama"
+    },
+    "answer": "a",
+    "explanation": "The Oyo Mesi, headed by the Bashorun (prime minister), acted as the supreme state council and possessed constitutional authority to reject an autocratic Alaafin."
+  },
+  {
+    "question": "What symbolic item was presented by the Bashorun to an oppressive Alaafin to signify that the council of kingmakers had rejected him and he must commit ritual suicide?",
+    "options": {
+      "a": "An empty calabash or parrot's eggs",
+      "b": "A rusted iron spear",
+      "c": "A broken ivory tusk",
+      "d": "A bowl of dry salt"
+    },
+    "answer": "a",
+    "explanation": "Presenting the Alaafin with an empty calabash or a dish containing parrot's eggs meant: 'The gods reject you, earth rejects you, the people reject you', compelling ritual suicide."
+  },
+  {
+    "question": "The supreme military commander and field generalissimo of the imperial army of the Old Oyo Empire was titled the ______",
+    "options": {
+      "a": "Are Ona Kakanfo",
+      "b": "Bashorun",
+      "c": "Balogun",
+      "d": "Otun"
+    },
+    "answer": "a",
+    "explanation": "The Are Ona Kakanfo was the supreme field marshal of Oyo, stationed away from the capital at a strategic border post (such as Afonja at Ilorin)."
+  },
+  {
+    "question": "The socioeconomic and military organization that governed trade, war canoe fleets, and governance in the Niger Delta city-states was known as the ______ system.",
+    "options": {
+      "a": "House (Wari)",
+      "b": "Age Grade",
+      "c": "Ekpe",
+      "d": "Ogboni"
+    },
+    "answer": "a",
+    "explanation": "The Canoe House (Wari) was an autonomous socioeconomic and military corporation in Niger Delta states like Bonny, Nembe, and Kalabari."
+  },
+  {
+    "question": "Which dynamic merchant-king of Opobo fiercely opposed British commercial penetration into the palm oil hinterland before being exiled to Saint Vincent in 1887?",
+    "options": {
+      "a": "King Jaja of Opobo",
+      "b": "King William Dappa Pepple",
+      "c": "Chief Nana Olomu",
+      "d": "Oba Kosoko"
+    },
+    "answer": "a",
+    "explanation": "King Jaja of Opobo broke away from Bonny in 1869, founded Opobo, established a commercial monopoly over oil palm trade, and was seized and exiled by Vice-Consul Harry Johnston."
+  },
+  {
+    "question": "The wealthy Itsekiri merchant-governor of the Benin River whose fortified stronghold at Ebrohimi was bombarded by British gunboats in 1894 was ______",
+    "options": {
+      "a": "Nana Olomu",
+      "b": "King Koko of Nembe",
+      "c": "Dore Numa",
+      "d": "Amanyanabo Frederick"
+    },
+    "answer": "a",
+    "explanation": "Chief Nana Olomu of Ebrohimi controlled the Benin River palm oil trade until the British military expedition of 1894 overwhelmed his fortified trading post."
+  },
+  {
+    "question": "The 19th-century Islamic reform jihad in Hausaland, initiated in 1804, was sparked by a confrontation between Sheikh Usman dan Fodio and the ruler of Gobir named ______",
+    "options": {
+      "a": "Yunfa",
+      "b": "Bawa",
+      "c": "Nafata",
+      "d": "Yakubu"
+    },
+    "answer": "a",
+    "explanation": "Sarkin Gobir Yunfa attempted to assassinate Usman dan Fodio and revoke Islamic privileges, provoking the Hijrah to Gudu and the outbreak of the 1804 Jihad."
+  },
+  {
+    "question": "The first decisive military victory of Usman dan Fodio's forces against the superior cavalry of Sarkin Gobir in June 1804 took place at ______",
+    "options": {
+      "a": "Tabkin Kwatto",
+      "b": "Birnin Gada",
+      "c": "Alwassa",
+      "d": "Tsuntsua"
+    },
+    "answer": "a",
+    "explanation": "At the Battle of Tabkin Kwatto in June 1804, dan Fodio's lightly armed archers defeated Yunfa's heavy cavalry forces."
+  },
+  {
+    "question": "Following the successful jihad, how was the vast administrative responsibility of the Sokoto Caliphate divided between Sheikh Usman dan Fodio's successors?",
+    "options": {
+      "a": "Muhammad Bello administered the Eastern Emirates from Sokoto, while Abdullahi administered the Western Emirates from Gwandu",
+      "b": "Muhammad Bello took the coastal areas while Abdullahi administered Borno",
+      "c": "The entire Caliphate was given solely to Modibbo Adama",
+      "d": "It was partitioned into seventy independent republican leagues"
+    },
+    "answer": "a",
+    "explanation": "Usman dan Fodio divided administrative responsibilities: his son Muhammad Bello ruled the Eastern division from Sokoto, and his brother Abdullahi dan Fodio oversaw the Western division from Gwandu."
+  },
+  {
+    "question": "Which charismatic Islamic scholar and military leader successfully defended Borno against the Fulani Jihadists and established a new ruling dynasty with the title 'Shehu'?",
+    "options": {
+      "a": "Sheikh Muhammad al-Amin al-Kanemi",
+      "b": "Mai Dunama IX",
+      "c": "Rabeh Zubair",
+      "d": "Modibbo Adama"
+    },
+    "answer": "a",
+    "explanation": "Sheikh al-Kanemi mobilized Kanembu spear-fighters to repel the Fulani incursions, became the real power behind the Borno throne, and founded the Shehu dynasty."
+  },
+  {
+    "question": "In 1893, the ancient capital and cities of Borno were invaded and devastated by a Sudanese warlord named ______",
+    "options": {
+      "a": "Rabeh Zubair",
+      "b": "Muhammad Ahmad al-Mahdi",
+      "c": "Samori Toure",
+      "d": "Ahmad al-Kabir"
+    },
+    "answer": "a",
+    "explanation": "Rabeh Zubair, an adventurer and slave-raider from Sudan, invaded Borno in 1893, sacked Kukawa, and ruled despotically from Dikwa until killed by the French in 1900."
+  },
+  {
+    "question": "The collapse of the Old Oyo Empire in the 1830s was accelerated when Afonja, the Are Ona Kakanfo based at Ilorin, formed a fatal political alliance with the Fulani Islamic preacher ______",
+    "options": {
+      "a": "Shehu Alimi",
+      "b": "Modibbo Raji",
+      "c": "Usman dan Fodio",
+      "d": "Mallam Dendo"
+    },
+    "answer": "a",
+    "explanation": "Afonja rebelled against the Alaafin of Oyo and invited Shehu Alimi and Hausa/Fulani mercenaries to Ilorin; the mercenaries later revolted, assassinated Afonja, and incorporated Ilorin into the Sokoto Caliphate."
+  },
+  {
+    "question": "Following the destruction of Old Oyo, which military settlement emerged as the dominant martial republic in Yorubaland, defeating the Fulani forces at the Battle of Osogbo in 1840?",
+    "options": {
+      "a": "Ibadan",
+      "b": "Abeokuta",
+      "c": "Ijaye",
+      "d": "Oyo-Atiba"
+    },
+    "answer": "a",
+    "explanation": "Ibadan developed as a multi-clan military republic and decisively checked the southward expansion of the Ilorin Fulani cavalry at the Battle of Osogbo in 1840."
+  },
+  {
+    "question": "The protracted sixteen-year conflict (1877–1893) between Ibadan and a grand alliance of Ekiti and Ijesha kingdoms led by Fabunmi and Ogedengbe is known as the ______ War.",
+    "options": {
+      "a": "Kiriji (Ekitiparapo)",
+      "b": "Ijaye",
+      "c": "Owu",
+      "d": "Gbanamu"
+    },
+    "answer": "a",
+    "explanation": "The Kiriji or Ekitiparapo War (1877–1893) was fought between Ibadan and the Ekitiparapo confederacy, named 'Kiriji' after the booming sound of heavy muzzle-loading cannons."
+  },
+  {
+    "question": "The Church Missionary Society (CMS) leader who was rescued from slavery, educated in Freetown, and consecrated in 1864 as the first African Anglican Bishop of West Africa was ______",
+    "options": {
+      "a": "Samuel Ajayi Crowther",
+      "b": "Henry Townsend",
+      "c": "Thomas Birch Freeman",
+      "d": "Hope Waddell"
+    },
+    "answer": "a",
+    "explanation": "Bishop Samuel Ajayi Crowther was an ex-slave who translated the Bible and Anglican Book of Common Prayer into Yoruba and supervised Niger Delta missions."
+  },
+  {
+    "question": "The first newspaper published in Nigeria, founded in Abeokuta in 1859 by the Reverend Henry Townsend, was titled ______",
+    "options": {
+      "a": "Iwe Irohin Yoruba",
+      "b": "Lagos Weekly Record",
+      "c": "West African Pilot",
+      "d": "The Nigerian Daily Times"
+    },
+    "answer": "a",
+    "explanation": "'Iwe Irohin Fun Awon Ara Egba Ati Yoruba' was established in Abeokuta by Reverend Henry Townsend in November 1859."
+  },
+  {
+    "question": "The Scottish explorer who traced the course of the River Niger to Bussa (in modern Niger State), where he drowned in 1806, was ______",
+    "options": {
+      "a": "Mungo Park",
+      "b": "Hugh Clapperton",
+      "c": "Richard Lander",
+      "d": "Heinrich Barth"
+    },
+    "answer": "a",
+    "explanation": "Mungo Park led two expeditions (1795 and 1805) to find the source and mouth of the River Niger, losing his life at the Bussa rapids in 1806."
+  },
+  {
+    "question": "Which explorer brothers finally solved the centuries-old geographical puzzle of the Niger by navigating its waters downstream to its Atlantic delta in 1830?",
+    "options": {
+      "a": "Richard and John Lander",
+      "b": "Rene Caillie and Dixon Denham",
+      "c": "David Livingstone and Henry Stanley",
+      "d": "Heinrich Barth and Adolf Overweg"
+    },
+    "answer": "a",
+    "explanation": "The Lander brothers (Richard and John) sailed down the River Niger from Bussa to the Atlantic Ocean in 1830, proving that the Oil Rivers were its delta."
+  },
+  {
+    "question": "In which year did the British formally annex the island of Lagos as a Crown Colony following a treaty signed under duress by Oba Dosunmu?",
+    "options": {
+      "a": "1861",
+      "b": "1851",
+      "c": "1884",
+      "d": "1900"
+    },
+    "answer": "a",
+    "explanation": "Under gunboat coercion by Acting Consul McCoskry and Commander Bedingfield, Oba Dosunmu ceded Lagos to the British Crown on August 6, 1861."
+  },
+  {
+    "question": "The international diplomatic summit convened in Europe between November 1884 and February 1885 that established ground rules for partitioning African territories was the ______",
+    "options": {
+      "a": "Berlin Conference",
+      "b": "Versailles Conference",
+      "c": "Geneva Accord",
+      "d": "London Treaty"
+    },
+    "answer": "a",
+    "explanation": "Chancellor Otto von Bismarck hosted the Berlin West Africa Conference (1884–1885), which introduced the principle of 'effective occupation' for colonial conquest."
+  },
+  {
+    "question": "Which British chartered company, directed by Sir George Dashwood Goldie, administered commercial and administrative affairs along the Niger and Benue valleys until 1899?",
+    "options": {
+      "a": "The Royal Niger Company",
+      "b": "The British East India Company",
+      "c": "The African Association",
+      "d": "The United Africa Merchant Company"
+    },
+    "answer": "a",
+    "explanation": "The Royal Niger Company (chartered in 1886 under George Goldie) held governmental and trading monopolies in the Niger basin until its charter was revoked on December 31, 1899."
+  },
+  {
+    "question": "The British military campaign of 1897 that resulted in the capture and burning of Benin City, the looting of thousands of royal brass castings, and the exile of Oba Ovonramwen was the ______",
+    "options": {
+      "a": "Benin Punitive Expedition",
+      "b": "Aro Expedition",
+      "c": "Brass River Expedition",
+      "d": "Ijebu Expedition"
+    },
+    "answer": "a",
+    "explanation": "The Benin Punitive Expedition of February 1897 was launched by Admiral Harry Rawson after James Phillips' unauthorized party was ambushed; Benin was sacked and looted."
+  },
+  {
+    "question": "The British military campaign between December 1901 and March 1902 that systematically destroyed the sacred 'Long Juju' (Ibini Ukpabi) oracle was directed against the ______",
+    "options": {
+      "a": "Aro confederacy",
+      "b": "Tiv people",
+      "c": "Igala kingdom",
+      "d": "Urhobo clans"
+    },
+    "answer": "a",
+    "explanation": "The Aro Expedition (1901–1902) conquered Arochukwu and dismantled the Ibini Ukpabi shrine to suppress Aro trading dominance in eastern Nigeria."
+  },
+  {
+    "question": "The heroic Sultan of Sokoto who refused to capitulate to Sir Frederick Lugard's forces and was martyred fighting the British at the Battle of Burmi in July 1903 was ______",
+    "options": {
+      "a": "Sultan Muhammadu Attahiru I",
+      "b": "Sultan Abdur-Rahman (Danyen Kasko)",
+      "c": "Sultan Muhammadu Tambari",
+      "d": "Sultan Hassan dan Mu'azu"
+    },
+    "answer": "a",
+    "explanation": "Sultan Attahiru I fled Sokoto upon British entry, rallied thousands of loyalists in a northward hijrah, and died fighting British forces at Burmi (modern Gombe State) on July 27, 1903."
+  },
+  {
+    "question": "The landmark amalgamation of the Colony and Protectorate of Southern Nigeria with the Protectorate of Northern Nigeria took place on January 1, 1914 under ______",
+    "options": {
+      "a": "Sir Frederick Lugard",
+      "b": "Sir Arthur Richards",
+      "c": "Sir Hugh Clifford",
+      "d": "Lord Milverton"
+    },
+    "answer": "a",
+    "explanation": "Lord Frederick Lugard executed the amalgamation of Nigeria on January 1, 1914, uniting northern and southern administrations primarily for fiscal convenience."
+  },
+  {
+    "question": "The primary administrative mechanism implemented by British colonial authorities using traditional indigenous institutions, rulers, and Native Courts was called ______",
+    "options": {
+      "a": "Indirect Rule",
+      "b": "Direct Assimilation",
+      "c": "Association Policy",
+      "d": "Paternalist Rule"
+    },
+    "answer": "a",
+    "explanation": "Indirect Rule relied on established indigenous traditional rulers (Emirs, Obas, Warrant Chiefs) as intermediaries to enforce colonial taxation and order."
+  },
+  {
+    "question": "The massive anti-colonial insurrection in southeastern Nigeria in 1929 sparked by rumors of colonial taxation of women was the ______",
+    "options": {
+      "a": "Aba Women's Riots (Ogu Umunwanyi)",
+      "b": "Enugu Colliery Strike",
+      "c": "Egba Uprising (Adubi War)",
+      "d": "Satiru Rebellion"
+    },
+    "answer": "a",
+    "explanation": "The Aba Women's Riots (Women's War) broke out in Oloko in late 1929 when Warrant Chief Okugo attempted to enumerate women and livestock for taxation."
+  },
+  {
+    "question": "Which Nigerian constitution first introduced the 'elective principle' in 1922, allocating three elected legislative council seats to Lagos and one to Calabar?",
+    "options": {
+      "a": "The Clifford Constitution",
+      "b": "The Richards Constitution",
+      "c": "The Macpherson Constitution",
+      "d": "The Lyttelton Constitution"
+    },
+    "answer": "a",
+    "explanation": "The Clifford Constitution of 1922 introduced the elective principle for four seats, stimulating the rise of Nigeria's first modern political parties."
+  },
+  {
+    "question": "Who is universally celebrated as the 'Father of Nigerian Nationalism' and founder of the Nigerian National Democratic Party (NNDP) in 1923?",
+    "options": {
+      "a": "Herbert Macaulay",
+      "b": "Dr. Nnamdi Azikiwe",
+      "c": "Chief Obafemi Awolowo",
+      "d": "Alhaji Ahmadu Bello"
+    },
+    "answer": "a",
+    "explanation": "Herbert Macaulay, a civil engineer and grandson of Bishop Ajayi Crowther, founded the NNDP in 1923 and agitated against oppressive colonial ordinances."
+  },
+  {
+    "question": "The 1946 Richards Constitution was historically significant because it ______",
+    "options": {
+      "a": "Officially divided Nigeria into three administrative regions (North, West, and East) with Regional Assemblies",
+      "b": "Granted total self-government to all three regions immediately",
+      "c": "Abolished the office of British Governor-General",
+      "d": "Adopted a unicameral parliament in Kaduna"
+    },
+    "answer": "a",
+    "explanation": "Sir Arthur Richards created regional houses of assembly for Northern, Western, and Eastern Nigeria, inaugurating regionalism in Nigerian politics."
+  },
+  {
+    "question": "Which constitution formally established a federal structure of government with regional self-governance provisions in Nigeria in 1954?",
+    "options": {
+      "a": "The Lyttelton Constitution",
+      "b": "The Macpherson Constitution",
+      "c": "The Richards Constitution",
+      "d": "The Clifford Constitution"
+    },
+    "answer": "a",
+    "explanation": "The Oliver Lyttelton Constitution of 1954 formally instituted federalism, establishing autonomous regional executive councils and regional civil services."
+  },
+  {
+    "question": "The special commission appointed by the British colonial administration in 1957 to investigate the anxieties and fears of minority ethnic groups before independence was the ______ Commission.",
+    "options": {
+      "a": "Willink",
+      "b": "Phillipson",
+      "c": "Harragin",
+      "d": "Foot"
+    },
+    "answer": "a",
+    "explanation": "The Sir Henry Willink Commission (1957–1958) examined minority fears of majority ethnic domination, recommending a bill of fundamental human rights instead of new states."
+  },
+  {
+    "question": "Upon achieving sovereign independence on October 1, 1960, who served as Nigeria's first federal Prime Minister?",
+    "options": {
+      "a": "Sir Abubakar Tafawa Balewa",
+      "b": "Dr. Nnamdi Azikiwe",
+      "c": "Chief Obafemi Awolowo",
+      "d": "Sir Ahmadu Bello"
+    },
+    "answer": "a",
+    "explanation": "Sir Abubakar Tafawa Balewa (deputy leader of the Northern People's Congress) served as federal Prime Minister, while Dr. Nnamdi Azikiwe became Governor-General."
+  },
+  {
+    "question": "Under the Republican Constitution of October 1, 1963, what fundamental constitutional change occurred in Nigeria's judicial and political status?",
+    "options": {
+      "a": "The British monarch ceased to be the Head of State, and the Supreme Court replaced the British Privy Council as apex appellate court",
+      "b": "Nigeria adopted a presidential system identical to the United States",
+      "c": "The regional legislatures were completely dissolved",
+      "d": "The capital was moved from Lagos to Abuja"
+    },
+    "answer": "a",
+    "explanation": "The 1963 Republican Constitution cut imperial ties with the British Monarchy, made Dr. Nnamdi Azikiwe ceremonial President, and made the Supreme Court of Nigeria the apex court."
+  },
+  {
+    "question": "The first military coup d'état in Nigerian history, which took place on January 15, 1966, was spearheaded by a cadre of young army majors led by ______",
+    "options": {
+      "a": "Major Chukwuma Kaduna Nzeogwu",
+      "b": "Major-General J.T.U. Aguiyi-Ironsi",
+      "c": "Lieutenant-Colonel Murtala Muhammed",
+      "d": "Major General Muhammadu Buhari"
+    },
+    "answer": "a",
+    "explanation": "Major Chukwuma Kaduna Nzeogwu led the January 15, 1966 coup, assassinating prominent leaders in Kaduna before General Aguiyi-Ironsi assumed control in Lagos."
+  },
+  {
+    "question": "On May 27, 1967, on the brink of the Nigerian Civil War, Head of State General Yakubu Gowon dissolved the four regions and restructured the Nigerian federation into ______ states.",
+    "options": {
+      "a": "12",
+      "b": "19",
+      "c": "21",
+      "d": "36"
+    },
+    "answer": "a",
+    "explanation": "Lt.-Col. Yakubu Gowon issued a decree on May 27, 1967 replacing the Northern, Eastern, Western, and Mid-Western regions with 12 multi-ethnic states."
+  },
+  {
+    "question": "The Nigerian Civil War (1967–1970) officially ended in January 1970 following Biafra's surrender, after which General Yakubu Gowon famously declared ______",
+    "options": {
+      "a": "'No victor, no vanquished' and the policy of the 3Rs (Reconciliation, Rehabilitation, Reconstruction)",
+      "b": "'Unconditional surrender and permanent martial law'",
+      "c": "'The immediate dissolution of all southern universities'",
+      "d": "'The partition of the Niger Delta into two foreign protectorates'"
+    },
+    "answer": "a",
+    "explanation": "Gowon magnanimously declared 'No victor, no vanquished' and instituted the 3Rs policy (Reconciliation, Rehabilitation, and Reconstruction) to heal the nation."
+  },
+  {
+    "question": "Which regional economic integration body was officially established in Lagos on May 28, 1975 under the joint diplomatic leadership of Nigeria and Togo?",
+    "options": {
+      "a": "The Economic Community of West African States (ECOWAS)",
+      "b": "The Organization of African Unity (OAU)",
+      "c": "The African Union (AU)",
+      "d": "The Mano River Union"
+    },
+    "answer": "a",
+    "explanation": "General Yakubu Gowon of Nigeria and President Gnassingbé Eyadéma of Togo spearheaded the Treaty of Lagos on May 28, 1975, founding ECOWAS."
+  }
+]

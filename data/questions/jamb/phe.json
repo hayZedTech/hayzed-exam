@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Who is historically credited with the revival of the Modern Olympic Games and the establishment of the International Olympic Committee (IOC) in 1894?",
+    "options": {
+      "a": "Dr. Ludwig Guttmann",
+      "b": "Baron Pierre de Coubertin",
+      "c": "Demetrius Vikelas",
+      "d": "Avery Brundage"
+    },
+    "answer": "b",
+    "explanation": "Baron Pierre de Coubertin of France spearheaded the revival of the modern Olympic Games, organizing the Paris Congress in 1894 which founded the International Olympic Committee and led to the first modern Games in Athens in 1896."
+  },
+  {
+    "question": "What is the official Latin motto of the Olympic Games, reflecting the aspirational pursuit of athletic excellence?",
+    "options": {
+      "a": "Mens sana in corpore sano",
+      "b": "Citius, Altius, Fortius",
+      "c": "Veni, Vidi, Vici",
+      "d": "Fortis Cadere, Cedere Non Potest"
+    },
+    "answer": "b",
+    "explanation": "The traditional Olympic motto is 'Citius, Altius, Fortius', which translates to 'Faster, Higher, Stronger' (with 'Communiter' / 'Together' added recently by the IOC)."
+  },
+  {
+    "question": "Which of the following synovial joint types provides the greatest multi-axial range of motion, allowing flexion, extension, abduction, adduction, and circumduction?",
+    "options": {
+      "a": "Hinge joint",
+      "b": "Pivot joint",
+      "c": "Ball-and-socket joint",
+      "d": "Gliding joint"
+    },
+    "answer": "c",
+    "explanation": "Ball-and-socket joints (such as the glenohumeral shoulder joint and acetabulofemoral hip joint) permit movement across all three anatomical planes (tri-axial/multi-axial)."
+  },
+  {
+    "question": "During a muscular contraction, tension is generated within the skeletal muscle fibers without any perceptible change in the overall muscle length. This contraction is defined as:",
+    "options": {
+      "a": "Concentric isotonic contraction",
+      "b": "Eccentric isotonic contraction",
+      "c": "Isometric contraction",
+      "d": "Isokinetic contraction"
+    },
+    "answer": "c",
+    "explanation": "In an isometric contraction, muscle tension increases while muscle length remains constant because the external resistance exceeds or equals the muscle's contractile tension (e.g., pushing against an immovable wall)."
+  },
+  {
+    "question": "Which physiological metric represents the volume of blood pumped out of the left ventricle of the heart into systemic circulation during each individual cardiac cycle?",
+    "options": {
+      "a": "Cardiac Output",
+      "b": "Stroke Volume",
+      "c": "End-Systolic Volume",
+      "d": "Venous Return"
+    },
+    "answer": "b",
+    "explanation": "Stroke volume is the volume of blood ejected by the left ventricle per single heartbeat (typically ~70 mL in an untrained resting adult, and substantially higher in endurance athletes)."
+  },
+  {
+    "question": "In the sliding filament mechanism of skeletal muscle contraction, which regulatory protein shifts its position when calcium ions bind to troponin, exposing active actin binding sites?",
+    "options": {
+      "a": "Myosin heavy chain",
+      "b": "Tropomyosin",
+      "c": "Titina",
+      "d": "Dystrophin"
+    },
+    "answer": "b",
+    "explanation": "When cytosolic $Ca^{2+}$ binds to troponin C, conformational shifts occur that pull tropomyosin away from the myosin-binding active sites on the actin filament, enabling cross-bridge cycling."
+  },
+  {
+    "question": "During maximal sprint exertion lasting between 10 and 45 seconds (such as a 200m or 400m sprint), which bioenergetic pathway serves as the predominant supplier of adenosine triphosphate (ATP)?",
+    "options": {
+      "a": "Aerobic oxidative phosphorylation",
+      "b": "Phosphagen system (ATP-PCr)",
+      "c": "Anaerobic glycolysis (Lactic acid system)",
+      "d": "Beta-oxidation of free fatty acids"
+    },
+    "answer": "c",
+    "explanation": "Anaerobic glycolysis breaks down intramuscular glycogen without oxygen, providing rapid ATP synthesis for high-intensity maximal efforts lasting roughly 10 to 60 seconds, generating lactic acid as a byproduct."
+  },
+  {
+    "question": "In track athletics, what is the maximum permissible sprint race distance for which the use of starting blocks is mandatory under World Athletics rules?",
+    "options": {
+      "a": "Up to and including 200 meters",
+      "b": "Up to and including 400 meters",
+      "c": "Up to and including 800 meters",
+      "d": "Up to and including 1500 meters"
+    },
+    "answer": "b",
+    "explanation": "Under World Athletics technical regulations, starting blocks and a crouch start are compulsory for all individual track sprint events up to and including 400 meters (including the first leg of 4x100m and 4x400m relays)."
+  },
+  {
+    "question": "Which baton exchange method is universally utilized in sprint relays (such as the 4 x 100 meters) to maintain maximal running velocity without the receiving runner looking back?",
+    "options": {
+      "a": "Visual exchange",
+      "b": "Non-visual (Blind) exchange",
+      "c": "Direct-sight exchange",
+      "d": "Stationary handoff"
+    },
+    "answer": "b",
+    "explanation": "In 4x100m relays, runners execute a non-visual (blind) exchange within the takeover zone; the outgoing runner accelerates forward without looking back, extending their hand upon receiving an auditory call."
+  },
+  {
+    "question": "In high jump competition, which modern clearance technique involves the athlete approaching the bar on a curved J-shaped trajectory and clearing it backwards with the body arched face-upwards?",
+    "options": {
+      "a": "Western roll",
+      "b": "Straddle technique",
+      "c": "Scissors jump",
+      "d": "Fosbury flop"
+    },
+    "answer": "d",
+    "explanation": "The Fosbury flop, popularized by Dick Fosbury at the 1968 Mexico City Olympics, involves a curved approach run and backward bar clearance that lowers the athlete's center of gravity."
+  },
+  {
+    "question": "What is the standard sequence of phases executed by an athlete in a legal triple jump competition?",
+    "options": {
+      "a": "Hop, Step, and Jump",
+      "b": "Step, Hop, and Jump",
+      "c": "Jump, Step, and Hop",
+      "d": "Hop, Jump, and Glide"
+    },
+    "answer": "a",
+    "explanation": "Under athletics rules, the triple jump must consist of a hop (landing on the same take-off foot), a step (landing on the opposite foot), and a final jump into the sand pit."
+  },
+  {
+    "question": "In association football (soccer), which official decision is awarded if an attacker receives the ball while in an offside position directly from a teammate's pass?",
+    "options": {
+      "a": "Direct free kick to the defending team",
+      "b": "Indirect free kick to the defending team from where the offside offence occurred",
+      "c": "Penalty kick to the defending team",
+      "d": "Drop ball at the center circle"
+    },
+    "answer": "b",
+    "explanation": "An offside violation results in the referee awarding an indirect free kick to the opposing team at the exact location on the pitch where the offside infringement occurred."
+  },
+  {
+    "question": "In standard basketball, what is the maximum duration a team in control of the live ball is permitted from the backcourt to advance the ball across the midcourt line into the frontcourt?",
+    "options": {
+      "a": "3 seconds",
+      "b": "5 seconds",
+      "c": "8 seconds",
+      "d": "10 seconds"
+    },
+    "answer": "c",
+    "explanation": "Under FIBA rules, an offensive team in possession of the ball in its backcourt must cause the ball to cross into the frontcourt within 8 seconds."
+  },
+  {
+    "question": "What is the tactical role and primary restriction of the Libero player in competitive volleyball?",
+    "options": {
+      "a": "Specialized server who can only execute jump serves",
+      "b": "Specialized back-row defensive player who cannot attack the ball above the net, block, or attempt to block",
+      "c": "Front-row offensive spiker who wears a captain's armband",
+      "d": "Primary setter permitted to rotate only between positions 3 and 4"
+    },
+    "answer": "b",
+    "explanation": "The Libero is a defensive specialist wearing a contrasting jersey who plays exclusively in the back row, and is prohibited from completing an attack hit above net height, blocking, or serving (under standard FIVB rules)."
+  },
+  {
+    "question": "In tennis, what specific scoring terminology describes a score of 40–40 in an ongoing game?",
+    "options": {
+      "a": "Love-all",
+      "b": "Deuce",
+      "c": "Advantage",
+      "d": "Break point"
+    },
+    "answer": "b",
+    "explanation": "When both players or doubles pairs reach 40 points each, the score is termed 'Deuce', requiring a player to win two consecutive points (Advantage followed by Game) to win the game."
+  },
+  {
+    "question": "Which of the following physical fitness components is categorized as a skill-related (motor-performance) fitness attribute rather than a health-related component?",
+    "options": {
+      "a": "Cardiorespiratory endurance",
+      "b": "Muscular strength",
+      "c": "Agility",
+      "d": "Flexibility"
+    },
+    "answer": "c",
+    "explanation": "Agility (along with speed, power, reaction time, balance, and coordination) is a skill-related fitness component. Cardiorespiratory endurance, muscular strength, muscular endurance, flexibility, and body composition are health-related components."
+  },
+  {
+    "question": "Which training principle states that physiological adaptations achieved through physical conditioning will deteriorate if training stimuli are significantly reduced or discontinued?",
+    "options": {
+      "a": "Principle of Specificity",
+      "b": "Principle of Reversibility",
+      "c": "Principle of Progressive Overload",
+      "d": "Principle of Individual Differences"
+    },
+    "answer": "b",
+    "explanation": "The Principle of Reversibility (often termed the 'use it or lose it' rule) dictates that physiological training adaptations recede when regular training stops or is drastically reduced."
+  },
+  {
+    "question": "In acute sports injury management, what does the 'P' stand for in the widely adopted PRICE treatment protocol?",
+    "options": {
+      "a": "Prevention",
+      "b": "Protection",
+      "c": "Pulsation",
+      "d": "Perfusion"
+    },
+    "answer": "b",
+    "explanation": "PRICE stands for Protection, Rest, Ice, Compression, and Elevation. 'Protection' shields the injured tissue from further structural damage (e.g., using splints, crutches, or braces)."
+  },
+  {
+    "question": "What is the fundamental anatomical distinction between a sprain and a strain in sports medicine?",
+    "options": {
+      "a": "A sprain affects muscle bellies, whereas a strain affects bone tissue",
+      "b": "A sprain involves stretching or tearing of ligaments, whereas a strain involves injury to muscles or tendons",
+      "c": "A sprain is a complete bone fracture, whereas a strain is a joint dislocation",
+      "d": "A sprain is caused by blunt impact, whereas a strain is purely bacterial"
+    },
+    "answer": "b",
+    "explanation": "A sprain is an injury involving ligaments (tissues connecting bone to bone at a joint), whereas a strain is an injury to muscle fibers or tendons (tissues connecting muscle to bone)."
+  },
+  {
+    "question": "Which banned substance class on the World Anti-Doping Agency (WADA) prohibited list stimulates erythropoiesis in bone marrow to elevate red blood cell mass and aerobic endurance?",
+    "options": {
+      "a": "Beta-2 Agonists",
+      "b": "Erythropoietin (EPO)",
+      "c": "Diuretics and masking agents",
+      "d": "Glucocorticoids"
+    },
+    "answer": "b",
+    "explanation": "Recombinant human erythropoietin (EPO) stimulates bone marrow stem cells to produce red blood cells, artificially raising hematocrit, oxygen transport capacity, and VO2 max."
+  },
+  {
+    "question": "In basic life support (BLS), what is the universally recommended ratio of chest compressions to rescue breaths during single-rescuer adult Cardiopulmonary Resuscitation (CPR)?",
+    "options": {
+      "a": "15 compressions to 2 breaths",
+      "b": "30 compressions to 2 breaths",
+      "c": "50 compressions to 5 breaths",
+      "d": "5 compressions to 1 breath"
+    },
+    "answer": "b",
+    "explanation": "The international standard for adult CPR by a single rescuer is 30 chest compressions followed by 2 rescue breaths at a compression rate of 100–120 per minute."
+  },
+  {
+    "question": "Which of the following describes the condition known as 'heat stroke', representing a medical emergency during athletic performance in hot environments?",
+    "options": {
+      "a": "Transient dizziness caused by postural hypotension without elevated core temperature",
+      "b": "Painful involuntary muscle spasms in the legs caused by salt loss through perspiration",
+      "c": "Failure of the thermoregulatory center leading to core body temperature exceeding 40°C, altered mental status, and hot dry or flushed skin",
+      "d": "Localized freezing of peripheral superficial tissues"
+    },
+    "answer": "c",
+    "explanation": "Heat stroke occurs when the body's thermoregulatory mechanisms collapse, driving core temperature above 40°C (104°F) accompanied by central nervous system dysfunction (confusion, delirium, coma) and cessation of sweating."
+  },
+  {
+    "question": "The practice of carbohydrate loading (glycogen supercompensation) prior to an endurance marathon is designed to maximize stores in which tissues?",
+    "options": {
+      "a": "Subcutaneous adipose deposits and dermis",
+      "b": "Skeletal muscles and liver",
+      "c": "Renal cortex and cardiac valves",
+      "d": "Pancreatic islets and spleen"
+    },
+    "answer": "b",
+    "explanation": "Carbohydrate loading saturates glycogen reserves within skeletal muscle fibers and hepatocytes (liver), postponing glycogen depletion and 'hitting the wall' during prolonged endurance events."
+  },
+  {
+    "question": "Which long-distance athletics track event features obstacles comprising 4 fixed wooden barriers and 1 water jump obstacle per complete lap?",
+    "options": {
+      "a": "10,000 meters race",
+      "b": "3,000 meters steeplechase",
+      "c": "400 meters hurdles",
+      "d": "1,500 meters race"
+    },
+    "answer": "b",
+    "explanation": "The 3000m steeplechase features 28 barrier clearances and 7 water jumps over 7.5 track laps, with each full lap presenting 4 fixed hurdles and 1 water jump obstacle."
+  },
+  {
+    "question": "In table tennis, what constitutes a 'let' during service?",
+    "options": {
+      "a": "The ball touches the receiver's court without touching the server's court",
+      "b": "The served ball touches the net assembly in passing, provided the service is otherwise good",
+      "c": "The server misses the ball completely when attempting to strike it",
+      "d": "The receiver strikes the ball before it bounces on their side"
+    },
+    "answer": "b",
+    "explanation": "Under ITTF rules, if a served ball clips the net assembly and continues into the receiver's valid court, a 'let' is called and the service is replayed without penalty."
+  },
+  {
+    "question": "What is the primary role of the quadriceps femoris muscle group situated along the anterior compartment of the human thigh?",
+    "options": {
+      "a": "Flexion of the knee joint",
+      "b": "Extension of the knee joint and assisted flexion of the hip",
+      "c": "Adduction of the hip joint",
+      "d": "Plantarflexion of the ankle joint"
+    },
+    "answer": "b",
+    "explanation": "The quadriceps femoris (rectus femoris, vastus lateralis, vastus medialis, vastus intermedius) acts as the primary extensor of the knee joint; the rectus femoris also assists in hip flexion."
+  },
+  {
+    "question": "Which of the following field events requires the competitor to deliver the implement using a purely one-handed overhand thrust from near the neck and chin, rather than a throwing motion?",
+    "options": {
+      "a": "Javelin throw",
+      "b": "Discus throw",
+      "c": "Hammer throw",
+      "d": "Shot put"
+    },
+    "answer": "d",
+    "explanation": "In shot put, the metal sphere must be 'put' (pushed) from the shoulder with one hand only; it must remain close to the neck or chin until released."
+  },
+  {
+    "question": "In basketball, if a dribbler touches the ball with both hands simultaneously and then resumes dribbling without passing or shooting, the official calls:",
+    "options": {
+      "a": "Traveling violation",
+      "b": "Double dribble (illegal dribble) violation",
+      "c": "Carrying the ball violation",
+      "d": "Goaltending violation"
+    },
+    "answer": "b",
+    "explanation": "A player who dribbles, gathers or touches the ball simultaneously with both hands, and dribbles a second time commits a double dribble violation, yielding possession to the opposing team."
+  },
+  {
+    "question": "Which of the following is considered an involuntary, striated muscle tissue found exclusively within the walls of a single organ?",
+    "options": {
+      "a": "Visceral smooth muscle",
+      "b": "Cardiac muscle (Myocardium)",
+      "c": "Skeletal muscle",
+      "d": "Arterial endothelial tissue"
+    },
+    "answer": "b",
+    "explanation": "Cardiac muscle tissue is found solely in the heart; it possesses striations like skeletal muscle but operates involuntarily via myogenic pacemakers and intercalated discs."
+  },
+  {
+    "question": "Which of the following tests is a standard scientific measure of static or dynamic spinal and hamstring flexibility in physical education fitness testing?",
+    "options": {
+      "a": "Cooper 12-minute run test",
+      "b": "Sit-and-Reach test",
+      "c": "Harvard step test",
+      "d": "Illinois agility run test"
+    },
+    "answer": "b",
+    "explanation": "The Sit-and-Reach test is widely used in health-related fitness assessments to measure lower back and hamstring flexibility."
+  },
+  {
+    "question": "What is the primary physiological mechanism explaining 'oxygen debt' (Excess Post-Exercise Oxygen Consumption - EPOC) observed immediately following intense anaerobic exercise?",
+    "options": {
+      "a": "The lungs require extra air to blow off accumulated nitrogen gas",
+      "b": "Elevated oxygen uptake is required to replenish creatine phosphate, metabolize accumulated lactic acid, and re-oxygenate myoglobin and hemoglobin",
+      "c": "The heart valves need sustained oxygen to pump unoxygenated blood to the intestines",
+      "d": "The body experiences an irreversible reduction in blood pressure that demands hyperventilation"
+    },
+    "answer": "b",
+    "explanation": "EPOC (oxygen debt) represents the elevated post-exercise oxygen consumption needed to resynthesize ATP and phosphocreatine, remove/convert lactate in the liver (Cori cycle), and restore dissolved body oxygen."
+  },
+  {
+    "question": "In competitive swimming, which stroke is characterized by simultaneous, symmetrical movements of both arms out of the water combined with a continuous undulating dolphin kick?",
+    "options": {
+      "a": "Backstroke",
+      "b": "Breaststroke",
+      "c": "Butterfly stroke",
+      "d": "Freestyle (Front crawl)"
+    },
+    "answer": "c",
+    "explanation": "The butterfly stroke uses an over-water forward recovery of both arms simultaneously coupled with a two-beat dolphin kick originating from the core and hips."
+  },
+  {
+    "question": "Which of the following is an example of an endemic water-borne communicable disease caused by Vibrio cholerae, presenting with acute watery diarrhea and rapid dehydration?",
+    "options": {
+      "a": "Typhoid fever",
+      "b": "Cholera",
+      "c": "Hepatitis B",
+      "d": "Poliomyelitis"
+    },
+    "answer": "b",
+    "explanation": "Cholera is an acute enteric infection caused by ingesting food or water contaminated with the bacterium Vibrio cholerae, triggering profuse painless watery rice-water stools and hypovolemic shock."
+  },
+  {
+    "question": "In the game of badminton, how many points must a player or pair score to win a standard set under the BWF rally point scoring system?",
+    "options": {
+      "a": "11 points",
+      "b": "15 points",
+      "c": "21 points",
+      "d": "25 points"
+    },
+    "answer": "c",
+    "explanation": "Under Badminton World Federation (BWF) rules, a match consists of the best of three games, with the first player or pair to score 21 points (with a 2-point margin) winning each game."
+  },
+  {
+    "question": "Which apparatus in artistic gymnastics is competed on exclusively by female athletes?",
+    "options": {
+      "a": "Pommel Horse",
+      "b": "Still Rings",
+      "c": "Balance Beam",
+      "d": "Horizontal (High) Bar"
+    },
+    "answer": "c",
+    "explanation": "The Balance Beam (along with Uneven Bars) is exclusive to women's artistic gymnastics; Pommel Horse, Still Rings, Parallel Bars, and High Bar are male events."
+  },
+  {
+    "question": "What is the primary function of sensory proprioceptors such as Muscle Spindles and Golgi Tendon Organs located in the musculoskeletal system?",
+    "options": {
+      "a": "To synthesize glycogen and release insulin into the bloodstream",
+      "b": "To monitor muscle stretch, tension, and joint position to protect tissues and coordinate movement",
+      "c": "To filter lymphatic fluid and produce red blood cells",
+      "d": "To regulate body temperature through evaporative sweating"
+    },
+    "answer": "b",
+    "explanation": "Muscle spindles detect changes in muscle length and rate of stretch (stretch reflex), while Golgi tendon organs sense muscle tension to prevent tendon avulsion and preserve neuromuscular coordination."
+  },
+  {
+    "question": "In handball, what is the maximum number of steps an outfield player may take with the ball without bouncing (dribbling), passing, or shooting?",
+    "options": {
+      "a": "1 step",
+      "b": "2 steps",
+      "c": "3 steps",
+      "d": "5 steps"
+    },
+    "answer": "c",
+    "explanation": "Under International Handball Federation (IHF) rules, an outfield player holding the ball is restricted to a maximum of 3 steps before they must bounce the ball, pass, or shoot."
+  },
+  {
+    "question": "Which component of the FITT exercise prescription principle refers to how hard or vigorously an individual works during an exercise session?",
+    "options": {
+      "a": "Frequency",
+      "b": "Intensity",
+      "c": "Time",
+      "d": "Type"
+    },
+    "answer": "b",
+    "explanation": "In the FITT principle (Frequency, Intensity, Time, Type), 'Intensity' describes the degree of physical exertion or difficulty of the exercise (measured via % HRmax, VO2 max, or RPE)."
+  },
+  {
+    "question": "Which of the following blood vessels carries deoxygenated blood from the right ventricle of the heart directly to the lungs for gaseous exchange?",
+    "options": {
+      "a": "Aorta",
+      "b": "Pulmonary Artery",
+      "c": "Pulmonary Vein",
+      "d": "Superior Vena Cava"
+    },
+    "answer": "b",
+    "explanation": "The pulmonary artery is the only artery in adult human circulation that transports deoxygenated blood, carrying it from the right ventricle into the pulmonary alveolar capillary beds."
+  },
+  {
+    "question": "In athletics, if a competitor in the long jump takes off such that the toe of their shoe touches the plasticine indicator board past the takeoff line, the official rules the attempt as a:",
+    "options": {
+      "a": "Valid jump with a 10 cm penalty deduction",
+      "b": "Foul jump (no mark recorded)",
+      "c": "Warning with an automatic re-jump granted",
+      "d": "Technical caution resulting in disqualification from the tournament"
+    },
+    "answer": "b",
+    "explanation": "If a jumper breaks the vertical plane of the takeoff line or marks the plasticine indicator board during takeoff, the attempt is ruled a foul (no jump) and no measurement is awarded."
+  }
+]

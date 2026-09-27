@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which severe nutritional disorder in young children is caused specifically by acute protein deficiency despite adequate caloric intake, characterized by edema, moon face, and reddish discoloration of hair?",
+    "options": {
+      "a": "Marasmus",
+      "b": "Kwashiorkor",
+      "c": "Rickets",
+      "d": "Pellagra"
+    },
+    "answer": "b",
+    "explanation": "Kwashiorkor is caused by severe protein deficiency in diets that may otherwise provide sufficient calories, leading to characteristic edema (fluid retention in lower limbs and abdomen), dermatitis, and depigmented hair."
+  },
+  {
+    "question": "A persistent deficiency of Vitamin C (ascorbic acid) impairs collagen synthesis and results in which clinical disease characterized by bleeding gums and delayed wound healing?",
+    "options": {
+      "a": "Beri-beri",
+      "b": "Scurvy",
+      "c": "Rickets",
+      "d": "Xerophthalmia"
+    },
+    "answer": "b",
+    "explanation": "Vitamin C is essential for collagen synthesis. Its deficiency causes scurvy, marked by capillary fragility, spongy bleeding gums, cutaneous hemorrhages, and poor tissue repair."
+  },
+  {
+    "question": "Which fat-soluble vitamin plays an indispensable role in hepatic synthesis of prothrombin and other blood clotting factors?",
+    "options": {
+      "a": "Vitamin A",
+      "b": "Vitamin D",
+      "c": "Vitamin E",
+      "d": "Vitamin K"
+    },
+    "answer": "d",
+    "explanation": "Vitamin K (phylloquinone/menaquinone) is required as a cofactor for the post-translational carboxylation of glutamate residues in clotting factors II (prothrombin), VII, IX, and X."
+  },
+  {
+    "question": "Iron is an essential micronutrient primarily needed in human nutrition for the synthesis of which oxygen-carrying metalloprotein in erythrocytes?",
+    "options": {
+      "a": "Myosin",
+      "b": "Hemoglobin",
+      "c": "Albumin",
+      "d": "Keratin"
+    },
+    "answer": "b",
+    "explanation": "Iron is the core constituent of the heme group in hemoglobin, which binds oxygen in the lungs and delivers it to metabolizing tissues throughout the body."
+  },
+  {
+    "question": "A severe nutritional deficiency of dietary iodine during pregnancy can lead to which congenital condition in the newborn, characterized by stunted physical growth and profound cognitive impairment?",
+    "options": {
+      "a": "Cretinism",
+      "b": "Osteomalacia",
+      "c": "Cushing's syndrome",
+      "d": "Achondroplasia"
+    },
+    "answer": "a",
+    "explanation": "Maternal iodine deficiency during gestation prevents adequate fetal thyroid hormone production, resulting in endemic cretinism—a condition of irreversible mental disability and dwarfism."
+  },
+  {
+    "question": "When wheat flour is mixed with water and kneaded into a dough, which elastic protein complex is formed by the hydration of gliadin and glutenin?",
+    "options": {
+      "a": "Casein",
+      "b": "Gluten",
+      "c": "Collagen",
+      "d": "Gelatin"
+    },
+    "answer": "b",
+    "explanation": "Gluten is formed when gliadin (which provides extensibility) and glutenin (which provides elasticity and strength) combine in the presence of water and mechanical kneading."
+  },
+  {
+    "question": "Commercial baking powder produces carbon dioxide gas to raise doughs and batters through a chemical reaction between sodium bicarbonate and an:",
+    "options": {
+      "a": "Alkaline emulsifier",
+      "b": "Acid salt such as cream of tartar",
+      "c": "Organic vegetable shortening",
+      "d": "Invert sugar syrup"
+    },
+    "answer": "b",
+    "explanation": "Baking powder is a balanced chemical leavener containing sodium bicarbonate (an alkaline base), one or more dry acid salts (such as cream of tartar or sodium aluminum phosphate), and starch as an inert filler."
+  },
+  {
+    "question": "The culinary phenomenon whereby starch granules absorb hot water, swell irreversibly, and burst to form a viscous paste or gel at around 60°C to 80°C is called:",
+    "options": {
+      "a": "Dextrinization",
+      "b": "Gelatinization",
+      "c": "Caramelization",
+      "d": "Hydrogenation"
+    },
+    "answer": "b",
+    "explanation": "Gelatinization is the thermal disruption of the intermolecular bonds of starch molecules in the presence of water, causing granules to swell, absorb liquid, and thicken sauces or puddings."
+  },
+  {
+    "question": "The browning of bread crust and the surface of toasted biscuits caused by the thermal breakdown of starch into sweeter, shorter-chain polysaccharides is termed:",
+    "options": {
+      "a": "Dextrinization",
+      "b": "Saponification",
+      "c": "Coagulation",
+      "d": "Fermentation"
+    },
+    "answer": "a",
+    "explanation": "Dextrinization is the chemical breakdown of starch molecules into smaller glucose polymers called dextrins when exposed to dry heat, giving toast its characteristic browned color and sweeter flavor."
+  },
+  {
+    "question": "The non-enzymatic browning reaction that occurs between the amino acids of proteins and reducing sugars upon cooking meats and roasted pastries is known as the:",
+    "options": {
+      "a": "Krebs cycle",
+      "b": "Maillard reaction",
+      "c": "Pasteur reaction",
+      "d": "Rancidity reaction"
+    },
+    "answer": "b",
+    "explanation": "The Maillard reaction is a chemical reaction between amino acids and reducing sugars that gives browned food (such as seared steaks, roasted coffee, and toasted bread) its desirable savory aroma and color."
+  },
+  {
+    "question": "In the preparation of mayonnaise, which naturally occurring substance found in egg yolk acts as a permanent emulsifying agent between oil and vinegar?",
+    "options": {
+      "a": "Albumin",
+      "b": "Lecithin",
+      "c": "Avidin",
+      "d": "Vitellin"
+    },
+    "answer": "b",
+    "explanation": "Lecithin is a phospholipid in egg yolk with hydrophilic (water-loving) and lipophilic (fat-loving) ends, allowing it to coat dispersed oil droplets and keep them stably suspended in water/vinegar."
+  },
+  {
+    "question": "Which moist-heat cooking method involves gently immersing delicate foods (such as eggs or fish fillets) in liquid held consistently just below the boiling point (between 71°C and 82°C)?",
+    "options": {
+      "a": "Braising",
+      "b": "Poaching",
+      "c": "Pressure cooking",
+      "d": "Deep-frying"
+    },
+    "answer": "b",
+    "explanation": "Poaching cooks delicate foods submerged in liquid at temperatures below simmering (71°C - 82°C / 160°F - 180°F), preventing fragile protein textures from breaking apart."
+  },
+  {
+    "question": "The food preservation method in which food is hermetically sealed in airtight jars or cans and then subjected to high thermal processing to kill microorganisms was invented by:",
+    "options": {
+      "a": "Louis Pasteur",
+      "b": "Nicolas Appert",
+      "c": "Justus von Liebig",
+      "d": "Alexander Fleming"
+    },
+    "answer": "b",
+    "explanation": "Nicolas Appert, a French confectioner, invented airtight food preservation (canning or appertization) in 1810 after discovering that heating sealed glass jars preserved foods indefinitely."
+  },
+  {
+    "question": "Which obligate anaerobic, spore-forming bacterium produces a deadly neurotoxin in improperly sterilized, low-acid home-canned foods?",
+    "options": {
+      "a": "Salmonella typhi",
+      "b": "Clostridium botulinum",
+      "c": "Escherichia coli",
+      "d": "Lactobacillus acidophilus"
+    },
+    "answer": "b",
+    "explanation": "Clostridium botulinum thrives in anaerobic, low-acid environments (such as improperly pressure-canned green beans or meats) and produces botulinum neurotoxin, which causes muscle paralysis."
+  },
+  {
+    "question": "In the standard High-Temperature Short-Time (HTST) commercial pasteurization of liquid milk, the milk is heated to which temperature and held for what duration?",
+    "options": {
+      "a": "63°C for 30 minutes",
+      "b": "72°C for 15 seconds",
+      "c": "100°C for 5 minutes",
+      "d": "135°C for 2 seconds"
+    },
+    "answer": "b",
+    "explanation": "HTST (flash pasteurization) heats milk rapidly to at least 71.7°C (commonly 72°C) for a minimum holding time of 15 seconds before rapid chilling, effectively destroying pathogenic vegetative bacteria."
+  },
+  {
+    "question": "Which dietary consideration is paramount when planning nutritious meals for a convalescent recovering from major abdominal surgery?",
+    "options": {
+      "a": "High content of rough insoluble fibers and strong chili spices",
+      "b": "Easily digestible, high-biological-value protein and mild non-irritating seasonings",
+      "c": "High saturated animal fats and fried carbohydrates",
+      "d": "Exclusive consumption of raw green leafy salads"
+    },
+    "answer": "b",
+    "explanation": "Convalescents require readily digestible foods rich in high-quality protein (for cellular repair), zinc, and vitamin C, prepared with gentle moist methods without heavy grease or harsh spices."
+  },
+  {
+    "question": "Pregnant women have an increased requirement for which B-complex vitamin during the periconceptional period to reduce the incidence of neural tube defects (such as spina bifida)?",
+    "options": {
+      "a": "Thiamine (B₁)",
+      "b": "Folic acid (B₉)",
+      "c": "Riboflavin (B₂)",
+      "d": "Biotin (B₇)"
+    },
+    "answer": "b",
+    "explanation": "Folic acid (folate) is critical for early embryonic neural tube closure; supplementation before conception and through the first trimester prevents severe neural tube defects."
+  },
+  {
+    "question": "A strict vegetarian who excludes all forms of animal flesh, poultry, seafood, dairy products, eggs, and animal-derived additives from their diet is termed a:",
+    "options": {
+      "a": "Lacto-vegetarian",
+      "b": "Vegan",
+      "c": "Ovo-vegetarian",
+      "d": "Pescatarian"
+    },
+    "answer": "b",
+    "explanation": "A vegan consumes exclusively plant-based foods, rejecting red meat, poultry, seafood, eggs, milk, cheese, butter, gelatin, and honey."
+  },
+  {
+    "question": "Non-starch polysaccharides (dietary fibre) are essential in the human daily diet primarily because they:",
+    "options": {
+      "a": "Supply high caloric energy per gram for immediate physical work",
+      "b": "Absorb water, increase fecal bulk, and stimulate normal intestinal peristalsis",
+      "c": "Synthesize blood clotting proteins directly in liver capillaries",
+      "d": "Dissolve water-insoluble fat vitamins in the duodenum"
+    },
+    "answer": "b",
+    "explanation": "Dietary fibre (roughage) provides bulk to the intestinal contents, absorbs water, and stimulates peristaltic contractions, preventing constipation, hemorrhoids, and colon disorders."
+  },
+  {
+    "question": "If a frying pan containing vegetable cooking oil catches fire on a kitchen burner, which immediate action is safest and most effective?",
+    "options": {
+      "a": "Pouring a glass of cold tap water directly into the flames",
+      "b": "Turning off the heat source and smothering the flames with a tight-fitting metal lid or damp cloth",
+      "c": "Carrying the flaming hot pan quickly outdoors through the living room",
+      "d": "Blowing vigorously at the oil surface with an electric fan"
+    },
+    "answer": "b",
+    "explanation": "Pouring water on a grease fire causes a violent steam explosion that spreads burning oil. The safest immediate step is turning off the heat and smothering the pan with a lid, baking soda, or fire blanket."
+  },
+  {
+    "question": "A family structure comprised strictly of a married man, his wife, and their biological or adopted children living in one household is classified as a:",
+    "options": {
+      "a": "Polygynous family",
+      "b": "Nuclear family",
+      "c": "Extended family",
+      "d": "Blended family"
+    },
+    "answer": "b",
+    "explanation": "A nuclear family consists solely of two parents and their dependent offspring living together as a self-contained domestic unit."
+  },
+  {
+    "question": "In the standard family life cycle, the stage that begins when the first adult child leaves home to live independently and ends when the last child departs is the:",
+    "options": {
+      "a": "Beginning stage",
+      "b": "Launching or contracting stage",
+      "c": "Expanding stage",
+      "d": "Retirement stage"
+    },
+    "answer": "b",
+    "explanation": "The contracting (or launching) stage occurs as mature children depart from the family home for higher education, career, or marriage, eventually leaving the parents as 'empty nesters'."
+  },
+  {
+    "question": "In Home Management, which of the following is categorized as an intangible 'Human Resource' rather than a material non-human resource?",
+    "options": {
+      "a": "Family real estate",
+      "b": "Personal technical skills and knowledge",
+      "c": "Bank savings account",
+      "d": "Kitchen electrical appliances"
+    },
+    "answer": "b",
+    "explanation": "Human resources originate within individuals (skills, knowledge, energy, time, creativity, positive attitudes), whereas non-human resources are physical or tangible assets (money, land, equipment)."
+  },
+  {
+    "question": "According to Marvin Mundel's classes of change in work simplification, which class involves the greatest degree of reorganization by redesigning the finished product itself?",
+    "options": {
+      "a": "Class I (Changes in body motions)",
+      "b": "Class III (Changes in production sequence)",
+      "c": "Class V (Changes in the finished product)",
+      "d": "Class II (Changes in workstation equipment)"
+    },
+    "answer": "c",
+    "explanation": "Mundel's Class V change involves fundamentally modifying the finished product itself (e.g. serving unpeeled baked potatoes instead of peeled mashed potatoes), yielding significant time and labor savings."
+  },
+  {
+    "question": "Physical tiredness resulting from the accumulation of lactic acid and metabolic waste products in contracting muscle tissues is known as:",
+    "options": {
+      "a": "Psychological fatigue",
+      "b": "Physiological fatigue",
+      "c": "Frustration fatigue",
+      "d": "Circadian fatigue"
+    },
+    "answer": "b",
+    "explanation": "Physiological fatigue is genuine bodily exhaustion caused by muscular exertion, biochemical depletion of glycogen, and accumulation of lactic acid, relieved by physical rest."
+  },
+  {
+    "question": "When a family's total calculated income during a budgetary period exceeds its total anticipated expenditures, the resulting financial condition is termed a:",
+    "options": {
+      "a": "Budget deficit",
+      "b": "Budget surplus",
+      "c": "Negative cash flow",
+      "d": "Zero-sum ledger"
+    },
+    "answer": "b",
+    "explanation": "A budget surplus occurs when total incoming revenue is greater than total outgoing expenditures over a defined timeframe, providing funds for savings and emergency investments."
+  },
+  {
+    "question": "Engel's Law of family consumption states that as a household's net income increases, the proportion of that income spent on food:",
+    "options": {
+      "a": "Increases significantly",
+      "b": "Decreases, even if total food spending increases in absolute terms",
+      "c": "Remains mathematically identical",
+      "d": "Drops to zero instantly"
+    },
+    "answer": "b",
+    "explanation": "Ernst Engel demonstrated that as disposable income rises, the percentage share allocated to food declines because basic biological dietary requirements are fulfilled, leaving more for luxuries and savings."
+  },
+  {
+    "question": "Which regulatory government agency in Nigeria is primarily mandated to test, inspect, register, and certify packaged foods, medications, cosmetics, and bottled water?",
+    "options": {
+      "a": "FCCPC",
+      "b": "NAFDAC",
+      "c": "SON",
+      "d": "NDLEA"
+    },
+    "answer": "b",
+    "explanation": "NAFDAC (National Agency for Food and Drug Administration and Control) is charged with regulating and controlling the manufacture, importation, exportation, distribution, advertisement, and sale of food and drugs in Nigeria."
+  },
+  {
+    "question": "Which statutory consumer protection body in Nigeria was established to investigate consumer complaints, eliminate anti-competitive practices, and penalize false trade advertising?",
+    "options": {
+      "a": "Federal Competition and Consumer Protection Commission (FCCPC)",
+      "b": "Economic and Financial Crimes Commission (EFCC)",
+      "c": "National Orientation Agency (NOA)",
+      "d": "Corporate Affairs Commission (CAC)"
+    },
+    "answer": "a",
+    "explanation": "The Federal Competition and Consumer Protection Commission (FCCPC, formerly Consumer Protection Council - CPC) protects consumer rights and fosters competitive markets across Nigeria."
+  },
+  {
+    "question": "In interior home decoration, arranging furniture and architectural elements to draw immediate attention to a central focal point (such as a fireplace or bay window) applies the principle of:",
+    "options": {
+      "a": "Rhythm",
+      "b": "Emphasis",
+      "c": "Symmetry",
+      "d": "Scale"
+    },
+    "answer": "b",
+    "explanation": "Emphasis (or focal point) is the design principle that gives prominence to a particular feature in an interior space, capturing the viewer's eye before secondary design elements."
+  },
+  {
+    "question": "A color scheme that employs different values (tints and shades) of a single hue in an interior room is termed:",
+    "options": {
+      "a": "Analogous",
+      "b": "Monochromatic",
+      "c": "Complementary",
+      "d": "Triadic"
+    },
+    "answer": "b",
+    "explanation": "A monochromatic color scheme is built entirely around one single color hue, utilizing variations in tint (adding white) and shade (adding black) to create harmony without clashing."
+  },
+  {
+    "question": "Which hard floor covering is created by embedding marble, granite, or quartz chips into a cementitious matrix, which is subsequently ground and polished to a smooth finish?",
+    "options": {
+      "a": "Linoleum",
+      "b": "Terrazzo",
+      "c": "Parquet",
+      "d": "Asphalt tile"
+    },
+    "answer": "b",
+    "explanation": "Terrazzo is a composite flooring material poured in place or precast, consisting of marble or stone chips set in concrete, ground flat, and polished to a glossy, durable surface."
+  },
+  {
+    "question": "When conditioning freshly harvested cut flowers for an interior arrangement, why should stems be trimmed obliquely under water?",
+    "options": {
+      "a": "To dissolve the protective chlorophyll cuticle",
+      "b": "To prevent air bubbles from entering and blocking the xylem vascular tubes",
+      "c": "To stimulate immediate pollen germination in petals",
+      "d": "To seal off all cellular sap leakage permanently"
+    },
+    "answer": "b",
+    "explanation": "Trimming stems under water prevents air embolisms from entering the xylem channels, ensuring unimpeded capillary water absorption to keep flower heads turgid and fresh."
+  },
+  {
+    "question": "Which insect vector lays eggs in stagnant domestic water and transmits the Plasmodium parasite responsible for malaria?",
+    "options": {
+      "a": "Tsetse fly",
+      "b": "Female Anopheles mosquito",
+      "c": "Housefly (Musca domestica)",
+      "d": "Blackfly (Simulium)"
+    },
+    "answer": "b",
+    "explanation": "The female Anopheles mosquito transmits malaria by carrying the protozoan Plasmodium parasite from an infected host's bloodstream and injecting it during feeding."
+  },
+  {
+    "question": "In ergonomic kitchen planning, the imaginary line connecting the food storage center (refrigerator), the preparation center (sink), and the cooking center (stove) is known as the:",
+    "options": {
+      "a": "Traffic corridor",
+      "b": "Kitchen work triangle",
+      "c": "Linear workflow axis",
+      "d": "Ergonomic perimeter"
+    },
+    "answer": "b",
+    "explanation": "The kitchen work triangle links the three main work zones: the refrigerator (storage), the sink (cleaning/prep), and the stove/cooker (cooking), optimizing cooking efficiency and reducing fatigue."
+  },
+  {
+    "question": "Which natural plant textile fibre is obtained from the seed bolls of the Gossypium plant and consists of almost pure cellulose?",
+    "options": {
+      "a": "Linen",
+      "b": "Cotton",
+      "c": "Jute",
+      "d": "Hemp"
+    },
+    "answer": "b",
+    "explanation": "Cotton is a natural vegetable seed hair fibre grown in bolls on plants of the genus Gossypium, known for high absorbency, strength when wet, and breathability."
+  },
+  {
+    "question": "Natural silk is a luxurious animal protein filament fiber secreted by the larvae of which insect species?",
+    "options": {
+      "a": "Apis mellifera",
+      "b": "Bombyx mori",
+      "c": "Drosophila melanogaster",
+      "d": "Locusta migratoria"
+    },
+    "answer": "b",
+    "explanation": "Silk is produced by the silkworm caterpillar Bombyx mori, which feeds on mulberry leaves and extrudes liquid fibroin from its salivary glands to spin a protective cocoon."
+  },
+  {
+    "question": "Which was the world's first fully synthetic polymer textile fibre, developed by Wallace Carothers at DuPont in 1935?",
+    "options": {
+      "a": "Rayon",
+      "b": "Nylon",
+      "c": "Polyester",
+      "d": "Spandex"
+    },
+    "answer": "b",
+    "explanation": "Nylon 6,6 was the first totally synthetic fibre synthesized from petrochemicals (adipic acid and hexamethylenediamine) by Dr. Wallace Carothers at DuPont laboratories."
+  },
+  {
+    "question": "When subjected to a fabric burning test, a textile sample that burns slowly with a characteristic odor of burning hair or feathers and leaves a brittle, dark, crushable bead is:",
+    "options": {
+      "a": "Cotton",
+      "b": "Wool",
+      "c": "Nylon",
+      "d": "Rayon"
+    },
+    "answer": "b",
+    "explanation": "Wool is an animal protein fibre containing keratin and sulfur. When ignited, it self-extinguishes slowly, emits the smell of burning hair/feathers, and forms an irregular, crushable dark ash."
+  },
+  {
+    "question": "In woven fabric construction, what are the lengthwise threads that run parallel to the finished edge (selvedge) called?",
+    "options": {
+      "a": "Weft threads",
+      "b": "Warp threads",
+      "c": "Bias strands",
+      "d": "Gorging threads"
+    },
+    "answer": "b",
+    "explanation": "Warp threads run lengthwise along the loom and fabric, parallel to the selvedge, while weft (or woof/filling) threads are interlaced crosswise at right angles over and under the warp."
+  },
+  {
+    "question": "Which fundamental weave structure creates a characteristic diagonal ridge or wale pattern on the face of sturdy fabrics such as denim, gabardine, and drill?",
+    "options": {
+      "a": "Plain weave",
+      "b": "Twill weave",
+      "c": "Satin weave",
+      "d": "Basket weave"
+    },
+    "answer": "b",
+    "explanation": "A twill weave passes each weft thread over and under two or more warp threads in a staggered stepping pattern, producing distinctive diagonal ribs (wales) known for durability."
+  },
+  {
+    "question": "Which moving part of a household sewing machine consists of toothed metal bars that grip and advance the fabric forward under the presser foot between stitches?",
+    "options": {
+      "a": "Balance wheel",
+      "b": "Feed dog",
+      "c": "Thread take-up lever",
+      "d": "Tension disc"
+    },
+    "answer": "b",
+    "explanation": "The feed dog consists of serrated metal teeth projecting upward through the needle plate, moving in an elliptical cycle to feed fabric under the presser foot after each stitch."
+  },
+  {
+    "question": "What is the most likely mechanical cause of the upper thread continually breaking during sewing on a domestic sewing machine?",
+    "options": {
+      "a": "Upper tension is set excessively tight or the needle is bent/inserted backwards",
+      "b": "The bobbin case is completely filled with wound thread",
+      "c": "The presser foot is clamped too loosely",
+      "d": "The fabric is being sewn along the true bias grain"
+    },
+    "answer": "a",
+    "explanation": "Upper thread breakage is typically caused by excessive tension on the upper tension discs, a blunt or bent needle, improper threading, or inserting the needle with the flat side facing the wrong direction."
+  },
+  {
+    "question": "Which temporary hand-sewing stitch is used to hold fabric edges accurately in position prior to final machine stitching?",
+    "options": {
+      "a": "Backstitch",
+      "b": "Basting or tacking stitch",
+      "c": "Hemming stitch",
+      "d": "Stem stitch"
+    },
+    "answer": "b",
+    "explanation": "Basting (or tacking) consists of long, loose running stitches designed to secure garment pieces together temporarily during fittings or before permanent machine sewing, easily removed afterwards."
+  },
+  {
+    "question": "Which seam encloses all raw edges within two rows of stitching, making it especially suitable for sheer, lightweight, or washable unlined garments?",
+    "options": {
+      "a": "Plain open seam",
+      "b": "French seam",
+      "c": "Counter seam",
+      "d": "Overcast seam"
+    },
+    "answer": "b",
+    "explanation": "A French seam is a double-stitched self-enclosed seam where raw edges are first sewn wrong sides together, trimmed, turned right sides together, and stitched again to encase raw threads completely."
+  },
+  {
+    "question": "In garment pattern styling, tapered folds of cloth stitched to a point to contour flat woven material over three-dimensional curves of the body (such as the bust or hip) are called:",
+    "options": {
+      "a": "Pleats",
+      "b": "Darts",
+      "c": "Tucks",
+      "d": "Godets"
+    },
+    "answer": "b",
+    "explanation": "Darts are wedge-shaped folds stitched to a vanishing point on the wrong side of a garment to tailor flat flat fabric accurately over anatomical curves (e.g. bust, waist, hips)."
+  },
+  {
+    "question": "A strip of fabric cut at an exact 45-degree angle to the straight grain of the fabric to achieve maximum stretch and flexibility around curved necklines is called a:",
+    "options": {
+      "a": "Selvedge band",
+      "b": "Bias strip",
+      "c": "Straight grain tape",
+      "d": "Crosswise ruffle"
+    },
+    "answer": "b",
+    "explanation": "A true bias strip is cut at a 45-degree angle across warp and weft yarns, providing natural mechanical elasticity to bind concave and convex curved edges smoothly without puckering."
+  },
+  {
+    "question": "Which dressmaking fastening consists of a small, curved metal hook paired with a matching metal loop or thread eye, commonly positioned at the waistband of skirts or tops of zipper plackets?",
+    "options": {
+      "a": "Press stud (snap)",
+      "b": "Hook and eye",
+      "c": "Toggle button",
+      "d": "Buckle"
+    },
+    "answer": "b",
+    "explanation": "A hook and eye fastening is a two-part closure that secures garment openings subject to crosswise tension, such as skirt waistbands or collar points above a zip fastener."
+  },
+  {
+    "question": "Which household stain removal agent is chemically most suitable for lifting stubborn rust (iron oxide) stains from white washable cotton fabric?",
+    "options": {
+      "a": "Oxalic acid or fresh lemon juice with common salt",
+      "b": "Bleaching powder with hot grease",
+      "c": "Methylated spirits with kerosene",
+      "d": "Turpentine and liquid petrolatum"
+    },
+    "answer": "a",
+    "explanation": "Iron rust stains are insoluble ferric oxide salts. Mild acids like oxalic acid, or lemon juice (citric acid) combined with table salt exposed to sunlight, chemically reduce and dissolve iron ions into soluble complexes."
+  },
+  {
+    "question": "What is the primary laundry objective of adding optical bluing powder or solution to the final rinse water of white cotton items?",
+    "options": {
+      "a": "To sterilize the fabric fibers against bacterial spore growth",
+      "b": "To impart a faint blue tint that neutralizes yellow discoloration, making the cloth appear bright white",
+      "c": "To dissolve residual lipid stains that survived hot washing",
+      "d": "To stiffen collars and cuffs into rigid shapes"
+    },
+    "answer": "b",
+    "explanation": "Laundry bluing deposits a microscopic trace of blue dye on yellowish white fabrics; because blue and yellow are complementary colors on the optical spectrum, the eye perceives the reflected light as pure white."
+  }
+]

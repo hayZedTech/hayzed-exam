@@ -1,0 +1,552 @@
+[
+  {
+    "question": "The accounting concept which treats a business organization as a legal and financial entity distinct from its proprietor or owners is the ______",
+    "options": {
+      "a": "Accrual concept",
+      "b": "Business Entity concept",
+      "c": "Going Concern concept",
+      "d": "Materiality concept"
+    },
+    "answer": "b",
+    "explanation": "The Business Entity (Separate Entity) concept dictates that business transactions must be recorded and accounted for separately from the private financial affairs of the owner."
+  },
+  {
+    "question": "Which accounting convention assumes that an enterprise will continue its operational existence for the foreseeable future without liquidation?",
+    "options": {
+      "a": "Prudence convention",
+      "b": "Going Concern convention",
+      "c": "Consistency convention",
+      "d": "Periodicity convention"
+    },
+    "answer": "b",
+    "explanation": "The Going Concern assumption presumes that the business has neither the intention nor the necessity of liquidation, justifying the valuation of assets at historical cost less depreciation."
+  },
+  {
+    "question": "The convention of Prudence (Conservatism) requires an accountant to ______",
+    "options": {
+      "a": "revalue fixed assets upwards whenever general inflation rises",
+      "b": "record anticipated profits immediately when orders are received",
+      "c": "disregard small operating expenses from the cash book",
+      "d": "anticipate no profit but provide for all known and probable losses"
+    },
+    "answer": "d",
+    "explanation": "Prudence requires caution: revenues and profits are not anticipated until realized, whereas all foreseeable liabilities and potential losses are provided for immediately."
+  },
+  {
+    "question": "The fundamental accounting equation is expressed as ______",
+    "options": {
+      "a": "Assets = Capital + Liabilities",
+      "b": "Liabilities = Assets + Capital",
+      "c": "Capital = Assets + Liabilities",
+      "d": "Assets = Liabilities minus Capital"
+    },
+    "answer": "a",
+    "explanation": "The accounting equation states that Total Assets = Capital (Equity) + Liabilities, representing total resources funded by owners and creditors."
+  },
+  {
+    "question": "Which of the following is recorded in the Sales Day Book (Sales Journal)?",
+    "options": {
+      "a": "Sale of old office furniture on credit",
+      "b": "Receipt of overdue debts from trade debtors",
+      "c": "Cash sales of inventory merchandise",
+      "d": "Credit sales of inventory merchandise"
+    },
+    "answer": "d",
+    "explanation": "The Sales Day Book is a book of prime entry used exclusively to record credit sales of goods/merchandise intended for resale."
+  },
+  {
+    "question": "A business entity purchased office computers on credit from ABC Computers Ltd. This transaction should be initially entered in the ______",
+    "options": {
+      "a": "Cash Book",
+      "b": "General Journal (Journal Proper)",
+      "c": "Purchases Day Book",
+      "d": "Sales Returns Book"
+    },
+    "answer": "b",
+    "explanation": "The Purchases Day Book records credit purchases of inventory goods only. Credit purchase of fixed/non-current assets is recorded in the General Journal (Journal Proper)."
+  },
+  {
+    "question": "Under the imprest system of petty cash, the petty cashier is reimbursed with an amount equal to the ______",
+    "options": {
+      "a": "original cash float approved at the beginning of the year",
+      "b": "unspent cash balance remaining in the petty cash box",
+      "c": "total petty cash expenses disbursed during the preceding period",
+      "d": "total credit sales recorded during that week"
+    },
+    "answer": "c",
+    "explanation": "Under the imprest system, the amount reimbursed equals the total vouchers spent during the period, restoring the cash float back to its agreed initial balance."
+  },
+  {
+    "question": "Rent paid in cash amounting to N50,000 should be recorded by ______",
+    "options": {
+      "a": "debiting Capital Account and crediting Rent Account",
+      "b": "debiting Cash Account and crediting Rent Account",
+      "c": "debiting Rent Account and crediting Cash Account",
+      "d": "debiting Rent Account and crediting Creditors Account"
+    },
+    "answer": "c",
+    "explanation": "Under double-entry principles: debit expenses/losses (Rent Account) and credit assets going out (Cash Account)."
+  },
+  {
+    "question": "In financial accounting, nominal accounts are accounts that record ______",
+    "options": {
+      "a": "tangible properties such as land, buildings, and motor vehicles",
+      "b": "amounts owed by or due to individual persons and corporate bodies",
+      "c": "bank current accounts and savings deposit balances",
+      "d": "expenses, losses, gains, and revenues of the business"
+    },
+    "answer": "d",
+    "explanation": "Nominal accounts record income, expenses, profits, and losses (e.g., Sales, Purchases, Wages, Rent, Discount Allowed)."
+  },
+  {
+    "question": "A trial balance is primarily prepared to ______",
+    "options": {
+      "a": "ascertain the true market value of non-current assets",
+      "b": "test the arithmetical accuracy of double-entry ledger postings",
+      "c": "calculate the total corporation tax payable to the government",
+      "d": "determine the net profit earned over a financial year"
+    },
+    "answer": "b",
+    "explanation": "A Trial Balance lists debit and credit ledger balances to check that total debits equal total credits, proving arithmetical double-entry accuracy."
+  },
+  {
+    "question": "Purchasing a delivery van for N3,000,000 was debited to the Motor Expenses Account instead of the Motor Vehicles Account. This is an example of an ______",
+    "options": {
+      "a": "error of commission",
+      "b": "error of principle",
+      "c": "error of omission",
+      "d": "error of original entry"
+    },
+    "answer": "b",
+    "explanation": "An error of principle occurs when an entry violates fundamental accounting principles, such as confusing capital expenditure (an asset) with revenue expenditure (an expense)."
+  },
+  {
+    "question": "An error of commission occurs when ______",
+    "options": {
+      "a": "the debit and credit sides are both overstated by identical sums",
+      "b": "a transaction is completely omitted from the books of account",
+      "c": "an entry is made in the wrong personal account belonging to the same class",
+      "d": "a capital item is debited as a revenue expenditure"
+    },
+    "answer": "c",
+    "explanation": "An error of commission occurs when a transaction is correctly posted to the correct side, but into the wrong account of the same category (e.g. debiting J. Cole instead of B. Cole)."
+  },
+  {
+    "question": "Which of the following errors will cause the total of debits and credits on a trial balance to disagree?",
+    "options": {
+      "a": "Complete reversal of entries for a cheque payment to a supplier",
+      "b": "A payment of legal fees posted to General Office Expenses Account",
+      "c": "A credit purchase of N40,000 completely omitted from the records",
+      "d": "A receipt of N25,000 from a debtor debited to Cash as N25,000 but credited to Debtor as N52,000"
+    },
+    "answer": "d",
+    "explanation": "Posting unequal figures to debit and credit sides causes trial balance disagreement, requiring a Suspense Account until traced and corrected."
+  },
+  {
+    "question": "When an unadjusted trial balance fails to agree, the temporary difference between debit and credit totals is recorded in the ______",
+    "options": {
+      "a": "Bank Reconciliation Account",
+      "b": "Profit and Loss Account",
+      "c": "Suspense Account",
+      "d": "Trading Account"
+    },
+    "answer": "c",
+    "explanation": "A Suspense Account is an interim holding account opened to balance the trial balance while discrepancies are investigated and corrected."
+  },
+  {
+    "question": "In bank reconciliation, an unpresented cheque is a cheque that has been ______",
+    "options": {
+      "a": "issued to a creditor and recorded in the cash book, but not yet presented at the bank for clearance",
+      "b": "deducted by the bank for monthly ledger maintenance charges",
+      "c": "received from a customer, deposited, but returned unpaid due to lack of funds",
+      "d": "entered in the cash book and presented at the bank for immediate payment"
+    },
+    "answer": "a",
+    "explanation": "An unpresented cheque is one drawn and given to a creditor (credited in Cash Book) which has not yet been presented to the bank for payment before statement cutoff."
+  },
+  {
+    "question": "Which of the following items requires an adjustment in the Cash Book prior to preparing a Bank Reconciliation Statement?",
+    "options": {
+      "a": "Bank charges and standing orders appearing on the bank statement",
+      "b": "Late customer deposits received after bank closing hours",
+      "c": "Uncredited lodgements",
+      "d": "Unpresented cheques"
+    },
+    "answer": "a",
+    "explanation": "Items originating on the bank statement (bank charges, interest, standing orders, direct credits) must first be updated in the Cash Book to find the true cash balance."
+  },
+  {
+    "question": "Given: Opening Stock = N60,000, Purchases = N340,000, Carriage Inwards = N15,000, Closing Stock = N75,000. What is the Cost of Goods Sold?",
+    "options": {
+      "a": "N490,000",
+      "b": "N415,000",
+      "c": "N340,000",
+      "d": "N325,000"
+    },
+    "answer": "c",
+    "explanation": "Cost of Goods Sold = Opening Stock (60,000) + Purchases (340,000) + Carriage Inwards (15,000) - Closing Stock (75,000) = 415,000 - 75,000 = N340,000."
+  },
+  {
+    "question": "Carriage inwards incurred on raw materials purchased is accounted for by ______",
+    "options": {
+      "a": "adding it to purchases in the Trading Account",
+      "b": "treating it as an administrative expense in the Profit and Loss Account",
+      "c": "deducting it from gross sales revenue in the Trading Account",
+      "d": "showing it as a non-current asset on the Balance Sheet"
+    },
+    "answer": "a",
+    "explanation": "Carriage inwards represents the freight cost of bringing purchased inventory into the premises; it forms part of the direct cost of goods sold in the Trading Account."
+  },
+  {
+    "question": "Carriage outwards is classified in financial statements as a ______",
+    "options": {
+      "a": "deduction from sales returns in the Trading Account",
+      "b": "direct production cost added to purchases",
+      "c": "current liability in the Balance Sheet",
+      "d": "selling and distribution expense in the Profit and Loss Account"
+    },
+    "answer": "d",
+    "explanation": "Carriage outwards is the freight cost incurred in delivering goods to customers and is classified as an operating (selling/distribution) expense in Profit & Loss."
+  },
+  {
+    "question": "An accrued expense at the close of an accounting year is treated as an ______",
+    "options": {
+      "a": "deduction from the expense account and a Long-term Liability",
+      "b": "appropriation of net profit after tax",
+      "c": "addition to the relevant expense account and a Current Liability on the Balance Sheet",
+      "d": "addition to the relevant expense account and a Current Asset on the Balance Sheet"
+    },
+    "answer": "c",
+    "explanation": "Accrued expenses (expenses incurred but not yet paid) must be added to the relevant expense in Profit & Loss (accrual concept) and shown as a Current Liability."
+  },
+  {
+    "question": "Insurance prepaid at the end of an accounting period should be treated as a ______",
+    "options": {
+      "a": "non-current asset in the Balance Sheet",
+      "b": "current asset in the Balance Sheet",
+      "c": "current liability in the Balance Sheet",
+      "d": "deduction from gross trading profit"
+    },
+    "answer": "b",
+    "explanation": "Prepaid expenses represent future economic benefits paid in advance, and are therefore recorded as Current Assets in the Statement of Financial Position."
+  },
+  {
+    "question": "An increase in the provision for doubtful debts during the financial year is charged as a ______",
+    "options": {
+      "a": "debit to the Profit and Loss Account",
+      "b": "direct deduction from Share Capital",
+      "c": "credit to the Trading Account",
+      "d": "credit to the Cash Book"
+    },
+    "answer": "a",
+    "explanation": "An increase in the provision for doubtful debts is an expense reflecting estimated uncollectible debts and is debited to Profit and Loss."
+  },
+  {
+    "question": "Under the straight-line method of depreciation, the annual depreciation charge is calculated as ______",
+    "options": {
+      "a": "Cost of Asset multiplied by the prevailing bank prime rate",
+      "b": "Net Book Value multiplied by a fixed diminishing percentage",
+      "c": "(Cost of Asset - Estimated Residual Value) divided by Useful Life",
+      "d": "Total Sales divided by the estimated salvage value"
+    },
+    "answer": "c",
+    "explanation": "Straight-line depreciation allocates an equal annual depreciation expense: Annual Depreciation = (Original Cost - Residual Scrap Value) / Expected Useful Economic Life."
+  },
+  {
+    "question": "A machine was purchased for N500,000. It has an estimated life of 5 years and a salvage value of N50,000. What is the annual depreciation using the straight-line method?",
+    "options": {
+      "a": "N120,000",
+      "b": "N100,000",
+      "c": "N90,000",
+      "d": "N110,000"
+    },
+    "answer": "c",
+    "explanation": "Annual Depreciation = (Cost - Salvage Value) / Life = (500,000 - 50,000) / 5 = 450,000 / 5 = N90,000 per year."
+  },
+  {
+    "question": "Under the reducing balance method of depreciation, the annual depreciation charge ______",
+    "options": {
+      "a": "is charged only in the final year of retirement",
+      "b": "increases in direct proportion to factory output",
+      "c": "remains constant throughout the useful life of the asset",
+      "d": "decreases progressively from year to year"
+    },
+    "answer": "d",
+    "explanation": "Because a fixed percentage is applied to the declining net book value each year, the depreciation expense is highest in Year 1 and reduces each successive year."
+  },
+  {
+    "question": "Which of the following is classified as capital expenditure?",
+    "options": {
+      "a": "Monthly electricity bills for the assembly plant",
+      "b": "Legal fees paid for acquiring title deeds to a newly purchased factory site",
+      "c": "Cost of repainting existing office premises",
+      "d": "Cost of replacing motor oil and spark plugs in a delivery van"
+    },
+    "answer": "b",
+    "explanation": "Capital expenditure includes costs incurred to acquire, install, or secure title to non-current assets to bring them into usable condition."
+  },
+  {
+    "question": "The Sales Ledger Control Account is also known as the ______",
+    "options": {
+      "a": "Total Debtors Account",
+      "b": "Subscriptions Control Account",
+      "c": "Total Creditors Account",
+      "d": "Manufacturing Overhead Account"
+    },
+    "answer": "a",
+    "explanation": "The Sales Ledger Control Account aggregates all individual trade debtors' accounts to provide an independent check on total trade receivables."
+  },
+  {
+    "question": "Which of the following entries appears on the credit side of a Sales Ledger Control Account?",
+    "options": {
+      "a": "Dishonoured cheques previously accepted from customers",
+      "b": "Credit sales for the month",
+      "c": "Interest charged on overdue customer accounts",
+      "d": "Cash and cheques received from trade debtors"
+    },
+    "answer": "d",
+    "explanation": "Cash and cheques received from debtors reduce what they owe, so they are credited to the Sales Ledger Control Account."
+  },
+  {
+    "question": "In the accounts of a non-profit club, the equivalent of the Capital Account of a sole trader is the ______",
+    "options": {
+      "a": "Accumulated Fund",
+      "b": "Honorarium Reserve",
+      "c": "Income and Expenditure Account",
+      "d": "Receipts and Payments Account"
+    },
+    "answer": "a",
+    "explanation": "In non-profit organizations, the excess of total assets over total liabilities is known as the Accumulated Fund (or General Fund)."
+  },
+  {
+    "question": "The Receipts and Payments Account of a social club is essentially a summary of the ______",
+    "options": {
+      "a": "Profit and Loss Account",
+      "b": "Cash Book",
+      "c": "Audited Balance Sheet",
+      "d": "Members' Subscriptions Register"
+    },
+    "answer": "b",
+    "explanation": "The Receipts and Payments Account is a summarized cash book recording all actual cash receipts and payments during the accounting period, without accrual adjustments."
+  },
+  {
+    "question": "Members' annual subscriptions received in advance at the balance sheet date represent a ______",
+    "options": {
+      "a": "Capital Reserve",
+      "b": "Current Liability",
+      "c": "Current Asset",
+      "d": "Non-current Asset"
+    },
+    "answer": "b",
+    "explanation": "Subscriptions paid in advance represent income collected before it has been earned, creating an obligation (liability) to provide club privileges in the subsequent period."
+  },
+  {
+    "question": "In partnership accounts, interest on partners' drawings is ______",
+    "options": {
+      "a": "credited to the Partners' Drawings Account",
+      "b": "credited to the Profit and Loss Appropriation Account",
+      "c": "debited to the Cash Account",
+      "d": "debited to the Profit and Loss Appropriation Account"
+    },
+    "answer": "b",
+    "explanation": "Interest on drawings is an income/charge earned by the partnership firm from partners who withdraw funds, so it is credited to the Appropriation Account and debited to Partners' Current Accounts."
+  },
+  {
+    "question": "Under the fixed capital account method in a partnership, a partner's share of net profit is credited to the partner's ______",
+    "options": {
+      "a": "Suspense Account",
+      "b": "Current Account",
+      "c": "Drawings Account",
+      "d": "Capital Account"
+    },
+    "answer": "b",
+    "explanation": "Under the fixed capital method, the Capital Account records only the permanent capital contribution, while all shares of profit, interest, and drawings are passed through the Current Account."
+  },
+  {
+    "question": "In a manufacturing account, Prime Cost comprises ______",
+    "options": {
+      "a": "Factory Cost + Administrative Overheads",
+      "b": "Direct Materials + Direct Labour + Direct Expenses",
+      "c": "Direct Labour + Work-in-Progress",
+      "d": "Direct Materials + Factory Overheads"
+    },
+    "answer": "b",
+    "explanation": "Prime cost is the aggregate of all direct production costs: Direct Materials Consumed + Direct Wages/Labour + Direct Expenses."
+  },
+  {
+    "question": "Factory rent, factory supervisor's salary, and depreciation of factory machinery are classified in manufacturing accounts as ______",
+    "options": {
+      "a": "Prime costs",
+      "b": "Administrative expenses",
+      "c": "Factory (manufacturing) overheads",
+      "d": "Selling and distribution expenses"
+    },
+    "answer": "c",
+    "explanation": "Factory overheads encompass all indirect costs incurred inside the factory that cannot be traced directly to individual units of finished goods."
+  },
+  {
+    "question": "Given: Opening Stock of Raw Materials = N20,000, Purchases of Raw Materials = N140,000, Closing Stock of Raw Materials = N30,000, Direct Labour = N50,000. What is the Prime Cost?",
+    "options": {
+      "a": "N210,000",
+      "b": "N130,000",
+      "c": "N180,000",
+      "d": "N160,000"
+    },
+    "answer": "c",
+    "explanation": "Raw materials consumed = 20,000 + 140,000 - 30,000 = N130,000. Prime Cost = Raw materials consumed (130,000) + Direct Labour (50,000) = N180,000."
+  },
+  {
+    "question": "When converting incomplete records to double entry, opening capital is calculated by preparing an opening ______",
+    "options": {
+      "a": "Statement of Affairs",
+      "b": "Bank Reconciliation Statement",
+      "c": "Income Statement",
+      "d": "Cash Summary Account"
+    },
+    "answer": "a",
+    "explanation": "A Statement of Affairs is a balance sheet prepared from incomplete records to determine capital by subtracting total liabilities from total assets at a given date."
+  },
+  {
+    "question": "Given: Opening Capital = N200,000, Closing Capital = N310,000, Drawings during the year = N40,000, Additional Capital introduced = N30,000. What is the Net Profit for the year?",
+    "options": {
+      "a": "N120,000",
+      "b": "N100,000",
+      "c": "N80,000",
+      "d": "N140,000"
+    },
+    "answer": "a",
+    "explanation": "Net Profit = Closing Capital (310,000) + Drawings (40,000) - Capital Introduced (30,000) - Opening Capital (200,000) = 350,000 - 230,000 = N120,000."
+  },
+  {
+    "question": "The Current Ratio is calculated as ______",
+    "options": {
+      "a": "Total Assets divided by Owners' Equity",
+      "b": "(Current Assets minus Stock) divided by Current Liabilities",
+      "c": "Net Profit divided by Working Capital",
+      "d": "Current Assets divided by Current Liabilities"
+    },
+    "answer": "d",
+    "explanation": "Current Ratio = Current Assets / Current Liabilities, measuring the enterprise's ability to cover short-term obligations from short-term liquid assets."
+  },
+  {
+    "question": "The Quick (Acid-Test) Ratio excludes which current asset from the numerator?",
+    "options": {
+      "a": "Short-term Treasury Bills",
+      "b": "Trade Debtors",
+      "c": "Closing Stock (Inventory)",
+      "d": "Cash at Bank"
+    },
+    "answer": "c",
+    "explanation": "The Acid-Test Ratio = (Current Assets - Stock) / Current Liabilities. Stock is excluded because it is the least liquid current asset and requires sale to convert to cash."
+  },
+  {
+    "question": "A business has Current Assets of N240,000 including Inventory of N90,000, and Current Liabilities of N100,000. What is its Quick Ratio?",
+    "options": {
+      "a": "3.3 : 1",
+      "b": "0.9 : 1",
+      "c": "2.4 : 1",
+      "d": "1.5 : 1"
+    },
+    "answer": "d",
+    "explanation": "Liquid Assets = Current Assets (240,000) - Inventory (90,000) = N150,000. Quick Ratio = 150,000 / 100,000 = 1.5 : 1."
+  },
+  {
+    "question": "Given: Sales = N500,000, Gross Profit = N125,000. What is the Gross Profit Margin percentage?",
+    "options": {
+      "a": "20%",
+      "b": "33.3%",
+      "c": "25%",
+      "d": "30%"
+    },
+    "answer": "c",
+    "explanation": "Gross Profit Margin = (Gross Profit / Sales) * 100 = (125,000 / 500,000) * 100 = 25%."
+  },
+  {
+    "question": "The Rate of Stock Turnover is calculated as ______",
+    "options": {
+      "a": "Cost of Goods Sold divided by Average Stock",
+      "b": "Gross Profit divided by Closing Stock",
+      "c": "Closing Stock divided by Opening Stock",
+      "d": "Net Sales divided by Average Stock"
+    },
+    "answer": "a",
+    "explanation": "Rate of Stock Turnover = Cost of Goods Sold / Average Stock at Cost, measuring how many times average inventory is sold during the year."
+  },
+  {
+    "question": "The nominal share capital that a company is authorized by its Memorandum of Association to issue to shareholders is the ______",
+    "options": {
+      "a": "Called-up Capital",
+      "b": "Paid-up Capital",
+      "c": "Authorised (Nominal or Registered) Capital",
+      "d": "Issued Capital"
+    },
+    "answer": "c",
+    "explanation": "Authorised (or Nominal/Registered) Capital is the maximum amount of share capital a company is permitted by its charter to raise from the public."
+  },
+  {
+    "question": "Preference shares that carry the right to receive unpaid dividends from past deficit years before any ordinary dividend is distributed are ______",
+    "options": {
+      "a": "participating preference shares",
+      "b": "cumulative preference shares",
+      "c": "deferred ordinary shares",
+      "d": "redeemable preference shares"
+    },
+    "answer": "b",
+    "explanation": "Cumulative preference shares entitle holders to accumulate unpaid dividends in arrears and receive full payment before ordinary shareholders receive any dividend."
+  },
+  {
+    "question": "Discount allowed to a customer for prompt settlement of an invoice within an agreed credit period is a ______",
+    "options": {
+      "a": "penalty charge added to the customer's ledger balance",
+      "b": "trade discount and deducted from the invoice total",
+      "c": "quantity rebate and credited to Sales Account",
+      "d": "cash discount and debited to Discount Allowed Account"
+    },
+    "answer": "d",
+    "explanation": "Cash discount is an allowance granted to encourage prompt payment; discount allowed is an expense to the seller debited to Discount Allowed Account."
+  },
+  {
+    "question": "Trade discount is accounted for in financial records by ______",
+    "options": {
+      "a": "debiting Discount Allowed Account in the general ledger",
+      "b": "posting it directly to the Suspense Account",
+      "c": "crediting Trade Discount Received Account in the nominal ledger",
+      "d": "deducting it from the catalogue price on the face of the invoice without a separate ledger account"
+    },
+    "answer": "d",
+    "explanation": "Trade discount is a price reduction given to trade buyers and is deducted directly on the invoice; no entry is made in ledger accounts for trade discount."
+  },
+  {
+    "question": "Bad debts recovered that were previously written off in a previous accounting period should be ______",
+    "options": {
+      "a": "credited directly to the Capital Account",
+      "b": "deducted from opening cash balance",
+      "c": "credited to the Trading Account as additional sales",
+      "d": "debited to Debtors Account and credited to Bad Debts Recovered Account"
+    },
+    "answer": "d",
+    "explanation": "To record bad debts recovered: first reinstate the debtor by debiting Debtor and crediting Bad Debts Recovered (an income in P&L), then debit Cash and credit Debtor upon receipt."
+  },
+  {
+    "question": "Which of the following is a non-current asset?",
+    "options": {
+      "a": "Freehold land and buildings",
+      "b": "Stock of finished goods",
+      "c": "Prepaid warehouse insurance",
+      "d": "Trade receivables"
+    },
+    "answer": "a",
+    "explanation": "Non-current (fixed) assets are resources of a permanent nature held for long-term operational use rather than for resale, such as freehold land and buildings."
+  },
+  {
+    "question": "The matching concept in financial accounting requires that ______",
+    "options": {
+      "a": "expenses incurred to earn revenues in an accounting period are recognized in the same period",
+      "b": "cash received matches total cash paid during the month",
+      "c": "depreciation matches the exact market decline of equipment",
+      "d": "total debits match total credits in the trial balance"
+    },
+    "answer": "a",
+    "explanation": "The Matching Concept dictates that revenues and the expenses incurred to generate those revenues must be reported in the same accounting period."
+  }
+]

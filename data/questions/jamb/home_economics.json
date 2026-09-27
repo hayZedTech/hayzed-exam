@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Which of the following family resources is classified as a non-human (material) resource?",
+    "options": {
+      "a": "Managerial skill",
+      "b": "Physical energy",
+      "c": "Family savings and investments",
+      "d": "Nutritional knowledge"
+    },
+    "answer": "c",
+    "explanation": "Non-human (material) resources include tangible and material possessions such as money, investments, houses, equipment, and community facilities, whereas skills, energy, knowledge, and time are human resources."
+  },
+  {
+    "question": "In the process of home management, what is the crucial first step in systematic decision-making?",
+    "options": {
+      "a": "Evaluating alternative outcomes",
+      "b": "Identifying and defining the problem",
+      "c": "Selecting the most convenient alternative",
+      "d": "Taking immediate corrective action"
+    },
+    "answer": "b",
+    "explanation": "The decision-making process begins with recognizing, identifying, and clearly defining the problem before gathering facts or formulating alternatives."
+  },
+  {
+    "question": "Which kitchen layout arranges the three primary work centers (sink, stove, and refrigerator) along two adjacent perpendicular walls, providing efficient traffic flow?",
+    "options": {
+      "a": "Corridor (Galley) layout",
+      "b": "L-shaped layout",
+      "c": "Single-wall (Pullman) layout",
+      "d": "U-shaped layout"
+    },
+    "answer": "b",
+    "explanation": "The L-shaped kitchen layout places appliances and counters along two adjoining perpendicular walls, forming a natural and efficient work triangle that leaves the rest of the room open."
+  },
+  {
+    "question": "Severe deficiency of ascorbic acid (Vitamin C) in the human diet leads to impaired collagen synthesis manifested as:",
+    "options": {
+      "a": "Xerophthalmia and night blindness",
+      "b": "Spongy, bleeding gums and delayed wound healing (Scurvy)",
+      "c": "Bowlegs and pigeon chest (Rickets)",
+      "d": "Megaloblastic anemia and glossitis"
+    },
+    "answer": "b",
+    "explanation": "Vitamin C (ascorbic acid) is vital for collagen synthesis; its deficiency results in scurvy, characterized by fragile capillary walls, spongy bleeding gums, and poor wound healing."
+  },
+  {
+    "question": "Which of the following protein sources contains all the essential amino acids in proportions adequate to support human growth and tissue maintenance?",
+    "options": {
+      "a": "Gelatin",
+      "b": "Whole egg",
+      "c": "Maize flour",
+      "d": "Groundnut paste"
+    },
+    "answer": "b",
+    "explanation": "Whole egg provides complete (high biological value) protein containing all essential amino acids in balanced proportions necessary for the human body."
+  },
+  {
+    "question": "A toddler presenting with generalized edema, 'flaky paint' dermatosis, reddish-brown thinning hair, and apathy is suffering from:",
+    "options": {
+      "a": "Marasmus",
+      "b": "Kwashiorkor",
+      "c": "Pellagra",
+      "d": "Beriberi"
+    },
+    "answer": "b",
+    "explanation": "Kwashiorkor is caused by severe protein deficiency despite adequate or near-adequate caloric intake, producing bilateral pitting edema, moon face, flag sign hair changes, and skin peeling."
+  },
+  {
+    "question": "Which mineral is required for the biosynthesis of thyroxine and triiodothyronine, deficiency of which leads to endemic goitre?",
+    "options": {
+      "a": "Calcium",
+      "b": "Iron",
+      "c": "Iodine",
+      "d": "Zinc"
+    },
+    "answer": "c",
+    "explanation": "Iodine is an essential micronutrient synthesized into thyroid hormones (T3 and T4). Inadequate intake causes thyroid enlargement (goitre) and congenital cretinism."
+  },
+  {
+    "question": "During the meal planning for an elderly person, which dietary modification is most recommended?",
+    "options": {
+      "a": "High saturated fat and high refined carbohydrate diet",
+      "b": "High sodium intake to stimulate diminished taste sensations",
+      "c": "Easily digestible, nutrient-dense foods rich in dietary fiber, calcium, and adequate fluid",
+      "d": "Strict restriction of all protein sources to rest renal function"
+    },
+    "answer": "c",
+    "explanation": "Elderly individuals have reduced basal metabolic rates and lower caloric needs, but require nutrient-dense meals with adequate calcium, vitamin D, fiber (to prevent constipation), and fluids."
+  },
+  {
+    "question": "What is the primary scientific reason for blanching green leafy vegetables before commercial freezing or drying?",
+    "options": {
+      "a": "To cook the vegetables completely for immediate consumption",
+      "b": "To inactivate plant enzymes that cause enzymatic browning, flavor deterioration, and nutrient loss",
+      "c": "To sterilize the food by destroying all bacterial spores",
+      "d": "To extract water-soluble vitamins into the blanching liquor"
+    },
+    "answer": "b",
+    "explanation": "Blanching (brief immersion in boiling water or steam followed by rapid cooling) inactivates indigenous enzymes (like polyphenol oxidase and lipoxygenase) that would otherwise degrade color, flavor, and vitamins during storage."
+  },
+  {
+    "question": "Which cooking method involves cooking delicate foods gently in liquid kept just below the boiling point (approximately 71°C to 82°C)?",
+    "options": {
+      "a": "Boiling",
+      "b": "Poaching",
+      "c": "Steaming",
+      "d": "Pressure cooking"
+    },
+    "answer": "b",
+    "explanation": "Poaching is a moist-heat cooking method where food (such as eggs or fish) is submerged in liquid held at a gentle simmer below boiling point (71°C–82°C) without vigorous agitation."
+  },
+  {
+    "question": "Which raising agent produces carbon dioxide biologically through the anaerobic fermentation of simple sugars?",
+    "options": {
+      "a": "Baking powder",
+      "b": "Baking soda (Sodium bicarbonate)",
+      "c": "Baker's yeast (Saccharomyces cerevisiae)",
+      "d": "Cream of tartar"
+    },
+    "answer": "c",
+    "explanation": "Baker's yeast is a living micro-organism that converts fermentable sugars into carbon dioxide gas and ethanol, which aerates bread dough."
+  },
+  {
+    "question": "When performing a microscopic examination and burning test on an unknown textile fiber, it burns slowly with a smell of burning hair, forms an irregular dark crushable bead, and self-extinguishes. The fiber is:",
+    "options": {
+      "a": "Cotton",
+      "b": "Nylon",
+      "c": "Wool",
+      "d": "Viscose Rayon"
+    },
+    "answer": "c",
+    "explanation": "Wool is a natural protein fiber containing keratin and sulfur. It burns slowly with the characteristic odor of burning hair/feathers and leaves a crisp, black, irregular, easily crushable ash."
+  },
+  {
+    "question": "Which of the following is classified as a regenerated cellulose fiber derived from wood pulp chemically dissolved and reconstituted?",
+    "options": {
+      "a": "Polyester",
+      "b": "Viscose Rayon",
+      "c": "Acrylic",
+      "d": "Spandex"
+    },
+    "answer": "b",
+    "explanation": "Viscose Rayon is a semi-synthetic regenerated cellulosic fiber produced by chemically dissolving natural cellulose (purified wood pulp) and extruding it into filaments."
+  },
+  {
+    "question": "In fabric weave structures, which basic weave is characterized by distinct diagonal parallel ribs or ridges on the surface of the fabric?",
+    "options": {
+      "a": "Plain weave",
+      "b": "Twill weave",
+      "c": "Satin weave",
+      "d": "Leno weave"
+    },
+    "answer": "b",
+    "explanation": "Twill weave is recognized by diagonal lines or ridges created by passing the weft yarn over one or more warp yarns and then under two or more warp yarns, with a step (offset) between rows (e.g., denim)."
+  },
+  {
+    "question": "Which of the following seams is self-neatening, conceals all raw edges within a double fold, and is ideal for fine, sheer fabrics and delicate garments?",
+    "options": {
+      "a": "French seam",
+      "b": "Plain open seam",
+      "c": "Overlaid seam",
+      "d": "Lapped seam"
+    },
+    "answer": "a",
+    "explanation": "A French seam encloses the raw edges of the fabric within a double seam, leaving a completely finished, neat edge on both the inside and outside of sheer or lightweight garments."
+  },
+  {
+    "question": "In clothing construction, the primary purpose of inserting darts in a garment pattern is to:",
+    "options": {
+      "a": "Provide decorative top-stitching along hem edges",
+      "b": "Convert flat two-dimensional fabric into a three-dimensional shape that fits body contours",
+      "c": "Strengthen seams subject to excessive tension",
+      "d": "Prevent raw woven edges from fraying during laundering"
+    },
+    "answer": "b",
+    "explanation": "Darts are folded and stitched wedges of fabric that shape a flat garment piece to fit the curved contours of the human figure (such as bust, waist, and hips)."
+  },
+  {
+    "question": "On a domestic sewing machine, what is the direct cause of the upper thread frequently snapping during stitching?",
+    "options": {
+      "a": "Upper thread tension is excessively tight or the needle is inserted incorrectly",
+      "b": "The bobbin thread is wound too loosely",
+      "c": "The presser foot pressure is completely released",
+      "d": "The feed dog teeth are set too high"
+    },
+    "answer": "a",
+    "explanation": "Snapping of the top thread is primarily caused by excessive upper tension, improper threading, a blunted or bent needle, or inserting the needle backwards."
+  },
+  {
+    "question": "Fresh blood stains on washable cotton fabrics should be treated immediately with:",
+    "options": {
+      "a": "Boiling water and strong detergent",
+      "b": "Hot domestic iron over blotting paper",
+      "c": "Cold saline water soak followed by mild soap wash",
+      "d": "Concentrated oxalic acid bath"
+    },
+    "answer": "c",
+    "explanation": "Cold water dissolves fresh albuminous (protein) stains like blood without coagulating them; hot or boiling water permanently coagulates the protein into the fiber matrix, fixing the stain."
+  },
+  {
+    "question": "In laundry science, what is the role of optical brightening agents (fluorescent whitening agents) incorporated into commercial detergents?",
+    "options": {
+      "a": "To dissolve heavy petroleum grease deposits",
+      "b": "To absorb invisible ultraviolet light and re-emit it as visible blue light, masking yellow discoloration",
+      "c": "To soften hard water by chelating calcium and magnesium ions",
+      "d": "To act as biological enzymes hydrolyzing carbohydrate stains"
+    },
+    "answer": "b",
+    "explanation": "Optical brighteners absorb ultraviolet radiation and re-emit fluorescence in the blue spectrum, counteracting the natural yellowish cast of aged fabrics to make them appear whiter and brighter."
+  },
+  {
+    "question": "According to Nigeria's National Expanded Programme on Immunization (EPI), which vaccine is administered intradermally at birth to protect newborns against tuberculosis?",
+    "options": {
+      "a": "Oral Polio Vaccine (OPV)",
+      "b": "Bacillus Calmette-Guérin (BCG)",
+      "c": "Hepatitis B vaccine",
+      "d": "Pentavalent vaccine"
+    },
+    "answer": "b",
+    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine is given intradermally into the right upper arm at birth or at first contact to confer immunity against tuberculosis."
+  },
+  {
+    "question": "The thick, yellowish, antibody-rich fluid secreted by the mammary glands during the first few days following parturition is known as:",
+    "options": {
+      "a": "Mature foremilk",
+      "b": "Hindmilk",
+      "c": "Colostrum",
+      "d": "Casein hydrolysate"
+    },
+    "answer": "c",
+    "explanation": "Colostrum is the first milk produced postpartum; it is dense with immunoglobulins (especially secretory IgA), protective enzymes, and growth factors that establish newborn passive immunity."
+  },
+  {
+    "question": "A developmental milestone typically achieved by a normally developing infant around 9 to 12 months of age is:",
+    "options": {
+      "a": "Walking independently without support",
+      "b": "Standing with assistance and developing a neat pincer grasp",
+      "c": "Speaking fluent complete sentences",
+      "d": "Tracing complex geometric figures with a pencil"
+    },
+    "answer": "b",
+    "explanation": "Between 9 and 12 months, infants typically pull up to stand, cruise along furniture, and develop a neat pincer grasp (using the thumb and index finger to pick up small morsels)."
+  },
+  {
+    "question": "Which consumer protection regulatory agency in Nigeria is primarily empowered to set industrial standards, inspect manufactured goods, and seize substandard industrial commodities?",
+    "options": {
+      "a": "Standards Organisation of Nigeria (SON)",
+      "b": "Federal Character Commission (FCC)",
+      "c": "Nigeria Employers' Consultative Association (NECA)",
+      "d": "National Orientation Agency (NOA)"
+    },
+    "answer": "a",
+    "explanation": "The Standards Organisation of Nigeria (SON) is legally mandated to formulate standards, ensure industrial product quality compliance, and eliminate substandard goods from Nigerian markets."
+  },
+  {
+    "question": "Which table service style involves food being carved or portioned onto individual plates by the host at the dining table before being served to guests?",
+    "options": {
+      "a": "Russian service (Service à la russe)",
+      "b": "English service (Host service)",
+      "c": "French service (Cart/Gueridon service)",
+      "d": "Buffet service"
+    },
+    "answer": "b",
+    "explanation": "In English (or Family/Host) service, the host dishes out food portions from serving platters at the head of the table onto individual plates, which are then passed to each guest."
+  },
+  {
+    "question": "What is the recommended dietary intervention for an individual diagnosed with iron-deficiency anemia?",
+    "options": {
+      "a": "Increased consumption of organ meats, dark green leafy vegetables, and citrus fruits",
+      "b": "Elimination of all animal proteins and reliance on unpolished cereals",
+      "c": "Drinking strong black tea alongside iron-rich meals",
+      "d": "Exclusive consumption of high-fat dairy cream and refined sugars"
+    },
+    "answer": "a",
+    "explanation": "Heme iron from organ meats and non-heme iron from leafy greens, when consumed with vitamin C (from citrus fruits which enhances non-heme iron absorption), effectively combats iron-deficiency anemia. (Tannins in tea inhibit iron uptake)."
+  },
+  {
+    "question": "In home decoration, colors that sit directly opposite each other on the standard 12-hue color wheel are referred to as:",
+    "options": {
+      "a": "Analogous colors",
+      "b": "Complementary colors",
+      "c": "Monochromatic colors",
+      "d": "Triadic colors"
+    },
+    "answer": "b",
+    "explanation": "Complementary colors lie directly across from each other on the color wheel (e.g., blue and orange, red and green) and produce vibrant contrast when juxtaposed."
+  },
+  {
+    "question": "Which method of food preservation inhibits microbial spoilage primarily by lowering the available water activity ($a_w$) through osmotic dehydration?",
+    "options": {
+      "a": "Salting and heavy sugar curing",
+      "b": "Pasteurization",
+      "c": "Refrigeration at 4°C",
+      "d": "Ultraviolet light irradiation"
+    },
+    "answer": "a",
+    "explanation": "High concentrations of salt or sugar exert high osmotic pressure, drawing water out of microbial cells and food tissues, reducing water activity below levels necessary for bacterial survival."
+  },
+  {
+    "question": "Which textile property refers to the ability of a fabric or fiber to return to its original shape and dimension after being stretched or compressed?",
+    "options": {
+      "a": "Drape",
+      "b": "Resilience and elasticity",
+      "c": "Absorbency",
+      "d": "Luster"
+    },
+    "answer": "b",
+    "explanation": "Resilience is the ability of a textile material to spring back after crushing or compression, while elasticity allows it to recover its original dimensions after tensile stretching."
+  },
+  {
+    "question": "Which of the following stitches is a temporary stitch used to hold fabric layers together firmly before permanent stitching is executed?",
+    "options": {
+      "a": "Running stitch",
+      "b": "Basting (Tacking) stitch",
+      "c": "Backstitch",
+      "d": "Hemming stitch"
+    },
+    "answer": "b",
+    "explanation": "Basting or tacking stitches are long, loose temporary hand stitches used to hold fabric layers or garment sections in place accurately prior to permanent machine stitching."
+  },
+  {
+    "question": "Which kitchen pest is a known mechanical vector for transmitting pathogens causing enteric infections such as typhoid and amoebic dysentery?",
+    "options": {
+      "a": "Silverfish",
+      "b": "Clothes moth",
+      "c": "Housefly (Musca domestica)",
+      "d": "Booklice"
+    },
+    "answer": "c",
+    "explanation": "Houseflies feed on decaying organic waste and transfer enteric pathogens (Salmonella typhi, Shigella, Entamoeba) onto uncovered foods via their contaminated mouthparts, hairy legs, and regurgitation."
+  },
+  {
+    "question": "What is the primary psychological and social consequence of a household budget that consistently incurs deficit spending?",
+    "options": {
+      "a": "Rapid accumulation of household physical assets",
+      "b": "Financial insecurity, marital discord, and mounting indebtedness",
+      "c": "Automated growth in long-term savings dividends",
+      "d": "Immediate enhancement of community purchasing power"
+    },
+    "answer": "b",
+    "explanation": "Persistent deficit spending leads to debt accumulation, asset liquidation, acute stress, and interpersonal conflicts among family members."
+  },
+  {
+    "question": "Which of the following vitamins is fat-soluble and essential for the synthesis of prothrombin in the liver, playing a crucial role in blood clotting?",
+    "options": {
+      "a": "Vitamin A",
+      "b": "Vitamin D",
+      "c": "Vitamin K",
+      "d": "Vitamin E"
+    },
+    "answer": "c",
+    "explanation": "Vitamin K (phylloquinone/menaquinone) is a fat-soluble vitamin functioning as a cofactor for the carboxylation of glutamic acid residues in clotting factors II (prothrombin), VII, IX, and X."
+  },
+  {
+    "question": "Which cooking technique involves browning meat in hot fat at high heat, followed by slow cooking in a tightly covered casserole dish with a small quantity of flavorful liquid?",
+    "options": {
+      "a": "Braising",
+      "b": "Steaming",
+      "c": "Broiling",
+      "d": "Deep frying"
+    },
+    "answer": "a",
+    "explanation": "Braising is a combination cooking method where meat is first seared at high temperature to develop flavor and color, then simmered slowly in a small amount of liquid in a covered vessel."
+  },
+  {
+    "question": "What is the term for a family unit formed when two divorced or widowed individuals marry and combine children from their respective previous unions into one household?",
+    "options": {
+      "a": "Nuclear family",
+      "b": "Blended (Reconstituted) family",
+      "c": "Extended family",
+      "d": "Matrifocal family"
+    },
+    "answer": "b",
+    "explanation": "A blended or reconstituted family is established when two partners unite in marriage, bringing children from prior relationships into a shared domestic structure."
+  },
+  {
+    "question": "Which chemical agent is commonly used in household water purification to destroy pathogenic microorganisms through oxidative disinfection?",
+    "options": {
+      "a": "Sodium chloride",
+      "b": "Sodium hypochlorite (Chlorine bleach)",
+      "c": "Sodium bicarbonate",
+      "d": "Potassium hydrogen tartrate"
+    },
+    "answer": "b",
+    "explanation": "Sodium hypochlorite releases hypochlorous acid in water, which acts as a powerful oxidizing biocide that penetrates and destroys microbial cell membranes."
+  },
+  {
+    "question": "A woman who is pregnant requires an increased dietary supply of folic acid (folate) primarily to prevent:",
+    "options": {
+      "a": "Congenital Neural Tube Defects (NTDs) such as spina bifida in the developing fetus",
+      "b": "Maternal gestational osteoporosis",
+      "c": "Fetal neonatal hemolytic jaundice",
+      "d": "Hyperemesis gravidarum during the second trimester"
+    },
+    "answer": "a",
+    "explanation": "Periconceptional and gestational folic acid supplementation is vital for normal embryonic neural tube closure; deficiency causes severe neural tube defects including spina bifida and anencephaly."
+  },
+  {
+    "question": "Which of the following represents a permanent mechanical method of incorporating fullness into a skirt to give it body and swing?",
+    "options": {
+      "a": "Box and knife pleats",
+      "b": "Basting stitches",
+      "c": "Staystitching",
+      "d": "Cross-stitch embroidery"
+    },
+    "answer": "a",
+    "explanation": "Pleating (such as knife pleats, box pleats, or accordion pleats) is a permanent method of gathering fullness into a waistband or garment panel."
+  },
+  {
+    "question": "Which of the following cuts of poultry is classified as white meat and has the lowest percentage of intramuscular lipid content?",
+    "options": {
+      "a": "Chicken thigh",
+      "b": "Chicken drumstick",
+      "c": "Chicken breast",
+      "d": "Chicken wing"
+    },
+    "answer": "c",
+    "explanation": "Chicken breast meat consists predominantly of fast-twitch muscle fibers with very low intramuscular fat and myoglobin, making it a lean white meat."
+  },
+  {
+    "question": "What is the primary function of the bobbin case in a lockstitch sewing machine?",
+    "options": {
+      "a": "To feed the fabric forwards under the needle",
+      "b": "To hold the bobbin and regulate the lower thread tension",
+      "c": "To guide the movement of the handwheel",
+      "d": "To raise and lower the presser foot"
+    },
+    "answer": "b",
+    "explanation": "The bobbin case houses the wound bobbin spool and incorporates a flat tension spring with an adjustment screw that regulates lower thread tension as the lockstitch is formed."
+  },
+  {
+    "question": "Which of the following food preparation practices minimizes the loss of water-soluble B-complex vitamins and Vitamin C?",
+    "options": {
+      "a": "Soaking chopped vegetables in large volumes of water for hours before boiling",
+      "b": "Steaming vegetables in a covered pot for the minimum duration required to achieve tenderness",
+      "c": "Adding sodium bicarbonate (potash/baking soda) to boiling greens to preserve vivid color",
+      "d": "Boiling vegetables vigorously in an open pot and discarding the cooking water"
+    },
+    "answer": "b",
+    "explanation": "Steaming with minimal water in a covered vessel prevents the leaching of water-soluble vitamins (B and C) and avoids high temperature oxidation, whereas adding alkalis (potash) destroys thiamine and ascorbic acid."
+  }
+]

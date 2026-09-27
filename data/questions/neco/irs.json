@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Following the martyrdom of numerous Huffaz (memorizers of the Qur'an) at the Battle of Yamamah, which companion advised Caliph Abu Bakr (RA) to compile the Holy Qur'an into a single codex?",
+    "options": {
+      "a": "Umar ibn al-Khattab",
+      "b": "Ali ibn Abi Talib",
+      "c": "Uthman ibn Affan",
+      "d": "Zayd ibn Thabit"
+    },
+    "answer": "a",
+    "explanation": "Umar ibn al-Khattab (RA) grew deeply concerned over the loss of memorizers at Yamamah and urged Caliph Abu Bakr (RA) to commission the compilation of the scattered Qur'anic manuscripts."
+  },
+  {
+    "question": "Which prominent companion was appointed by Caliph Abu Bakr (RA) as the head of the committee tasked with collecting the written fragments of the Holy Qur'an?",
+    "options": {
+      "a": "Zayd ibn Thabit",
+      "b": "Abdullah ibn Mas'ud",
+      "c": "Ubayy ibn Ka'b",
+      "d": "Abu Hurairah"
+    },
+    "answer": "a",
+    "explanation": "Zayd ibn Thabit (RA), the Prophet's chief scribe, was selected for his exceptional memorization, writing skill, integrity, and firsthand knowledge of the revelations."
+  },
+  {
+    "question": "During whose Caliphate was the official standardized text (Mushaf) of the Holy Qur'an copied into the Quraysh dialect and dispatched to major Islamic provinces to eradicate dialectical discrepancies?",
+    "options": {
+      "a": "Uthman ibn Affan (RA)",
+      "b": "Umar ibn al-Khattab (RA)",
+      "c": "Abu Bakr as-Siddiq (RA)",
+      "d": "Ali ibn Abi Talib (RA)"
+    },
+    "answer": "a",
+    "explanation": "Caliph Uthman ibn Affan (RA) unified the Muslim Ummah upon a single standardized orthographic reading (Mushaf al-Uthmani) based on the dialect of Quraysh."
+  },
+  {
+    "question": "In the science of Tajweed, when a Nun Sakinah or Tanween is immediately followed by one of the six throat letters (Hamzah, Ha, 'Ayn, Haa, Ghayn, Kha), the rule applied is ______",
+    "options": {
+      "a": "Izhar Halqi",
+      "b": "Idgham",
+      "c": "Iqlab",
+      "d": "Ikhfa Haqiqi"
+    },
+    "answer": "a",
+    "explanation": "Izhar Halqi entails pronouncing the Nun Sakinah or Tanween clearly and distinctly without elongation or extra nasalization (ghunnah)."
+  },
+  {
+    "question": "The phonetic transformation of a Nun Sakinah or Tanween into a sound of 'Mim' with ghunnah when followed by the letter 'Ba' is known as ______",
+    "options": {
+      "a": "Iqlab",
+      "b": "Idgham",
+      "c": "Izhar",
+      "d": "Qalqalah"
+    },
+    "answer": "a",
+    "explanation": "Iqlab literally means turning or converting; it changes the Nun Sakinah into an unwritten Mim before the letter Ba (e.g., 'Mim-ba'di')."
+  },
+  {
+    "question": "The echoing or bouncing acoustic articulation produced when pronouncing any of the letters of 'Qutbu Jaddin' (Qaf, Ta, Ba, Jeem, Dal) with a Sukun is called ______",
+    "options": {
+      "a": "Qalqalah",
+      "b": "Ghunnah",
+      "c": "Madd",
+      "d": "Tafkhim"
+    },
+    "answer": "a",
+    "explanation": "Qalqalah refers to the vibration or bouncing resonance that occurs when releasing one of the five letters of Qutbu Jadd while carrying a Sukun."
+  },
+  {
+    "question": "In Surah Luqman (31:13), what did Luqman describe as the greatest injustice or monumental transgression (Zulmun Azeem) when advising his son?",
+    "options": {
+      "a": "Associating partners with Allah (Shirk)",
+      "b": "Disobeying parents",
+      "c": "Refusing to pay Zakah",
+      "d": "Fleeing from the battlefield"
+    },
+    "answer": "a",
+    "explanation": "Luqman admonished his son: 'O my son, do not associate anything with Allah. Indeed, association [with Him] is great injustice (Zulmun Azeem)'."
+  },
+  {
+    "question": "According to Surah Luqman (31:18-19), which social behavioral conduct is explicitly condemned when Luqman warns against turning one's cheek in contempt?",
+    "options": {
+      "a": "Arrogance and boasting",
+      "b": "Extravagance in food",
+      "c": "Lying in commercial transactions",
+      "d": "Gossiping about neighbors"
+    },
+    "answer": "a",
+    "explanation": "Luqman advised his son not to turn his face away from people in arrogance, nor walk haughtily on the earth, for Allah does not love the arrogant boaster."
+  },
+  {
+    "question": "In Surah Al-Hujurat (49:6), what guideline are believers commanded to observe when an untrustworthy person or evil-doer (Faasiq) brings them information?",
+    "options": {
+      "a": "Verify and investigate the news carefully before acting",
+      "b": "Reject the news outright without investigation",
+      "c": "Punish the person immediately with lashes",
+      "d": "Spread the information to alert others"
+    },
+    "answer": "a",
+    "explanation": "The Qur'an mandates: 'O you who have believed, if there comes to you a disobedient one with information, investigate (verify), lest you harm a people out of ignorance...'"
+  },
+  {
+    "question": "In Surah Al-Hujurat (49:12), the vile sin of backbiting (Gheebah) against fellow Muslims is vividly compared to ______",
+    "options": {
+      "a": "Eating the flesh of one's dead brother",
+      "b": "Drinking poisonous boiling water",
+      "c": "Setting one's own house on fire",
+      "d": "Throwing stones at the Ka'bah"
+    },
+    "answer": "a",
+    "explanation": "The verse asks: 'Would any of you like to eat the flesh of his brother when dead? You would detest it.' (Surah Al-Hujurat 49:12)."
+  },
+  {
+    "question": "According to Surah Al-Hujurat (49:13), what is the sole criterion of nobility and superiority in the sight of Allah among diverse nations and tribes?",
+    "options": {
+      "a": "Piety and righteousness (Taqwa)",
+      "b": "Lineage and noble ancestry",
+      "c": "Material wealth and property",
+      "d": "Physical strength and intellect"
+    },
+    "answer": "a",
+    "explanation": "The verse establishes: 'Indeed, the most noble of you in the sight of Allah is the most righteous of you (Atqaakum)'. Race, ethnicity, and status confer no merit."
+  },
+  {
+    "question": "The infamous incident in Islamic history involving malicious slander against the character of Ummul Mu'minin Aisha (RA), which was divinely refuted in Surah An-Nur, is known as ______",
+    "options": {
+      "a": "Hadith al-Ifk",
+      "b": "Hadith al-Ghadir",
+      "c": "Hadith ath-Thaqalayn",
+      "d": "Hadith al-Kisa"
+    },
+    "answer": "a",
+    "explanation": "The Incident of the Slander (Hadith al-Ifk) was orchestrated by the hypocrites led by Abdullah ibn Ubayy, following which Allah revealed ten verses in Surah An-Nur completely exonerating Aisha (RA)."
+  },
+  {
+    "question": "Which revered verse in Surah Al-Baqarah (verse 255) is acclaimed as the greatest single verse of the Holy Qur'an, celebrating Allah's absolute sovereignty, life, and preservation of the universe?",
+    "options": {
+      "a": "Ayat al-Kursi",
+      "b": "Ayat ad-Dayn",
+      "c": "Ayat al-Birr",
+      "d": "Ayat as-Sayf"
+    },
+    "answer": "a",
+    "explanation": "Ayat al-Kursi (the Verse of the Throne, 2:255) explicitly proclaims Tawheed, Allah's eternal living nature (Al-Hayy, Al-Qayyum), and His omnipotent dominion."
+  },
+  {
+    "question": "In the formal science of Hadith (Mustalah al-Hadith), the continuous uninterrupted chronological chain of narrators linking back to the Prophet (SAW) is termed the ______",
+    "options": {
+      "a": "Isnad (Sanad)",
+      "b": "Matn",
+      "c": "Takhrij",
+      "d": "Dirayah"
+    },
+    "answer": "a",
+    "explanation": "The Isnad is the sequential transmission chain of trustworthy reporters, while the Matn is the actual verbatim text of the tradition."
+  },
+  {
+    "question": "A Hadith that meets all conditions of sound transmission: continuous chain, upright narrators with flawless retentive memory, freedom from hidden defects and oddities, is classified as ______",
+    "options": {
+      "a": "Sahih",
+      "b": "Da'if",
+      "c": "Mawdu'",
+      "d": "Mu'allaq"
+    },
+    "answer": "a",
+    "explanation": "A Sahih (sound) Hadith fulfills five rigorous criteria: connected chain (Ittisal as-Sanad), narrator integrity ('Adalah), retention (Dabt), absence of irregularity (Shadh), and absence of crippling flaw ('Illah)."
+  },
+  {
+    "question": "A prophetic tradition that has been narrated by such an overwhelmingly large number of companions at every stage of transmission that collective collusion upon a lie is impossible is a ______ Hadith.",
+    "options": {
+      "a": "Mutawatir",
+      "b": "Ahad",
+      "c": "Gharib",
+      "d": "Aziz"
+    },
+    "answer": "a",
+    "explanation": "A Mutawatir tradition conveys certain knowledge because it is transmitted by a multitude of independent reporters at every generation."
+  },
+  {
+    "question": "Which two celebrated scholars authored the two most authoritative and authentic collections of Hadith, collectively revered in Sunni Islam as the 'Sahihayn'?",
+    "options": {
+      "a": "Imam Muhammad al-Bukhari and Imam Muslim ibn al-Hajjaj",
+      "b": "Imam Abu Dawood and Imam at-Tirmidhi",
+      "c": "Imam an-Nasa'i and Imam Ibn Majah",
+      "d": "Imam Malik and Imam Ahmad ibn Hanbal"
+    },
+    "answer": "a",
+    "explanation": "Sahih al-Bukhari and Sahih Muslim are universally acknowledged as the Sahihayn (the Two Sound Collections), holding the highest degree of canonical authority."
+  },
+  {
+    "question": "The opening Hadith in Imam an-Nawawi's Forty Hadith collection, narrated on the authority of Umar ibn al-Khattab (RA), emphasizes that ______",
+    "options": {
+      "a": "Actions are judged according to the intentions behind them",
+      "b": "Halal and Haram are distinctly clear",
+      "c": "Modesty is part of faith",
+      "d": "The Qur'an was revealed in seven dialects"
+    },
+    "answer": "a",
+    "explanation": "The foundational tradition states: 'Innamal a'malu bin-niyyat' (Verily, actions are judged only by intentions, and every person will have only what they intended)."
+  },
+  {
+    "question": "In the renowned 'Hadith of Jibril' (Hadith 2 of an-Nawawi), how did the Prophet Muhammad (SAW) define 'Ihsan' (spiritual perfection)?",
+    "options": {
+      "a": "'To worship Allah as though you see Him, and if you do not see Him, know that He sees you'",
+      "b": "'To perform Hajj every alternate year'",
+      "c": "'To memorize the entire text of the Qur'an'",
+      "d": "'To donate half of your annual wealth to charity'"
+    },
+    "answer": "a",
+    "explanation": "The Prophet (SAW) defined Ihsan as: 'To worship Allah as if you see Him, for even if you do not see Him, He certainly sees you'."
+  },
+  {
+    "question": "In an authentic Hadith recorded by al-Bukhari and Muslim, the Prophet (SAW) stated: 'None of you truly believes until he ______'",
+    "options": {
+      "a": "loves for his brother what he loves for himself",
+      "b": "builds a mosque in his hometown",
+      "c": "fasts every Monday and Thursday",
+      "d": "performs pilgrimage twice in his lifetime"
+    },
+    "answer": "a",
+    "explanation": "The Prophet (SAW) taught mutual empathy and selflessness: 'None of you has faith until he loves for his brother what he loves for himself'."
+  },
+  {
+    "question": "According to the Prophet's teaching in Sahih Muslim, truthfulness leads to righteousness (Al-Birr), and righteousness leads to ______",
+    "options": {
+      "a": "Paradise (Jannah)",
+      "b": "High social status",
+      "c": "Material prosperity",
+      "d": "Longevity of life"
+    },
+    "answer": "a",
+    "explanation": "The Hadith teaches: 'Truthfulness leads to righteousness, and righteousness leads to Paradise (Jannah), while falsehood leads to wickedness, which leads to Hellfire'."
+  },
+  {
+    "question": "When a man approached the Prophet (SAW) asking for concise advice, what counsel did the Prophet repeat three times?",
+    "options": {
+      "a": "'Do not become angry'",
+      "b": "'Do not trade on Friday'",
+      "c": "'Do not travel alone at night'",
+      "d": "'Do not borrow money'"
+    },
+    "answer": "a",
+    "explanation": "A man requested: 'Counsel me', and the Prophet (SAW) answered: 'Do not get angry (La taghdab)'. He repeated this several times."
+  },
+  {
+    "question": "Belief in Allah as the sole Creator, Provider, Controller, and Sovereign Sustainer of the entire universe is the domain of ______",
+    "options": {
+      "a": "Tawheed ar-Rububiyyah",
+      "b": "Tawheed al-Uluhiyyah",
+      "c": "Tawheed al-Asma' was-Sifat",
+      "d": "Tawheed al-Khaliqiyyah"
+    },
+    "answer": "a",
+    "explanation": "Tawheed ar-Rububiyyah denotes the affirmation of Allah's unique Lordship as sole Creator, Cherisher, and Sovereign Ruler of creation."
+  },
+  {
+    "question": "Directing all acts of worship, supplication (Du'a), sacrificial slaughter, and vows exclusively to Allah alone without any partner corresponds to ______",
+    "options": {
+      "a": "Tawheed al-Uluhiyyah (al-Ibadah)",
+      "b": "Tawheed ar-Rububiyyah",
+      "c": "Tawheed as-Sifat",
+      "d": "Tawheed al-Qudrah"
+    },
+    "answer": "a",
+    "explanation": "Tawheed al-Uluhiyyah (Oneness of Worship) mandates that no act of devotion, sacrifice, or prayer may be dedicated to anything or anyone other than Allah."
+  },
+  {
+    "question": "Ostentation, displaying good deeds in public worship solely to earn the praise and admiration of people (Riya'), is classified in Islam as ______",
+    "options": {
+      "a": "Shirk al-Asghar (Minor Shirk)",
+      "b": "Shirk al-Akbar (Major Shirk)",
+      "c": "Kufr Akbar",
+      "d": "Nifaq I'tiqadi"
+    },
+    "answer": "a",
+    "explanation": "Riya' (showing off in acts of worship) is described by the Prophet (SAW) as Shirk al-Asghar (the minor polytheism), which corrupts the rewarded deed."
+  },
+  {
+    "question": "Which archangel is tasked with the divine duty of delivering heavenly revelations (Wahy) to all prophets and messengers of Allah?",
+    "options": {
+      "a": "Jibril (Gabriel)",
+      "b": "Mika'il (Michael)",
+      "c": "Israfil",
+      "d": "Malakul Mawt"
+    },
+    "answer": "a",
+    "explanation": "Angel Jibril (AS) is the Ruh al-Qudus (Holy Spirit) and Ruh al-Amin (Trustworthy Spirit) charged with conveying divine scripture to the prophets."
+  },
+  {
+    "question": "Which two angels are commissioned to interrogate deceased persons in the grave concerning their Lord, religion, and Prophet?",
+    "options": {
+      "a": "Munkar and Nakir",
+      "b": "Raqib and Atid",
+      "c": "Harut and Marut",
+      "d": "Malik and Ridwan"
+    },
+    "answer": "a",
+    "explanation": "Munkar and Nakir are the two angels assigned to question every individual in the grave (Barzakh)."
+  },
+  {
+    "question": "Which sacred scripture was revealed to Prophet Dawud (David, AS) according to the Holy Qur'an?",
+    "options": {
+      "a": "Az-Zabur (Psalms)",
+      "b": "At-Tawrah (Torah)",
+      "c": "Al-Injil (Gospel)",
+      "d": "As-Suhuf (Scrolls)"
+    },
+    "answer": "a",
+    "explanation": "Surah An-Nisa (4:163) explicitly mentions: '...and to David We gave the Zabur (Psalms)'."
+  },
+  {
+    "question": "Which of the following groups consists exclusively of the five 'Ulul 'Azm' (Prophets of Firm Determination and Inflexible Resolve) mentioned in the Qur'an?",
+    "options": {
+      "a": "Nuh, Ibrahim, Musa, Isa, and Muhammad (PBUT)",
+      "b": "Adam, Idris, Nuh, Hud, and Salih (PBUT)",
+      "c": "Ibrahim, Isma'il, Ishaq, Ya'qub, and Yusuf (PBUT)",
+      "d": "Dawud, Sulayman, Ayyub, Yunus, and Zakariyya (PBUT)"
+    },
+    "answer": "a",
+    "explanation": "The five great Arch-Prophets of exceptional resolve (Ulul 'Azm) are Nuh (Noah), Ibrahim (Abraham), Musa (Moses), Isa (Jesus), and Muhammad (Peace Be Upon Them All)."
+  },
+  {
+    "question": "The razor-sharp, perilous bridge spanning across the expanse of Hellfire over which every soul must cross on the Day of Resurrection is the ______",
+    "options": {
+      "a": "As-Sirat",
+      "b": "Al-Mizan",
+      "c": "Al-Kawthar",
+      "d": "Al-A'raf"
+    },
+    "answer": "a",
+    "explanation": "As-Sirat is the narrow bridge established over Jahannam which believers will cross into Paradise with varying speeds based upon their righteous deeds."
+  },
+  {
+    "question": "The ritual dry purification using clean sand or dust performed when water is unavailable or medically harmful to use is called ______",
+    "options": {
+      "a": "Tayammum",
+      "b": "Ghusl",
+      "c": "Wudu",
+      "d": "Istinja'"
+    },
+    "answer": "a",
+    "explanation": "Tayammum is the symbolic, dry purification sanctioned by the Qur'an (4:43) using clean earth when water cannot be found or safely used."
+  },
+  {
+    "question": "Which of the following conditions mandates the performance of Ghusl (complete ritual bath) rather than simple Wudu?",
+    "options": {
+      "a": "Janabah (state of post-coital or seminal discharge)",
+      "b": "Passing flatulence",
+      "c": "Falling asleep sitting upright",
+      "d": "Minor nosebleed"
+    },
+    "answer": "a",
+    "explanation": "Janabah (major ritual impurity resulting from sexual intercourse or emission of seminal fluid) obligates a full purifying bath (Ghusl)."
+  },
+  {
+    "question": "The special prostration performed either before or after the Taslim to rectify accidental additions, omissions, or uncertainties in prayer is called ______",
+    "options": {
+      "a": "Sujud as-Sahw",
+      "b": "Sujud at-Tilawah",
+      "c": "Sujud ash-Shukr",
+      "d": "Sujud al-Hajah"
+    },
+    "answer": "a",
+    "explanation": "Sujud as-Sahw consists of two compensatory prostrations made to rectify errors caused by forgetfulness during Salah."
+  },
+  {
+    "question": "Which of the following uniquely distinguishes Salatul Janazah (the funeral prayer) from standard congregational prayers?",
+    "options": {
+      "a": "It has no Ruku' (bowing) and no Sujud (prostration), consisting solely of four Takbirs while standing",
+      "b": "It must be prayed facing away from the Qiblah",
+      "c": "It is obligatory only for royal dignitaries",
+      "d": "It requires performing Wudu three consecutive times"
+    },
+    "answer": "a",
+    "explanation": "The Islamic funeral prayer is performed entirely standing (Qiyam) with four Takbirs, containing neither bowing (Ruku') nor prostration (Sujud)."
+  },
+  {
+    "question": "What is the minimum qualifying threshold of savings or wealth an individual must possess for a full lunar year before Zakah becomes obligatory?",
+    "options": {
+      "a": "Nisab",
+      "b": "Hawl",
+      "c": "Mahr",
+      "d": "Ushr"
+    },
+    "answer": "a",
+    "explanation": "Nisab is the specific minimum exemption limit of zakatable wealth below which no Zakah is due."
+  },
+  {
+    "question": "How many distinct categories of eligible recipients of Zakah are divinely ordained in Surah At-Tawbah (verse 60)?",
+    "options": {
+      "a": "Eight",
+      "b": "Five",
+      "c": "Ten",
+      "d": "Twelve"
+    },
+    "answer": "a",
+    "explanation": "Surah At-Tawbah 9:60 enumerates exactly eight categories: the poor, needy, administrators, reconciling hearts, freeing captives, debtors, in the cause of Allah, and the wayfarer."
+  },
+  {
+    "question": "The mandatory charitable contribution given by every Muslim household head on behalf of every dependent before the Eid al-Fitr prayer is ______",
+    "options": {
+      "a": "Zakat al-Fitr",
+      "b": "Sadaqah Jariyah",
+      "c": "Waqf",
+      "d": "Fidyah"
+    },
+    "answer": "a",
+    "explanation": "Zakat al-Fitr (or Sadaqat al-Fitr) is an obligatory purification levy in the form of staple food given before the morning prayer on Eid al-Fitr."
+  },
+  {
+    "question": "What is the heavy religious expiation (Kaffarah) required of a person who deliberately and without lawful excuse invalidates their Ramadan fast through sexual intercourse?",
+    "options": {
+      "a": "Freeing a slave, or fasting for two consecutive lunar months, or feeding sixty indigent persons",
+      "b": "Performing an extra Hajj pilgrimage",
+      "c": "Fasting every day for an entire year",
+      "d": "Reciting the entire Qur'an twenty times"
+    },
+    "answer": "a",
+    "explanation": "The prescribed Kaffarah for breaking Ramadan fast via marital relations is freeing a slave, or if unable, fasting two consecutive months, or feeding sixty needy people."
+  },
+  {
+    "question": "Which of the following is considered the absolute core pillar of Hajj, without which the pilgrimage is entirely invalid, as affirmed by the Hadith 'Al-Hajju Arafah'?",
+    "options": {
+      "a": "Wuquf (standing) at Mount Arafat on the 9th of Dhul-Hijjah",
+      "b": "Stoning the Jamarat at Mina",
+      "c": "Drinking water from the well of Zamzam",
+      "d": "Visiting the Prophet's Mosque in Madinah"
+    },
+    "answer": "a",
+    "explanation": "Wuquf bi-Arafat (standing at the plains of Arafat from noon until sunset on the 9th of Dhul-Hijjah) is the supreme, non-negotiable pillar of Hajj."
+  },
+  {
+    "question": "The designated geographic boundary stations where pilgrims intending to perform Hajj or Umrah must enter the sacred state of Ihram are called ______",
+    "options": {
+      "a": "Mawaqit (singular: Miqat)",
+      "b": "Masani'",
+      "c": "Abwa'",
+      "d": "Mash'ar"
+    },
+    "answer": "a",
+    "explanation": "The Mawaqit (such as Dhul-Hulayfah, Al-Juhfah, Qarn al-Manazil, Yalamlam, Dhat 'Irq) are territorial perimeter stations designated by the Prophet (SAW) for assuming Ihram."
+  },
+  {
+    "question": "Which of the following constitutes an indispensable legal condition for the validity of an Islamic marriage contract (Nikah)?",
+    "options": {
+      "a": "Mutual consent, the consent of the bride's guardian (Wali), two upright male witnesses, and payment of Mahr",
+      "b": "Holding a lavish banquet in an urban hotel",
+      "c": "Registration with a Western civil registry",
+      "d": "Exchange of golden finger rings"
+    },
+    "answer": "a",
+    "explanation": "A valid Nikah requires the mutual offer and acceptance (Ijab and Qabul), the presence of the bride's Wali, two trustworthy witnesses, and the specification of the dower (Mahr)."
+  },
+  {
+    "question": "What is the statutory waiting period (Iddah) prescribed for a non-pregnant Muslim woman whose husband has passed away?",
+    "options": {
+      "a": "Four lunar months and ten days",
+      "b": "Three menstrual cycles",
+      "c": "Forty days",
+      "d": "One full calendar year"
+    },
+    "answer": "a",
+    "explanation": "Surah Al-Baqarah (2:234) prescribes that widows must observe an Iddah of exactly four months and ten days."
+  },
+  {
+    "question": "The dissolution of an Islamic marriage initiated by the wife through mutual agreement in exchange for financial compensation (such as returning her Mahr) is known as ______",
+    "options": {
+      "a": "Khul'",
+      "b": "Li'an",
+      "c": "Zihar",
+      "d": "Faskh"
+    },
+    "answer": "a",
+    "explanation": "Khul' is a divorce proceeding initiated by the wife wherein she returns her marriage gift (Mahr) or gives monetary settlement to release herself from the marital bond."
+  },
+  {
+    "question": "In the Islamic law of inheritance (Mirath), which class of primary legal heirs can never be completely excluded from inheriting under any circumstances?",
+    "options": {
+      "a": "Father, mother, husband or wife, son, and daughter",
+      "b": "Brothers, sisters, uncles, and nephews",
+      "c": "Step-parents and adopted children",
+      "d": "Neighbors and business partners"
+    },
+    "answer": "a",
+    "explanation": "The five primary heirs who never suffer total exclusion from the estate are the parents (father and mother), the surviving spouse (husband or wife), and direct children (son and daughter)."
+  },
+  {
+    "question": "The severe, three-year socioeconomic boycott imposed by the pagan Quraysh against the Prophet's clan, Banu Hashim, took place in the valley known as ______",
+    "options": {
+      "a": "Shi'b Abi Talib",
+      "b": "Wadi Fatima",
+      "c": "Wadi Hunayn",
+      "d": "Batn Nakhlah"
+    },
+    "answer": "a",
+    "explanation": "The Quraysh boycotted the Prophet (SAW) and Banu Hashim from 7 to 10 of the Prophet's mission, confining them to the arid gorge of Shi'b Abi Talib."
+  },
+  {
+    "question": "The tenth year of Prophethood is historically designated as the 'Year of Sorrow' ('Am al-Huzn) due to the deaths of which two vital protectors of the Prophet (SAW)?",
+    "options": {
+      "a": "His beloved wife Khadijah (RA) and his uncle Abu Talib",
+      "b": "His uncle Hamzah and his daughter Ruqayyah",
+      "c": "His companion Abu Bakr and his mother Aminah",
+      "d": "His grandfather Abdul-Muttalib and his son Ibrahim"
+    },
+    "answer": "a",
+    "explanation": "'Am al-Huzn (Year of Sorrow) witnessed the loss of Khadijah (RA), the Prophet's emotional pillar, and Abu Talib, his political guardian against the Quraysh."
+  },
+  {
+    "question": "The historic bilateral fraternal pact instituted by the Prophet (SAW) in Madinah pairing each Meccan migrant with an indigenous Madinan helper was the ______",
+    "options": {
+      "a": "Mu'akhah (Brotherhood Pact)",
+      "b": "Hilf al-Fudul",
+      "c": "Bai'at ar-Ridwan",
+      "d": "Tahaluf al-Qaba'il"
+    },
+    "answer": "a",
+    "explanation": "The Prophet (SAW) established the system of Mu'akhah (fraternal bond) between the Muhajirun (emigrants) and the Ansar (helpers) to foster absolute communal solidarity."
+  },
+  {
+    "question": "In which decisive battle fought on the 17th of Ramadan, 2 AH, did an ill-equipped force of 313 Muslims triumph over an elite Quraysh army numbering over one thousand?",
+    "options": {
+      "a": "The Battle of Badr",
+      "b": "The Battle of Uhud",
+      "c": "The Battle of the Trench (Khandaq)",
+      "d": "The Battle of Hunayn"
+    },
+    "answer": "a",
+    "explanation": "The Battle of Badr was the landmark military engagement where Allah granted supernatural victory to the 313 Muslims, establishing Islam's geopolitical ascendancy."
+  },
+  {
+    "question": "Which Rightly Guided Caliph established the Islamic Hijri calendar, instituted the public treasury (Bayt al-Mal), and established administrative departments (Diwan)?",
+    "options": {
+      "a": "Umar ibn al-Khattab (RA)",
+      "b": "Abu Bakr as-Siddiq (RA)",
+      "c": "Uthman ibn Affan (RA)",
+      "d": "Ali ibn Abi Talib (RA)"
+    },
+    "answer": "a",
+    "explanation": "Caliph Umar ibn al-Khattab (RA) was an administrative genius who created the Hijri era dated from the Hijrah, organized the Diwan, judicial system, and military garrisons."
+  },
+  {
+    "question": "The renowned 14th-century ruler of the Mali Empire whose lavish 1324 pilgrimage to Makkah distributed so much gold in Cairo that it devalued the metal's price for over a decade was ______",
+    "options": {
+      "a": "Mansa Musa",
+      "b": "Sundiata Keita",
+      "c": "Askia Muhammad Toure",
+      "d": "Mai Hume Jilmi"
+    },
+    "answer": "a",
+    "explanation": "Mansa Kankan Musa performed a legendary Hajj in 1324 with a caravan carrying immense quantities of gold, placing Mali conspicuously on medieval European cartographic maps."
+  }
+]

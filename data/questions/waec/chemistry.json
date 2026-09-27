@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which of the following electronic configurations represents an atom of an element in the excited state?",
+    "options": {
+      "a": "1s² 2s² 2p⁶ 3s¹",
+      "b": "1s² 2s² 2p⁶ 3s² 3p¹",
+      "c": "1s² 2s² 2p⁵ 3s¹",
+      "d": "1s² 2s² 2p⁶"
+    },
+    "answer": "c",
+    "explanation": "In 1s² 2s² 2p⁵ 3s¹, an electron from the 2p subshell has been promoted to the higher energy 3s subshell before the 2p subshell was completely filled."
+  },
+  {
+    "question": "An element X has an atomic number of 16. In which group and period of the Periodic Table is element X located?",
+    "options": {
+      "a": "Group 2, Period 3",
+      "b": "Group 6, Period 3",
+      "c": "Group 3, Period 6",
+      "d": "Group 4, Period 2"
+    },
+    "answer": "b",
+    "explanation": "Element X (Sulfur, Z = 16) has the electronic configuration 2, 8, 6. The number of valence electrons (6) indicates Group 6 (or Group 16), and having 3 electron shells indicates Period 3."
+  },
+  {
+    "question": "What is the oxidation number of manganese in the permanganate ion, MnO₄⁻?",
+    "options": {
+      "a": "+5",
+      "b": "+6",
+      "c": "+7",
+      "d": "+4"
+    },
+    "answer": "c",
+    "explanation": "Let the oxidation state of Mn be x. Since oxygen is -2: x + 4(-2) = -1 => x - 8 = -1 => x = +7."
+  },
+  {
+    "question": "Which of the following compounds exhibits coordinate covalent (dative) bonding in its structure?",
+    "options": {
+      "a": "CH₄",
+      "b": "NH₄⁺",
+      "c": "NaCl",
+      "d": "H₂O"
+    },
+    "answer": "b",
+    "explanation": "The ammonium ion (NH₄⁺) is formed when a lone pair of electrons on the nitrogen atom of ammonia (NH₃) is donated to a hydrogen ion (H⁺), creating a coordinate covalent bond."
+  },
+  {
+    "question": "According to the kinetic theory of gases, the absolute temperature of an ideal gas is directly proportional to the ______",
+    "options": {
+      "a": "Average kinetic energy of its molecules",
+      "b": "Total volume of the container",
+      "c": "Average intermolecular forces",
+      "d": "Total mass of the gas molecules"
+    },
+    "answer": "a",
+    "explanation": "A central postulate of the kinetic molecular theory states that the absolute temperature (in Kelvin) is directly proportional to the mean (average) translational kinetic energy of the gas molecules."
+  },
+  {
+    "question": "A sample of gas has a volume of 400 cm³ at 27 °C and 760 mmHg. What will be its volume at 127 °C if the pressure remains constant?",
+    "options": {
+      "a": "533.3 cm³",
+      "b": "300.0 cm³",
+      "c": "600.0 cm³",
+      "d": "1875.0 cm³"
+    },
+    "answer": "a",
+    "explanation": "Using Charles's Law (V₁/T₁ = V₂/T₂): T₁ = 27 + 273 = 300 K, T₂ = 127 + 273 = 400 K. V₂ = (V₁ * T₂) / T₁ = (400 * 400) / 300 = 1600 / 3 ≈ 533.3 cm³."
+  },
+  {
+    "question": "Which of the following gases diffuses four times faster than sulfur(IV) oxide (SO₂)? [Relative atomic masses: H = 1, He = 4, C = 12, O = 16, S = 32]",
+    "options": {
+      "a": "O₂",
+      "b": "CH₄",
+      "c": "He",
+      "d": "H₂"
+    },
+    "answer": "c",
+    "explanation": "By Graham's Law, R₁/R₂ = √(M₂/M₁). M(SO₂) = 32 + 2(16) = 64. If R₁/R₂ = 4, then 4 = √(64/M₁) => 16 = 64/M₁ => M₁ = 4 g/mol. Helium (He) has a molar mass of 4 g/mol."
+  },
+  {
+    "question": "What is the empirical formula of a hydrocarbon containing 85.7% carbon and 14.3% hydrogen by mass? [Relative atomic masses: C = 12, H = 1]",
+    "options": {
+      "a": "CH",
+      "b": "CH₂",
+      "c": "CH₃",
+      "d": "C₂H₅"
+    },
+    "answer": "b",
+    "explanation": "Moles of C = 85.7 / 12 = 7.14; Moles of H = 14.3 / 1 = 14.3. Ratio = 7.14/7.14 : 14.3/7.14 = 1 : 2. Thus, the empirical formula is CH₂."
+  },
+  {
+    "question": "Calculate the mass of anhydrous sodium trioxocarbonate(IV) (Na₂CO₃) required to prepare 250 cm³ of a 0.20 mol/dm³ aqueous solution. [Na = 23, C = 12, O = 16]",
+    "options": {
+      "a": "5.30 g",
+      "b": "10.60 g",
+      "c": "2.65 g",
+      "d": "21.20 g"
+    },
+    "answer": "a",
+    "explanation": "Molar mass of Na₂CO₃ = (23 * 2) + 12 + (16 * 3) = 106 g/mol. Number of moles = Concentration * Volume = 0.20 mol/dm³ * (250/1000 dm³) = 0.05 mol. Mass = 0.05 * 106 = 5.30 g."
+  },
+  {
+    "question": "In the reaction: 2H₂S(g) + SO₂(g) → 3S(s) + 2H₂O(l), sulfur(IV) oxide acts as ______",
+    "options": {
+      "a": "A catalyst",
+      "b": "An oxidizing agent",
+      "c": "A reducing agent",
+      "d": "A dehydrating agent"
+    },
+    "answer": "b",
+    "explanation": "The oxidation state of sulfur in SO₂ decreases from +4 to 0 (reduction), meaning SO₂ causes the oxidation of H₂S and therefore acts as an oxidizing agent."
+  },
+  {
+    "question": "Which of the following factors will shift the equilibrium position of the Haber process: N₂(g) + 3H₂(g) ⇌ 2NH₃(g) [ΔH = -92 kJ/mol] to the right?",
+    "options": {
+      "a": "Increasing temperature",
+      "b": "Decreasing total pressure",
+      "c": "Continuous removal of ammonia as it forms",
+      "d": "Adding a finely divided iron catalyst"
+    },
+    "answer": "c",
+    "explanation": "By Le Chatelier's principle, continuously removing the product (NH₃) decreases its concentration, driving the equilibrium forward to produce more ammonia."
+  },
+  {
+    "question": "What is the pH of a 0.005 mol/dm³ tetraoxosulfate(VI) acid (H₂SO₄) solution, assuming complete dissociation?",
+    "options": {
+      "a": "2.0",
+      "b": "2.3",
+      "c": "1.0",
+      "d": "3.0"
+    },
+    "answer": "a",
+    "explanation": "H₂SO₄ is diprotic: H₂SO₄ → 2H⁺ + SO₄²⁻. Thus, [H⁺] = 2 * 0.005 = 0.010 mol/dm³ = 1.0 * 10⁻² mol/dm³. pH = -log₁₀[H⁺] = -log₁₀(10⁻²) = 2.0."
+  },
+  {
+    "question": "Which of the following salts undergoes cationic hydrolysis to form an acidic aqueous solution?",
+    "options": {
+      "a": "NaCl",
+      "b": "NH₄Cl",
+      "c": "CH₃COONa",
+      "d": "K₂SO₄"
+    },
+    "answer": "b",
+    "explanation": "NH₄Cl is the salt of a weak base (NH₃) and a strong acid (HCl). The ammonium ion (NH₄⁺) hydrolyzes in water: NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺, producing an acidic solution."
+  },
+  {
+    "question": "Temporary hardness in natural water is caused by the presence of dissolved ______",
+    "options": {
+      "a": "Calcium hydrogen trioxocarbonate(IV)",
+      "b": "Calcium tetraoxosulfate(VI)",
+      "c": "Magnesium chloride",
+      "d": "Sodium hydrogen trioxocarbonate(IV)"
+    },
+    "answer": "a",
+    "explanation": "Temporary hardness is caused by dissolved calcium and magnesium hydrogen trioxocarbonate(IV) [Ca(HCO₃)₂ and Mg(HCO₃)₂], which decompose upon boiling to precipitate insoluble carbonates."
+  },
+  {
+    "question": "How many coulombs of electricity are required to deposit 0.10 mole of copper from a copper(II) tetraoxosulfate(VI) solution? [1 Faraday = 96,500 C]",
+    "options": {
+      "a": "9,650 C",
+      "b": "19,300 C",
+      "c": "38,600 C",
+      "d": "96,500 C"
+    },
+    "answer": "b",
+    "explanation": "The reduction equation is Cu²⁺ + 2e⁻ → Cu. Depositing 1 mole of Cu requires 2 Faradays of charge. For 0.10 mole: Q = 0.10 * 2 * 96,500 C = 19,300 C."
+  },
+  {
+    "question": "During the electrolysis of dilute aqueous sodium chloride using platinum electrodes, the gas evolved at the anode is ______",
+    "options": {
+      "a": "Chlorine",
+      "b": "Hydrogen",
+      "c": "Oxygen",
+      "d": "Nitrogen"
+    },
+    "answer": "c",
+    "explanation": "In dilute NaCl solution, OH⁻ and Cl⁻ migrate to the anode. Because OH⁻ is lower in the electrochemical discharge series and the solution is dilute, OH⁻ is preferentially discharged to evolve oxygen gas (4OH⁻ → 2H₂O + O₂ + 4e⁻)."
+  },
+  {
+    "question": "Which of the following metals is extracted commercially by the electrolytic reduction of its molten ore using cryolite as an electrolyte flux?",
+    "options": {
+      "a": "Iron",
+      "b": "Copper",
+      "c": "Aluminium",
+      "d": "Zinc"
+    },
+    "answer": "c",
+    "explanation": "Aluminium is extracted from molten bauxite (Al₂O₃) dissolved in molten cryolite (Na₃AlF₆) in the Hall-Héroult process; cryolite lowers the melting point from ~2050 °C to ~950 °C."
+  },
+  {
+    "question": "In the blast furnace for iron extraction, limestone (CaCO₃) is added primarily to ______",
+    "options": {
+      "a": "Act as a reducing agent for haematite",
+      "b": "Remove silica (sand) impurities as molten calcium silicate slag",
+      "c": "Supply carbon monoxide for the reduction",
+      "d": "Lower the melting point of haematite"
+    },
+    "answer": "b",
+    "explanation": "Limestone decomposes to form CaO, a basic flux that reacts with acidic silica (SiO₂) impurities: CaO + SiO₂ → CaSiO₃ (molten slag), which floats on top of the molten pig iron."
+  },
+  {
+    "question": "Brass is an alloy consisting predominantly of ______",
+    "options": {
+      "a": "Copper and Tin",
+      "b": "Copper and Zinc",
+      "c": "Lead and Tin",
+      "d": "Iron and Carbon"
+    },
+    "answer": "b",
+    "explanation": "Brass is an alloy composed of copper (Cu) and zinc (Zn), whereas bronze is an alloy of copper and tin (Sn)."
+  },
+  {
+    "question": "Which of the following halogens is a reddish-brown liquid at standard room temperature and pressure?",
+    "options": {
+      "a": "Fluorine",
+      "b": "Chlorine",
+      "c": "Bromine",
+      "d": "Iodine"
+    },
+    "answer": "c",
+    "explanation": "At room temperature and standard pressure, fluorine is a pale yellow gas, chlorine is a greenish-yellow gas, bromine is a dense reddish-brown liquid, and iodine is a dark purple-black solid."
+  },
+  {
+    "question": "A gaseous compound with a pungent choking smell turns damp red litmus paper blue and produces dense white fumes with concentrated hydrochloric acid. The gas is ______",
+    "options": {
+      "a": "Sulfur(IV) oxide",
+      "b": "Ammonia",
+      "c": "Chlorine",
+      "d": "Nitrogen(IV) oxide"
+    },
+    "answer": "b",
+    "explanation": "Ammonia (NH₃) is the only common alkaline gas (turns damp red litmus blue) and reacts with HCl vapor to form ammonium chloride (NH₄Cl), visible as dense white fumes."
+  },
+  {
+    "question": "The catalyst used in the industrial Contact Process for the manufacture of tetraoxosulfate(VI) acid is ______",
+    "options": {
+      "a": "Finely divided iron",
+      "b": "Vanadium(V) oxide",
+      "c": "Nickel",
+      "d": "Manganese(IV) oxide"
+    },
+    "answer": "b",
+    "explanation": "Vanadium(V) oxide (V₂O₅) is used as the catalyst in the Contact Process to oxidize sulfur(IV) oxide to sulfur(VI) oxide (2SO₂ + O₂ ⇌ 2SO₃)."
+  },
+  {
+    "question": "When hydrogen sulfide gas (H₂S) is bubbled through an aqueous solution of lead(II) ethanoate, the observed precipitate is ______",
+    "options": {
+      "a": "White",
+      "b": "Yellow",
+      "c": "Black",
+      "d": "Red"
+    },
+    "answer": "c",
+    "explanation": "H₂S reacts with Pb²⁺ ions to form an insoluble black precipitate of lead(II) sulfide (PbS): Pb²⁺(aq) + S²⁻(aq) → PbS(s)."
+  },
+  {
+    "question": "Graphite conducts electricity because ______",
+    "options": {
+      "a": "It contains free metal ions",
+      "b": "Each carbon atom has one delocalized electron in its sp² hybridized hexagonal layers",
+      "c": "It has an open tetrahedral macromolecular lattice",
+      "d": "It reacts with atmospheric moisture"
+    },
+    "answer": "b",
+    "explanation": "In graphite, each carbon atom forms three covalent bonds using sp² hybrid orbitals, leaving one valence electron per carbon atom delocalized across the layers, allowing conduction."
+  },
+  {
+    "question": "The general molecular formula for the homologous series of open-chain alkynes is ______",
+    "options": {
+      "a": "CₙH₂ₙ₊₂",
+      "b": "CₙH₂ₙ",
+      "c": "CₙH₂ₙ₋₂",
+      "d": "CₙH₂ₙ₋₄"
+    },
+    "answer": "c",
+    "explanation": "Alkanes have the general formula CₙH₂ₙ₊₂, alkenes have CₙH₂ₙ, and alkynes possess one carbon-carbon triple bond with the formula CₙH₂ₙ₋₂."
+  },
+  {
+    "question": "What is the IUPAC name of the compound CH₃-CH(CH₃)-CH₂-CH=CH₂?",
+    "options": {
+      "a": "2-methylpent-4-ene",
+      "b": "4-methylpent-1-ene",
+      "c": "2-methylpent-1-ene",
+      "d": "4-methylpent-4-ene"
+    },
+    "answer": "b",
+    "explanation": "The longest carbon chain containing the double bond has 5 carbon atoms. Numbering starts from the carbon closest to the double bond (C-1), putting the methyl group at carbon 4: 4-methylpent-1-ene."
+  },
+  {
+    "question": "Which of the following reagents is used to distinguish between ethane and ethene?",
+    "options": {
+      "a": "Benedict's solution",
+      "b": "Bromine water",
+      "c": "Nessler's reagent",
+      "d": "Fehling's solution"
+    },
+    "answer": "b",
+    "explanation": "Ethene contains an unsaturated double bond and rapidly decolourizes reddish-brown bromine water through electrophilic addition, whereas saturated ethane does not react under standard conditions."
+  },
+  {
+    "question": "Ethyne reacts with ammoniacal copper(I) chloride solution to yield a characteristic precipitate of ______",
+    "options": {
+      "a": "White silver dicarbide",
+      "b": "Reddish-brown copper(I) dicarbide",
+      "c": "Black copper(II) oxide",
+      "d": "Blue copper(II) hydroxide"
+    },
+    "answer": "b",
+    "explanation": "Terminal alkynes like ethyne possess weakly acidic terminal hydrogen atoms that react with ammoniacal copper(I) chloride to form a reddish-brown precipitate of copper(I) dicarbide (Cu₂C₂)."
+  },
+  {
+    "question": "The oxidation of secondary alkanols (such as propan-2-ol) with acidified potassium heptaoxodichromate(VI) yields ______",
+    "options": {
+      "a": "An alkanoic acid",
+      "b": "An alkanal",
+      "c": "An alkanone",
+      "d": "An alkene"
+    },
+    "answer": "c",
+    "explanation": "Secondary alcohols are oxidized to ketones (alkanones). Propan-2-ol oxidizes to propanone (acetone)."
+  },
+  {
+    "question": "The organic reaction between an alkanol and an alkanoic acid in the presence of concentrated H₂SO₄ is known as ______",
+    "options": {
+      "a": "Saponification",
+      "b": "Esterification",
+      "c": "Decarboxylation",
+      "d": "Polymerization"
+    },
+    "answer": "b",
+    "explanation": "Esterification is the reversible acid-catalyzed reaction between an alcohol and a carboxylic acid to form an ester and water."
+  },
+  {
+    "question": "Which of the following organic compounds is a monomer used in the manufacture of nylon-6,6?",
+    "options": {
+      "a": "Hexanedioic acid and 1,6-diaminohexane",
+      "b": "Ethane-1,2-diol and benzene-1,4-dicarboxylic acid",
+      "c": "Phenol and methanal",
+      "d": "Vinyl chloride"
+    },
+    "answer": "a",
+    "explanation": "Nylon-6,6 is a condensation polymer formed from the step-growth polymerization of hexanedioic acid (adipic acid) and 1,6-diaminohexane (hexamethylenediamine)."
+  },
+  {
+    "question": "A carbohydrate that gives a brick-red precipitate when heated with Fehling's solutions A and B is ______",
+    "options": {
+      "a": "Sucrose",
+      "b": "Starch",
+      "c": "Cellulose",
+      "d": "Glucose"
+    },
+    "answer": "d",
+    "explanation": "Glucose is an aldohexose and a reducing sugar; it reduces alkaline copper(II) ions in Fehling's solution to an insoluble brick-red precipitate of copper(I) oxide (Cu₂O)."
+  },
+  {
+    "question": "The structural linkage that connects adjacent amino acid units in a protein molecule is the ______",
+    "options": {
+      "a": "Glycosidic bond",
+      "b": "Peptide linkage",
+      "c": "Phosphodiester bond",
+      "d": "Ester linkage"
+    },
+    "answer": "b",
+    "explanation": "Proteins are polyamides composed of amino acids joined together by peptide linkages (-CO-NH-) formed by condensation."
+  },
+  {
+    "question": "Which of the following oxides is amphoteric?",
+    "options": {
+      "a": "CaO",
+      "b": "SO₂",
+      "c": "Al₂O₃",
+      "d": "CO"
+    },
+    "answer": "c",
+    "explanation": "Aluminium oxide (Al₂O₃) and zinc oxide (ZnO) are amphoteric oxides; they react with both strong acids and strong bases to yield salts and water."
+  },
+  {
+    "question": "When chlorine gas is bubbled into an aqueous solution of potassium iodide, the solution turns dark brown due to the liberation of ______",
+    "options": {
+      "a": "Potassium metal",
+      "b": "Iodine",
+      "c": "Potassium iodate",
+      "d": "Hydrogen gas"
+    },
+    "answer": "b",
+    "explanation": "Chlorine is more electronegative and a stronger oxidizing agent than iodine; it displaces iodide ions according to: Cl₂(g) + 2I⁻(aq) → 2Cl⁻(aq) + I₂(aq)."
+  },
+  {
+    "question": "Which of the following processes is a chemical change?",
+    "options": {
+      "a": "Sublimation of iodine crystals",
+      "b": "Dissolution of sodium chloride in water",
+      "c": "Rusting of an iron nail in moist air",
+      "d": "Distillation of crude petroleum"
+    },
+    "answer": "c",
+    "explanation": "Rusting involves the chemical oxidation of iron into hydrated iron(III) oxide (Fe₂O₃·xH₂O), a new substance with different properties, making it an irreversible chemical change."
+  },
+  {
+    "question": "The type of hybridization exhibited by carbon in ethyne (HC≡CH) is ______",
+    "options": {
+      "a": "sp",
+      "b": "sp²",
+      "c": "sp³",
+      "d": "sp³d"
+    },
+    "answer": "a",
+    "explanation": "In ethyne, each carbon atom forms two sigma bonds (one with H, one with C) and two pi bonds, corresponding to linear sp hybridization with a 180° bond angle."
+  },
+  {
+    "question": "Which of the following aqueous ions gives a white precipitate with dilute NaOH that is soluble in excess NaOH?",
+    "options": {
+      "a": "Fe²⁺",
+      "b": "Cu²⁺",
+      "c": "Zn²⁺",
+      "d": "Fe³⁺"
+    },
+    "answer": "c",
+    "explanation": "Zn²⁺ reacts with NaOH to give white gelatinous Zn(OH)₂, which dissolves in excess NaOH to form the soluble tetrahydroxozincate(II) complex ion [Zn(OH)₄]²⁻."
+  },
+  {
+    "question": "The gas primarily responsible for global greenhouse warming resulting from excessive fossil fuel combustion is ______",
+    "options": {
+      "a": "Sulfur(IV) oxide",
+      "b": "Carbon(IV) oxide",
+      "c": "Chlorofluorocarbons",
+      "d": "Nitrogen"
+    },
+    "answer": "b",
+    "explanation": "Carbon(IV) oxide (CO₂) is the main greenhouse gas emitted by anthropogenic fossil fuel combustion, trapping outgoing terrestrial infrared radiation."
+  },
+  {
+    "question": "What is the concentration in g/dm³ of a 0.050 mol/dm³ solution of potassium hydroxide (KOH)? [K = 39, O = 16, H = 1]",
+    "options": {
+      "a": "2.80 g/dm³",
+      "b": "5.60 g/dm³",
+      "c": "1.40 g/dm³",
+      "d": "0.28 g/dm³"
+    },
+    "answer": "a",
+    "explanation": "Molar mass of KOH = 39 + 16 + 1 = 56 g/mol. Mass concentration = molarity * molar mass = 0.050 mol/dm³ * 56 g/mol = 2.80 g/dm³."
+  },
+  {
+    "question": "Which radioactive particle has the highest penetrating power and can only be shielded by thick lead or concrete?",
+    "options": {
+      "a": "Alpha particle",
+      "b": "Beta particle",
+      "c": "Gamma ray",
+      "d": "Positron"
+    },
+    "answer": "c",
+    "explanation": "Gamma rays are high-energy electromagnetic radiation with no mass or charge, giving them far greater penetrating power than alpha or beta particles."
+  },
+  {
+    "question": "The bond angle in a water molecule (H₂O) is approximately 104.5° instead of the ideal tetrahedral 109.5° because of ______",
+    "options": {
+      "a": "Repulsion between the two bonding electron pairs",
+      "b": "Greater repulsion between the two lone pairs of electrons on oxygen",
+      "c": "High electronegativity of hydrogen atoms",
+      "d": "Linear geometry of the molecule"
+    },
+    "answer": "b",
+    "explanation": "According to VSEPR theory, lone pair-lone pair repulsion is greater than lone pair-bond pair and bond pair-bond pair repulsions, compressing the H-O-H bond angle from 109.5° to ~104.5°."
+  },
+  {
+    "question": "The standard enthalpy change of neutralization between a strong acid and a strong base is approximately constant at ______",
+    "options": {
+      "a": "-13.7 kJ/mol",
+      "b": "-57.3 kJ/mol",
+      "c": "+57.3 kJ/mol",
+      "d": "-104.5 kJ/mol"
+    },
+    "answer": "b",
+    "explanation": "The neutralization of any strong acid by any strong base involves the same net ionic reaction: H⁺(aq) + OH⁻(aq) → H₂O(l), with a standard enthalpy change of approximately -57.3 kJ/mol."
+  },
+  {
+    "question": "Which of the following compounds is an isomer of butan-1-ol?",
+    "options": {
+      "a": "Ethoxyethane",
+      "b": "Butanoic acid",
+      "c": "Butanal",
+      "d": "Butyl ethanoate"
+    },
+    "answer": "a",
+    "explanation": "Butan-1-ol (C₄H₁₀O) and ethoxyethane (diethyl ether, CH₃CH₂OCH₂CH₃, C₄H₁₀O) share the same molecular formula C₄H₁₀O, making them functional group isomers."
+  },
+  {
+    "question": "When calcium carbide (CaC₂) reacts with cold water, the hydrocarbon produced is ______",
+    "options": {
+      "a": "Methane",
+      "b": "Ethene",
+      "c": "Ethyne",
+      "d": "Propane"
+    },
+    "answer": "c",
+    "explanation": "Calcium carbide undergoes hydrolysis with cold water to generate ethyne (acetylene) gas and calcium hydroxide: CaC₂ + 2H₂O → Ca(OH)₂ + C₂H₂."
+  },
+  {
+    "question": "Which of the following reagents will give a yellow precipitate with an aqueous solution of potassium iodide?",
+    "options": {
+      "a": "Lead(II) trioxonitrate(V)",
+      "b": "Barium chloride",
+      "c": "Sodium tetraoxosulfate(VI)",
+      "d": "Copper(II) tetraoxosulfate(VI)"
+    },
+    "answer": "a",
+    "explanation": "Lead(II) ions react with iodide ions to form bright yellow lead(II) iodide: Pb²⁺(aq) + 2I⁻(aq) → PbI₂(s)."
+  },
+  {
+    "question": "In the extraction of iron, the main reducing agent in the upper zone of the blast furnace is ______",
+    "options": {
+      "a": "Carbon (Coke)",
+      "b": "Carbon(II) oxide (CO)",
+      "c": "Carbon(IV) oxide (CO₂)",
+      "d": "Hydrogen gas"
+    },
+    "answer": "b",
+    "explanation": "In the upper cooler zone of the blast furnace, carbon monoxide (CO) reduces haematite to iron: Fe₂O₃ + 3CO → 2Fe + 3CO₂."
+  },
+  {
+    "question": "Which gas is used in filling food packages such as potato chips to prevent oxidative rancidity?",
+    "options": {
+      "a": "Oxygen",
+      "b": "Nitrogen",
+      "c": "Chlorine",
+      "d": "Sulfur(IV) oxide"
+    },
+    "answer": "b",
+    "explanation": "Nitrogen is chemically inert and unreactive under ambient conditions, making it ideal for displacing oxygen and preventing the oxidation (rancidity) of fats in packaged foods."
+  },
+  {
+    "question": "What volume of oxygen at standard temperature and pressure (s.t.p.) is required to completely combust 2.0 dm³ of propane (C₃H₈)?",
+    "options": {
+      "a": "5.0 dm³",
+      "b": "10.0 dm³",
+      "c": "6.0 dm³",
+      "d": "2.0 dm³"
+    },
+    "answer": "b",
+    "explanation": "From Gay-Lussac's Law and the balanced equation: C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l), 1 volume of C₃H₈ reacts with 5 volumes of O₂. Thus, 2.0 dm³ of C₃H₈ requires 2.0 * 5 = 10.0 dm³ of O₂."
+  },
+  {
+    "question": "Which of the following methods is most suitable for separating a mixture of miscible liquids with close boiling points?",
+    "options": {
+      "a": "Simple distillation",
+      "b": "Fractional distillation",
+      "c": "Separating funnel",
+      "d": "Paper chromatography"
+    },
+    "answer": "b",
+    "explanation": "Fractional distillation uses a fractionating column to achieve multiple repeated vaporization-condensation cycles, effectively separating miscible liquids with close boiling points."
+  }
+]

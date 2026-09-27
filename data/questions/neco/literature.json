@@ -1,0 +1,552 @@
+[
+  {
+    "question": "A character's tragic flaw or fatal error in judgment that precipitates their downfall in classical tragedy is known as ______",
+    "options": {
+      "a": "Hamartia",
+      "b": "Nemesis",
+      "c": "Catharsis",
+      "d": "Peripeteia"
+    },
+    "answer": "a",
+    "explanation": "In Aristotelian poetics, hamartia refers to the tragic flaw, blindness, or misjudgment of an otherwise noble protagonist leading to their catastrophe."
+  },
+  {
+    "question": "The emotional purgation or release of pity and fear experienced by the audience at the culmination of a tragic drama is called ______",
+    "options": {
+      "a": "Anagnorisis",
+      "b": "Catharsis",
+      "c": "Deus ex machina",
+      "d": "Epiphany"
+    },
+    "answer": "b",
+    "explanation": "Catharsis is the cleansing, purification, or purging of the emotions of pity and fear aroused in spectators of a tragedy."
+  },
+  {
+    "question": "A dramatic convention wherein a character speaks directly to the audience, unheard by other characters present on stage, is an ______",
+    "options": {
+      "a": "Aside",
+      "b": "Apostrophe",
+      "c": "Epilogue",
+      "d": "Interlude"
+    },
+    "answer": "a",
+    "explanation": "An aside is a brief speech delivered by an actor to the audience, expressing internal thoughts that are conventionally presumed unheard by other onstage characters."
+  },
+  {
+    "question": "The unexpected or contrived resolution of an apparently insolvable plot crisis by an artificial external intervention is termed ______",
+    "options": {
+      "a": "In media res",
+      "b": "Deus ex machina",
+      "c": "Poetic justice",
+      "d": "Anti-climax"
+    },
+    "answer": "b",
+    "explanation": "Deus ex machina ('god from the machine') denotes an unconvincing, abrupt plot resolution introduced by improbable external means."
+  },
+  {
+    "question": "A poem in which a single speaker reveals their innermost psyche and temperament to an implied, silent auditor at a critical moment is a ______",
+    "options": {
+      "a": "Dramatic monologue",
+      "b": "Pastoral elegy",
+      "c": "Ballad",
+      "d": "Limerick"
+    },
+    "answer": "a",
+    "explanation": "A dramatic monologue is a poetic form where a solitary speaker unwittingly exposes their character and motivations to an imaginary listener."
+  },
+  {
+    "question": "A novel narrated through a continuous series of written letters, diary entries, or newspaper clippings between characters is known as an ______ novel.",
+    "options": {
+      "a": "Epistolary",
+      "b": "Picaresque",
+      "c": "Allegorical",
+      "d": "Historical"
+    },
+    "answer": "a",
+    "explanation": "An epistolary novel is composed primarily of documents, most commonly personal letters exchanged between protagonists."
+  },
+  {
+    "question": "A literary work that chronicles the coming-of-age, moral growth, and psychological development of a protagonist from youth to maturity is a ______",
+    "options": {
+      "a": "Bildungsroman",
+      "b": "Novella",
+      "c": "Memoir",
+      "d": "Fabliau"
+    },
+    "answer": "a",
+    "explanation": "Bildungsroman is a German literary term for a formative novel that charts the moral and psychological education of a young protagonist."
+  },
+  {
+    "question": "A literary genre following the adventurous escapades of a roguish, lower-class hero surviving by his wits in a corrupt society is a ______ novel.",
+    "options": {
+      "a": "Picaresque",
+      "b": "Gothic",
+      "c": "Pastoral",
+      "d": "Sentimental"
+    },
+    "answer": "a",
+    "explanation": "The picaresque novel originates from the Spanish 'picaro' (rogue) and features episodic travels of a clever vagabond or outsider."
+  },
+  {
+    "question": "A narrative in which characters, events, and settings systematically represent broader abstract moral, religious, or political concepts is an ______",
+    "options": {
+      "a": "Allegory",
+      "b": "Anecdote",
+      "c": "Aphorism",
+      "d": "Alliteration"
+    },
+    "answer": "a",
+    "explanation": "An allegory possesses a continuous second level of symbolic meaning parallel to the literal surface narrative."
+  },
+  {
+    "question": "A rhetorical device in which a speaker directly addresses an absent person, an abstract concept, or an inanimate object as though it were living and present is ______",
+    "options": {
+      "a": "Apostrophe",
+      "b": "Metonymy",
+      "c": "Synecdoche",
+      "d": "Hyperbole"
+    },
+    "answer": "a",
+    "explanation": "Apostrophe occurs when an author or character breaks off to address an absent person or personified abstraction directly."
+  },
+  {
+    "question": "The figure of speech that replaces the name of an object or concept with the name of something closely associated with it (e.g., 'The Crown' for the monarch) is ______",
+    "options": {
+      "a": "Metonymy",
+      "b": "Synecdoche",
+      "c": "Euphemism",
+      "d": "Paradox"
+    },
+    "answer": "a",
+    "explanation": "Metonymy substitutes an associated term or attribute for the concept itself (such as 'the pen is mightier than the sword')."
+  },
+  {
+    "question": "The figure of speech in which a part of something is deliberately used to represent the whole (e.g., 'all hands on deck') is ______",
+    "options": {
+      "a": "Synecdoche",
+      "b": "Metonymy",
+      "c": "Oxymoron",
+      "d": "Litotes"
+    },
+    "answer": "a",
+    "explanation": "Synecdoche is a specific trope where a part represents the whole entity or the whole represents a part."
+  },
+  {
+    "question": "The deliberate pairing of two contradictory or incongruous terms side-by-side (such as 'deafening silence' or 'sweet sorrow') is an ______",
+    "options": {
+      "a": "Oxymoron",
+      "b": "Irony",
+      "c": "Antithesis",
+      "d": "Hyperbole"
+    },
+    "answer": "a",
+    "explanation": "An oxymoron fuses two contradictory words together to yield a striking, paradoxical expression."
+  },
+  {
+    "question": "An intentional understatement created by expressing an affirmative idea by negating its contrary (e.g., 'She is not unmindful') is called ______",
+    "options": {
+      "a": "Litotes",
+      "b": "Euphemism",
+      "c": "Chiasmus",
+      "d": "Zeugma"
+    },
+    "answer": "a",
+    "explanation": "Litotes employs double negatives or ironical understatement to assert a positive claim through denial of its opposite."
+  },
+  {
+    "question": "In narrative structure, beginning the story in the middle of crucial events without preceding exposition is known as starting ______",
+    "options": {
+      "a": "In media res",
+      "b": "Ab ovo",
+      "c": "In camera",
+      "d": "Post facto"
+    },
+    "answer": "a",
+    "explanation": "'In media res' is a Latin literary term meaning plunging directly into the midst of the action."
+  },
+  {
+    "question": "In Wole Soyinka's 'The Lion and the Jewel', the Bale of Ilujinle who embodies African traditional cunning and authority is ______",
+    "options": {
+      "a": "Baroka",
+      "b": "Lakunle",
+      "c": "Sadiku",
+      "d": "Ailatu"
+    },
+    "answer": "a",
+    "explanation": "Baroka is the sixty-two-year-old Bale of Ilujinle who competes with the Westernized schoolteacher Lakunle for the hand of Sidi."
+  },
+  {
+    "question": "What ruse does Baroka deploy through his senior wife Sadiku to disarm and lure Sidi into his palace in 'The Lion and the Jewel'?",
+    "options": {
+      "a": "He pretends that he has lost his virility and manhood",
+      "b": "He claims he has contracted a contagious smallpox infection",
+      "c": "He promises to crown her queen of the entire Yoruba kingdom",
+      "d": "He sends gold coins and European garments"
+    },
+    "answer": "a",
+    "explanation": "Baroka feigns sudden sexual impotence to Sadiku, anticipating she will boast to Sidi, who then visits the palace guardedly and is ultimately seduced."
+  },
+  {
+    "question": "In 'The Lion and the Jewel', why does Sidi initially refuse to marry Lakunle?",
+    "options": {
+      "a": "Because he refuses to pay her bride price, which she considers an insult to her virginity",
+      "b": "Because he is already married to three elderly wives",
+      "c": "Because he refuses to wear European clothes in public",
+      "d": "Because he plans to ban photography in Ilujinle"
+    },
+    "answer": "a",
+    "explanation": "Lakunle rejects paying the traditional bride price, calling it a barbaric custom, while Sidi insists that marrying without it would brand her as unchaste."
+  },
+  {
+    "question": "In Ola Rotimi's 'The Gods Are Not to Blame', who is the royal protagonist cursed from birth to kill his father and marry his mother?",
+    "options": {
+      "a": "Odewale",
+      "b": "Aderopo",
+      "c": "Alaka",
+      "d": "Adetusa"
+    },
+    "answer": "a",
+    "explanation": "King Odewale is the protagonist in Rotimi's adaptation of Sophocles' Oedipus Rex into a Yoruba cultural context."
+  },
+  {
+    "question": "What is King Odewale's fatal tragic flaw that precipitates his ruin in 'The Gods Are Not to Blame'?",
+    "options": {
+      "a": "His uncontrollable quick temper and excessive ethnic suspicion",
+      "b": "His greed for mineral wealth and land",
+      "c": "His cowardice on the battlefield against Ikolu",
+      "d": "His refusal to consult the Ifa oracle"
+    },
+    "answer": "a",
+    "explanation": "Odewale suffers from an explosive temper and perpetual tribal insecurity ('the weakness of a man who suspects everyone because he is an outsider')."
+  },
+  {
+    "question": "In 'The Gods Are Not to Blame', who is the blind Ifa soothsayer whom King Odewale insults and accuses of being bribed by Aderopo?",
+    "options": {
+      "a": "Baba Fakunle",
+      "b": "Gbonka",
+      "c": "Oguningbe",
+      "d": "Alaka"
+    },
+    "answer": "a",
+    "explanation": "Baba Fakunle is the revered blind seer who identifies Odewale as the murderer of King Adetusa."
+  },
+  {
+    "question": "In John K. Kargbo's 'Let Me Die Alone', which historical Mende woman monarch fights to consolidate her paramount chieftaincy in Sierra Leone?",
+    "options": {
+      "a": "Madam Yoko",
+      "b": "Musu",
+      "c": "Jeneba",
+      "d": "Ndapi"
+    },
+    "answer": "a",
+    "explanation": "Madam Yoko of the Mende chiefdom in Moyamba is the central monarch whose political ambitions lead to profound personal tragedy."
+  },
+  {
+    "question": "In 'Let Me Die Alone', who are the two conspirators responsible for murdering the young maiden Jeneba and framing Madam Yoko?",
+    "options": {
+      "a": "Lamboi and Musa",
+      "b": "Gbanya and Ndapi",
+      "c": "Lansana and Caulker",
+      "d": "Senehun and Rowe"
+    },
+    "answer": "a",
+    "explanation": "Lamboi and the medicine man Musa conspire to kill Jeneba and desecrate her body to incite the warriors against Madam Yoko."
+  },
+  {
+    "question": "In Efua Sutherland's 'The Marriage of Anansewa', the traditional Ghanaian Akan storytelling convention adopted by the dramatist is known as ______",
+    "options": {
+      "a": "Anansegoro",
+      "b": "Koteba",
+      "c": "Egungun",
+      "d": "Griot"
+    },
+    "answer": "a",
+    "explanation": "Efua Sutherland developed 'Anansegoro', a theatrical form originating from traditional Akan Spider (Ananse) storytelling performances."
+  },
+  {
+    "question": "How does George Kweku Ananse extract money from multiple wealthy chiefs simultaneously in 'The Marriage of Anansewa'?",
+    "options": {
+      "a": "He promises his daughter Anansewa's hand in marriage to each of them separately",
+      "b": "He sells bogus gold claims in the Western Region",
+      "c": "He claims to be the paramount chief of Cape Coast",
+      "d": "He threatens them with traditional witchcraft"
+    },
+    "answer": "a",
+    "explanation": "Ananse circulates his daughter's photographs to four wealthy rival chiefs, accepting gifts and dowry deposits from all of them."
+  },
+  {
+    "question": "In William Shakespeare's 'Twelfth Night', Viola disguises herself as a male page named ______ in the service of Duke Orsino.",
+    "options": {
+      "a": "Cesario",
+      "b": "Sebastian",
+      "c": "Curio",
+      "d": "Valentine"
+    },
+    "answer": "a",
+    "explanation": "After being shipwrecked on the coast of Illyria, Viola assumes the guise of a young gentleman named Cesario."
+  },
+  {
+    "question": "In 'Twelfth Night', who writes the forged love letter that tricks Malvolio into wearing yellow stockings and cross-garters?",
+    "options": {
+      "a": "Maria",
+      "b": "Countess Olivia",
+      "c": "Viola",
+      "d": "Sir Andrew Aguecheek"
+    },
+    "answer": "a",
+    "explanation": "Maria, Countess Olivia's clever waiting-gentlewoman, pens the counterfeit epistle imitating Olivia's handwriting to punish Malvolio's pomposity."
+  },
+  {
+    "question": "What is the primary role of Feste in Shakespeare's 'Twelfth Night'?",
+    "options": {
+      "a": "The licensed court fool who speaks penetrating truths through wit and songs",
+      "b": "The captain who rescues Sebastian from drowning",
+      "c": "The royal magistrate of the Illyrian court",
+      "d": "The physician attending to the mourning countess"
+    },
+    "answer": "a",
+    "explanation": "Feste is Olivia's licensed jester whose witty paradoxes and songs expose the folly and pretenses of the surrounding nobles."
+  },
+  {
+    "question": "In August Wilson's 'Fences', what major sport did Troy Maxson excel at in his youth before being denied access to the Major Leagues due to racial segregation?",
+    "options": {
+      "a": "Baseball",
+      "b": "Boxing",
+      "c": "Basketball",
+      "d": "American Football"
+    },
+    "answer": "a",
+    "explanation": "Troy Maxson was a phenomenal hitter in the Negro Baseball Leagues but aged out before Jackie Robinson broke Major League Baseball's racial barrier."
+  },
+  {
+    "question": "What symbolic role does the unfinished physical fence around Troy Maxson's yard serve in August Wilson's 'Fences'?",
+    "options": {
+      "a": "It represents Rose's desire to keep loved ones safely inside and Troy's battle to keep death and vulnerability out",
+      "b": "It marks the legal boundary line between Troy and his employer",
+      "c": "It is built solely to restrain Gabriel from blowing his trumpet",
+      "d": "It signifies Troy's ambition to become a commercial carpenter"
+    },
+    "answer": "a",
+    "explanation": "As Bono observes, some people build fences to keep people out, while others build them to keep people in; Rose seeks family solidarity, while Troy wards off mortality."
+  },
+  {
+    "question": "In John Osborne's 'Look Back in Anger', Jimmy Porter is widely regarded as the seminal archetype of Britain's ______",
+    "options": {
+      "a": "Angry Young Man",
+      "b": "Byronic Hero",
+      "c": "Lost Generation",
+      "d": "Renaissance Prince"
+    },
+    "answer": "a",
+    "explanation": "Jimmy Porter's vitriolic disillusionment with post-WWII class stratification made him the hallmark of the 'Angry Young Men' literary movement."
+  },
+  {
+    "question": "In 'Look Back in Anger', the playful, escapist private fantasy game that Jimmy and Alison engage in to express affection involves pretending to be ______",
+    "options": {
+      "a": "Bears and squirrels",
+      "b": "Lions and lambs",
+      "c": "Cats and mice",
+      "d": "Pilots and navigators"
+    },
+    "answer": "a",
+    "explanation": "Jimmy and Alison retreat into a world of simple affection through their ritualistic game of being a bear and a squirrel."
+  },
+  {
+    "question": "In William Shakespeare's 'Macbeth', what supernatural prophecy directly emboldens Macbeth with a false sense of invincibility until his final confrontation with Macduff?",
+    "options": {
+      "a": "That no man born of a woman shall harm Macbeth",
+      "b": "That he will rule Scotland until his hair turns silver",
+      "c": "That Duncan's heirs will never return from exile",
+      "d": "That Banquo's ghost will become king of England"
+    },
+    "answer": "a",
+    "explanation": "The Apparition conjured by the Witches assures Macbeth that 'none of woman born shall harm Macbeth', not realizing Macduff was delivered via Cesarean section."
+  },
+  {
+    "question": "In Buchi Emecheta's 'Second Class Citizen', what is the name of Adah's abusive, patriarchal husband in London?",
+    "options": {
+      "a": "Francis Obi",
+      "b": "Pa Noble",
+      "c": "Mr. Cole",
+      "d": "Babatunde"
+    },
+    "answer": "a",
+    "explanation": "Francis Obi is Adah's husband whose misogynistic and abusive behavior culminates in burning the manuscript of her novel, 'The Bride Price'."
+  },
+  {
+    "question": "What is Adah Obi's greatest childhood aspiration depicted in the early chapters of 'Second Class Citizen'?",
+    "options": {
+      "a": "To secure an education and travel to the United Kingdom",
+      "b": "To inherit her father's vast cocoa plantation",
+      "c": "To become a famous high-life dancer in Lagos",
+      "d": "To marry a wealthy politician from Abuja"
+    },
+    "answer": "a",
+    "explanation": "Despite being denied primary schooling initially because of her gender, Adah pursues an education and dreams persistently of traveling to the United Kingdom."
+  },
+  {
+    "question": "In Alex Agyei-Agyiri's 'Unexpected Joy at Dawn', the widespread mass deportation of undocumented West African immigrants from Nigeria in 1983 was popularised as ______",
+    "options": {
+      "a": "Ghana Must Go",
+      "b": "Operation Feed the Nation",
+      "c": "The Green Revolution",
+      "d": "The Alien Expulsion Treaty"
+    },
+    "answer": "a",
+    "explanation": "The 1983 Nigerian expulsion order forced over one million Ghanaian migrants out of the country, famously coining the term 'Ghana Must Go'."
+  },
+  {
+    "question": "In 'Unexpected Joy at Dawn', why is Nii Tackie unable to prove his Ghanaian citizenship despite having lived his entire life in Accra?",
+    "options": {
+      "a": "He bears Nigerian Yoruba tribal marks on his face",
+      "b": "He cannot speak the Ga and Twi languages",
+      "c": "He entered Ghana without valid travel clearance",
+      "d": "His name is registered in the archives of Lagos"
+    },
+    "answer": "a",
+    "explanation": "Nii Tackie possesses prominent Yoruba facial striations, causing xenophobic discrimination in Ghana, while back in Nigeria he is viewed as a foreigner."
+  },
+  {
+    "question": "In Amma Darko's novel 'Faceless', the tragic young girl murdered on the streets of Agbogbloshie whose gruesome death prompts the investigation is ______",
+    "options": {
+      "a": "Baby T",
+      "b": "Fofo",
+      "c": "Maa Tsuru",
+      "d": "Naa Yomo"
+    },
+    "answer": "a",
+    "explanation": "Baby T (born Patience) is Maa Tsuru's daughter who was forced into child prostitution and subsequently found murdered on the rubbish heaps of Agbogbloshie."
+  },
+  {
+    "question": "What is the central social pathology exposed in Amma Darko's 'Faceless'?",
+    "options": {
+      "a": "The plight, exploitation, and dehumanization of street children in urban Accra",
+      "b": "The military overthrow of a democratically elected regime",
+      "c": "The rivalry between traditional medicine men and modern hospitals",
+      "d": "The struggles of cocoa farmers against international cartels"
+    },
+    "answer": "a",
+    "explanation": "'Faceless' dramatizes the harrowing survival struggles and systemic neglect suffered by abandoned street youths in the slums of Accra."
+  },
+  {
+    "question": "In Chinua Achebe's 'Things Fall Apart', why is Okonkwo exiled from Umuofia for seven years to his motherland, Mbanta?",
+    "options": {
+      "a": "His dane gun accidentally exploded during Ezeudu's funeral, killing the deceased elder's sixteen-year-old son",
+      "b": "He deliberately desecrated the Sacred Python of the clan",
+      "c": "He killed the court messenger sent by the District Commissioner",
+      "d": "He refused to pay the fine imposed by the Egwugwu"
+    },
+    "answer": "a",
+    "explanation": "Okonkwo commits a female 'ochu' (inadvertent manslaughter) when his gun explodes and kills Ezeudu's son, mandating a seven-year banishment."
+  },
+  {
+    "question": "In Emily Brontë's 'Wuthering Heights', the wild, dark-skinned foundling brought home by Mr. Earnshaw who exacts brutal revenge on the Earnshaw and Linton families is ______",
+    "options": {
+      "a": "Heathcliff",
+      "b": "Hindley",
+      "c": "Edgar Linton",
+      "d": "Hareton"
+    },
+    "answer": "a",
+    "explanation": "Heathcliff is the orphan adopted from the streets of Liverpool whose passionate yet thwarted love for Catherine Earnshaw drives his vindictive retribution."
+  },
+  {
+    "question": "In George Orwell's 'Animal Farm', which industrious working-class cart-horse continually asserts 'I will work harder' and 'Napoleon is always right'?",
+    "options": {
+      "a": "Boxer",
+      "b": "Clover",
+      "c": "Benjamin",
+      "d": "Mollie"
+    },
+    "answer": "a",
+    "explanation": "Boxer embodies the loyal, self-sacrificing Russian working class whose unwavering trust in totalitarian leadership leads to his betrayal and sale to the knacker."
+  },
+  {
+    "question": "What single altered commandment replaces the original Seven Commandments on the barn wall at the conclusion of 'Animal Farm'?",
+    "options": {
+      "a": "'All animals are equal, but some animals are more equal than others'",
+      "b": "'Four legs good, two legs better'",
+      "c": "'No animal shall drink alcohol to excess'",
+      "d": "'No animal shall kill any other animal without cause'"
+    },
+    "answer": "a",
+    "explanation": "The pigs synthesize and distort all revolutionary principles into the quintessential totalitarian paradox: 'All animals are equal, but some animals are more equal than others'."
+  },
+  {
+    "question": "In Charles Dickens' 'Great Expectations', the eccentric, wealthy spinster who lives permanently secluded in her decaying wedding dress inside Satis House is ______",
+    "options": {
+      "a": "Miss Havisham",
+      "b": "Biddy",
+      "c": "Mrs. Joe Gargery",
+      "d": "Estella"
+    },
+    "answer": "a",
+    "explanation": "Miss Havisham was jilted by Compeyson on her wedding day and preserves her mansion in perpetual decay while raising Estella to break men's hearts."
+  },
+  {
+    "question": "In Gabriel Okara's poem 'Piano and Drums', what do the 'drums' and the 'piano' symbolize respectively?",
+    "options": {
+      "a": "Traditional African primal heritage and complex Western technical civilization",
+      "b": "Military conflict and religious tranquility",
+      "c": "Childhood innocence and senile decay",
+      "d": "Agricultural prosperity and maritime trade"
+    },
+    "answer": "a",
+    "explanation": "The raw, rhythmic pulse of the jungle drums symbolizes uncorrupted African ancestral roots, while the intricate, tear-furrowed piano notes signify intricate Western culture."
+  },
+  {
+    "question": "In David Rubadiri's poem 'An African Thunderstorm', how are the approaching stormy winds visually described in relation to the women's clothing?",
+    "options": {
+      "a": "Tossing their garments like pelicans flying against the gale",
+      "b": "Shredding their dresses into dark threads",
+      "c": "Freezing their wraps into blocks of ice",
+      "d": "Melting their shawls into the mud"
+    },
+    "answer": "a",
+    "explanation": "Rubadiri uses vivid simile to depict clothes clinging and snapping 'like pelicans flying' as women scurry frantically before the approaching tempest."
+  },
+  {
+    "question": "In Kofi Awoonor's poem 'The Cathedral', what does the massive foreign cathedral built upon the sacred grounds symbolize?",
+    "options": {
+      "a": "The disruptive imposition of European colonial religion over ancestral African spiritual heritage",
+      "b": "The technological modernization of traditional architecture",
+      "c": "The harmonious union of African and European faiths",
+      "d": "The establishment of democratic governance in the Gold Coast"
+    },
+    "answer": "a",
+    "explanation": "The poem mourns the cutting down of the sacred ancestral tree to erect an alien Christian cathedral, symbolizing imperial cultural erosion."
+  },
+  {
+    "question": "In William Wordsworth's 'Lines Composed a Few Miles above Tintern Abbey', the philosophical view that the divine presence infuses every aspect of nature is known as ______",
+    "options": {
+      "a": "Pantheism",
+      "b": "Deism",
+      "c": "Nihilism",
+      "d": "Existentialism"
+    },
+    "answer": "a",
+    "explanation": "Wordsworth's Romantic philosophy views nature as the living embodiment and spiritual vessel of the divine spirit (pantheism)."
+  },
+  {
+    "question": "In T.S. Eliot's 'The Journey of the Magi', how do the Three Wise Men view their return to their homeland after witnessing the Christ child?",
+    "options": {
+      "a": "They feel alienated and out of place among their own people clinging to old dispensations",
+      "b": "They are celebrated as national heroes and showered with honors",
+      "c": "They abandon their crowns to become wandering mendicants in Bethlehem",
+      "d": "They immediately conquer neighboring pagan principalities"
+    },
+    "answer": "a",
+    "explanation": "The speaker admits they are 'no longer at ease here, in the old dispensation, / With an alien people clutching their gods', capturing spiritual transformation and existential alienation."
+  },
+  {
+    "question": "In Maya Angelou's poem 'Caged Bird', the juxtaposition between the free bird and the caged bird serves as an extended metaphor for ______",
+    "options": {
+      "a": "The stark contrast between racial oppression and the unbridled privilege of freedom",
+      "b": "The rivalry between classical literature and modern journalism",
+      "c": "The physical difference between rural wildlife and domestic pets",
+      "d": "The generational divide between parents and rebellious children"
+    },
+    "answer": "a",
+    "explanation": "The caged bird with clipped wings and bound feet that sings of freedom symbolizes the Black American experience under systemic segregation and racism."
+  }
+]

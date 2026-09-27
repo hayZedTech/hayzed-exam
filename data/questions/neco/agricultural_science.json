@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Under the Land Use Act of 1978 in Nigeria, all land in the territory of each State is vested primarily in the",
+    "options": {
+      "a": "Federal Minister of Agriculture",
+      "b": "Executive Governor of the State",
+      "c": "Traditional rulers and chiefs",
+      "d": "Local Government Chairmen"
+    },
+    "answer": "b",
+    "explanation": "The Land Use Act of 1978 vests all land situated in the territory of each State in the Military Governor (now Executive Governor) of that State, to be held in trust for the people."
+  },
+  {
+    "question": "Which of the following is an edaphic factor influencing agricultural production?",
+    "options": {
+      "a": "Solar radiation",
+      "b": "Relative humidity",
+      "c": "Soil texture and structure",
+      "d": "Predatory insects"
+    },
+    "answer": "c",
+    "explanation": "Edaphic factors pertain specifically to the physical, chemical, and biological properties of the soil, such as texture, structure, pH, and organic matter content."
+  },
+  {
+    "question": "The weathering of limestone rocks into calcium hydrogen carbonate by rain water containing dissolved carbon dioxide is an example of",
+    "options": {
+      "a": "hydrolysis",
+      "b": "carbonation",
+      "c": "oxidation",
+      "d": "hydration"
+    },
+    "answer": "b",
+    "explanation": "Carbonation is the chemical reaction between carbonic acid (rainwater containing dissolved atmospheric CO2) and carbonate minerals such as calcite (CaCO3) in limestone."
+  },
+  {
+    "question": "In a typical mature soil profile, the horizon richest in decomposed organic matter and soil micro-organisms is the",
+    "options": {
+      "a": "A-horizon (topsoil)",
+      "b": "B-horizon (subsoil)",
+      "c": "C-horizon (weathered parent material)",
+      "d": "D-horizon (unweathered bedrock)"
+    },
+    "answer": "a",
+    "explanation": "The A-horizon (topsoil) contains the highest concentration of dark organic humus, root biological activity, and beneficial soil microbes."
+  },
+  {
+    "question": "A farmer observes that the older leaves of his maize plants exhibit general chlorosis (yellowing) starting from the tips along the midrib. Which nutrient element is deficient?",
+    "options": {
+      "a": "Phosphorus",
+      "b": "Potassium",
+      "c": "Nitrogen",
+      "d": "Zinc"
+    },
+    "answer": "c",
+    "explanation": "Nitrogen is a mobile macronutrient; when deficient, it translocates from older leaves to newer growing points, causing characteristic V-shaped chlorosis on older leaves."
+  },
+  {
+    "question": "Which of the following is classified as a plant micronutrient (trace element)?",
+    "options": {
+      "a": "Magnesium",
+      "b": "Calcium",
+      "c": "Molybdenum",
+      "d": "Phosphorus"
+    },
+    "answer": "c",
+    "explanation": "Molybdenum is an essential micronutrient needed in minute quantities as a cofactor for enzymes such as nitrogenase and nitrate reductase."
+  },
+  {
+    "question": "The agricultural practice of incorporating succulent green leguminous crops into the soil before flowering is known as",
+    "options": {
+      "a": "farmyard manuring",
+      "b": "green manuring",
+      "c": "composting",
+      "d": "crop mulching"
+    },
+    "answer": "b",
+    "explanation": "Green manuring is the ploughing under of fresh, immature green plants (typically legumes like Mucuna or Calopogonium) to enrich soil organic matter and nitrogen."
+  },
+  {
+    "question": "Which of the following liming materials is chemically known as calcium hydroxide?",
+    "options": {
+      "a": "Quicklime (CaO)",
+      "b": "Slaked lime [Ca(OH)2]",
+      "c": "Calcite (CaCO3)",
+      "d": "Dolomite [CaMg(CO3)2]"
+    },
+    "answer": "b",
+    "explanation": "Slaked lime is calcium hydroxide [Ca(OH)2], prepared by hydrating quicklime (calcium oxide) with water, and is widely applied to raise soil pH."
+  },
+  {
+    "question": "In tropical agriculture, which primary tillage implement is best suited for opening hard, stony, or root-filled virgin soils?",
+    "options": {
+      "a": "Mouldboard plough",
+      "b": "Disc plough",
+      "c": "Spike-tooth harrow",
+      "d": "Rotary cultivator"
+    },
+    "answer": "b",
+    "explanation": "Disc ploughs roll smoothly over buried stumps, tree roots, and stones without breaking, making them superior to mouldboard ploughs in tropical soils."
+  },
+  {
+    "question": "The standard length of a surveyor's Gunter's chain commonly used in farm surveying is",
+    "options": {
+      "a": "33 feet",
+      "b": "66 feet (100 links)",
+      "c": "100 feet",
+      "d": "132 feet"
+    },
+    "answer": "b",
+    "explanation": "A standard Gunter's chain measures 66 feet (20.12 metres) in length and consists of exactly 100 individual steel links."
+  },
+  {
+    "question": "Which farm storage structure is designed specifically for bulk storage of dried shelled grains under airtight, fumigated conditions?",
+    "options": {
+      "a": "Crib",
+      "b": "Barn",
+      "c": "Silo",
+      "d": "Rhombus"
+    },
+    "answer": "c",
+    "explanation": "Silos are cylindrical metal or concrete structures engineered for airtight, bulk storage of dried grains to protect against insect pests and rodent damage."
+  },
+  {
+    "question": "Cowpea (Vigna unguiculata) belongs to the botanical family",
+    "options": {
+      "a": "Poaceae (Gramineae)",
+      "b": "Fabaceae (Leguminosae)",
+      "c": "Solanaceae",
+      "d": "Malvaceae"
+    },
+    "answer": "b",
+    "explanation": "Cowpea is an economically vital grain legume belonging to the family Fabaceae (formerly Leguminosae), which associates with nitrogen-fixing bacteria."
+  },
+  {
+    "question": "The rapid multiplication technique developed by agronomists to produce numerous seed yams from cut mini-tubers is called the",
+    "options": {
+      "a": "tissue culture technique",
+      "b": "minisett technique",
+      "c": "layering technique",
+      "d": "budding technique"
+    },
+    "answer": "b",
+    "explanation": "The minisett technique involves cutting mother seed yam tubers into small 25 g to 50 g pieces (minisetts) treated with fungicide and wood ash to yield uniform seed yams."
+  },
+  {
+    "question": "The fungal disease characterized by brown or black rotting lesions on ripening pods of cocoa is caused by",
+    "options": {
+      "a": "Phytophthora palmivora",
+      "b": "Fusarium oxysporum",
+      "c": "Cercospora oryzae",
+      "d": "Puccinia polysora"
+    },
+    "answer": "a",
+    "explanation": "Black pod disease of cocoa (Theobroma cacao) is caused by the oomycete fungus Phytophthora palmivora (and Phytophthora megakarya), causing severe pod losses during wet seasons."
+  },
+  {
+    "question": "Which variety of oil palm (Elaeis guineensis) is a commercially cultivated hybrid with a thick mesocarp and a thin endocarp (shell)?",
+    "options": {
+      "a": "Dura",
+      "b": "Pisifera",
+      "c": "Tenera",
+      "d": "Macrocarpa"
+    },
+    "answer": "c",
+    "explanation": "Tenera is a cross between thick-shelled Dura and shell-less Pisifera; it has a thin shell ringed by fibre and a thick oil-rich mesocarp."
+  },
+  {
+    "question": "During the post-harvest processing of paddy rice, parboiling is performed to",
+    "options": {
+      "a": "dissolve the rice starch completely",
+      "b": "reduce grain breakage during milling and diffuse vitamins into the endosperm",
+      "c": "accelerate weed seed germination",
+      "d": "bleach the brown bran layer white"
+    },
+    "answer": "b",
+    "explanation": "Parboiling (soaking, steaming, drying) gelatinizes the starch granules, making grains tough against breakage during hulling while driving B-vitamins from the bran into the endosperm."
+  },
+  {
+    "question": "Cassava (Manihot esculenta) roots must be properly peeled, grated, pressed, and fermented before consumption in order to detoxify",
+    "options": {
+      "a": "solanine",
+      "b": "cyanogenic glucosides (linamarin)",
+      "c": "aflatoxin",
+      "d": "gossypol"
+    },
+    "answer": "b",
+    "explanation": "Cassava contains cyanogenic glucosides (linamarin and lotaustralin) which hydrolyze to toxic hydrocyanic acid (HCN); fermentation and roasting eliminate this poison."
+  },
+  {
+    "question": "Striga hermonthica (witchweed) is an economically destructive weed because it is an obligate",
+    "options": {
+      "a": "leaf epiphytic weed on cocoa",
+      "b": "root parasite on cereals like maize and sorghum",
+      "c": "stem climbing parasite on yam",
+      "d": "submerged aquatic weed"
+    },
+    "answer": "b",
+    "explanation": "Striga species are parasitic weeds whose haustoria penetrate the root systems of host cereal grasses (maize, sorghum, millet), sapping water, minerals, and carbohydrates."
+  },
+  {
+    "question": "The transmission of cassava mosaic disease is mediated by which insect vector?",
+    "options": {
+      "a": "Whitefly (Bemisia tabaci)",
+      "b": "Aphid (Aphis craccivora)",
+      "c": "Stem borer (Busseola fusca)",
+      "d": "Variegated grasshopper (Zonocerus variegatus)"
+    },
+    "answer": "a",
+    "explanation": "African cassava mosaic virus is transmitted from diseased to healthy plants by the whitefly (Bemisia tabaci) during sap feeding."
+  },
+  {
+    "question": "Which of the following is the true glandular stomach in a ruminant farm animal?",
+    "options": {
+      "a": "Rumen (paunch)",
+      "b": "Reticulum (honeycomb)",
+      "c": "Omasum (manyplies)",
+      "d": "Abomasum"
+    },
+    "answer": "d",
+    "explanation": "The abomasum is the fourth compartment of the ruminant stomach that secretes gastric juice, pepsin, and hydrochloric acid for true enzymatic chemical digestion."
+  },
+  {
+    "question": "In the digestive system of domestic fowl (Gallus domesticus), the primary organ responsible for mechanical grinding of feed is the",
+    "options": {
+      "a": "crop",
+      "b": "proventriculus",
+      "c": "gizzard (ventriculus)",
+      "d": "caecum"
+    },
+    "answer": "c",
+    "explanation": "The gizzard possesses thick muscular walls and a tough inner lining (koilin); with the aid of swallowed grit and pebbles, it grinds coarse feed particles."
+  },
+  {
+    "question": "In the reproductive system of a laying hen, the formation and calcification of the egg shell occurs in the",
+    "options": {
+      "a": "infundibulum",
+      "b": "magnum",
+      "c": "isthmus",
+      "d": "uterus (shell gland)"
+    },
+    "answer": "d",
+    "explanation": "The uterus (shell gland) is the region of the avian oviduct where the developing egg spends roughly 20 hours while calcium carbonate is deposited to form the hard shell."
+  },
+  {
+    "question": "The normal gestation period of a domestic sow (female pig) is approximately",
+    "options": {
+      "a": "30 days",
+      "b": "114 days (3 months, 3 weeks, 3 days)",
+      "c": "150 days",
+      "d": "283 days"
+    },
+    "answer": "b",
+    "explanation": "The gestation length of swine is classically memorized as 3 months, 3 weeks, and 3 days, corresponding to approximately 114 days."
+  },
+  {
+    "question": "The first thick, yellowish milk secreted by a female mammal immediately following parturition is known as",
+    "options": {
+      "a": "casein",
+      "b": "colostrum",
+      "c": "whey",
+      "d": "skimmed milk"
+    },
+    "answer": "b",
+    "explanation": "Colostrum is rich in maternal antibodies (immunoglobulins) that provide vital passive immunity to the newborn against pathogens during early life."
+  },
+  {
+    "question": "Livestock feedstuffs containing less than 18% crude fibre and high concentrations of digestible nutrients are classified as",
+    "options": {
+      "a": "roughages",
+      "b": "concentrates",
+      "c": "succulents",
+      "d": "silage"
+    },
+    "answer": "b",
+    "explanation": "Concentrates are dense feedstuffs (such as maize grain, soybean meal, and fishmeal) with high total digestible nutrients (TDN) and less than 18% crude fibre."
+  },
+  {
+    "question": "Newcastle disease in poultry is caused by a",
+    "options": {
+      "a": "virus",
+      "b": "bacterium",
+      "c": "protozoan",
+      "d": "nematode"
+    },
+    "answer": "a",
+    "explanation": "Newcastle disease is an acute, contagious viral infection of birds (an Avian Paramyxovirus) marked by respiratory distress, nervous signs, and green diarrhoea."
+  },
+  {
+    "question": "The protozoan parasite responsible for causing nagana (animal trypanosomiasis) in cattle is transmitted by the",
+    "options": {
+      "a": "housefly (Musca domestica)",
+      "b": "tsetse fly (Glossina species)",
+      "c": "mosquito (Anopheles species)",
+      "d": "sandfly (Phlebotomus species)"
+    },
+    "answer": "b",
+    "explanation": "Trypanosoma species (T. vivax, T. congolense, T. brucei) are transmitted biologically through the bite of infected adult tsetse flies belonging to the genus Glossina."
+  },
+  {
+    "question": "The intermediate host in the life cycle of the common liver fluke (Fasciola hepatica) is a",
+    "options": {
+      "a": "freshwater mud snail (Lymnaea species)",
+      "b": "dung beetle",
+      "c": "red water spider",
+      "d": "mosquito larva"
+    },
+    "answer": "a",
+    "explanation": "Miracidia larvae penetrate freshwater amphibious mud snails (Lymnaea truncatula), which act as obligate intermediate hosts where asexual multiplication takes place."
+  },
+  {
+    "question": "Which of the following ectoparasites of livestock is a known biological vector of bovine babesiosis (redwater disease)?",
+    "options": {
+      "a": "Louse",
+      "b": "Flea",
+      "c": "Blue tick (Boophilus microplus)",
+      "d": "Mite"
+    },
+    "answer": "c",
+    "explanation": "Ticks (specifically Boophilus species) transmit Babesia bovis and Babesia bigemina, the intraerythrocytic protozoan parasites causing babesiosis or redwater fever."
+  },
+  {
+    "question": "The surgical removal or crushing of the spermatic cords of male farm animals is termed",
+    "options": {
+      "a": "docking",
+      "b": "castration",
+      "c": "dehorning",
+      "d": "culling"
+    },
+    "answer": "b",
+    "explanation": "Castration renders male animals sterile, calming aggressive behaviour, improving carcass meat quality, and eliminating unselected breeding."
+  },
+  {
+    "question": "The economic principle which states that as successive units of a variable factor are added to a fixed factor of production, addition to total product will eventually diminish is the",
+    "options": {
+      "a": "Law of Demand",
+      "b": "Law of Diminishing Marginal Returns",
+      "c": "Principle of Comparative Advantage",
+      "d": "Law of Equi-marginal Utility"
+    },
+    "answer": "b",
+    "explanation": "The Law of Diminishing Marginal Returns dictates that beyond a certain point, extra variable inputs (e.g., fertilizer) applied to a fixed land area yield progressively smaller increases in yield."
+  },
+  {
+    "question": "A farm accounting statement that shows the total assets, total liabilities, and net worth (equity) of a farm enterprise on a given calendar date is the",
+    "options": {
+      "a": "profit and loss account",
+      "b": "balance sheet",
+      "c": "cash flow statement",
+      "d": "farm production ledger"
+    },
+    "answer": "b",
+    "explanation": "A balance sheet presents a snapshot of a farm's financial condition at a specific point in time, showing that Total Assets = Total Liabilities + Net Worth."
+  },
+  {
+    "question": "The continuous decline in the monetary value of farm machinery due to wear and tear, age, and obsolescence is known as",
+    "options": {
+      "a": "appreciation",
+      "b": "depreciation",
+      "c": "amortization",
+      "d": "interest"
+    },
+    "answer": "b",
+    "explanation": "Depreciation represents the accounting loss in monetary value of capital assets (such as tractors and planters) over their useful economic lifespan."
+  },
+  {
+    "question": "Which of the following agricultural extension teaching methods is categorized as a mass media method?",
+    "options": {
+      "a": "Farm visit to a farmer's home",
+      "b": "Result demonstration",
+      "c": "Method demonstration on a test plot",
+      "d": "Radio broadcast programme"
+    },
+    "answer": "d",
+    "explanation": "Radio broadcasts, farm newspaper articles, and television are mass contact methods capable of disseminating agricultural information to tens of thousands of farmers rapidly."
+  },
+  {
+    "question": "The hormonal induction of artificial breeding and spawning in cultured catfish (Clarias gariepinus) is known as",
+    "options": {
+      "a": "hypophysation",
+      "b": "electrofishing",
+      "c": "fingerling grading",
+      "d": "liming"
+    },
+    "answer": "a",
+    "explanation": "Hypophysation involves injecting ripe broodstock with pituitary gland extract (or synthetic gonadotropin analogues) to induce ovulation and milt production."
+  },
+  {
+    "question": "The practice of combining the establishment of valuable timber trees with the simultaneous cultivation of arable food crops on the same land parcel is called the",
+    "options": {
+      "a": "silvopastoral system",
+      "b": "taungya system",
+      "c": "pasture paddock system",
+      "d": "monoculture forestry"
+    },
+    "answer": "b",
+    "explanation": "The taungya system allows peasant farmers to cultivate temporary arable crops between rows of young forestry tree seedlings until canopy closure."
+  },
+  {
+    "question": "The process of preserving green forage crops under anaerobic conditions by controlled lactic acid fermentation is known as",
+    "options": {
+      "a": "haymaking",
+      "b": "ensiling (silage production)",
+      "c": "pelleting",
+      "d": "roasting"
+    },
+    "answer": "b",
+    "explanation": "Ensiling involves compacting chopped succulent green fodder in a silo to exclude oxygen, enabling lactic acid bacteria to ferment sugars and preserve the feed as silage."
+  },
+  {
+    "question": "Which of the following breeds of cattle is indigenous to northern Nigeria and recognized for its distinctive white coat, black points, and prominent cervicothoracic hump?",
+    "options": {
+      "a": "White Fulani (Bunaji)",
+      "b": "N'Dama",
+      "c": "Muturu",
+      "d": "Holstein Friesian"
+    },
+    "answer": "a",
+    "explanation": "The White Fulani (Bunaji) is a widespread Zebu breed in Nigeria characterized by lyre-shaped horns, white hair coat with black pigmentation on eyes, muzzle, and hooves."
+  },
+  {
+    "question": "Which of the following is a non-parasitic protozoan infection affecting the intestinal mucosa of young poultry chicks and causing bloody droppings?",
+    "options": {
+      "a": "Coccidiosis",
+      "b": "Gumboro disease",
+      "c": "Fowl typhoid",
+      "d": "Aspergillosis"
+    },
+    "answer": "a",
+    "explanation": "Coccidiosis is caused by protozoan parasites of the genus Eimeria; it destroys epithelial cells in the intestinal mucosa, leading to bloody diarrhoea and high chick mortality."
+  },
+  {
+    "question": "The removal of lower, unhealthy, or unwanted branches from the trunk of a growing plantation tree to improve timber quality is termed",
+    "options": {
+      "a": "coppicing",
+      "b": "pollarding",
+      "c": "pruning",
+      "d": "thinning"
+    },
+    "answer": "c",
+    "explanation": "Pruning removes dead, diseased, or excess side branches to produce straight, knot-free high-grade timber logs."
+  },
+  {
+    "question": "Which of the following soil constituents has the highest cation exchange capacity (CEC) and highest water-holding capacity?",
+    "options": {
+      "a": "Coarse sand",
+      "b": "Fine gravel",
+      "c": "Humus (soil organic matter)",
+      "d": "Silt"
+    },
+    "answer": "c",
+    "explanation": "Humus is an amorphous colloidal organic substance with a very high specific surface area and electronegative charge sites, giving it the highest CEC."
+  },
+  {
+    "question": "Which disease of groundnut is transmitted by aphids and causes severe stunting and chlorotic mottling of leaves?",
+    "options": {
+      "a": "Groundnut rosette disease",
+      "b": "Tikka leaf spot",
+      "c": "Bacterial wilt",
+      "d": "Collar rot"
+    },
+    "answer": "a",
+    "explanation": "Groundnut rosette disease is caused by a complex of viral agents transmitted by the groundnut aphid (Aphis craccivora)."
+  },
+  {
+    "question": "The device fitted to the front or rear of a farm tractor that enables implements to be raised, lowered, and held at set working depths is the",
+    "options": {
+      "a": "three-point linkage hydraulic system",
+      "b": "differential lock",
+      "c": "clutch pedal",
+      "d": "governor"
+    },
+    "answer": "a",
+    "explanation": "The three-point linkage system consists of two lower lift arms and one top link, hydraulically operated to attach and control mounted field implements."
+  },
+  {
+    "question": "The botanical name for rubber, an important tree crop grown in the southern rain forest zone of Nigeria for latex, is",
+    "options": {
+      "a": "Hevea brasiliensis",
+      "b": "Theobroma cacao",
+      "c": "Coffea canephora",
+      "d": "Elaeis guineensis"
+    },
+    "answer": "a",
+    "explanation": "Hevea brasiliensis (Para rubber tree) is the primary commercial source of natural rubber latex, cultivated in plantation agro-ecological zones."
+  },
+  {
+    "question": "Which insect pest lays its eggs inside the floral buds and developing pods of cowpeas, causing extensive premature pod dropping?",
+    "options": {
+      "a": "Maruca vitrata (legume pod borer)",
+      "b": "Zonocerus variegatus",
+      "c": "Callosobruchus maculatus (cowpea storage weevil)",
+      "d": "Pachnoda cordata"
+    },
+    "answer": "a",
+    "explanation": "The legume pod borer (Maruca vitrata) is a destructive field pest whose larvae bore into flowers, peduncles, and pods, severely depressing grain yield."
+  },
+  {
+    "question": "Which of the following is a primary objective of animal quarantine regulations enforced at international borders?",
+    "options": {
+      "a": "To collect veterinary import duties",
+      "b": "To prevent the introduction and transboundary spread of contagious animal diseases",
+      "c": "To inspect the pedigree registration papers of animals",
+      "d": "To weigh imported livestock"
+    },
+    "answer": "b",
+    "explanation": "Quarantine enforces strict biological isolation and veterinary health screening of imported animals to intercept infectious foreign pathogens."
+  },
+  {
+    "question": "The moisture content recommended for the safe, prolonged storage of cereal grains in tropical granaries is approximately",
+    "options": {
+      "a": "10% to 12%",
+      "b": "20% to 25%",
+      "c": "30% to 35%",
+      "d": "40% to 50%"
+    },
+    "answer": "a",
+    "explanation": "Moisture levels of 10% to 12% suppress fungal mycelial growth, mould spore germination, and insect proliferation during grain storage."
+  },
+  {
+    "question": "In farm planning, an enterprise budget is prepared specifically to estimate the projected costs and returns of",
+    "options": {
+      "a": "the entire farm business across five years",
+      "b": "a single specific crop or livestock enterprise",
+      "c": "the household domestic budget",
+      "d": "the national agricultural budget"
+    },
+    "answer": "b",
+    "explanation": "An enterprise budget itemizes all the variable and fixed costs alongside expected revenues for a specific enterprise (e.g., one hectare of cassava or 500 broilers)."
+  },
+  {
+    "question": "Which modern beehive design incorporates removable wooden frames that can be lifted out individually without crushing the comb structure?",
+    "options": {
+      "a": "Traditional straw skep",
+      "b": "Langstroth movable-frame hive",
+      "c": "Clay pot hive",
+      "d": "Hollow log hive"
+    },
+    "answer": "b",
+    "explanation": "The Langstroth hive utilizes precise 'bee space' dimensions between removable frames, permitting clean inspection and honey extraction without destroying brood combs."
+  },
+  {
+    "question": "The botanical name for the cultivated sweet potato is",
+    "options": {
+      "a": "Ipomoea batatas",
+      "b": "Dioscorea alata",
+      "c": "Solanum tuberosum",
+      "d": "Colocasia esculenta"
+    },
+    "answer": "a",
+    "explanation": "Sweet potato belongs to the Convolvulaceae family and is botanically classified as Ipomoea batatas (distinct from Irish potato, Solanum tuberosum)."
+  }
+]

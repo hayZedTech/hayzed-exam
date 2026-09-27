@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which fundamental element of art refers to the relative lightness or darkness of a hue, neutral gray, or surface tone in an artwork?",
+    "options": {
+      "a": "Intensity",
+      "b": "Value",
+      "c": "Chroma",
+      "d": "Texture"
+    },
+    "answer": "b",
+    "explanation": "Value (or tone) denotes the degree of lightness or darkness in an artwork, ranging from pure white through intermediate grays to absolute black, creating three-dimensional volume and contrast."
+  },
+  {
+    "question": "The visual or tactile surface quality of an art piece, described with terms such as rough, smooth, coarse, glossy, or matte, is defined as:",
+    "options": {
+      "a": "Texture",
+      "b": "Form",
+      "c": "Pattern",
+      "d": "Gradient"
+    },
+    "answer": "a",
+    "explanation": "Texture refers to the actual tactile feel of a physical surface (actual texture) or the visual representation of surface characteristics on a two-dimensional plane (simulated texture)."
+  },
+  {
+    "question": "When visual elements on opposite sides of a central dividing axis are identical or near-identical mirror reflections of each other, the design achieves:",
+    "options": {
+      "a": "Asymmetrical balance",
+      "b": "Symmetrical (formal) balance",
+      "c": "Radial balance",
+      "d": "Dynamic disproportion"
+    },
+    "answer": "b",
+    "explanation": "Symmetrical balance (formal or bilateral balance) occurs when identical or mirror-image compositional elements are arranged on either side of a central vertical or horizontal dividing axis."
+  },
+  {
+    "question": "In subtractive color theory, mixing equal proportions of any two primary colors (red, yellow, blue) produces a:",
+    "options": {
+      "a": "Tertiary color",
+      "b": "Secondary color",
+      "c": "Neutral hue",
+      "d": "Monochromatic tint"
+    },
+    "answer": "b",
+    "explanation": "Secondary colors (orange, green, violet/purple) are created by mixing equal amounts of two adjacent primary colors: red + yellow = orange, yellow + blue = green, blue + red = violet."
+  },
+  {
+    "question": "Colors that sit directly opposite each other on the standard twelve-hue color wheel (such as blue and orange, or red and green) are described as:",
+    "options": {
+      "a": "Analogous colors",
+      "b": "Complementary colors",
+      "c": "Triadic hues",
+      "d": "Monochromatic shades"
+    },
+    "answer": "b",
+    "explanation": "Complementary colors lie opposite each other on the color wheel. When placed adjacent in a design, they create maximum contrast and mutual vibrancy; when blended, they neutralize each other."
+  },
+  {
+    "question": "In atmospheric perspective and color psychology, warm colors (red, orange, yellow) generally create the optical illusion of:",
+    "options": {
+      "a": "Receding backward into deep space",
+      "b": "Advancing forward toward the viewer",
+      "c": "Becoming transparent and desaturated",
+      "d": "Dissolving along the horizon line"
+    },
+    "answer": "b",
+    "explanation": "Warm colors have longer optical wavelengths and appear to advance toward the viewer's eye, whereas cool colors (blue, green, violet) appear to recede into the distance."
+  },
+  {
+    "question": "The optical phenomenon whereby distant landscape features appear paler, bluer, and less distinct due to the scattering of light through intervening atmosphere is termed:",
+    "options": {
+      "a": "Linear perspective",
+      "b": "Aerial or atmospheric perspective",
+      "c": "Isometric projection",
+      "d": "Anamorphic distortion"
+    },
+    "answer": "b",
+    "explanation": "Aerial (atmospheric) perspective simulates spatial depth by rendering distant objects with reduced contrast, lower color saturation, and bluish-gray tones caused by moisture and particles in the air."
+  },
+  {
+    "question": "In one-point and two-point linear perspective drawing, the theoretical point located along the horizon line where receding parallel lines appear to converge is the:",
+    "options": {
+      "a": "Station point",
+      "b": "Vanishing point",
+      "c": "Picture plane",
+      "d": "Focal apex"
+    },
+    "answer": "b",
+    "explanation": "The vanishing point is the point on the horizon line (at eye level) where orthogonal lines that are parallel in three-dimensional space appear to meet and converge in a perspective rendering."
+  },
+  {
+    "question": "The optical distortion technique used in drawing where an object or human limb is represented as compressed or shortened to portray it pointing directly toward or away from the viewer is called:",
+    "options": {
+      "a": "Sfumato",
+      "b": "Foreshortening",
+      "c": "Impasto",
+      "d": "Tenebrism"
+    },
+    "answer": "b",
+    "explanation": "Foreshortening is an application of perspective that visually compresses the length of an object, torso, or limb extending toward or away from the spectator to create convincing three-dimensional depth."
+  },
+  {
+    "question": "Which graphic shading technique creates tonal depth and modeling through dense, intersecting series of parallel drawn lines?",
+    "options": {
+      "a": "Stippling",
+      "b": "Cross-hatching",
+      "c": "Burnishing",
+      "d": "Scumbling"
+    },
+    "answer": "b",
+    "explanation": "Cross-hatching involves drawing intersecting arrays of parallel lines at opposing angles; closer and denser intersections produce deeper values, shadows, and anatomical contours."
+  },
+  {
+    "question": "Which Renaissance drawing and painting technique uses bold, dramatic contrasts between bright illumination and deep dark shadows to sculpt volumetric form?",
+    "options": {
+      "a": "Fresco secco",
+      "b": "Chiaroscuro",
+      "c": "Pointillism",
+      "d": "Intaglio"
+    },
+    "answer": "b",
+    "explanation": "Chiaroscuro (Italian for 'light-dark') is the masterful handling of strong contrast between light and dark areas to model three-dimensional solids realistically on a flat two-dimensional surface."
+  },
+  {
+    "question": "In subtractive and additive sculpture, what is the internal rigid skeleton or support framework (typically fabricated from wire, wood, or metal) called?",
+    "options": {
+      "a": "Plinth",
+      "b": "Armature",
+      "c": "Casting core",
+      "d": "Grog"
+    },
+    "answer": "b",
+    "explanation": "An armature is an inner skeleton or underlying frame (made of malleable metal wire, wood, or pipe) that provides structural stability to hold plastic modeling media like wet clay, wax, or plaster."
+  },
+  {
+    "question": "A relief sculpture in which carved or modeled figures project dramatically outward from the background plane by more than fifty percent of their true depth is classified as:",
+    "options": {
+      "a": "Bas-relief (low relief)",
+      "b": "Alto-relievo (high relief)",
+      "c": "Sunken (intaglio) relief",
+      "d": "Counter-relief"
+    },
+    "answer": "b",
+    "explanation": "Alto-relievo (high relief) features forms that stand out prominently from the background surface, often with parts fully undercut and detached from the ground, unlike bas-relief which remains shallow."
+  },
+  {
+    "question": "Which ancient archaeological terracotta culture, flourishing between 500 BC and 200 AD in Kaduna and Plateau States, represents the earliest known terracotta sculptural tradition in Sub-Saharan Africa?",
+    "options": {
+      "a": "Igbo-Ukwu culture",
+      "b": "Nok culture",
+      "c": "Daima culture",
+      "d": "Esie culture"
+    },
+    "answer": "b",
+    "explanation": "The Nok culture of central Nigeria, discovered in 1928 during tin-mining operations near the village of Nok, produced magnificent terracotta heads and figurines dating from approximately 500 BC to 200 AD."
+  },
+  {
+    "question": "A distinct stylistic characteristic universally identifying human heads in Nok terracotta sculpture is:",
+    "options": {
+      "a": "Smooth featureless facial contours without perforations",
+      "b": "Pierced pupils, nostrils, and ear cavities with triangular or inverted oval outlines",
+      "c": "Elongated beards woven with tiny bronze bells",
+      "d": "Flat geometric disk faces lacking eyebrows"
+    },
+    "answer": "b",
+    "explanation": "Nok terracotta sculptures are stylized by hollow interiors and pierced triangular or oval-shaped eyes, perforated pupils, pierced nostrils, and open ear orifices that allowed heat and gases to vent during firing."
+  },
+  {
+    "question": "The magnificent 9th-century AD leaded bronze artifacts excavated by British archaeologist Thurstan Shaw in Anambra State were originally discovered in 1938 by:",
+    "options": {
+      "a": "Bernard Fagg",
+      "b": "Isaiah Anozie",
+      "c": "Leo Frobenius",
+      "d": "Kenneth Murray"
+    },
+    "answer": "b",
+    "explanation": "In 1938, Isaiah Anozie was digging a water cistern in his compound at Igbo-Ukwu, Anambra State, when he unearthed ornate bronze treasures, later scientifically excavated by Thurstan Shaw."
+  },
+  {
+    "question": "Which celebrated bronze artifact recovered from the Igbo-Ukwu excavations displays an intricately cast outer openwork roping pattern enclosing a ceremonial vessel?",
+    "options": {
+      "a": "Bronze roped pot on a pedestal",
+      "b": "Seated Tada bronze figure",
+      "c": "Queen Idia commemorative plaque",
+      "d": "Olokun bronze head"
+    },
+    "answer": "a",
+    "explanation": "The Igbo-Ukwu bronze roped pot is an iconic metallurgical masterpiece: a water pot adorned with delicate raised knots and enclosed in an intricate, freestanding openwork cage of cast bronze rope."
+  },
+  {
+    "question": "The classical brass and terracotta portrait sculptures of ancient Ile-Ife (dating from the 12th to 15th centuries AD) are globally acclaimed for their unprecedented:",
+    "options": {
+      "a": "Grotesque cubist distortion",
+      "b": "Naturalistic realism and lifelike human proportions",
+      "c": "Abstract two-dimensional flatness",
+      "d": "Rigid geometric asymmetry"
+    },
+    "answer": "b",
+    "explanation": "Ancient Ife brass and terracotta heads exhibit an exquisite, highly refined naturalism that captures subtle anatomical details, flesh contours, and serene facial expressions with lifelike precision."
+  },
+  {
+    "question": "The delicate, parallel vertical grooves running down the faces of several classical Ile-Ife bronze and terracotta royal portrait heads represent:",
+    "options": {
+      "a": "Accidental carving marks from wooden chisels",
+      "b": "Ritual facial scarification or striation marks",
+      "c": "Corrosion cracks caused by groundwater acids",
+      "d": "Representation of streaming tears of mourning"
+    },
+    "answer": "b",
+    "explanation": "The fine, uniform vertical lines etched across Ife heads represent ritual scarification (striations), a mark of high royal lineage, nobility, or lineage identity in ancient Yoruba society."
+  },
+  {
+    "question": "The world-renowned 16th-century ivory pendant mask depicting Queen Mother Idia, chosen as the official symbol of the Second World Black and African Festival of Arts and Culture (FESTAC '77), originates from:",
+    "options": {
+      "a": "Kingdom of Dahomey",
+      "b": "Kingdom of Benin",
+      "c": "Oyo Empire",
+      "d": "Calabar Kingdom"
+    },
+    "answer": "b",
+    "explanation": "The Queen Mother Idia ivory mask was carved in the 16th century during the reign of her son, Oba Esigie of the Kingdom of Benin, and served as the celebrated cultural emblem of FESTAC '77 in Lagos."
+  },
+  {
+    "question": "During which military expedition did British imperial forces invade Benin City, burn the royal palace, and loot thousands of historic bronze plaques and ivory sculptures?",
+    "options": {
+      "a": "The Aro Expedition of 1901",
+      "b": "The British Punitive Expedition of 1897",
+      "c": "The Ijebu War of 1892",
+      "d": "The Berlin Conference of 1884"
+    },
+    "answer": "b",
+    "explanation": "In February 1897, the British military launched the Benin Punitive Expedition under Admiral Harry Rawson, destroying Benin City and looting thousands of royal bronze and ivory masterworks into Western museums."
+  },
+  {
+    "question": "The largest documented collection of ancient carved soapstone (steatite) human figurines in Africa, numbering over a thousand figures, was discovered at:",
+    "options": {
+      "a": "Nok in Kaduna State",
+      "b": "Esie in Kwara State",
+      "c": "Igbo-Ukwu in Anambra State",
+      "d": "Tada in Niger State"
+    },
+    "answer": "b",
+    "explanation": "The Esie stone figures in Kwara State comprise the largest cache of soapstone sculptures in Sub-Saharan Africa, depicting men, women, and musicians sitting on stools and engaged in daily activities."
+  },
+  {
+    "question": "The famous seated copper figure discovered in the Nupe village of Tada along the Niger River, associated with the legendary hero Tsoede, shows strong stylistic kinship with the art of:",
+    "options": {
+      "a": "Nok",
+      "b": "Ile-Ife",
+      "c": "Igbo-Ukwu",
+      "d": "Benin"
+    },
+    "answer": "b",
+    "explanation": "The Seated Figure of Tada is a masterpiece cast in nearly pure copper; its relaxed pose, flowing anatomical modeling, and facial serenity demonstrate unmistakable artistic affinity with classical Ife bronze casting."
+  },
+  {
+    "question": "In traditional Owerri-Igbo communities, the ceremonial mud shrines decorated with vivid polychrome murals and modeled clay sculptures built to honor the earth goddess Ala are called:",
+    "options": {
+      "a": "Obiri",
+      "b": "Mbari houses",
+      "c": "Ilo shrines",
+      "d": "Efe compounds"
+    },
+    "answer": "b",
+    "explanation": "Mbari is a sacred community art tradition among the Owerri Igbo where elaborate open-sided clay pavilions containing painted mud statues are erected to honor Ala, the earth goddess, and seek cosmic renewal."
+  },
+  {
+    "question": "Which ethnic group in Kebbi State is celebrated for producing anthropomorphic and zoomorphic funerary terracotta sculptures erected atop grave mounds?",
+    "options": {
+      "a": "Nupe",
+      "b": "Dakakari",
+      "c": "Kanuri",
+      "d": "Gwari"
+    },
+    "answer": "b",
+    "explanation": "The Dakakari (Lela) people of Kebbi State are famed for their grave pottery (tomb pottery), sculpting dramatic terracotta figures of horses, elephants, and human effigies placed on the graves of prominent chiefs."
+  },
+  {
+    "question": "The sacred Golden Stool (Sika Dwa Kofi), revered as the earthly dwelling place of the collective soul and destiny of the nation, belongs to the:",
+    "options": {
+      "a": "Yoruba of Nigeria",
+      "b": "Ashanti of Ghana",
+      "c": "Fante of Ivory Coast",
+      "d": "Ewe of Togo"
+    },
+    "answer": "b",
+    "explanation": "The Golden Stool (Sika Dwa Kofi) is the supreme royal throne and sacred emblem of the Ashanti (Asante) Kingdom in Ghana, said to have descended from the sky through the high priest Okomfo Anokye."
+  },
+  {
+    "question": "Who is universally venerated as the 'Father of Modern Nigerian Art' for successfully campaigning for the introduction of formal Western art education in colonial Nigerian secondary schools?",
+    "options": {
+      "a": "Ben Enwonwu",
+      "b": "Chief Aina Onabolu",
+      "c": "Akinola Lasekan",
+      "d": "Bruce Onobrakpeya"
+    },
+    "answer": "b",
+    "explanation": "Chief Aina Onabolu (1882-1963) pioneered modern art in Nigeria, proving that Africans could master Western perspective and realistic portraiture, and established formal art teaching in King's College and CMS Grammar School."
+  },
+  {
+    "question": "Which pioneer Nigerian graphic artist and painter gained widespread acclaim for publishing satirical political cartoons for Nnamdi Azikiwe's newspaper, the 'West African Pilot'?",
+    "options": {
+      "a": "Kenneth Murray",
+      "b": "Akinola Lasekan",
+      "c": "Erhabor Emokpae",
+      "d": "Josy Ajiboye"
+    },
+    "answer": "b",
+    "explanation": "Akinola Lasekan (1916-1972) was Nigeria's premier editorial cartoonist and painter, using visual satire in the West African Pilot to fuel nationalist agitation against British colonial rule."
+  },
+  {
+    "question": "Which eminent Nigerian sculptor and painter was commissioned to sculpt the bronze statue of Queen Elizabeth II in 1956 and created the monumental bronze statue of 'Sango' outside the Power Holding headquarters in Lagos?",
+    "options": {
+      "a": "Demas Nwoko",
+      "b": "Ben Enwonwu",
+      "c": "Yusuf Grillo",
+      "d": "Uche Okeke"
+    },
+    "answer": "b",
+    "explanation": "Benedict Chukwukadibia Enwonwu MBE (1917-1994) was an internationally acclaimed Nigerian master artist who sculpted Queen Elizabeth II, 'Anyanwu' at the National Museum Lagos, and the bronze 'Sango' deity."
+  },
+  {
+    "question": "In 1958, progressive fine art students at the Nigerian College of Arts, Science and Technology (NCAST), Zaria revolted against Western-dominated curricula to form the:",
+    "options": {
+      "a": "Mbari Club",
+      "b": "Zaria Art Society",
+      "c": "Oshogbo Sacred Art Group",
+      "d": "Nsukka School of Drawing"
+    },
+    "answer": "b",
+    "explanation": "The Zaria Art Society was formed in October 1958 by student rebels (including Uche Okeke, Bruce Onobrakpeya, Demas Nwoko, and Yusuf Grillo) seeking to liberate African art from European academic dogma."
+  },
+  {
+    "question": "The foundational aesthetic ideology formulated by the Zaria Art Society, advocating the creative synthesis of indigenous African cultural traditions with European artistic techniques, is known as:",
+    "options": {
+      "a": "Pan-African Realism",
+      "b": "Natural Synthesis",
+      "c": "Afrocentric Primitivism",
+      "d": "Socialist Modernism"
+    },
+    "answer": "b",
+    "explanation": "'Natural Synthesis' was the philosophical doctrine articulated by Uche Okeke and the Zaria Art Society, proposing that modern Nigerian artists should consciously blend the best of their indigenous heritage with Western methods."
+  },
+  {
+    "question": "Which member of the Zaria Art Society pioneered the revival of traditional Igbo 'Uli' body and wall painting motifs in modern drawing, graphics, and painting?",
+    "options": {
+      "a": "Bruce Onobrakpeya",
+      "b": "Uche Okeke",
+      "c": "Simon Okeke",
+      "d": "Demas Nwoko"
+    },
+    "answer": "b",
+    "explanation": "Uche Okeke (1933-2016) researched traditional Igbo Uli linear murals and body painting, transforming its delicate calligraphic lines and abstract geometric idioms into the cornerstone of modern Nigerian drawing."
+  },
+  {
+    "question": "Which renowned Nigerian printmaker and master artist developed innovative printmaking and sculptural relief techniques known as 'Plastocast', 'Plastograph', and metal foil deep etching?",
+    "options": {
+      "a": "Jimoh Buraimoh",
+      "b": "Bruce Onobrakpeya",
+      "c": "Kolade Oshinowo",
+      "d": "Dele Jegede"
+    },
+    "answer": "b",
+    "explanation": "Bruce Onobrakpeya is celebrated for inventing original printmaking techniques like Plastocast (low-relief resin castings) and metal foil relief, illustrating Urhobo folklore and Nigerian historical themes."
+  },
+  {
+    "question": "Which Nigerian painter and master of stained glass murals was renowned for his geometric figurative compositions painted in distinctive shades of blue, violet, and green?",
+    "options": {
+      "a": "Aina Onabolu",
+      "b": "Yusuf Grillo",
+      "c": "Twins Seven-Seven",
+      "d": "Muraina Oyelami"
+    },
+    "answer": "b",
+    "explanation": "Yusuf Grillo (1934-2021) served as the founding president of the Society of Nigerian Artists; his signature paintings feature dignified, elongated figures bathed in serene blues, purples, and emerald greens."
+  },
+  {
+    "question": "Which master traditional Yoruba sculptor from Ila-Orangun achieved international renown for carving monumental carved wooden palace doors, veranda posts, and church altarpieces?",
+    "options": {
+      "a": "Olowe of Ise",
+      "b": "Lamidi Fakeye",
+      "c": "Bamidele Arowoogun",
+      "d": "Areogun of Osi-Ilorin"
+    },
+    "answer": "b",
+    "explanation": "Lamidi Fakeye (1928-2009) was a fifth-generation Yoruba master woodcarver whose neo-traditional carvings of warriors, mothers, and masquerades adorn university halls, palaces, and global art centers."
+  },
+  {
+    "question": "Which acclaimed Nigerian traditional potter from Suleja (Niger State) achieved global fame for her wheel-free glazed stoneware pottery and was honored on the Nigerian 20 Naira banknote?",
+    "options": {
+      "a": "Ladi Kwali",
+      "b": "Susanne Wenger",
+      "c": "Nike Davies-Okundaye",
+      "d": "Colette Omogbai"
+    },
+    "answer": "a",
+    "explanation": "Dr. Ladi Kwali (1925-1984) mastered traditional Gwari hand-built coiling pottery at the Abuja (Suleja) Pottery Centre founded by Michael Cardew, winning international acclaim; her portrait graces the 20 Naira note."
+  },
+  {
+    "question": "The Austrian-born artist and Osun priestess who dedicated over four decades to restoring and constructing monumental figurative sculptures throughout the Sacred Osun-Osogbo Grove was:",
+    "options": {
+      "a": "Georgina Beier",
+      "b": "Susanne Wenger",
+      "c": "Gertrude Stein",
+      "d": "Margaret Trowell"
+    },
+    "answer": "b",
+    "explanation": "Susanne Wenger (Adunni Olorisha, 1915-2009) settled in Osogbo, joined the Osun priesthood, and collaborated with local artists to erect soaring cement and stone sculptures preserving the sacred grove."
+  },
+  {
+    "question": "Which prominent artist from the 1960s Oshogbo art movement pioneered the use of traditional glass beads and yarn glued to board to create unique bead-mosaic paintings?",
+    "options": {
+      "a": "Twins Seven-Seven",
+      "b": "Jimoh Buraimoh",
+      "c": "Muraina Oyelami",
+      "d": "Rufus Ogundele"
+    },
+    "answer": "b",
+    "explanation": "Chief Jimoh Buraimoh pioneered the medium of bead painting in 1964, embedding tiny glass beads into plywood coated with resin to craft luminous mosaics depicting African myths and social scenes."
+  },
+  {
+    "question": "The prehistoric cave complex in southwestern France famous for Upper Paleolithic polychrome wall paintings of bulls, horses, and aurochs dating back roughly 17,000 years is:",
+    "options": {
+      "a": "Altamira Cave",
+      "b": "Lascaux Caves",
+      "c": "Chauvet Cave",
+      "d": "Cueva de las Manos"
+    },
+    "answer": "b",
+    "explanation": "The Lascaux Cave complex in southwestern France houses some of the most famous Paleolithic wall art, featuring majestic multi-colored paintings of aurochs, horses, and red deer."
+  },
+  {
+    "question": "In ancient Egyptian painting and low-relief sculpture, the formal canon of human proportions (frontalism) dictated that figures were drawn with:",
+    "options": {
+      "a": "Head and legs in profile, but the eye and shoulders viewed from the front",
+      "b": "Entire body drawn in strict three-quarter perspective",
+      "c": "Face facing backward with the feet pointing straight forward",
+      "d": "Complete anatomical foreshortening with deep shadows"
+    },
+    "answer": "a",
+    "explanation": "Ancient Egyptian artistic convention mandated the most characteristic aspects: the human head and legs in profile, while the torso/shoulders and the single visible eye were depicted frontally."
+  },
+  {
+    "question": "The three classical architectural orders developed by the ancient Greeks, characterized by their distinctive column shafts and capital decorations, are:",
+    "options": {
+      "a": "Gothic, Romanesque, and Baroque",
+      "b": "Doric, Ionic, and Corinthian",
+      "c": "Tuscan, Composite, and Rococo",
+      "d": "Linear, Volute, and Fluted"
+    },
+    "answer": "b",
+    "explanation": "The three classical Greek orders are Doric (sturdy with a plain circular capital), Ionic (slender with scroll-like volutes), and Corinthian (ornate capital embellished with carved acanthus leaves)."
+  },
+  {
+    "question": "Which painting technique, famously refined by Leonardo da Vinci in the 'Mona Lisa', involves applying smokey, imperceptible tonal transitions without sharp outlines?",
+    "options": {
+      "a": "Impasto",
+      "b": "Sfumato",
+      "c": "Grisaille",
+      "d": "Sgraffito"
+    },
+    "answer": "b",
+    "explanation": "Sfumato (derived from the Italian for 'smoke' or 'evaporated') softens sharp contours through delicate glazes and blended tones, producing a gentle, hazy, realistic atmospheric effect."
+  },
+  {
+    "question": "Which 19th-century French artistic movement, led by Claude Monet and Pierre-Auguste Renoir, broke away from studio conventions to capture the fleeting effects of outdoor sunlight using broken brushstrokes?",
+    "options": {
+      "a": "Romanticism",
+      "b": "Impressionism",
+      "c": "Neoclassicism",
+      "d": "Realism"
+    },
+    "answer": "b",
+    "explanation": "Impressionism focused on capturing fleeting moments of natural ambient light and optical sensations 'en plein air' (outdoors) using vibrant, unblended brushstrokes placed directly onto the canvas."
+  },
+  {
+    "question": "Which revolutionary early 20th-century artistic movement, spearheaded by Pablo Picasso and Georges Braque, deconstructed three-dimensional reality into fragmented, intersecting geometric planes?",
+    "options": {
+      "a": "Surrealism",
+      "b": "Cubism",
+      "c": "Fauvism",
+      "d": "Dadaism"
+    },
+    "answer": "b",
+    "explanation": "Cubism dismantled traditional perspective by flattening objects into multi-faceted geometric planes, presenting multiple viewpoints simultaneously, heavily inspired by abstract African tribal sculptures."
+  },
+  {
+    "question": "Which printmaking process is based strictly on the chemical mutual repulsion between greasy ink and water across a flat, polished limestone or aluminum plate?",
+    "options": {
+      "a": "Woodcut relief",
+      "b": "Lithography",
+      "c": "Serigraphy",
+      "d": "Drypoint etching"
+    },
+    "answer": "b",
+    "explanation": "Lithography (planographic printing) operates on the principle that oil and water do not mix. The artist draws with a greasy crayon on limestone; dampening allows oil-based ink to adhere only to the greasy image areas."
+  },
+  {
+    "question": "In serigraphy (screen printing), what flexible handheld tool is pressed against the mesh to push viscous ink through open areas of the stencil onto paper or fabric?",
+    "options": {
+      "a": "Brayer",
+      "b": "Squeegee",
+      "c": "Burnisher",
+      "d": "Palette knife"
+    },
+    "answer": "b",
+    "explanation": "A squeegee consists of a firm rubber or polyurethane blade set into a handle, drawn firmly across the screen fabric to force printer's ink through the porous areas of the stencil."
+  },
+  {
+    "question": "In ceramics, the preliminary firing of bone-dry greenware pottery in a kiln to convert fragile raw clay into hardened, permanent, and porous bisqueware is called:",
+    "options": {
+      "a": "Glaze firing",
+      "b": "Bisque (biscuit) firing",
+      "c": "Raku reduction",
+      "d": "Vitrification anneal"
+    },
+    "answer": "b",
+    "explanation": "Bisque firing is the initial kiln firing (typically around 900°C - 1000°C) that chemically drives out bound water from dried greenware, creating porous durable pottery ready for decorative glazing."
+  },
+  {
+    "question": "In pottery and ceramic sculpting, a liquid mixture of fine clay powder and water with the creamy consistency of batter, used to bond clay components together, is known as:",
+    "options": {
+      "a": "Grog",
+      "b": "Slip",
+      "c": "Glaze",
+      "d": "Frit"
+    },
+    "answer": "b",
+    "explanation": "Slip is liquid clay used as an adhesive (ceramic glue) alongside scoring (scratching the joint surfaces) to attach handles, spouts, and decorative clay appliqués to leather-hard vessels."
+  },
+  {
+    "question": "The traditional Yoruba textile resist-dyeing technique in which boiled cassava starch paste (lafun) is applied through metal stencils or hand-painted onto cotton fabric before indigo dyeing is:",
+    "options": {
+      "a": "Adire Oniko",
+      "b": "Adire Eleko",
+      "c": "Adire Alabere",
+      "d": "Aso Oke"
+    },
+    "answer": "b",
+    "explanation": "Adire Eleko is a Yoruba resist-dyeing method using cassava starch paste painted with chicken feathers or stenciled onto fabric to resist indigo dye, creating intricate geometric and figurative motifs."
+  },
+  {
+    "question": "In typography and graphic design layout, what term describes the fine adjustment of horizontal spacing between two specific adjacent letter characters to achieve visual harmony?",
+    "options": {
+      "a": "Tracking",
+      "b": "Kerning",
+      "c": "Leading",
+      "d": "Justification"
+    },
+    "answer": "b",
+    "explanation": "Kerning is the process of adjusting the proportional space between two individual character glyphs (such as 'A' and 'V') to avoid awkward gaps. Tracking refers to uniform letter-spacing across a whole word or block."
+  }
+]

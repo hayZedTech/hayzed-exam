@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Which accounting concept dictates that revenue is recognized when goods or services are delivered, rather than when cash is received?",
+    "options": {
+      "a": "Going Concern Concept",
+      "b": "Realization Concept",
+      "c": "Money Measurement Concept",
+      "d": "Materiality Concept"
+    },
+    "answer": "b",
+    "explanation": "The realization (or revenue recognition) concept states that revenue should only be recognized when earned (i.e. when ownership/goods are transferred or services delivered), irrespective of when cash is collected."
+  },
+  {
+    "question": "A business has opening capital of ₦150,000, closing capital of ₦210,000, drawings during the period of ₦40,000, and additional capital introduced of ₦20,000. What is the net profit for the period?",
+    "options": {
+      "a": "₦40,000",
+      "b": "₦60,000",
+      "c": "₦80,000",
+      "d": "₦100,000"
+    },
+    "answer": "c",
+    "explanation": "Profit = Closing Capital + Drawings - Additional Capital - Opening Capital. Profit = ₦210,000 + ₦40,000 - ₦20,000 - ₦150,000 = ₦80,000."
+  },
+  {
+    "question": "Which of the following errors will affect the agreement of the Trial Balance?",
+    "options": {
+      "a": "Posting a sales transaction of ₦5,000 to the purchases account",
+      "b": "Complete omission of a transaction from both debit and credit entries",
+      "c": "Debiting a customer's account with ₦12,000 while crediting the sales account with ₦21,000",
+      "d": "Debiting repair of motor vehicle to the motor vehicle asset account"
+    },
+    "answer": "c",
+    "explanation": "Unequal debit and credit entries (debiting ₦12,000 and crediting ₦21,000) create a mathematical disparity in the trial balance totals, requiring a suspense account until corrected."
+  },
+  {
+    "question": "The purchase of office stationery on credit from ABC Stores should be recorded in which book of original entry?",
+    "options": {
+      "a": "Purchases Day Book",
+      "b": "Sales Day Book",
+      "c": "General Journal (Journal Proper)",
+      "d": "Cash Book"
+    },
+    "answer": "c",
+    "explanation": "The Purchases Day Book is reserved exclusively for goods bought on credit for resale. Credit purchase of stationery (an expense/asset not bought for resale) is recorded in the General Journal."
+  },
+  {
+    "question": "The imprest system is primarily associated with which accounting record?",
+    "options": {
+      "a": "General Ledger",
+      "b": "Petty Cash Book",
+      "c": "Sales Ledger Control Account",
+      "d": "Manufacturing Account"
+    },
+    "answer": "b",
+    "explanation": "The imprest system is used in maintaining the Petty Cash Book, where the petty cashier is reimbursed at the end of the period with the exact amount spent to restore the float balance."
+  },
+  {
+    "question": "A machine costing ₦800,000 has an estimated working life of 5 years and a scrap value of ₦80,000. Using the straight-line method, the annual depreciation charge is:",
+    "options": {
+      "a": "₦144,000",
+      "b": "₦160,000",
+      "c": "₦176,000",
+      "d": "₦180,000"
+    },
+    "answer": "a",
+    "explanation": "Annual Depreciation = (Cost - Scrap Value) / Useful Life = (₦800,000 - ₦80,000) / 5 = ₦720,000 / 5 = ₦144,000."
+  },
+  {
+    "question": "In a bank reconciliation statement, unpresented cheques are:",
+    "options": {
+      "a": "Added to the balance as per adjusted Cash Book",
+      "b": "Deducted from the balance as per Bank Statement when reconciling to bank balance",
+      "c": "Credited in the adjusted Cash Book",
+      "d": "Debited to the Suspense Account"
+    },
+    "answer": "b",
+    "explanation": "Unpresented cheques have already been credited (deducted) in the drawer's Cash Book but have not yet been presented to the bank. When starting from the bank statement balance, they are deducted to reconcile to the cash book balance."
+  },
+  {
+    "question": "What is the correct double entry for recording bad debts written off?",
+    "options": {
+      "a": "Debit Bad Debts Account, Credit Debtor's Account",
+      "b": "Debit Debtor's Account, Credit Bad Debts Account",
+      "c": "Debit Provision for Doubtful Debts, Credit Sales Account",
+      "d": "Debit Cash Book, Credit Bad Debts Account"
+    },
+    "answer": "a",
+    "explanation": "When an irrecoverable debt is written off, Bad Debts Account is debited (loss/expense) and the individual customer's (Debtor's) Account is credited (reducing the asset)."
+  },
+  {
+    "question": "Prime cost in a manufacturing account is determined by adding:",
+    "options": {
+      "a": "Direct materials, direct labor, and factory overheads",
+      "b": "Direct materials, direct labor, and direct expenses",
+      "c": "Direct materials, administrative expenses, and selling expenses",
+      "d": "Direct labor, work-in-progress, and factory depreciation"
+    },
+    "answer": "b",
+    "explanation": "Prime cost represents the aggregate direct costs directly traceable to production: Prime Cost = Direct Materials Consumed + Direct Labor + Direct Expenses."
+  },
+  {
+    "question": "If cost of goods sold is ₦600,000 and the mark-up on cost is 25%, what is the sales revenue?",
+    "options": {
+      "a": "₦450,000",
+      "b": "₦750,000",
+      "c": "₦800,000",
+      "d": "₦900,000"
+    },
+    "answer": "b",
+    "explanation": "Gross profit = 25% of Cost of Goods Sold = 0.25 * ₦600,000 = ₦150,000. Sales Revenue = Cost of Goods Sold + Gross Profit = ₦600,000 + ₦150,000 = ₦750,000."
+  },
+  {
+    "question": "A debit balance of ₦50,000 brought down in a business Cash Book represents:",
+    "options": {
+      "a": "A bank overdraft owed to the bank",
+      "b": "Cash at bank or in hand available to the business",
+      "c": "An unearned accrued income from debtors",
+      "d": "Total discount allowed to trade customers"
+    },
+    "answer": "b",
+    "explanation": "The Cash Book is an asset account; a debit balance brought down represents an asset (cash in hand or cash at bank available to the business)."
+  },
+  {
+    "question": "In the absence of a partnership agreement (deed), the Partnership Act of 1890 provides that:",
+    "options": {
+      "a": "Profits and losses must be shared in proportion to capital contributions",
+      "b": "Partners are entitled to 10% annual salary for managing operations",
+      "c": "Profits and losses must be shared equally among all partners",
+      "d": "Interest on capital is allowable at 5% per annum"
+    },
+    "answer": "c",
+    "explanation": "Under the Partnership Act of 1890, where no partnership agreement exists, all partners share profits and losses equally, and no partner is entitled to salary or interest on capital."
+  },
+  {
+    "question": "Given: Current Assets = ₦350,000, Inventory (Stock) = ₦110,000, Current Liabilities = ₦160,000. Calculate the Quick (Acid-Test) Ratio.",
+    "options": {
+      "a": "1.5 : 1",
+      "b": "2.19 : 1",
+      "c": "0.69 : 1",
+      "d": "2.5 : 1"
+    },
+    "answer": "a",
+    "explanation": "Quick Assets = Current Assets - Inventory = ₦350,000 - ₦110,000 = ₦240,000. Quick Ratio = Quick Assets / Current Liabilities = ₦240,000 / ₦160,000 = 1.5 : 1."
+  },
+  {
+    "question": "In the accounts of a non-profit club, the excess of total assets over total liabilities is termed the:",
+    "options": {
+      "a": "Net Profit",
+      "b": "Accumulated Fund",
+      "c": "Share Capital",
+      "d": "General Reserve"
+    },
+    "answer": "b",
+    "explanation": "For non-profit making organizations, the equivalent of owner's capital is the Accumulated Fund, representing total assets minus total liabilities."
+  },
+  {
+    "question": "Which of the following errors is an Error of Principle?",
+    "options": {
+      "a": "Entering ₦4,500 instead of ₦5,400 in the sales journal",
+      "b": "Debiting legal expenses incurred on acquiring land to the Legal Expenses account instead of Land account",
+      "c": "Debiting payment made to K. Musa to the account of M. Musa",
+      "d": "Overcasting the cash book discount allowed column"
+    },
+    "answer": "b",
+    "explanation": "An error of principle occurs when an entry violates fundamental accounting principles, such as confusing capital expenditure (cost of acquiring land) with revenue expenditure."
+  },
+  {
+    "question": "A company issued 500,000 ordinary shares of ₦1.00 each at a premium of ₦0.20 per share. The share premium account will be credited with:",
+    "options": {
+      "a": "₦100,000",
+      "b": "₦500,000",
+      "c": "₦600,000",
+      "d": "₦20,000"
+    },
+    "answer": "a",
+    "explanation": "Share Premium = Number of shares issued * Premium per share = 500,000 * ₦0.20 = ₦100,000."
+  },
+  {
+    "question": "When goods are sent on sale or return, they should be included in the closing inventory of the consignor at:",
+    "options": {
+      "a": "Selling price",
+      "b": "Cost price",
+      "c": "Market price plus normal profit margin",
+      "d": "Scrap value"
+    },
+    "answer": "b",
+    "explanation": "Goods out on sale or return remain the legal property of the consignor until accepted by the consignee, and must be valued at cost price (or net realizable value, whichever is lower) in closing inventory."
+  },
+  {
+    "question": "The accounting concept which assumes that a business enterprise will continue operating into the foreseeable future is the:",
+    "options": {
+      "a": "Entity Concept",
+      "b": "Going Concern Concept",
+      "c": "Consistency Concept",
+      "d": "Accrual Concept"
+    },
+    "answer": "b",
+    "explanation": "The Going Concern Concept assumes that the business enterprise will continue its operational existence for an indefinite period and has neither the intention nor the necessity of liquidation."
+  },
+  {
+    "question": "The total of the Purchases Day Book is posted periodically to the:",
+    "options": {
+      "a": "Debit side of the Purchases Account in the General Ledger",
+      "b": "Credit side of the Purchases Account in the General Ledger",
+      "c": "Debit side of the Sales Ledger Control Account",
+      "d": "Credit side of the Cash Book"
+    },
+    "answer": "a",
+    "explanation": "The periodic total of credit purchases recorded in the Purchases Day Book is debited to the Purchases Account in the General Ledger, while individual supplier accounts are credited."
+  },
+  {
+    "question": "A trader’s opening inventory was ₦45,000, closing inventory was ₦55,000, and cost of goods sold was ₦300,000. What is the rate of inventory turnover?",
+    "options": {
+      "a": "5 times",
+      "b": "6 times",
+      "c": "7.5 times",
+      "d": "8 times"
+    },
+    "answer": "b",
+    "explanation": "Average Inventory = (₦45,000 + ₦55,000) / 2 = ₦50,000. Inventory Turnover = Cost of Goods Sold / Average Inventory = ₦300,000 / ₦50,000 = 6 times."
+  },
+  {
+    "question": "Rent prepaid of ₦15,000 at the end of the financial year should be treated in the Statement of Financial Position as:",
+    "options": {
+      "a": "A Current Liability",
+      "b": "A Non-current Liability",
+      "c": "A Current Asset",
+      "d": "A deduction from Capital"
+    },
+    "answer": "c",
+    "explanation": "Prepaid expenses represent future economic benefits already paid for by the business, making them a Current Asset on the Statement of Financial Position."
+  },
+  {
+    "question": "The ledger that contains accounts of personal trade debtors (credit customers) is the:",
+    "options": {
+      "a": "General Ledger",
+      "b": "Sales Ledger",
+      "c": "Purchases Ledger",
+      "d": "Private Ledger"
+    },
+    "answer": "b",
+    "explanation": "The Sales Ledger (or Debtors Ledger) contains the personal accounts of individual customers who purchase merchandise on credit."
+  },
+  {
+    "question": "In partner accounting, interest on partners' drawings is:",
+    "options": {
+      "a": "Debited to the Profit and Loss Appropriation Account",
+      "b": "Credited to the Profit and Loss Appropriation Account and debited to Partners' Current Accounts",
+      "c": "Debited to Partners' Capital Accounts and credited to Cash Account",
+      "d": "Treated as a general administrative operating expense in the Trading Account"
+    },
+    "answer": "b",
+    "explanation": "Interest on drawings is a charge levied on partners for withdrawing funds. It increases the profits available for distribution, so it is credited to the Appropriation Account and debited to the partners' Current Accounts."
+  },
+  {
+    "question": "Which of the following is a capital expenditure for a transport enterprise?",
+    "options": {
+      "a": "Cost of annual vehicle licensing and road tax",
+      "b": "Purchase of an additional delivery truck",
+      "c": "Fuel and engine oil purchased for daily operations",
+      "d": "Wages paid to company drivers and mechanics"
+    },
+    "answer": "b",
+    "explanation": "Capital expenditure is spending incurred to acquire, improve, or extend the productive life of non-current assets (e.g. buying an additional delivery truck), providing benefits over multiple accounting periods."
+  },
+  {
+    "question": "A provision for doubtful debts is created in the financial statements primarily to satisfy which accounting concept?",
+    "options": {
+      "a": "Prudence (Conservatism) Concept",
+      "b": "Historical Cost Concept",
+      "c": "Entity Concept",
+      "d": "Money Measurement Concept"
+    },
+    "answer": "a",
+    "explanation": "The Prudence (Conservatism) Concept requires that potential losses are anticipated and provided for immediately, while anticipated gains are not recognized until realized."
+  },
+  {
+    "question": "If opening capital is ₦80,000, liabilities are ₦35,000, and total assets are ₦140,000, what is the profit earned (assuming no drawings or capital introduction)?",
+    "options": {
+      "a": "₦25,000",
+      "b": "₦35,000",
+      "c": "₦60,000",
+      "d": "₦105,000"
+    },
+    "answer": "a",
+    "explanation": "Closing Capital = Assets - Liabilities = ₦140,000 - ₦35,000 = ₦105,000. Profit = Closing Capital - Opening Capital = ₦105,000 - ₦80,000 = ₦25,000."
+  },
+  {
+    "question": "Which of the following items is credited to the Purchases Ledger Control Account?",
+    "options": {
+      "a": "Cash payments to suppliers",
+      "b": "Returns outwards",
+      "c": "Discount received from trade suppliers",
+      "d": "Credit purchases for the month"
+    },
+    "answer": "d",
+    "explanation": "The Purchases Ledger Control Account summarizes total liabilities owed to creditors. Credit purchases increase creditors and are credited to this account."
+  },
+  {
+    "question": "The discount allowed column on the debit side of the three-column cash book is totaled and posted to the:",
+    "options": {
+      "a": "Debit side of Discount Received Account",
+      "b": "Debit side of Discount Allowed Account in the General Ledger",
+      "c": "Credit side of Discount Allowed Account",
+      "d": "Debit side of Bank Account"
+    },
+    "answer": "b",
+    "explanation": "The debit side of the three-column cash book records discount allowed to customers (an expense to the business). Its total is debited to the Discount Allowed Account in the General Ledger."
+  },
+  {
+    "question": "A partner’s loan to a partnership firm is classified in the Statement of Financial Position as a:",
+    "options": {
+      "a": "Current Asset",
+      "b": "Part of Partner's Equity Capital",
+      "c": "Non-current or Long-term Liability",
+      "d": "Contingent Asset"
+    },
+    "answer": "c",
+    "explanation": "A loan advanced by a partner to the partnership is treated as an external debt of the firm (a liability), distinct from the partner's equity capital balance."
+  },
+  {
+    "question": "When shares are issued at a price higher than their nominal (par) value, the excess amount is credited to the:",
+    "options": {
+      "a": "Retained Earnings Account",
+      "b": "Share Capital Account",
+      "c": "Share Premium Account",
+      "d": "General Reserve Account"
+    },
+    "answer": "c",
+    "explanation": "The excess received above the nominal value of shares is a capital reserve credited to the Share Premium Account."
+  },
+  {
+    "question": "In a manufacturing firm, the depreciation of factory plant and machinery is categorized as:",
+    "options": {
+      "a": "Direct factory expense",
+      "b": "Factory (manufacturing) overhead",
+      "c": "Administrative overhead",
+      "d": "Selling and distribution overhead"
+    },
+    "answer": "b",
+    "explanation": "Depreciation of factory plant and equipment is an indirect manufacturing cost incurred in the production facility, classified as factory overhead."
+  },
+  {
+    "question": "The Receipts and Payments Account of a non-trading club is essentially equivalent to a summarized:",
+    "options": {
+      "a": "Profit and Loss Account",
+      "b": "Cash Book",
+      "c": "Trading Account",
+      "d": "Balance Sheet"
+    },
+    "answer": "b",
+    "explanation": "The Receipts and Payments Account is a classified summary of the Cash Book for a specific financial period, recording all physical cash and bank inflows and outflows."
+  },
+  {
+    "question": "Goods invoiced at ₦100,000 were subject to a trade discount of 10% and a cash discount of 5% if paid within 14 days. If the buyer pays within 14 days, the amount payable is:",
+    "options": {
+      "a": "₦85,000",
+      "b": "₦85,500",
+      "c": "₦90,000",
+      "d": "₦95,000"
+    },
+    "answer": "b",
+    "explanation": "Invoice price after trade discount = ₦100,000 - 10% = ₦90,000. Cash discount = 5% of ₦90,000 = ₦4,500. Net amount payable = ₦90,000 - ₦4,500 = ₦85,500."
+  },
+  {
+    "question": "Which of the following is credited when setting up a provision for depreciation on motor vehicles?",
+    "options": {
+      "a": "Motor Vehicles Account",
+      "b": "Profit and Loss Account",
+      "c": "Provision for Depreciation on Motor Vehicles Account",
+      "d": "Suspense Account"
+    },
+    "answer": "c",
+    "explanation": "The double entry to record periodic depreciation is: Debit Profit and Loss Account (expense), Credit Provision for Depreciation Account (contra-asset account)."
+  },
+  {
+    "question": "The principle of double-entry bookkeeping states that:",
+    "options": {
+      "a": "Two separate bank accounts must be maintained for business operations",
+      "b": "Every debit entry in an account must have a corresponding credit entry elsewhere",
+      "c": "Transactions must be recorded twice at the end of every week",
+      "d": "Assets and liabilities must always be recorded in duplicate copies"
+    },
+    "answer": "b",
+    "explanation": "The double-entry system requires that every transaction has a two-fold aspect, where every debit entry has an equal and corresponding credit entry."
+  },
+  {
+    "question": "A dishonoured cheque returned by the bank unpaid should be recorded in the Cash Book by:",
+    "options": {
+      "a": "Debiting the Cash Book bank column",
+      "b": "Crediting the Cash Book bank column",
+      "c": "Debiting the Sales Account",
+      "d": "Crediting the Debtor's Account"
+    },
+    "answer": "b",
+    "explanation": "When a customer's cheque is received, the bank column was initially debited. When the cheque is dishonoured, the entry must be reversed by crediting the Cash Book bank column and debiting the customer's personal account."
+  },
+  {
+    "question": "Under public sector accounting in Nigeria, which basis of accounting recognizes revenue only when cash is received and expenditures when cash is paid?",
+    "options": {
+      "a": "Accrual basis",
+      "b": "Cash basis",
+      "c": "Commitment basis",
+      "d": "Modified accrual basis"
+    },
+    "answer": "b",
+    "explanation": "The cash basis of accounting recognizes revenue only when money is physically received in the treasury and records expenditures only when cash is disbursed."
+  },
+  {
+    "question": "Working capital is calculated as:",
+    "options": {
+      "a": "Total Assets minus Total Liabilities",
+      "b": "Current Assets minus Current Liabilities",
+      "c": "Non-current Assets minus Long-term Liabilities",
+      "d": "Cash in Hand plus Cash at Bank"
+    },
+    "answer": "b",
+    "explanation": "Working Capital (Net Current Assets) = Current Assets - Current Liabilities. It measures the short-term operating liquidity of a business."
+  },
+  {
+    "question": "A credit entry in an individual supplier’s personal account represents:",
+    "options": {
+      "a": "An increase in the amount owed to that supplier",
+      "b": "A decrease in the amount owed to that supplier",
+      "c": "Payment made by the business to the supplier",
+      "d": "Goods returned by the business to the supplier"
+    },
+    "answer": "a",
+    "explanation": "A supplier's account is a liability account (creditor). Under double-entry rules, increases in liabilities are credited, so a credit entry increases the debt owed to the supplier."
+  },
+  {
+    "question": "Where should interest accrued on investments be shown in the final accounts?",
+    "options": {
+      "a": "Trading Account and Current Liabilities",
+      "b": "Profit and Loss Account as income and Statement of Financial Position as a Current Asset",
+      "c": "Profit and Loss Account as an expense and Statement of Financial Position as a Current Liability",
+      "d": "Deducted from Capital in the Statement of Financial Position"
+    },
+    "answer": "b",
+    "explanation": "Interest accrued on investments is earned income not yet received. It is credited to the Profit and Loss Account as income and included under Current Assets in the Statement of Financial Position."
+  }
+]

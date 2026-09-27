@@ -1,0 +1,552 @@
+[
+  {
+    "question": "The ancient Olympic Games of antiquity were held quadrennially at Olympia in ancient Greece to honor which Greek deity?",
+    "options": {
+      "a": "Apollo",
+      "b": "Zeus",
+      "c": "Poseidon",
+      "d": "Hermes"
+    },
+    "answer": "b",
+    "explanation": "The ancient Olympic Games, inaugurated in 776 BC at the religious sanctuary of Olympia, were celebrated as a sacred religious festival dedicated to Zeus, the king of the Olympian gods."
+  },
+  {
+    "question": "Which French educator and historian founded the International Olympic Committee (IOC) and spearheaded the revival of the modern Olympic Games held in Athens in 1896?",
+    "options": {
+      "a": "Baron Pierre de Coubertin",
+      "b": "Jean-Jacques Rousseau",
+      "c": "Per Henrik Ling",
+      "d": "Friedrich Jahn"
+    },
+    "answer": "a",
+    "explanation": "Baron Pierre de Coubertin revived the modern Olympic Games, organizing the Paris Congress in 1894 where the International Olympic Committee was created, leading to the 1896 Athens Games."
+  },
+  {
+    "question": "The five interlocking rings on the official Olympic flag symbolize:",
+    "options": {
+      "a": "The five founding sport disciplines of ancient Greece",
+      "b": "The union of the five inhabited continents of the world",
+      "c": "The five basic athletic motor skills",
+      "d": "The five original member countries of the IOC"
+    },
+    "answer": "b",
+    "explanation": "The five interlocking rings (blue, yellow, black, green, and red) represent the union of five inhabited continents (Africa, the Americas, Asia, Europe, and Oceania) participating in the Olympic spirit."
+  },
+  {
+    "question": "The traditional Latin motto of the Olympic Games, 'Citius, Altius, Fortius', translates into English as:",
+    "options": {
+      "a": "Bravery, Glory, Honor",
+      "b": "Faster, Higher, Stronger",
+      "c": "Unity, Peace, Discipline",
+      "d": "Speed, Agility, Endurance"
+    },
+    "answer": "b",
+    "explanation": "'Citius, Altius, Fortius' was coined by Father Henri Didon and adopted by Pierre de Coubertin, translating to 'Faster, Higher, Stronger' (recently updated with 'Communiter' - Together)."
+  },
+  {
+    "question": "In which Nigerian city was the inaugural National Sports Festival (NSF) hosted in 1973 with the aim of promoting national reconciliation after the civil war?",
+    "options": {
+      "a": "Kaduna",
+      "b": "Lagos",
+      "c": "Enugu",
+      "d": "Ibadan"
+    },
+    "answer": "b",
+    "explanation": "The maiden National Sports Festival of Nigeria took place at the National Stadium, Surulere, Lagos, in 1973, created by the Gowon administration to foster national integration."
+  },
+  {
+    "question": "Modern Physical Education programs evaluate student development across three essential behavioral domains, which are:",
+    "options": {
+      "a": "Biological, Anatomical, and Chemical",
+      "b": "Cognitive, Affective, and Psychomotor",
+      "c": "Physiological, Psychological, and Environmental",
+      "d": "Locomotor, Non-locomotor, and Manipulative"
+    },
+    "answer": "b",
+    "explanation": "Physical education encompasses the cognitive domain (knowledge and strategy), affective domain (sportsmanship, values, emotions), and psychomotor domain (neuromuscular skills and execution)."
+  },
+  {
+    "question": "Which sprint crouch start technique positions the starting blocks closest together (approximately 25 to 30 cm apart), favored by shorter, explosive sprinters?",
+    "options": {
+      "a": "Medium start",
+      "b": "Bunch or bullet start",
+      "c": "Elongated start",
+      "d": "Standing start"
+    },
+    "answer": "b",
+    "explanation": "The bunch (or bullet) start features the front and rear blocks set close together (feet close), allowing rapid foot clearance out of the blocks, suitable for sprinters with rapid acceleration."
+  },
+  {
+    "question": "In the 4 × 100 meters sprint relay, which baton exchange method is executed without the outgoing receiver looking back at the incoming teammate?",
+    "options": {
+      "a": "Visual pass",
+      "b": "Non-visual (blind) pass",
+      "c": "Overhand swing pass",
+      "d": "Rotational touch pass"
+    },
+    "answer": "b",
+    "explanation": "The non-visual (blind) pass is used in sprint relays (4x100m) where the outgoing runner reaches back with an open hand at full sprint acceleration without glancing back, maintaining peak speed."
+  },
+  {
+    "question": "Under modern World Athletics competition rules, what is the total length of the baton takeover exchange zone in 4 × 100 meters sprint relays?",
+    "options": {
+      "a": "10 meters",
+      "b": "20 meters",
+      "c": "30 meters",
+      "d": "40 meters"
+    },
+    "answer": "c",
+    "explanation": "World Athletics rules combine the previous 20-meter exchange zone and 10-meter acceleration zone into a single unified 30-meter takeover zone for sprint relays."
+  },
+  {
+    "question": "Which high jump technique, introduced by American jumper Dick Fosbury at the 1968 Mexico City Olympic Games, involves clearing the crossbar backwards?",
+    "options": {
+      "a": "Scissors jump",
+      "b": "Western roll",
+      "c": "Eastern cut-off",
+      "d": "Fosbury flop"
+    },
+    "answer": "d",
+    "explanation": "Dick Fosbury pioneered the Fosbury Flop, where the jumper curves toward the bar, leaps off the outer foot, and arches backward over the crossbar, lowering the athlete's center of mass."
+  },
+  {
+    "question": "In the long jump event, which in-flight technique involves the athlete performing cyclical running strides through the air to preserve balance before landing?",
+    "options": {
+      "a": "Sail technique",
+      "b": "Hang technique",
+      "c": "Hitch-kick (running-in-the-air)",
+      "d": "Somersault glide"
+    },
+    "answer": "c",
+    "explanation": "In the hitch-kick technique, the jumper executes 1.5 to 2.5 pedaling running strides while airborne, counteracting forward rotational momentum and extending legs forward for landing."
+  },
+  {
+    "question": "What is the mandatory chronological sequence of continuous foot movements in the triple jump event?",
+    "options": {
+      "a": "Step → Hop → Jump",
+      "b": "Hop → Step → Jump",
+      "c": "Jump → Step → Hop",
+      "d": "Hop → Jump → Step"
+    },
+    "answer": "b",
+    "explanation": "The triple jump consists of: a Hop (taking off and landing on the same foot), a Step (landing on the opposite foot), and a Jump (taking off into the landing sand pit)."
+  },
+  {
+    "question": "The linear shot put technique in which the thrower begins facing the back of the throwing circle and glides backwards across the ring was originated by:",
+    "options": {
+      "a": "Randy Barnes",
+      "b": "Parry O'Brien",
+      "c": "Al Oerter",
+      "d": "Jan Železný"
+    },
+    "answer": "b",
+    "explanation": "Parry O'Brien developed the 'O'Brien glide' in the 1950s, starting facing 180 degrees away from the throwing sector to maximize the acceleration path of the shot across the circle."
+  },
+  {
+    "question": "According to official World Athletics specifications, what is the angle of the landing sector for the shot put, discus, and hammer throws?",
+    "options": {
+      "a": "29.92 degrees",
+      "b": "34.92 degrees",
+      "c": "40.00 degrees",
+      "d": "45.00 degrees"
+    },
+    "answer": "b",
+    "explanation": "The standard throwing sector angle for the shot put, discus throw, and hammer throw is exactly 34.92 degrees, measured from the center of the throwing circle."
+  },
+  {
+    "question": "In the javelin throw event, an attempt is ruled an invalid foul throw if the:",
+    "options": {
+      "a": "Thrower throws with the dominant arm above the shoulder",
+      "b": "Tip of the metal head fails to make contact with the ground before any other part of the javelin",
+      "c": "Javelin glides over the center sector line while remaining inside boundaries",
+      "d": "Thrower remains behind the foul arc until the implement lands"
+    },
+    "answer": "b",
+    "explanation": "For a javelin throw to be valid, the pointed tip of the metal head must strike the ground first before any other part of the shaft, and the thrower must not touch or cross the runway foul arc."
+  },
+  {
+    "question": "What is the official hurdle height in the men's 110-meter hurdles race at senior international athletics competitions?",
+    "options": {
+      "a": "0.840 meters",
+      "b": "0.914 meters",
+      "c": "1.000 meters",
+      "d": "1.067 meters"
+    },
+    "answer": "d",
+    "explanation": "In senior men's 110m hurdles, the hurdles are set at 1.067 meters (3.5 feet or 42 inches) in height, whereas women's 100m hurdles are 0.838 meters (33 inches)."
+  },
+  {
+    "question": "What is the standardized official distance of a full competitive road marathon footrace?",
+    "options": {
+      "a": "21.097 km",
+      "b": "35.500 km",
+      "c": "42.195 km",
+      "d": "50.000 km"
+    },
+    "answer": "c",
+    "explanation": "The official distance of a marathon is 42.195 kilometers (26 miles 385 yards), established at the 1908 London Olympics between Windsor Castle and the White City Stadium."
+  },
+  {
+    "question": "Under FIFA Law 11 (Offside), an attacking player cannot be caught in an offside position if they receive the ball directly from a:",
+    "options": {
+      "a": "Direct free kick",
+      "b": "Indirect free kick",
+      "c": "Corner kick, goal kick, or throw-in",
+      "d": "Deflection off an opponent's arm"
+    },
+    "answer": "c",
+    "explanation": "A player cannot be penalized for an offside offense if they receive the ball directly from a corner kick, a goal kick, or a throw-in, according to FIFA Laws of the Game."
+  },
+  {
+    "question": "On a regulation association football pitch, what is the exact distance between the goal line and the penalty spot?",
+    "options": {
+      "a": "9.15 meters (10 yards)",
+      "b": "11.00 meters (12 yards)",
+      "c": "14.50 meters (16 yards)",
+      "d": "16.50 meters (18 yards)"
+    },
+    "answer": "b",
+    "explanation": "The penalty mark is located exactly 11 meters (12 yards) from the midpoint between the goalposts along the perpendicular center line of the penalty area."
+  },
+  {
+    "question": "What are the standard boundary dimensions of a regulation FIBA basketball playing court?",
+    "options": {
+      "a": "24 meters long by 13 meters wide",
+      "b": "28 meters long by 15 meters wide",
+      "c": "30 meters long by 18 meters wide",
+      "d": "32 meters long by 16 meters wide"
+    },
+    "answer": "b",
+    "explanation": "FIBA official rules specify that a basketball court must measure 28 meters (91.9 feet) in length by 15 meters (49.2 feet) in width, measured from the inner edge of the boundary lines."
+  },
+  {
+    "question": "What is the official height of a basketball rim above the playing court floor?",
+    "options": {
+      "a": "2.75 meters (9.0 feet)",
+      "b": "2.90 meters (9.5 feet)",
+      "c": "3.05 meters (10.0 feet)",
+      "d": "3.20 meters (10.5 feet)"
+    },
+    "answer": "c",
+    "explanation": "The top edge of the regulation basketball rim is mounted horizontally at exactly 3.05 meters (10 feet) above the surface of the basketball court."
+  },
+  {
+    "question": "In basketball, what infraction occurs when an offensive player dribbles, holds the ball with both hands, and resumes dribbling again?",
+    "options": {
+      "a": "Traveling",
+      "b": "Double dribble",
+      "c": "Carrying",
+      "d": "Charging"
+    },
+    "answer": "b",
+    "explanation": "A double dribble occurs when a player dribbles with both hands simultaneously or resumes dribbling after having brought the ball to a complete stop in their hands."
+  },
+  {
+    "question": "In basketball, an offensive team that gains possession in its backcourt must advance the ball across the midcourt line into the frontcourt within how many seconds?",
+    "options": {
+      "a": "3 seconds",
+      "b": "5 seconds",
+      "c": "8 seconds",
+      "d": "10 seconds"
+    },
+    "answer": "c",
+    "explanation": "Under FIBA rules, a team that gains control of a live ball in its backcourt has a maximum of 8 seconds to cause the ball to go into its frontcourt."
+  },
+  {
+    "question": "What are the overall court dimensions of a regulation volleyball playing area?",
+    "options": {
+      "a": "16 meters long by 8 meters wide",
+      "b": "18 meters long by 9 meters wide",
+      "c": "20 meters long by 10 meters wide",
+      "d": "22 meters long by 11 meters wide"
+    },
+    "answer": "b",
+    "explanation": "A standard FIVB volleyball court is a rectangle measuring 18 meters in length and 9 meters in width, divided into two equal 9m × 9m team playing courts by a central net."
+  },
+  {
+    "question": "When a receiving team in volleyball wins a rally and earns the right to serve, its players must rotate one position in which direction?",
+    "options": {
+      "a": "Counter-clockwise",
+      "b": "Clockwise",
+      "c": "Diagonally across the center line",
+      "d": "Linear alternation along the attack line"
+    },
+    "answer": "b",
+    "explanation": "In volleyball, rotation proceeds in a clockwise direction: the player in position 2 moves to position 1 to serve, position 1 moves to position 6, and so forth."
+  },
+  {
+    "question": "In volleyball, which defensive specialist wears a jersey of a contrasting color and is prohibited from serving, blocking, or attacking a ball above net height?",
+    "options": {
+      "a": "Setter",
+      "b": "Libero",
+      "c": "Outside hitter",
+      "d": "Middle blocker"
+    },
+    "answer": "b",
+    "explanation": "The Libero is a dedicated back-row defensive player who wears a contrasting uniform, possesses unlimited substitutions with back-row players, but cannot serve, block, or attack."
+  },
+  {
+    "question": "In team handball, what is the maximum number of consecutive steps a player may take while holding the ball without bouncing or passing it?",
+    "options": {
+      "a": "2 steps",
+      "b": "3 steps",
+      "c": "4 steps",
+      "d": "5 steps"
+    },
+    "answer": "b",
+    "explanation": "Handball rules permit a player to hold the ball for a maximum of 3 seconds and take up to 3 steps with the ball before they must pass, shoot, or dribble."
+  },
+  {
+    "question": "What is the official diameter of an ITTF standard competition table tennis ball?",
+    "options": {
+      "a": "36 mm",
+      "b": "38 mm",
+      "c": "40 mm",
+      "d": "44 mm"
+    },
+    "answer": "c",
+    "explanation": "The International Table Tennis Federation (ITTF) adopted the 40mm (40+ celluloid/plastic) ball in the year 2000, replacing the earlier 38mm ball to slow down game speed."
+  },
+  {
+    "question": "A standard regulation feathered shuttlecock used in international badminton tournaments is constructed with how many natural goose or duck feathers embedded in the cork base?",
+    "options": {
+      "a": "12 feathers",
+      "b": "14 feathers",
+      "c": "16 feathers",
+      "d": "18 feathers"
+    },
+    "answer": "c",
+    "explanation": "Under Badminton World Federation (BWF) laws, a regulation feather shuttlecock must have exactly 16 feathers fixed in the cork base, tied firmly with thread."
+  },
+  {
+    "question": "Which competitive swimming stroke is universally recognized as biomechanically the fastest?",
+    "options": {
+      "a": "Breaststroke",
+      "b": "Backstroke",
+      "c": "Butterfly",
+      "d": "Freestyle (front crawl)"
+    },
+    "answer": "d",
+    "explanation": "Freestyle (the front crawl) produces continuous propulsion with alternating over-arm recoveries and flutter kicks, yielding the fastest times of any competitive swimming stroke."
+  },
+  {
+    "question": "Which competitive swimming stroke is initiated in the water with competitors facing the starting end rather than leaping from starting blocks?",
+    "options": {
+      "a": "Breaststroke",
+      "b": "Backstroke",
+      "c": "Butterfly",
+      "d": "Front crawl"
+    },
+    "answer": "b",
+    "explanation": "Backstroke swimmers start inside the pool facing the starting blocks with their hands gripping the starting handles, pushing off backward into a streamlined glide on their backs."
+  },
+  {
+    "question": "In water safety and lifesaving, why should an untrained rescuer avoid making immediate direct physical contact with an active, panicking drowning person?",
+    "options": {
+      "a": "Panicking victims naturally push rescuers underwater in a desperate reflex to stay afloat",
+      "b": "Direct contact causes rapid hypothermia in warm tropical waters",
+      "c": "Water resistance makes it impossible to swim while touching another body",
+      "d": "Victims are unable to breathe if touched by another swimmer"
+    },
+    "answer": "a",
+    "explanation": "Panicking drowning individuals experience an instinctual drowning response, climbing on and pulling down rescuers in a desperate struggle to keep their own heads above water; reaching or throwing aids must be used first."
+  },
+  {
+    "question": "In basic gymnastics tumbling, a static inverted balance where the body weight is supported equally on the forehead and both palms forming an equilateral triangle is a:",
+    "options": {
+      "a": "Handstand",
+      "b": "Headstand",
+      "c": "Cartwheel",
+      "d": "Back handspring"
+    },
+    "answer": "b",
+    "explanation": "A headstand (tripod balance) places the forehead and two hands on the mat in a triangular base of support, allowing the gymnast to elevate the torso and legs vertically."
+  },
+  {
+    "question": "Which gymnastics apparatus is contested exclusively by female artistic gymnasts in Olympic competitions?",
+    "options": {
+      "a": "Pommel horse",
+      "b": "Balance beam",
+      "c": "Horizontal bar",
+      "d": "Still rings"
+    },
+    "answer": "b",
+    "explanation": "The Balance Beam (along with Uneven Bars) is exclusive to women's artistic gymnastics; the Pommel Horse, Still Rings, Parallel Bars, and Horizontal Bar are exclusive to men's artistic gymnastics."
+  },
+  {
+    "question": "Which class of synovial joints permits the widest range of movement across all three planes, including flexion, extension, abduction, adduction, and circumduction?",
+    "options": {
+      "a": "Hinge joint",
+      "b": "Ball-and-socket joint",
+      "c": "Pivot joint",
+      "d": "Gliding joint"
+    },
+    "answer": "b",
+    "explanation": "Ball-and-socket joints (such as the glenohumeral shoulder joint and acetabulofemoral hip joint) feature a spherical head fitting into a cuplike cavity, providing multi-axial rotation."
+  },
+  {
+    "question": "What is the longest, strongest, and heaviest tubular bone in the human skeletal system?",
+    "options": {
+      "a": "Tibia",
+      "b": "Femur",
+      "c": "Humerus",
+      "d": "Fibula"
+    },
+    "answer": "b",
+    "explanation": "The femur (thigh bone) is the longest, heaviest, and strongest bone in the human body, engineered to support full body weight and absorb tremendous forces during jumping and running."
+  },
+  {
+    "question": "A muscular contraction in which muscle fibers develop internal tension while remaining at a constant length without producing mechanical joint movement is classified as an:",
+    "options": {
+      "a": "Concentric isotonic contraction",
+      "b": "Isometric contraction",
+      "c": "Eccentric isotonic contraction",
+      "d": "Isokinetic contraction"
+    },
+    "answer": "b",
+    "explanation": "In an isometric contraction (such as holding a plank position or pushing against an immovable wall), muscle tension matches the load, so no muscle shortening or joint movement occurs."
+  },
+  {
+    "question": "During flexion of the human arm at the elbow joint to lift a weight, which muscle acts as the primary agonist (prime mover)?",
+    "options": {
+      "a": "Triceps brachii",
+      "b": "Biceps brachii",
+      "c": "Deltoid",
+      "d": "Latissimus dorsi"
+    },
+    "answer": "b",
+    "explanation": "The biceps brachii contracts concentrically to pull the forearm toward the upper arm, acting as the prime mover (agonist) for elbow flexion, while the triceps relaxes as the antagonist."
+  },
+  {
+    "question": "The maximum volume of air that can be forcibly expired from the lungs following a maximal inspiratory effort is termed:",
+    "options": {
+      "a": "Tidal volume",
+      "b": "Vital capacity",
+      "c": "Residual volume",
+      "d": "Inspiratory reserve volume"
+    },
+    "answer": "b",
+    "explanation": "Vital capacity (VC) is the maximum quantity of air a person can expel from their lungs after maximum inhalation, serving as a key measure of respiratory and cardiovascular endurance."
+  },
+  {
+    "question": "The physiological state of cumulative oxygen deficit incurred during high-intensity anaerobic exertion that must be repaid during recovery is called:",
+    "options": {
+      "a": "Lactic acidosis",
+      "b": "Oxygen debt",
+      "c": "Aerobic threshold",
+      "d": "Hypoxemia"
+    },
+    "answer": "b",
+    "explanation": "Oxygen debt (technically Excess Post-exercise Oxygen Consumption, EPOC) represents the extra oxygen consumed post-exercise to metabolize accumulated lactate, replenish ATP-PC, and restore myoglobin."
+  },
+  {
+    "question": "According to William Sheldon's somatotyping system, an individual with a naturally athletic, muscular build, broad shoulders, narrow waist, and minimal adipose tissue is a:",
+    "options": {
+      "a": "Endomorph",
+      "b": "Mesomorph",
+      "c": "Ectomorph",
+      "d": "Heteromorph"
+    },
+    "answer": "b",
+    "explanation": "Mesomorphs are characterized by high muscle mass, large bone structure, low body fat, and an athletic physique, naturally predisposed to strength and speed sports."
+  },
+  {
+    "question": "Which of the following is classified as a Health-Related component of physical fitness rather than a Skill-Related (motor) component?",
+    "options": {
+      "a": "Agility",
+      "b": "Cardiorespiratory endurance",
+      "c": "Reaction time",
+      "d": "Power"
+    },
+    "answer": "b",
+    "explanation": "Health-related fitness components include cardiorespiratory endurance, muscular strength, muscular endurance, flexibility, and body composition. Agility, power, and reaction time are skill-related."
+  },
+  {
+    "question": "Which fundamental principle of physical conditioning states that when training ceases or is substantially reduced, physiological gains regress toward pre-training levels?",
+    "options": {
+      "a": "Principle of Specificity",
+      "b": "Principle of Overload",
+      "c": "Principle of Reversibility",
+      "d": "Principle of Progression"
+    },
+    "answer": "c",
+    "explanation": "The Principle of Reversibility ('use it or lose it') asserts that fitness adaptations are temporary and diminish when training stimulus is halted or substantially lowered."
+  },
+  {
+    "question": "In exercise prescription and training methodology, what do the letters in the FITT acronym stand for?",
+    "options": {
+      "a": "Form, Intensity, Technique, Time",
+      "b": "Frequency, Intensity, Time, Type",
+      "c": "Flexibility, Interval, Toughness, Tenacity",
+      "d": "Fitness, Impact, Target, Tolerance"
+    },
+    "answer": "b",
+    "explanation": "The FITT principle outlines the four key components of an exercise program: Frequency (how often), Intensity (how hard), Time (how long), and Type (what specific activity)."
+  },
+  {
+    "question": "The standard immediate first-aid management protocol for acute soft tissue sports injuries such as ankle sprains is summarized by the acronym:",
+    "options": {
+      "a": "HEAT",
+      "b": "RICE",
+      "c": "FAST",
+      "d": "SOAP"
+    },
+    "answer": "b",
+    "explanation": "RICE stands for Rest (prevent further injury), Ice (vasoconstriction to reduce swelling), Compression (limits edema), and Elevation (promotes venous return above heart level)."
+  },
+  {
+    "question": "A sports injury defined specifically as the overstretching or tearing of a fibrous ligament connecting two bones at a joint is a:",
+    "options": {
+      "a": "Strain",
+      "b": "Sprain",
+      "c": "Dislocation",
+      "d": "Fracture"
+    },
+    "answer": "b",
+    "explanation": "A sprain is an injury to ligaments (bands of tough fibrous tissue connecting bone to bone). In contrast, a strain is an injury affecting muscle fibers or their tendons."
+  },
+  {
+    "question": "The sports nutrition strategy of increasing complex carbohydrate consumption while tapering exercise training in the days preceding an endurance race is called:",
+    "options": {
+      "a": "Protein loading",
+      "b": "Carbohydrate loading",
+      "c": "Electrolyte loading",
+      "d": "Ketogenic adaptation"
+    },
+    "answer": "b",
+    "explanation": "Carbohydrate loading (glycogen supercompensation) involves tapering exercise volume while eating a high-carbohydrate diet to super-saturate muscle and liver glycogen stores before long endurance events."
+  },
+  {
+    "question": "Which class of illicit performance-enhancing drugs consists of synthetic variations of testosterone used to accelerate muscular hypertrophy and recovery?",
+    "options": {
+      "a": "Beta-blockers",
+      "b": "Anabolic-androgenic steroids",
+      "c": "Diuretics",
+      "d": "Narcotics"
+    },
+    "answer": "b",
+    "explanation": "Anabolic steroids mimic the physiological actions of testosterone, promoting protein synthesis, muscle growth, and rapid recovery, banned globally by the World Anti-Doping Agency (WADA)."
+  },
+  {
+    "question": "Which method of municipal solid waste management involves compacting refuse into thin layers within excavated ground and covering it with a layer of soil daily?",
+    "options": {
+      "a": "Open incineration",
+      "b": "Sanitary landfill",
+      "c": "Composting",
+      "d": "Ocean dumping"
+    },
+    "answer": "b",
+    "explanation": "Sanitary landfill is an engineered waste disposal method where trash is spread in thin layers, mechanically compacted, and capped with soil daily to control odors, vermin, and disease vectors."
+  },
+  {
+    "question": "Which infectious pathogen is transmitted to humans through water or food contaminated with feces from an infected person, causing profuse 'rice-water' diarrhea?",
+    "options": {
+      "a": "Mycobacterium tuberculosis",
+      "b": "Vibrio cholerae",
+      "c": "Plasmodium falciparum",
+      "d": "Trypanosoma gambiense"
+    },
+    "answer": "b",
+    "explanation": "Vibrio cholerae is a water-borne bacterium that releases enterotoxins in the small intestine, leading to rapid dehydration and life-threatening fluid loss through characteristic rice-water stool."
+  }
+]

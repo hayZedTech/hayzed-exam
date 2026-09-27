@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Commerce is best defined as the branch of production that deals with the ______",
+    "options": {
+      "a": "manufacturing of raw materials into finished consumer goods",
+      "b": "distribution and exchange of goods and services and aids to trade",
+      "c": "extraction of mineral resources from the earth's crust",
+      "d": "management of public statutory corporations"
+    },
+    "answer": "b",
+    "explanation": "Commerce encompasses all activities involved in the distribution and exchange of goods and services from producers to final consumers, including all aids to trade."
+  },
+  {
+    "question": "Which of the following is classified as an extractive occupation?",
+    "options": {
+      "a": "Textile weaving",
+      "b": "Coal mining",
+      "c": "Automobile assembly",
+      "d": "Commercial banking"
+    },
+    "answer": "b",
+    "explanation": "Extractive occupations belong to primary production and involve obtaining natural resources directly from the earth, sea, or air (e.g., mining, farming, fishing, and lumbering)."
+  },
+  {
+    "question": "The primary role of the wholesaler in the chain of distribution is to ______",
+    "options": {
+      "a": "sell directly in small retail units to final consumers",
+      "b": "buy in bulk from manufacturers and break bulk for retailers",
+      "c": "manufacture spare parts for domestic consumers",
+      "d": "issue licenses to commercial banks and insurance companies"
+    },
+    "answer": "b",
+    "explanation": "Wholesalers purchase goods in large quantities (bulk) directly from manufacturers, warehouse them, and sell in smaller convenient quantities (breaking bulk) to retailers."
+  },
+  {
+    "question": "A document sent by a seller to a buyer to correct an undercharge in an earlier invoice is a ______",
+    "options": {
+      "a": "credit note",
+      "b": "debit note",
+      "c": "pro-forma invoice",
+      "d": "consignment note"
+    },
+    "answer": "b",
+    "explanation": "A debit note is issued by a seller to inform a buyer that their account has been debited due to an undercharge, omitted items, or an upward price adjustment on a previous invoice."
+  },
+  {
+    "question": "A document sent by a supplier to inform a buyer that goods have been dispatched and specifies the transport details is an ______",
+    "options": {
+      "a": "advice note",
+      "b": "indent",
+      "c": "order form",
+      "d": "airway bill of exchange"
+    },
+    "answer": "a",
+    "explanation": "An advice note is sent by the seller to advise the buyer that ordered goods have been dispatched, specifying the method of transport and expected delivery date."
+  },
+  {
+    "question": "What kind of discount is granted to a customer to encourage prompt payment within a specified period?",
+    "options": {
+      "a": "Trade discount",
+      "b": "Cash discount",
+      "c": "Quantity discount",
+      "d": "Seasonal rebate"
+    },
+    "answer": "b",
+    "explanation": "Cash discount is a financial deduction allowed off the invoice price to motivate buyers to settle their credit debts before or on the due date."
+  },
+  {
+    "question": "A retail outlet organized into several distinct departments under one roof and one central management is known as a ______",
+    "options": {
+      "a": "supermarket",
+      "b": "department store",
+      "c": "multiple shop",
+      "d": "tied shop"
+    },
+    "answer": "b",
+    "explanation": "A department store is a large retail establishment divided into distinct sections or departments, each specializing in a particular line of merchandise under one roof."
+  },
+  {
+    "question": "In international trade, the re-exporting of imported goods with or without further processing is called ______",
+    "options": {
+      "a": "counter trade",
+      "b": "entrepot trade",
+      "c": "bilateral trade",
+      "d": "invisible trade"
+    },
+    "answer": "b",
+    "explanation": "Entrepot trade involves importing goods from one foreign country and subsequently exporting them to another country, often taking advantage of customs bonded facilities."
+  },
+  {
+    "question": "Which of the following shipping documents serves as a document of title to goods shipped by sea?",
+    "options": {
+      "a": "Airway bill",
+      "b": "Bill of lading",
+      "c": "Certificate of origin",
+      "d": "Ship's manifest"
+    },
+    "answer": "b",
+    "explanation": "A bill of lading is a receipt for goods loaded on board a ship, a contract of carriage, and a document of title that entitles the rightful holder to claim ownership of the cargo."
+  },
+  {
+    "question": "A bill of lading that contains remarks indicating that the cargo received was damaged or deficient in packaging is termed a ______",
+    "options": {
+      "a": "clean bill of lading",
+      "b": "dirty or foul bill of lading",
+      "c": "charter party bill",
+      "d": "negotiable treasury bill"
+    },
+    "answer": "b",
+    "explanation": "A foul (or dirty/claused) bill of lading bears an endorsement by the carrier indicating defects, shortage, or damage in the condition of the goods when loaded."
+  },
+  {
+    "question": "A warehouse licensed by the government customs authority for storing dutiable imported goods until customs duties are paid is a ______",
+    "options": {
+      "a": "wholesaler's warehouse",
+      "b": "bonded warehouse",
+      "c": "public warehouse",
+      "d": "manufacturer's depot"
+    },
+    "answer": "b",
+    "explanation": "A bonded warehouse is a secured building under customs supervision where dutiable goods may be stored, manipulated, or undergo manufacturing operations without payment of duty until withdrawn."
+  },
+  {
+    "question": "A crossed cheque can only be paid ______",
+    "options": {
+      "a": "in cash over the bank counter",
+      "b": "into a bank account",
+      "c": "to the bearer on demand",
+      "d": "at the Central Bank clearing house"
+    },
+    "answer": "b",
+    "explanation": "Crossing a cheque with two parallel transverse lines instructs the paying bank that it must not be cashed across the counter; it must be paid directly into a bank account."
+  },
+  {
+    "question": "An instruction given by an account holder to their bank to make regular, fixed payments to a third party at stated intervals is a ______",
+    "options": {
+      "a": "direct debit",
+      "b": "standing order",
+      "c": "bank draft",
+      "d": "promissory note"
+    },
+    "answer": "b",
+    "explanation": "A standing order is an order given by an account holder to their bank to pay a specific, fixed amount of money at regular specified intervals to a named beneficiary."
+  },
+  {
+    "question": "Which principle of insurance requires an applicant to disclose all material facts regarding the risk being insured?",
+    "options": {
+      "a": "Indemnity",
+      "b": "Insurable interest",
+      "c": "Utmost good faith (Uberrimae Fidei)",
+      "d": "Subrogation"
+    },
+    "answer": "c",
+    "explanation": "The principle of utmost good faith (uberrimae fidei) requires both the insurer and insured to disclose all relevant, material information truthfulness before concluding the contract."
+  },
+  {
+    "question": "The insurance principle which prevents the insured from making a profit from a loss by claiming more than the actual financial loss suffered is ______",
+    "options": {
+      "a": "subrogation",
+      "b": "indemnity",
+      "c": "proximate cause",
+      "d": "contribution"
+    },
+    "answer": "b",
+    "explanation": "Indemnity ensures that the insured is placed in the exact same financial position as immediately before the loss occurred, preventing any unjust enrichment."
+  },
+  {
+    "question": "Subrogation in insurance law means that ______",
+    "options": {
+      "a": "the insured can claim from two insurance companies simultaneously",
+      "b": "the insurer steps into the shoes of the insured regarding rights of recovery after settling a claim",
+      "c": "the insurance contract is void from the start",
+      "d": "life policies can be transferred to minor children"
+    },
+    "answer": "b",
+    "explanation": "Subrogation provides that once an insurer has fully compensated the insured for a loss, the insurer takes over all the insured's legal rights and remedies against any third party responsible for the loss."
+  },
+  {
+    "question": "In marine insurance, when cargo is voluntarily jettisoned into the sea to save the vessel and remaining cargo from total destruction, the loss is called ______",
+    "options": {
+      "a": "particular average loss",
+      "b": "general average loss",
+      "c": "actual total loss",
+      "d": "constructive freight loss"
+    },
+    "answer": "b",
+    "explanation": "A general average loss occurs when an extraordinary sacrifice or expenditure is deliberately made for the common safety of the vessel, cargo, and crew, with the cost shared proportionally by all parties."
+  },
+  {
+    "question": "Which of the following is an insurance policy taken by an employer against loss arising from the dishonesty or embezzlement of employees?",
+    "options": {
+      "a": "Employer's liability insurance",
+      "b": "Fidelity guarantee insurance",
+      "c": "Public liability insurance",
+      "d": "Consequential loss insurance"
+    },
+    "answer": "b",
+    "explanation": "Fidelity guarantee insurance indemnifies an employer against financial losses caused by the fraudulent acts, theft, forgery, or embezzlement committed by employees in positions of trust."
+  },
+  {
+    "question": "Advertising aimed at convincing consumers that one particular brand is superior to competing brands is known as ______",
+    "options": {
+      "a": "informative advertising",
+      "b": "persuasive advertising",
+      "c": "institutional advertising",
+      "d": "generic advertising"
+    },
+    "answer": "b",
+    "explanation": "Persuasive (or competitive) advertising seeks to persuade consumers to buy a specific brand rather than competing alternatives by appealing to emotions, desires, and brand image."
+  },
+  {
+    "question": "A temporary price cut, free samples, coupons, and buy-one-get-one-free offers are examples of ______",
+    "options": {
+      "a": "public relations",
+      "b": "sales promotion",
+      "c": "personal selling",
+      "d": "direct postal mail"
+    },
+    "answer": "b",
+    "explanation": "Sales promotions are short-term incentive schemes designed to stimulate quicker or greater purchase of a product by consumers or channel intermediaries."
+  },
+  {
+    "question": "Which mode of transport is most suitable for transporting crude petroleum and natural gas over long land distances?",
+    "options": {
+      "a": "Road tankers",
+      "b": "Pipelines",
+      "c": "Railway freight cars",
+      "d": "Canal barges"
+    },
+    "answer": "b",
+    "explanation": "Pipelines provide a continuous, reliable, safe, and cost-effective overland transportation medium specifically suited for liquids and gases like crude oil and natural gas."
+  },
+  {
+    "question": "A major disadvantage of air transport compared to road and water transport is ______",
+    "options": {
+      "a": "slowness in moving perishable items",
+      "b": "high operating and freight costs",
+      "c": "inability to reach overseas markets",
+      "d": "heavy dependence on inland waterways"
+    },
+    "answer": "b",
+    "explanation": "Air transport has high fuel and capital costs, making freight charges significantly higher per ton-kilometer than road, rail, or sea transportation."
+  },
+  {
+    "question": "The unlimited liability of a sole proprietor means that ______",
+    "options": {
+      "a": "the owner's personal assets can be seized to settle business debts",
+      "b": "the owner cannot be sued in a court of law",
+      "c": "the business automatically continues after the owner dies",
+      "d": "the business is owned by an unlimited number of shareholders"
+    },
+    "answer": "a",
+    "explanation": "Unlimited liability implies there is no legal separation between the owner and the business; if the business fails, creditors can attach the owner's personal property to recover outstanding debts."
+  },
+  {
+    "question": "A partner who contributes capital and shares in profits and losses but takes no active part in the daily management of the partnership is a ______",
+    "options": {
+      "a": "general partner",
+      "b": "sleeping or dormant partner",
+      "c": "nominal partner",
+      "d": "quasi-partner"
+    },
+    "answer": "b",
+    "explanation": "A sleeping (or dormant) partner contributes financial capital and receives profits, but remains inactive in the day-to-day administrative management of the firm."
+  },
+  {
+    "question": "The internal rules and regulations governing the conduct of a company's internal affairs are contained in the ______",
+    "options": {
+      "a": "Memorandum of Association",
+      "b": "Articles of Association",
+      "c": "Prospectus",
+      "d": "Certificate of Incorporation"
+    },
+    "answer": "b",
+    "explanation": "The Articles of Association define the internal management and operating rules of a company, including directors' powers, voting rights, meetings, and transfer of shares."
+  },
+  {
+    "question": "A public limited company is legally entitled to commence business operations only after obtaining the ______",
+    "options": {
+      "a": "Certificate of Incorporation",
+      "b": "Certificate of Trading (Trading Certificate)",
+      "c": "Auditor's Clearance Certificate",
+      "d": "Tax Identification Slip"
+    },
+    "answer": "b",
+    "explanation": "Unlike private companies that can commence upon incorporation, a public company (Plc) must satisfy capital and allotment requirements to receive a Certificate of Trading before commencing business."
+  },
+  {
+    "question": "The maximum amount of share capital that a company is authorized by its memorandum to issue to shareholders is the ______",
+    "options": {
+      "a": "issued capital",
+      "b": "nominal or authorized share capital",
+      "c": "called-up capital",
+      "d": "paid-up capital"
+    },
+    "answer": "b",
+    "explanation": "Authorized (nominal or registered) capital is the maximum total value of shares that a company is legally permitted to issue as stated in its Memorandum of Association."
+  },
+  {
+    "question": "Debenture holders in a limited company are ______",
+    "options": {
+      "a": "owners with voting power",
+      "b": "creditors entitled to a fixed interest whether profit is made or not",
+      "c": "statutory auditors of the accounts",
+      "d": "receivers appointed by the High Court"
+    },
+    "answer": "b",
+    "explanation": "Debentures are long-term loan instruments. Debenture holders are creditors of the company entitled to fixed interest regardless of company profitability, but have no voting rights."
+  },
+  {
+    "question": "A fundamental principle of cooperative societies established under the Rochdale rules is that ______",
+    "options": {
+      "a": "voting is proportional to the number of shares held",
+      "b": "each member has only one vote regardless of shareholding",
+      "c": "surplus is distributed equally without considering patronage",
+      "d": "membership is restricted to close family relatives"
+    },
+    "answer": "b",
+    "explanation": "Cooperative societies operate on the democratic principle of 'one member, one vote', ensuring that voting power cannot be dominated by the size of individual capital contributions."
+  },
+  {
+    "question": "A speculator on the stock exchange who buys shares with the expectation that their prices will rise in the near future in order to sell at a profit is a ______",
+    "options": {
+      "a": "bear",
+      "b": "bull",
+      "c": "stag",
+      "d": "broker"
+    },
+    "answer": "b",
+    "explanation": "A bull is an optimistic stock market speculator who buys securities expecting their market prices to rise so that he can sell them later at a profit."
+  },
+  {
+    "question": "A speculator who applies for new issues of shares with the sole intention of selling them as soon as allotment is made at a premium is a ______",
+    "options": {
+      "a": "stag",
+      "b": "bull",
+      "c": "bear",
+      "d": "jobber"
+    },
+    "answer": "a",
+    "explanation": "A stag applies for shares in newly floated public issues hoping the issue will be oversubscribed and that shares can be sold immediately at a premium above the offer price."
+  },
+  {
+    "question": "Which regulatory agency in Nigeria is primarily responsible for ensuring standard quality in manufactured goods and industrial products?",
+    "options": {
+      "a": "National Drug Law Enforcement Agency (NDLEA)",
+      "b": "Standards Organisation of Nigeria (SON)",
+      "c": "Federal Competition and Consumer Protection Commission (FCCPC)",
+      "d": "Nigerian Maritime Administration and Safety Agency (NIMASA)"
+    },
+    "answer": "b",
+    "explanation": "The Standards Organisation of Nigeria (SON) is mandated to prepare standards for products and industrial processes, monitor conformity, and issue the MANCAP and SONCAP certification marks."
+  },
+  {
+    "question": "Under the law of contract, the legal rule 'consideration must not be past' means that ______",
+    "options": {
+      "a": "consideration must have real economic value",
+      "b": "an act done before a promise is made cannot be used as consideration for that promise",
+      "c": "consideration must be equal in value to the promise",
+      "d": "past performance is sufficient to create a binding deed"
+    },
+    "answer": "b",
+    "explanation": "In contract law, past consideration is no consideration: an act carried out prior to and independently of the promise cannot make the subsequent promise legally binding."
+  },
+  {
+    "question": "The commercial legal maxim 'caveat emptor' literally means ______",
+    "options": {
+      "a": "let the seller beware",
+      "b": "let the buyer beware",
+      "c": "no one can give what he does not have",
+      "d": "an agreement without consideration is void"
+    },
+    "answer": "b",
+    "explanation": "'Caveat emptor' is Latin for 'let the buyer beware', meaning that the buyer assumes the responsibility of inspecting goods for defects before purchasing."
+  },
+  {
+    "question": "An agent who guarantees that his principal will receive payment from third parties, and in return charges a higher commission, is a ______",
+    "options": {
+      "a": "broker",
+      "b": "del credere agent",
+      "c": "factor",
+      "d": "special auctioneer"
+    },
+    "answer": "b",
+    "explanation": "A del credere agent acts for a principal and guarantees the solvency of the buyer; if the buyer defaults, the del credere agent pays the debt, earning a special del credere commission."
+  },
+  {
+    "question": "In a hire purchase transaction, ownership of the goods passes to the hirer ______",
+    "options": {
+      "a": "upon payment of the initial deposit",
+      "b": "upon physical delivery of the goods",
+      "c": "upon payment of the final installment",
+      "d": "six months after signing the agreement"
+    },
+    "answer": "c",
+    "explanation": "In a hire purchase contract, possession passes on delivery but legal ownership (title) remains with the seller until the final installment is paid."
+  },
+  {
+    "question": "A fee charged by a shipping company or port authority for failure to load or unload a vessel within the agreed lay days is called ______",
+    "options": {
+      "a": "freight",
+      "b": "demurrage",
+      "c": "lighterage",
+      "d": "primage"
+    },
+    "answer": "b",
+    "explanation": "Demurrage is a penalty charge incurred by a charterer or merchant for exceeding the allowed lay days for loading or unloading a ship or clearing cargo from port terminals."
+  },
+  {
+    "question": "The rate of stock turnover is calculated as ______",
+    "options": {
+      "a": "Gross Profit divided by Net Sales",
+      "b": "Cost of Goods Sold divided by Average Stock",
+      "c": "Closing Stock divided by Opening Stock",
+      "d": "Total Sales divided by Net Purchases"
+    },
+    "answer": "b",
+    "explanation": "Rate of turnover = Cost of Goods Sold / Average Stock at cost. It measures how many times inventory is sold and replaced over a given accounting period."
+  },
+  {
+    "question": "If opening stock is ₦10,000, closing stock is ₦14,000, and cost of goods sold is ₦60,000, what is the rate of stock turnover?",
+    "options": {
+      "a": "4 times",
+      "b": "5 times",
+      "c": "6 times",
+      "d": "10 times"
+    },
+    "answer": "b",
+    "explanation": "Average stock = (₦10,000 + ₦14,000) / 2 = ₦12,000. Rate of turnover = Cost of goods sold / Average stock = ₦60,000 / ₦12,000 = 5 times."
+  },
+  {
+    "question": "Working capital is calculated as ______",
+    "options": {
+      "a": "Total Assets minus Total Liabilities",
+      "b": "Current Assets minus Current Liabilities",
+      "c": "Fixed Assets minus Current Assets",
+      "d": "Paid-up Capital plus Retained Earnings"
+    },
+    "answer": "b",
+    "explanation": "Net working capital is the difference between current assets and current liabilities, representing the liquid funds available for day-to-day business operations."
+  },
+  {
+    "question": "Which of the following is a short-term instrument traded in the money market?",
+    "options": {
+      "a": "Ordinary shares",
+      "b": "Treasury bills",
+      "c": "Development loan stocks",
+      "d": "Mortgage debentures"
+    },
+    "answer": "b",
+    "explanation": "Treasury bills are short-term government debt securities with maturities of 91, 182, or 364 days traded in the money market."
+  },
+  {
+    "question": "A contract where a shipowner hires out an entire vessel or part of it to a merchant for a specific voyage or period of time is a ______",
+    "options": {
+      "a": "bill of lading",
+      "b": "charter party",
+      "c": "consular invoice",
+      "d": "dock warrant"
+    },
+    "answer": "b",
+    "explanation": "A charter party is a formal maritime contract by which a shipowner leases an entire vessel (or part of it) to a charterer for a voyage (voyage charter) or for a set period (time charter)."
+  },
+  {
+    "question": "Which of the following is a function of the Nigerian Export Promotion Council (NEPC)?",
+    "options": {
+      "a": "Imposing heavy tariffs on exported manufactured items",
+      "b": "Promoting the development and diversification of Nigeria's non-oil export trade",
+      "c": "Issuing national driving licenses to cargo truck operators",
+      "d": "Inspecting bank vaults across commercial financial centers"
+    },
+    "answer": "b",
+    "explanation": "The NEPC is the apex federal agency charged with developing and diversifying Nigeria's export trade by promoting non-oil goods in the global market."
+  },
+  {
+    "question": "An agreement between competing companies in the same industry to restrict output and fix minimum selling prices is a ______",
+    "options": {
+      "a": "consortium",
+      "b": "cartel",
+      "c": "merger",
+      "d": "holding company"
+    },
+    "answer": "b",
+    "explanation": "A cartel is a formal collusive arrangement among independent producers in an industry to coordinate pricing, limit production quotas, and divide market territories (e.g., OPEC)."
+  },
+  {
+    "question": "The term 'CIF' in commercial shipping contracts means that the quoted price includes ______",
+    "options": {
+      "a": "Cost of goods only",
+      "b": "Cost, Insurance, and Freight to the destination port",
+      "c": "Customs duties and Inland Free delivery",
+      "d": "Commission, Interest, and Final storage fees"
+    },
+    "answer": "b",
+    "explanation": "CIF stands for Cost, Insurance, and Freight. The seller arranges and pays for the cost of goods, marine insurance against risk of damage, and freight charges to the named port of destination."
+  },
+  {
+    "question": "Which of the following creates place utility in commercial activities?",
+    "options": {
+      "a": "Warehousing",
+      "b": "Transportation",
+      "c": "Banking",
+      "d": "Insurance"
+    },
+    "answer": "b",
+    "explanation": "Transportation creates place utility by moving goods from areas of surplus where they are produced to places of deficit where they are needed by consumers."
+  },
+  {
+    "question": "Which of the following creates time utility for seasonal goods?",
+    "options": {
+      "a": "Warehousing",
+      "b": "Advertising",
+      "c": "Communication",
+      "d": "Banking"
+    },
+    "answer": "a",
+    "explanation": "Warehousing creates time utility by storing goods produced during periods of abundance until they are demanded by consumers during off-seasons."
+  },
+  {
+    "question": "In the event of company liquidation, which category of security holders is paid last after all creditors and other claims are settled?",
+    "options": {
+      "a": "Debenture holders",
+      "b": "Cumulative preference shareholders",
+      "c": "Ordinary shareholders",
+      "d": "Trade creditors"
+    },
+    "answer": "c",
+    "explanation": "Ordinary shareholders are the equity owners and residual claimants; upon liquidation, they receive whatever capital remains only after all external creditors and preference shareholders are fully paid."
+  },
+  {
+    "question": "An invoice sent in advance of goods to serve as a quotation or to demand payment before delivery is a ______",
+    "options": {
+      "a": "consignment note",
+      "b": "pro-forma invoice",
+      "c": "credit note",
+      "d": "debit note"
+    },
+    "answer": "b",
+    "explanation": "A pro-forma invoice is an advance preliminary bill sent to a buyer before shipment, specifying description and price of goods to serve as a quote or for prepayment/customs clearance."
+  },
+  {
+    "question": "Electronic commerce (e-commerce) that involves transactions conducted directly between two businesses is categorized as ______",
+    "options": {
+      "a": "Business-to-Consumer (B2C)",
+      "b": "Business-to-Business (B2B)",
+      "c": "Consumer-to-Consumer (C2C)",
+      "d": "Government-to-Citizen (G2C)"
+    },
+    "answer": "b",
+    "explanation": "B2B (Business-to-Business) describes electronic transactions, orders, and commercial exchanges conducted between two corporate entities (e.g., manufacturer and wholesaler)."
+  }
+]

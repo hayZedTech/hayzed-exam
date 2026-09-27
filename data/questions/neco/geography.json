@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which of the following is an effect of the earth's rotation on its axis?",
+    "options": {
+      "a": "The occurrence of four distinct seasons",
+      "b": "The deflection of planetary winds and ocean currents",
+      "c": "Varying length of day and night throughout the year",
+      "d": "Changes in the altitude of the midday sun"
+    },
+    "answer": "b",
+    "explanation": "Earth's rotation from west to east causes the Coriolis effect, which deflects winds and ocean currents to the right in the Northern Hemisphere and to the left in the Southern Hemisphere."
+  },
+  {
+    "question": "If the Greenwich Mean Time (GMT) is 12:00 noon, what is the local solar time in a town situated on longitude 45°E?",
+    "options": {
+      "a": "9:00 am",
+      "b": "3:00 pm",
+      "c": "2:00 pm",
+      "d": "4:00 pm"
+    },
+    "answer": "b",
+    "explanation": "The Earth rotates through 15° in 1 hour (1° in 4 minutes). For 45°E, time difference = 45 / 15 = 3 hours. Since it is east of Greenwich, the time is ahead: 12:00 noon + 3 hours = 3:00 pm."
+  },
+  {
+    "question": "The approximate distance between two places situated on the same meridian with a latitudinal difference of 5° is ______ (taking 1° of latitude ≈ 111 km).",
+    "options": {
+      "a": "444 km",
+      "b": "555 km",
+      "c": "600 km",
+      "d": "1,110 km"
+    },
+    "answer": "b",
+    "explanation": "Distance along a meridian of latitude is calculated as: Latitudinal difference × 111 km = 5 × 111 km = 555 km."
+  },
+  {
+    "question": "The boundary layer that separates the Earth's crust from the underlying mantle is known as the ______",
+    "options": {
+      "a": "Gutenberg discontinuity",
+      "b": "Mohorovicic (Moho) discontinuity",
+      "c": "Conrad discontinuity",
+      "d": "Lehmann discontinuity"
+    },
+    "answer": "b",
+    "explanation": "The Mohorovicic discontinuity (Moho) is the seismic boundary separating the oceanic and continental crust from the underlying upper mantle."
+  },
+  {
+    "question": "Basalt is classified as an extrusive igneous rock because it is formed from ______",
+    "options": {
+      "a": "cooling of magma deep beneath the earth's crust",
+      "b": "rapid cooling and solidification of lava on the earth's surface",
+      "c": "accumulation and compression of organic vegetable remains",
+      "d": "recrystallization of existing limestone under high heat and pressure"
+    },
+    "answer": "b",
+    "explanation": "Extrusive (volcanic) rocks like basalt are formed when molten magma erupts onto the earth's surface as lava and cools rapidly, resulting in fine-grained crystal structures."
+  },
+  {
+    "question": "Which of the following sedimentary rocks is formed through organic chemical or biological accumulation of sea shells and skeletal remains?",
+    "options": {
+      "a": "Sandstone",
+      "b": "Limestone",
+      "c": "Conglomerate",
+      "d": "Rock salt"
+    },
+    "answer": "b",
+    "explanation": "Organically formed sedimentary rocks like limestone and chalk originate from the compacted skeletal remains and shells of microscopic marine organisms (calcite)."
+  },
+  {
+    "question": "Marble is a metamorphic rock formed by the recrystallization of ______",
+    "options": {
+      "a": "granite",
+      "b": "limestone",
+      "c": "shale",
+      "d": "sandstone"
+    },
+    "answer": "b",
+    "explanation": "When sedimentary limestone is subjected to high thermal heat and pressure during regional or contact metamorphism, it recrystallizes into metamorphic marble."
+  },
+  {
+    "question": "A massive, discordant, dome-shaped intrusion of igneous magma deep within the earth's crust that forms the core of many mountain ranges is a ______",
+    "options": {
+      "a": "sill",
+      "b": "dyke",
+      "c": "batholith",
+      "d": "laccolith"
+    },
+    "answer": "c",
+    "explanation": "A batholith is a gigantic, deep-seated body of intrusive igneous rock (usually granitic) with discordant boundaries, forming the roots of major mountain chains."
+  },
+  {
+    "question": "A horizontal, sheet-like intrusion of igneous magma along the bedding planes of pre-existing rock strata is a ______",
+    "options": {
+      "a": "dyke",
+      "b": "sill",
+      "c": "lopolith",
+      "d": "phacolith"
+    },
+    "answer": "b",
+    "explanation": "A sill is a concordant tabular sheet of intrusive igneous rock that intrudes horizontally between bedding planes of older sedimentary rock strata."
+  },
+  {
+    "question": "The point on the Earth's surface vertically above the underground focus of an earthquake is the ______",
+    "options": {
+      "a": "fault scarp",
+      "b": "epicenter",
+      "c": "subduction zone",
+      "d": "graben"
+    },
+    "answer": "b",
+    "explanation": "The epicenter is the exact point on the surface of the earth directly above the subterranean focus (hypocenter) where seismic earthquake waves originate."
+  },
+  {
+    "question": "Exfoliation or onion-skin peeling is a form of mechanical weathering predominantly found in ______",
+    "options": {
+      "a": "hot arid desert regions with large diurnal temperature ranges",
+      "b": "perennially frozen polar tundra environments",
+      "c": "dense equatorial tropical rain forests",
+      "d": "marshy mangrove tidal swamps"
+    },
+    "answer": "a",
+    "explanation": "In arid desert environments, large diurnal temperature fluctuations cause outer rock layers to repeatedly expand and contract, eventually fracturing and peeling away in sheets (exfoliation)."
+  },
+  {
+    "question": "The chemical weathering process whereby calcium carbonate in limestone is dissolved by weak carbonic acid in rainwater is known as ______",
+    "options": {
+      "a": "hydration",
+      "b": "carbonation",
+      "c": "oxidation",
+      "d": "hydrolysis"
+    },
+    "answer": "b",
+    "explanation": "Carbonation occurs when rainwater absorbs carbon dioxide to form weak carbonic acid, which converts insoluble calcium carbonate (limestone) into soluble calcium bicarbonate."
+  },
+  {
+    "question": "Pillars of calcium carbonate that grow upwards from the floor of a limestone cave are known as ______",
+    "options": {
+      "a": "stalactites",
+      "b": "stalagmites",
+      "c": "dolines",
+      "d": "uvalas"
+    },
+    "answer": "b",
+    "explanation": "Stalagmites are calcite mineral deposits that rise from the floor of a limestone cavern due to dripping water, while stalactites hang down from the ceiling."
+  },
+  {
+    "question": "The slow, downslope creep of water-saturated soil over an impermeable permafrost subsoil layer is termed ______",
+    "options": {
+      "a": "rockfall",
+      "b": "solifluction",
+      "c": "mudflow",
+      "d": "talus creep"
+    },
+    "answer": "b",
+    "explanation": "Solifluction is the gradual downslope movement of waterlogged soil and regolith over frozen permafrost or impermeable rock strata in periglacial regions."
+  },
+  {
+    "question": "The wearing down of a river's bed and banks by the mechanical abrasive action of its carried rock load is called ______",
+    "options": {
+      "a": "hydraulic action",
+      "b": "corrasion (abrasion)",
+      "c": "attrition",
+      "d": "corrosion (solution)"
+    },
+    "answer": "b",
+    "explanation": "Corrasion (abrasion) is the mechanical scouring and grinding of the river bed and valley sides by rock fragments and pebbles swept along by the running water."
+  },
+  {
+    "question": "Interlocking spurs, steep gorges, V-shaped valleys, and waterfalls are characteristic relief features of the ______",
+    "options": {
+      "a": "upper (youthful) course of a river",
+      "b": "middle (mature) course of a river",
+      "c": "lower (plain) course of a river",
+      "d": "estuarine delta zone"
+    },
+    "answer": "a",
+    "explanation": "In the youthful or upper stage of a river, vertical downcutting dominates due to steep gradient, creating deep V-shaped valleys, rapids, gorges, and interlocking spurs."
+  },
+  {
+    "question": "An oxbow lake is formed in the lower course of a river when ______",
+    "options": {
+      "a": "rejuvenation causes the river to carve deep gorges",
+      "b": "a pronounced river meander loop is cut through during a flood",
+      "c": "the river empties directly into a tidal ocean trench",
+      "d": "glacial terminal moraines dam up the river valley"
+    },
+    "answer": "b",
+    "explanation": "Oxbow lakes develop when continuous lateral erosion on the outer bend and deposition on the inner bend narrow the neck of a meander until the river breaches the neck during a flood."
+  },
+  {
+    "question": "A drainage pattern in which tributaries join the main river at acute angles, resembling the branching structure of a tree, is described as ______",
+    "options": {
+      "a": "trellis",
+      "b": "dendritic",
+      "c": "radial",
+      "d": "centripetal"
+    },
+    "answer": "b",
+    "explanation": "A dendritic drainage pattern develops on rocks of uniform resistance (homogeneous geology), creating an irregular tree-like branching pattern."
+  },
+  {
+    "question": "A desert landform consisting of tabular masses of alternating horizontal resistant and soft rock layers sculpted by wind abrasion into ridge-and-furrow topography is a ______",
+    "options": {
+      "a": "yardang",
+      "b": "zeugen",
+      "c": "barchan",
+      "d": "playa"
+    },
+    "answer": "b",
+    "explanation": "Zeugens are table-shaped ridges formed in arid regions where horizontally bedded strata of hard and soft rocks are carved by wind abrasion into furrowed landforms."
+  },
+  {
+    "question": "Crescent-shaped sand dunes with horns pointing in the direction of the prevailing wind are called ______",
+    "options": {
+      "a": "seif dunes",
+      "b": "barchans",
+      "c": "transverse dunes",
+      "d": "star dunes"
+    },
+    "answer": "b",
+    "explanation": "Barchans are crescent-shaped shifting sand dunes formed by wind blowing steadily from one dominant direction, with their convex crest facing the wind and horns pointing downwind."
+  },
+  {
+    "question": "A knife-edge, steep-sided rocky ridge formed between two adjacent glacial cirques is an ______",
+    "options": {
+      "a": "arete",
+      "b": "esker",
+      "c": "drumlin",
+      "d": "outwash plain"
+    },
+    "answer": "a",
+    "explanation": "An arete is a sharp, jagged, narrow ridge created when two neighboring cirques (corries) erode headward into each other on a mountain."
+  },
+  {
+    "question": "A coastal depositional feature that joins an offshore island to the mainland coast is known as a ______",
+    "options": {
+      "a": "spit",
+      "b": "tombolo",
+      "c": "hook",
+      "d": "barrier reef"
+    },
+    "answer": "b",
+    "explanation": "A tombolo is a sand or shingle bar or spit that extends outward from the coast and permanently connects an offshore island to the mainland."
+  },
+  {
+    "question": "Relative humidity is measured using an instrument known as a ______",
+    "options": {
+      "a": "mercury barometer",
+      "b": "hygrometer (wet-and-dry bulb psychrometer)",
+      "c": "cup anemometer",
+      "d": "Campbell-Stokes recorder"
+    },
+    "answer": "b",
+    "explanation": "A hygrometer (or wet-and-dry bulb psychrometer) measures relative humidity by comparing readings between a dry-bulb thermometer and a wet-bulb thermometer."
+  },
+  {
+    "question": "Lines drawn on a weather map connecting places with equal atmospheric pressure are called ______",
+    "options": {
+      "a": "isohyets",
+      "b": "isobars",
+      "c": "isotherms",
+      "d": "isobaths"
+    },
+    "answer": "b",
+    "explanation": "Isobars are lines connecting places of equal barometric or atmospheric pressure reduced to sea level."
+  },
+  {
+    "question": "The Mediterranean climatic region is uniquely characterized by ______",
+    "options": {
+      "a": "abundant rainfall throughout the entire year with cool summers",
+      "b": "hot, dry summers and mild, rainy winters",
+      "c": "perpetual sub-zero temperatures and snow blizzards",
+      "d": "heavy convectional rains concentrated strictly in the summer months"
+    },
+    "answer": "b",
+    "explanation": "The Mediterranean climate (found on the western margins of continents between 30° and 45° latitude) features hot, dry summers under subtropical high pressure and mild, moist winters brought by Westerlies."
+  },
+  {
+    "question": "Equatorial climate is characterized by all of the following EXCEPT ______",
+    "options": {
+      "a": "high mean annual temperature of about 27°C",
+      "b": "double rainfall maxima (bimodal rainfall distribution)",
+      "c": "large annual temperature range exceeding 20°C",
+      "d": "dense, multi-layered evergreen rainforest canopy"
+    },
+    "answer": "c",
+    "explanation": "The equatorial climate has a very small annual range of temperature (rarely exceeding 2°C to 3°C) because solar insolation remains intense and daylight hours stay consistent throughout the year."
+  },
+  {
+    "question": "Buttress roots, broad evergreen leaves, tall emergent trees, and numerous climbing epiphytes are dominant adaptations of the ______",
+    "options": {
+      "a": "Tropical rainforest biome",
+      "b": "Boreal coniferous forest",
+      "c": "Temperate grassland (Steppe)",
+      "d": "Tundra vegetation"
+    },
+    "answer": "a",
+    "explanation": "Tropical rainforest trees possess buttress roots for physical structural support in thin soils, broad evergreen leaves, stratified multi-tiered canopies, and woody lianas and epiphytes."
+  },
+  {
+    "question": "Which of the following trees is characteristic of the Sahel and Sudan savanna zones in Nigeria, adapted to drought by shedding leaves and storing water in its swollen trunk?",
+    "options": {
+      "a": "Iroko",
+      "b": "Baobab",
+      "c": "Mahogany",
+      "d": "Obeche"
+    },
+    "answer": "b",
+    "explanation": "The baobab tree is a drought-resistant xerophytic species typical of Sudan and Sahel savanna belts, storing water in its spongy trunk and shedding leaves during dry periods."
+  },
+  {
+    "question": "In topographical map interpretation, closely spaced contour lines represent a ______",
+    "options": {
+      "a": "gentle slope",
+      "b": "steep slope or cliff",
+      "c": "wide floodplain",
+      "d": "broad plateau valley"
+    },
+    "answer": "b",
+    "explanation": "When contour lines are packed closely together on a map, it indicates a rapid change in elevation over a short horizontal distance, representing a steep slope or escarpment."
+  },
+  {
+    "question": "If the scale of a topographical map is 1:50,000, a measured distance of 10 cm on the map represents an actual ground distance of ______",
+    "options": {
+      "a": "2.5 km",
+      "b": "5.0 km",
+      "c": "10.0 km",
+      "d": "50.0 km"
+    },
+    "answer": "b",
+    "explanation": "At 1:50,000, 1 cm on the map = 50,000 cm = 500 meters = 0.5 km. Therefore, 10 cm on the map = 10 × 0.5 km = 5.0 km."
+  },
+  {
+    "question": "Coal deposits in Nigeria are predominantly mined at ______ in ______ State.",
+    "options": {
+      "a": "Jos; Plateau",
+      "b": "Enugu; Enugu",
+      "c": "Itakpe; Kogi",
+      "d": "Ewekoro; Ogun"
+    },
+    "answer": "b",
+    "explanation": "Nigeria's major sub-bituminous coal deposits are mined in the Udi Hills around Enugu in Enugu State."
+  },
+  {
+    "question": "The largest deposits of iron ore used in feeding the Ajaokuta Steel Plant in Nigeria are located at ______",
+    "options": {
+      "a": "Itakpe in Kogi State",
+      "b": "Nkalagu in Ebonyi State",
+      "c": "Bukuru in Plateau State",
+      "d": "Birnin Gwari in Kaduna State"
+    },
+    "answer": "a",
+    "explanation": "Itakpe in Kogi State holds large commercial reserves of iron ore developed to supply the Ajaokuta Iron and Steel Complex and the Delta Steel Company."
+  },
+  {
+    "question": "Tin and columbite are mineral resources historically associated with the ______ in Nigeria.",
+    "options": {
+      "a": "Niger Delta basin",
+      "b": "Jos Plateau",
+      "c": "Sokoto basin",
+      "d": "Cross River plain"
+    },
+    "answer": "b",
+    "explanation": "Cassiterite (tin ore) and columbite are placer mineral deposits found in the younger granites of the Jos Plateau."
+  },
+  {
+    "question": "The Kainji Hydroelectric Power (HEP) Dam is constructed across the ______ River in ______ State.",
+    "options": {
+      "a": "Benue; Adamawa",
+      "b": "Niger; Niger",
+      "c": "Kaduna; Kaduna",
+      "d": "Osun; Osun"
+    },
+    "answer": "b",
+    "explanation": "Kainji Dam, completed in 1968, was built across the River Niger in Niger State to generate hydroelectricity for Nigeria."
+  },
+  {
+    "question": "The Shiroro Hydroelectric Power Dam in Nigeria is situated along the ______ River.",
+    "options": {
+      "a": "Niger",
+      "b": "Kaduna",
+      "c": "Cross",
+      "d": "Benue"
+    },
+    "answer": "b",
+    "explanation": "Shiroro Hydroelectric Power Station is built on the Kaduna River in Niger State."
+  },
+  {
+    "question": "Which of the following agricultural crops is a major export tree crop primarily produced in the Southwestern forest belt of Nigeria?",
+    "options": {
+      "a": "Groundnut",
+      "b": "Cocoa",
+      "c": "Millet",
+      "d": "Beniseed"
+    },
+    "answer": "b",
+    "explanation": "Cocoa is the primary cash crop of Southwestern Nigeria (Ondo, Osun, Oyo, Ogun, and Ekiti States), thriving in well-drained tropical clay-loam soils under high rainfall."
+  },
+  {
+    "question": "Which agricultural crop is predominantly cultivated in the Guinea and Sudan savanna ecological zones of Northern Nigeria?",
+    "options": {
+      "a": "Oil palm",
+      "b": "Rubber",
+      "c": "Sorghum (Guinea corn)",
+      "d": "Cocoa"
+    },
+    "answer": "c",
+    "explanation": "Sorghum (guinea corn) is a hardy cereal grain widely grown across the Guinea and Sudan savanna zones of Northern Nigeria where rainfall is moderate."
+  },
+  {
+    "question": "The sparse population distribution observed in the Middle Belt of Nigeria (e.g., parts of Niger, Kwara, and Benue valleys) has historically been attributed to ______",
+    "options": {
+      "a": "excessive urban industrial congestion",
+      "b": "historical slave raiding, civil wars, and infestation by tsetse flies",
+      "c": "extreme desert aridity and lack of surface rivers",
+      "d": "complete absence of arable farmland"
+    },
+    "answer": "b",
+    "explanation": "The historical low population density in parts of Nigeria's Middle Belt was influenced by 19th-century slave raiding, conflicts, and tsetse fly (trypanosomiasis) infestation in river basins."
+  },
+  {
+    "question": "A major seaport in Nigeria located on the Bonny River equipped for handling general cargo, containerized freight, and oil exports is ______",
+    "options": {
+      "a": "Onne Port Complex",
+      "b": "Baro River Port",
+      "c": "Lokoja Port",
+      "d": "Jebba Inland Port"
+    },
+    "answer": "a",
+    "explanation": "Onne Port Complex (near Port Harcourt, Rivers State) is a modern deep-water port along the Bonny River serving oil and gas operations and general cargo."
+  },
+  {
+    "question": "Which of the following environmental hazards is most prevalent in the arid northern fringe states of Nigeria (e.g., Sokoto, Katsina, Yobe, Borno)?",
+    "options": {
+      "a": "Coastal oil pollution",
+      "b": "Desertification",
+      "c": "Gully erosion",
+      "d": "Industrial acid rain"
+    },
+    "answer": "b",
+    "explanation": "Desertification—the encroachment of desert conditions due to persistent drought, overgrazing, and deforestation—severely threatens northern border states in Nigeria."
+  },
+  {
+    "question": "Severe gully erosion in Nigeria is most critical and devastating in the sedimentary sandstones of ______ State.",
+    "options": {
+      "a": "Anambra",
+      "b": "Kano",
+      "c": "Kebbi",
+      "d": "Oyo"
+    },
+    "answer": "a",
+    "explanation": "Gully erosion is exceptionally severe in Southeastern Nigeria, particularly in Anambra State (e.g., Agulu-Nanka gullies), due to friable sandy soils, high rainfall intensity, and human deforestation."
+  },
+  {
+    "question": "The Inter-Tropical Discontinuity (ITD) in West Africa is the oscillating boundary zone between the ______",
+    "options": {
+      "a": "Tropical Maritime (cT) and Tropical Continental (mT) air masses",
+      "b": "South-West Monsoon winds and the North-East Trade winds (Harmattan)",
+      "c": "Cold Benguela Current and the Warm Guinea Current",
+      "d": "Westerlies and the Polar Easterlies"
+    },
+    "answer": "b",
+    "explanation": "The ITD is the convergence boundary where moisture-laden Tropical Maritime air (South-West Monsoon) meets dry, dust-laden Tropical Continental air (North-East Trade winds / Harmattan)."
+  },
+  {
+    "question": "The Harmattan wind experienced across West Africa during the dry season originates from the ______",
+    "options": {
+      "a": "Atlantic Ocean",
+      "b": "Sahara Desert",
+      "c": "Gulf of Guinea",
+      "d": "Congo Rainforest Basin"
+    },
+    "answer": "b",
+    "explanation": "The Harmattan is a dry, cool, and dusty wind originating over the Sahara Desert and blowing south-westwards across West Africa between November and March."
+  },
+  {
+    "question": "Which of the following factors of industrial location explains why cement manufacturing factories are located in Ewekoro (Ogun) and Nkalagu (Ebonyi)?",
+    "options": {
+      "a": "Proximity to seaport shipping terminals",
+      "b": "Proximity to raw materials (limestone deposits)",
+      "c": "Availability of cheap skilled foreign labour",
+      "d": "Presence of cold climate to preserve materials"
+    },
+    "answer": "b",
+    "explanation": "Cement manufacturing is a weight-losing raw-material-oriented industry; plants are sited right at the limestone quarry deposits to minimize heavy raw material transport costs."
+  },
+  {
+    "question": "A settlement pattern where houses are arranged in a contiguous string along a major highway, railway line, or riverbank is described as ______",
+    "options": {
+      "a": "nucleated",
+      "b": "linear",
+      "c": "dispersed",
+      "d": "isolated"
+    },
+    "answer": "b",
+    "explanation": "Linear (or ribbon) settlement patterns develop along transport corridors such as highways, rivers, or railway lines, where accessibility attracts housing development."
+  },
+  {
+    "question": "The confluence of the River Niger and River Benue is located at ______",
+    "options": {
+      "a": "Makurdi",
+      "b": "Lokoja",
+      "c": "Onitsha",
+      "d": "Jebba"
+    },
+    "answer": "b",
+    "explanation": "Lokoja (the capital of Kogi State) is the historic confluence town where Nigeria's two largest rivers, the Niger and the Benue, meet."
+  },
+  {
+    "question": "Which of the following is an ocean current that brings a cooling and desensitizing effect to the southwestern coast of Africa, contributing to the formation of the Namib Desert?",
+    "options": {
+      "a": "Warm Guinea Current",
+      "b": "Cold Benguela Current",
+      "c": "Warm Mozambique Current",
+      "d": "Warm Agulhas Current"
+    },
+    "answer": "b",
+    "explanation": "The cold Benguela Current cools onshore winds, producing stability and fog while preventing rain formation, creating desert conditions along the Namibian coast."
+  },
+  {
+    "question": "The atmospheric layer closest to the Earth's surface where virtually all weather phenomena occur is the ______",
+    "options": {
+      "a": "stratosphere",
+      "b": "troposphere",
+      "c": "mesosphere",
+      "d": "thermosphere"
+    },
+    "answer": "b",
+    "explanation": "The troposphere extends from sea level up to roughly 8-16 km and contains almost all atmospheric water vapor, clouds, and turbulent weather processes."
+  },
+  {
+    "question": "An eclipse of the moon (lunar eclipse) occurs when the ______",
+    "options": {
+      "a": "moon passes directly between the sun and the earth",
+      "b": "earth passes directly between the sun and the moon, casting its shadow on the moon",
+      "c": "sun comes directly between the earth and the moon",
+      "d": "earth's rotation axis tilts away from the sun"
+    },
+    "answer": "b",
+    "explanation": "A lunar eclipse occurs when the Earth moves directly between the Sun and the Moon, so that Earth's shadow (umbra and penumbra) falls upon the Moon."
+  },
+  {
+    "question": "The deepest lake in Africa and the second-deepest freshwater lake in the world, formed along the East African Rift Valley, is Lake ______",
+    "options": {
+      "a": "Victoria",
+      "b": "Tanganyika",
+      "c": "Chad",
+      "d": "Malawi"
+    },
+    "answer": "b",
+    "explanation": "Lake Tanganyika is a rift valley lake located within the Albertine Rift; it is the longest freshwater lake and second deepest in the world after Lake Baikal."
+  }
+]

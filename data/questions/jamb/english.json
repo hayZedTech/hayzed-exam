@@ -1,0 +1,662 @@
+[
+  {
+    "question": "Read the following passage carefully and answer the question that follows:\n\nFor decades, technological revolutions were heralded primarily as instruments of liberation, liberating humanity from back-breaking physical drudgery and expanding the frontiers of industrial productivity. However, the contemporary emergence of generative artificial intelligence and hyper-automation has precipitated an unprecedented paradigm shift that challenges the fundamental assumptions of human labor. Unlike previous waves of mechanization—which predominantly displaced manual and low-skilled workers while creating new tiers of supervisory, administrative, and creative occupations—generative cognitive systems are encroaching upon the domain of the white-collar intelligentsia. Diagnostic medicine, jurisprudence, computational coding, and higher pedagogical instruction are no longer impregnable bastions of human exclusivity. In developing economies, where demographic expansion continues unabated and youth unemployment hovers at alarming thresholds, this technological disruption poses an acute existential dilemma. The historical pathway to national prosperity—transitioning rural agrarian labor into export-oriented urban manufacturing and tertiary customer services—is rapidly constricting. If automation colonizes both rudimentary service operations and high-end analytical functions, emerging nations risk premature de-industrialization. To circumvent this developmental impasse, policy architects must repudiate obsolete educational curricula centered on rote assimilation. Instead, educational systems must cultivate adaptive cognitive plasticity, complex problem-solving, ethical governance of digital ecosystems, and indigenous technological innovation.\n\nAccording to the passage, how does the current technological revolution differ fundamentally from preceding mechanization waves?",
+    "options": {
+      "a": "It exclusively targets agrarian manual workers in developing countries",
+      "b": "It directly encroaches upon cognitive and white-collar professional vocations",
+      "c": "It eliminates the necessity for ethical governance and digital regulations",
+      "d": "It decelerates the rate of urban demographic expansion"
+    },
+    "answer": "b",
+    "explanation": "The author explicitly states that unlike previous waves of mechanization which displaced manual labor, generative artificial intelligence encroaches upon domains of the white-collar intelligentsia such as medicine, law, coding, and pedagogy."
+  },
+  {
+    "question": "Read the passage in question 1.\n\nThe author's reference to 'premature de-industrialization' implies that emerging nations may:",
+    "options": {
+      "a": "Industrialize so rapidly that their natural mineral resources become exhausted",
+      "b": "Lose their manufacturing and service employment base before achieving comprehensive economic prosperity",
+      "c": "Dismantle their agricultural sectors in favor of advanced robotic engineering",
+      "d": "Prohibit technological importations from developed industrialized economies"
+    },
+    "answer": "b",
+    "explanation": "In developmental economics, premature de-industrialization occurs when developing nations lose manufacturing and routine service jobs to automation before they have achieved high income levels or mature economic structural transformation."
+  },
+  {
+    "question": "Read the passage in question 1.\n\nWhich of the following best captures the author's attitude towards traditional, rote-based educational curricula?",
+    "options": {
+      "a": "Enthusiastic and celebratory",
+      "b": "Critical and dismissive",
+      "c": "Nostalgic and appreciative",
+      "d": "Ambivalent and indifferent"
+    },
+    "answer": "b",
+    "explanation": "The author calls for policy architects to 'repudiate obsolete educational curricula centered on rote assimilation', showing a distinct, critical, and dismissive attitude towards rote-based learning in the age of AI."
+  },
+  {
+    "question": "Read the passage in question 1.\n\nFrom the passage, it can be inferred that the survival of developing nations in the era of artificial intelligence depends largely on:",
+    "options": {
+      "a": "Total prohibition of automation across public universities",
+      "b": "Aggressive educational reform focused on adaptive cognition and indigenous innovation",
+      "c": "Exclusive reliance on foreign direct investment in agrarian farming",
+      "d": "Encouraging unchecked demographic expansion to supply cheap manual labor"
+    },
+    "answer": "b",
+    "explanation": "The closing sentence emphasizes that to avoid a developmental impasse, nations must cultivate adaptive cognitive plasticity, complex problem-solving, and indigenous technological innovation."
+  },
+  {
+    "question": "Read the passage in question 1.\n\nThe word 'impregnable' as used in the passage ('no longer impregnable bastions') most nearly means:",
+    "options": {
+      "a": "Inaccessible or impenetrable",
+      "b": "Economically profitable",
+      "c": "Fragile and vulnerable",
+      "d": "Subject to frequent revision"
+    },
+    "answer": "a",
+    "explanation": "'Impregnable' means invulnerable, incapable of being captured, entered, or breached. In context, it denotes that intellectual professions are no longer shielded or impenetrable to AI disruption."
+  },
+  {
+    "question": "Read the following passage carefully and answer the question that follows:\n\nThe ecological equilibrium of the African Sahelian corridor represents one of the planet's most precarious environmental fault lines. For generations, pastoralists and sedentary agrarian communities maintained a delicate, symbiotic coexistence governed by customary tenure treaties and seasonal transhumance routes. When rainy seasons terminated, nomadic Fulani herders migrated southward, grazing their cattle on crop residues left by Hausa and Kanuri farmers; in reciprocation, the livestock deposited organic manure that replenished depleted topsoils. However, the relentless acceleration of anthropogenically induced climatic volatility, compounded by erratic rainfall patterns and the southward encroachment of the Sahara Desert, has disrupted this fragile balance. Arable land has dwindled drastically, waterholes have evaporated into arid mud flats, and Lake Chad has contracted to a minute fraction of its historical basin. Under the intense strain of resource scarcity, the historical symbiosis has fractured into acrimonious, lethal confrontations over grazing corridors and arable tracts. Furthermore, the socio-economic vacuum created by ecological degradation has provided fertile soil for transnational asymmetric insurgencies and banditry syndicates to recruit disenfranchised rural youths. Resolving the humanitarian and security catastrophe in the Sahel requires more than kinetic military campaigns; it demands an integrated regional ecological master plan that combines solar-powered micro-irrigation, aggressive reforestation initiatives like the Great Green Wall, and the institutionalization of modernized ranching frameworks.\n\nThe primary relationship between pastoralists and agrarian farmers described in the early part of the passage was characterized by:",
+    "options": {
+      "a": "Mutual exploitation and continuous warfare",
+      "b": "Harmonious and reciprocal interdependence",
+      "c": "Complete commercial isolation from urban marketplaces",
+      "d": "Strict subjugation of farmers by armed nomadic oligarchies"
+    },
+    "answer": "b",
+    "explanation": "The passage highlights that the groups maintained a 'symbiotic coexistence' where herders grazed on crop residues and in reciprocation their livestock deposited organic manure to fertilize the soil."
+  },
+  {
+    "question": "Read the passage in question 6.\n\nAccording to the passage, the proliferation of armed conflict and banditry syndicates in the Sahel is primarily catalyzed by:",
+    "options": {
+      "a": "The excessive accumulation of commercial oil revenues",
+      "b": "Resource scarcity and socio-economic deprivation stemming from ecological breakdown",
+      "c": "Over-mechanization of commercial agricultural estates",
+      "d": "Disputes over maritime navigation boundaries"
+    },
+    "answer": "b",
+    "explanation": "The author notes that under the strain of resource scarcity, historical symbiosis fractured, and the socio-economic vacuum created by ecological degradation provided fertile ground for insurgencies and banditry."
+  },
+  {
+    "question": "Read the passage in question 6.\n\nThe author's reference to 'kinetic military campaigns' indicates:",
+    "options": {
+      "a": "Peaceful diplomatic negotiations and inter-communal dialogues",
+      "b": "Conventional armed force and combat operations",
+      "c": "Satellite-based meteorological observation techniques",
+      "d": "Cross-border commercial trade pacts"
+    },
+    "answer": "b",
+    "explanation": "'Kinetic' in military and political parlance refers to active, lethal armed warfare and physical combat operations, as opposed to soft power or economic interventions."
+  },
+  {
+    "question": "Read the passage in question 6.\n\nWhich of the following proposals is NOT mentioned by the author as an ecological solution for the Sahel?",
+    "options": {
+      "a": "Institutionalization of modernized ranching frameworks",
+      "b": "Solar-powered micro-irrigation systems",
+      "c": "Total forced relocation of all nomadic populations to urban capitals",
+      "d": "Reforestation projects such as the Great Green Wall"
+    },
+    "answer": "c",
+    "explanation": "The author proposes modernized ranching, solar-powered micro-irrigation, and the Great Green Wall reforestation; forced relocation to urban capitals is never proposed."
+  },
+  {
+    "question": "Read the passage in question 6.\n\nA suitable title that best encapsulates the central thesis of the passage is:",
+    "options": {
+      "a": "The Historical Expansion of Maritime Ports in West Africa",
+      "b": "Climatic Destabilization and Conflict Dynamics in the African Sahel",
+      "c": "The Failure of International Commercial Banking in Sub-Saharan Africa",
+      "d": "Traditional Rainmaking Rituals among Northern Pastoralists"
+    },
+    "answer": "b",
+    "explanation": "The entire passage focuses on how climate change and desertification in the Sahel have eroded traditional pastoral-agrarian symbiosis, driving resource competition, conflict, and insurgency."
+  },
+  {
+    "question": "In the passage below, the numbered gap [11] is followed by four options. Choose the option that best completes the gap:\n\nRapid urbanization across the developing world has placed immense strain on municipal infrastructure. City planners are constantly confronted with the challenge of providing adequate social amenities while safeguarding environmental integrity. When urban development is left [11]______, sprawling slums inevitably emerge along the perimeter of metropolises.",
+    "options": {
+      "a": "unmitigated",
+      "b": "unregulated",
+      "c": "unsolicited",
+      "d": "unjustified"
+    },
+    "answer": "b",
+    "explanation": "'Unregulated' is the precise term describing urban development that occurs without government oversight, planning laws, or regulatory zoning."
+  },
+  {
+    "question": "In the passage below, the numbered gap [12] is followed by four options. Choose the option that best completes the gap:\n\nThese informal settlements lack potable water, efficient drainage, and structured waste [12]______ systems, leading to severe public health crises.",
+    "options": {
+      "a": "dispersal",
+      "b": "disposal",
+      "c": "dissolution",
+      "d": "discharge"
+    },
+    "answer": "b",
+    "explanation": "'Waste disposal' is the standard administrative and ecological collocation for the management and elimination of refuse and sewage."
+  },
+  {
+    "question": "In the passage below, the numbered gap [13] is followed by four options. Choose the option that best completes the gap:\n\nFurthermore, uncontrolled vehicular traffic generates noxious emissions that severely compromise ambient air quality, thereby exacerbating respiratory [13]______ among vulnerable demographics.",
+    "options": {
+      "a": "ailments",
+      "b": "calamities",
+      "c": "mutilations",
+      "d": "inflictions"
+    },
+    "answer": "a",
+    "explanation": "'Respiratory ailments' is the conventional medical and standard English collocation for illnesses and physical conditions affecting the breathing system."
+  },
+  {
+    "question": "In the passage below, the numbered gap [14] is followed by four options. Choose the option that best completes the gap:\n\nTo reverse this downward trajectory, regional authorities must formulate and enforce comprehensive urban master plans that incorporate sustainable transit [14]______.",
+    "options": {
+      "a": "gangways",
+      "b": "corridors",
+      "c": "passages",
+      "d": "alleys"
+    },
+    "answer": "b",
+    "explanation": "'Transit corridors' is the standard technical term in urban and transportation planning for designated routes along which mass transit vehicles travel."
+  },
+  {
+    "question": "In the passage below, the numbered gap [15] is followed by four options. Choose the option that best completes the gap:\n\nInvestments in light rail networks and bus rapid transit systems will significantly curtail dependency on private automobiles and alleviate chronic highway [15]______.",
+    "options": {
+      "a": "constriction",
+      "b": "congestion",
+      "c": "compaction",
+      "d": "coagulation"
+    },
+    "answer": "b",
+    "explanation": "'Traffic congestion' or 'highway congestion' is the idiomatic standard term for heavy, gridlocked vehicular traffic."
+  },
+  {
+    "question": "In the passage below, the numbered gap [16] is followed by four options. Choose the option that best completes the gap:\n\nConcurrently, municipal tax authorities must broaden the tax [16]______ to mobilize domestic capital for public infrastructure modernization.",
+    "options": {
+      "a": "base",
+      "b": "stratum",
+      "c": "pedestal",
+      "d": "matrix"
+    },
+    "answer": "a",
+    "explanation": "In public finance and economics, the 'tax base' is the collective pool of taxable assets, businesses, and income from which revenue is generated."
+  },
+  {
+    "question": "In the passage below, the numbered gap [17] is followed by four options. Choose the option that best completes the gap:\n\nPublic-private partnerships should also be [17]______ to finance capital-intensive civil engineering works such as flyovers and water purification reservoirs.",
+    "options": {
+      "a": "leveraged",
+      "b": "coerced",
+      "c": "beguiled",
+      "d": "extorted"
+    },
+    "answer": "a",
+    "explanation": "'Leveraged' means strategically utilized or exploited to maximum advantage, the precise term used in business and public administration."
+  },
+  {
+    "question": "In the passage below, the numbered gap [18] is followed by four options. Choose the option that best completes the gap:\n\nWithout transparent financial accountability, however, contractual funds are susceptible to bureaucratic [18]______ and embezzlement.",
+    "options": {
+      "a": "misapplication",
+      "b": "disdain",
+      "c": "procrastination",
+      "d": "recrimination"
+    },
+    "answer": "a",
+    "explanation": "'Misapplication' of funds specifically means the wrongful, unauthorized, or improper expenditure of public money."
+  },
+  {
+    "question": "In the passage below, the numbered gap [19] is followed by four options. Choose the option that best completes the gap:\n\nCitizens must therefore demand fiduciary [19]______ from civil servants and elected administrators tasked with public management.",
+    "options": {
+      "a": "condolence",
+      "b": "probity",
+      "c": "arrogance",
+      "d": "propensity"
+    },
+    "answer": "b",
+    "explanation": "'Fiduciary probity' means complete integrity, honesty, and uprightness in handling money and trust-based public assets."
+  },
+  {
+    "question": "In the passage below, the numbered gap [20] is followed by four options. Choose the option that best completes the gap:\n\nUltimately, sustainable urban regeneration is an indispensable [20]______ for human dignity and long-term socio-economic progress.",
+    "options": {
+      "a": "prerequisite",
+      "b": "contingency",
+      "c": "impediment",
+      "d": "afterthought"
+    },
+    "answer": "a",
+    "explanation": "A 'prerequisite' is something required beforehand as an essential prior condition for something else to happen or exist."
+  },
+  {
+    "question": "Select the option that best explains the information conveyed in the sentence:\n\n*The commissioner's explanation of the fiscal shortfall was taken with a pinch of salt by the investigative committee.*",
+    "options": {
+      "a": "The committee thoroughly believed and accepted every detail of his testimony",
+      "b": "The committee viewed the commissioner's testimony with substantial doubt and skepticism",
+      "c": "The committee demanded that the commissioner season his food before the hearing",
+      "d": "The committee rejected his appearance on medical and nutritional grounds"
+    },
+    "answer": "b",
+    "explanation": "The idiom 'to take something with a pinch (or grain) of salt' means to maintain a skeptical attitude and view something with reservation or disbelief."
+  },
+  {
+    "question": "Select the option that best explains the information conveyed in the sentence:\n\n*Had the financial controller blown the whistle earlier, the monumental treasury heist would have been averted.*",
+    "options": {
+      "a": "The controller exposed the fraud on time, so the treasury heist was successfully stopped",
+      "b": "The controller sounded an audible alarm during the physical robbery of the vaults",
+      "c": "The controller failed to expose the fraud promptly, allowing the massive theft to occur",
+      "d": "The controller orchestrated the entire heist despite blowing the whistle"
+    },
+    "answer": "c",
+    "explanation": "This third conditional sentence ('Had... blown') expresses an unfulfilled past condition: the controller did not expose the fraud early, and as a consequence, the heist took place."
+  },
+  {
+    "question": "Select the option that best explains the information conveyed in the sentence:\n\n*Chidi's promotion to administrative director proved to be a pyrrhic victory.*",
+    "options": {
+      "a": "The promotion brought him immense wealth with negligible occupational stress",
+      "b": "The promotion was achieved at such a devastating personal cost that it was hardly worth winning",
+      "c": "The promotion was nullified immediately by the governing board of directors",
+      "d": "The promotion was celebrated across the entire organization without reservations"
+    },
+    "answer": "b",
+    "explanation": "A 'Pyrrhic victory' is a success gained at such an overwhelmingly catastrophic cost or effort that it is tantamount to defeat."
+  },
+  {
+    "question": "Select the option that best explains the information conveyed in the sentence:\n\n*The university Senate left no stone unturned in their quest to identify the syndicate behind the certificate racketeering.*",
+    "options": {
+      "a": "The Senate conducted a geological excavation around the administrative library",
+      "b": "The Senate exhausted every conceivable means and investigated thoroughly to uncover the culprits",
+      "c": "The Senate was completely reluctant to interrogate any member of the syndicate",
+      "d": "The Senate merely scratched the surface and abandoned the inquiry"
+    },
+    "answer": "b",
+    "explanation": "The idiom 'to leave no stone unturned' means to explore every potential avenue and employ all possible efforts to accomplish an objective."
+  },
+  {
+    "question": "Select the option that best explains the information conveyed in the sentence:\n\n*The cabinet minister is known for playing to the gallery whenever public debates arise.*",
+    "options": {
+      "a": "He enjoys performing artistic musical theatrical plays for university undergraduates",
+      "b": "He deliberately acts in an exaggerated manner to court cheap popularity with the masses",
+      "c": "He purchases high-value art pieces from reputable national exhibitions",
+      "d": "He avoids addressing controversial national issues during parliamentary debates"
+    },
+    "answer": "b",
+    "explanation": "'Playing to the gallery' means acting or speaking in a populist, sensational manner to win broad, unthinking public applause rather than offering sound policy."
+  },
+  {
+    "question": "Select the option that best explains the information conveyed in the sentence:\n\n*She threw down the gauntlet during the departmental debate on educational reform.*",
+    "options": {
+      "a": "She dropped her protective gloves carelessly on the lectern",
+      "b": "She issued a bold, open challenge to her intellectual adversaries",
+      "c": "She conceded defeat before the conclusion of the formal deliberations",
+      "d": "She refused to articulate her perspective before the panel"
+    },
+    "answer": "b",
+    "explanation": "To 'throw down the gauntlet' is an idiom derived from medieval chivalry signifying issuing a formal challenge or invitation to a contest."
+  },
+  {
+    "question": "Select the option that best explains the information conveyed in the sentence:\n\n*The embattled chief executive officer tried to bury the hatchet with his board members before the annual general meeting.*",
+    "options": {
+      "a": "He attempted to conceal incriminating corporate weapons from auditors",
+      "b": "He sought to resolve hostilities and make peace with his estranged colleagues",
+      "c": "He initiated legal proceedings to disband the board of directors permanently",
+      "d": "He resigned abruptly to forestall an aggressive hostile takeover"
+    },
+    "answer": "b",
+    "explanation": "To 'bury the hatchet' means to settle differences, end a feud, and establish peace or reconciliation."
+  },
+  {
+    "question": "Select the option that best explains the information conveyed in the sentence:\n\n*The union leader's inflammatory speech added fuel to the fire during the campus demonstration.*",
+    "options": {
+      "a": "He brought flammable kerosene to the protesting crowd of students",
+      "b": "He extinguished the burning tires set ablaze by the unruly demonstrators",
+      "c": "His remarks intensified the existing anger and worsened the volatile situation",
+      "d": "His speech successfully pacified the aggrieved student union executive"
+    },
+    "answer": "c",
+    "explanation": "To 'add fuel to the fire' (or 'flames') means to exacerbate an already volatile, contentious, or difficult situation."
+  },
+  {
+    "question": "Select the option that best explains the information conveyed in the sentence:\n\n*The governor gave short shrift to the delegation's request for an exorbitant security vote.*",
+    "options": {
+      "a": "He treated their request with abrupt, curt dismissiveness and little consideration",
+      "b": "He generously disbursed all the security allocations they demanded",
+      "c": "He presented each member of the visiting delegation with traditional attire",
+      "d": "He deferred the decision to a prolonged judicial constitutional commission"
+    },
+    "answer": "a",
+    "explanation": "To give 'short shrift' to someone or something means to give it very little attention, sympathy, or patience, dismissing it abruptly."
+  },
+  {
+    "question": "Select the option that best explains the information conveyed in the sentence:\n\n*Ifeanyi's account of the highway collision holds water.*",
+    "options": {
+      "a": "His description was drenched in water from the overflowing storm drain",
+      "b": "His testimony is logical, plausible, and withstands critical examination",
+      "c": "His statement contradicted all forensic vehicular evidence at the scene",
+      "d": "His memory was impaired by extreme panic and disorientation"
+    },
+    "answer": "b",
+    "explanation": "If an argument, explanation, or theory 'holds water', it means it is sound, valid, and capable of withstanding scrutiny."
+  },
+  {
+    "question": "Choose the option that is OPPOSITE in meaning to the capitalized word:\n\nThe permanent secretary was renowned for his METICULOUS record-keeping during procurement audits.",
+    "options": {
+      "a": "Painstaking",
+      "b": "Scrupulous",
+      "c": "Slovenly",
+      "d": "Fastidious"
+    },
+    "answer": "c",
+    "explanation": "'Meticulous' means extremely careful, precise, and attentive to detail. The opposite is 'slovenly' (careless, untidy, or negligent)."
+  },
+  {
+    "question": "Choose the option that is OPPOSITE in meaning to the capitalized word:\n\nThe diplomat maintained an EQUABLE temperament despite the hostile heckling from the delegates.",
+    "options": {
+      "a": "Placid",
+      "b": "Volatile",
+      "c": "Serene",
+      "d": "Imperturbable"
+    },
+    "answer": "b",
+    "explanation": "'Equable' describes an even-tempered, calm, and stable disposition. Its antonym is 'volatile' (erratic, easily agitated, or unstable)."
+  },
+  {
+    "question": "Choose the option that is OPPOSITE in meaning to the capitalized word:\n\nThe newly discovered antiviral compound proved to be INNOCUOUS to human hepatic cells.",
+    "options": {
+      "a": "Deleterious",
+      "b": "Benign",
+      "c": "Salubrious",
+      "d": "Harmless"
+    },
+    "answer": "a",
+    "explanation": "'Innocuous' means harmless or non-toxic. The antonym is 'deleterious', which means causing harm or damage."
+  },
+  {
+    "question": "Choose the option that is OPPOSITE in meaning to the capitalized word:\n\nThe military junta issued a DRACONIAN decree prohibiting public political gatherings.",
+    "options": {
+      "a": "Lenient",
+      "b": "Austere",
+      "c": "Stringent",
+      "d": "Oppressive"
+    },
+    "answer": "a",
+    "explanation": "'Draconian' means excessively harsh, severe, or cruel. The opposite is 'lenient' (tolerant, merciful, or mild)."
+  },
+  {
+    "question": "Choose the option that is OPPOSITE in meaning to the capitalized word:\n\nThe professor delivered an EXTEMPORANEOUS address to the international symposium on economics.",
+    "options": {
+      "a": "Impromptu",
+      "b": "Rehearsed",
+      "c": "Spontaneous",
+      "d": "Unpremeditated"
+    },
+    "answer": "b",
+    "explanation": "'Extemporaneous' means spoken or performed without prior preparation, impromptu. Its antonym is 'rehearsed' or 'premeditated'."
+  },
+  {
+    "question": "Choose the option NEAREST in meaning to the capitalized word:\n\nThe defense counsel produced IRREFUTABLE evidence proving that the defendant was abroad when the crime occurred.",
+    "options": {
+      "a": "Incontestable",
+      "b": "Dubious",
+      "c": "Tentative",
+      "d": "Circumstantial"
+    },
+    "answer": "a",
+    "explanation": "'Irrefutable' means impossible to deny, refute, or disprove. Hence, 'incontestable' is nearest in meaning."
+  },
+  {
+    "question": "Choose the option NEAREST in meaning to the capitalized word:\n\nThe prime minister's speech was deliberately EQUIVOCAL to avoid committing to either faction.",
+    "options": {
+      "a": "Ambiguous",
+      "b": "Explicit",
+      "c": "Lucid",
+      "d": "Definitive"
+    },
+    "answer": "a",
+    "explanation": "'Equivocal' means open to more than one interpretation, vague or deliberately ambiguous."
+  },
+  {
+    "question": "Choose the option NEAREST in meaning to the capitalized word:\n\nThe managing director is notorious for his PARSIMONIOUS management of corporate funds.",
+    "options": {
+      "a": "Stingy",
+      "b": "Magnanimous",
+      "c": "Extravagant",
+      "d": "Altruistic"
+    },
+    "answer": "a",
+    "explanation": "'Parsimonious' means excessively frugal, stingy, or penurious."
+  },
+  {
+    "question": "Choose the option NEAREST in meaning to the capitalized word:\n\nThe rebel warlord exhibited utter TEMERITY by marching into the heavily fortified garrison.",
+    "options": {
+      "a": "Audacity",
+      "b": "Trepidation",
+      "c": "Humility",
+      "d": "Cowardice"
+    },
+    "answer": "a",
+    "explanation": "'Temerity' denotes excessive boldness, recklessness, or audacity."
+  },
+  {
+    "question": "Choose the option NEAREST in meaning to the capitalized word:\n\nThe speaker's CAUSTIC remarks alienated several distinguished members of the audience.",
+    "options": {
+      "a": "Sarcastic",
+      "b": "Complimentary",
+      "c": "Soothing",
+      "d": "Affable"
+    },
+    "answer": "a",
+    "explanation": "'Caustic' in a figurative sense means biting, harshly abrasive, scathing, or sarcastic."
+  },
+  {
+    "question": "Choose the option that best completes the sentence:\n\nThe president, accompanied by his cabinet ministers, ______ arrived at the summit venue.",
+    "options": {
+      "a": "has",
+      "b": "have",
+      "c": "were",
+      "d": "are"
+    },
+    "answer": "a",
+    "explanation": "When a singular subject ('The president') is joined to another noun by parenthetical expressions like 'accompanied by', 'as well as', or 'along with', the verb agrees with the principal subject ('has')."
+  },
+  {
+    "question": "Choose the option that best completes the sentence:\n\nHardly had the invigilator distributed the question papers ______ the emergency fire alarm went off.",
+    "options": {
+      "a": "when",
+      "b": "than",
+      "c": "then",
+      "d": "that"
+    },
+    "answer": "a",
+    "explanation": "Correlative conjunctions: 'Hardly... when', 'Scarcely... when', whereas 'No sooner' pairs with 'than'."
+  },
+  {
+    "question": "Choose the option that best completes the sentence:\n\nShe insisted on paying the bill, ______?",
+    "options": {
+      "a": "didn't she",
+      "b": "doesn't she",
+      "c": "isn't it",
+      "d": "wouldn't she"
+    },
+    "answer": "a",
+    "explanation": "The statement is affirmative and in the simple past tense ('insisted'), so the tag question must be negative and take the past auxiliary 'did' ('didn't she')."
+  },
+  {
+    "question": "Choose the option that best completes the sentence:\n\nThe panel recommended that the fraudulent election results ______ annulled with immediate effect.",
+    "options": {
+      "a": "be",
+      "b": "are",
+      "c": "were",
+      "d": "ought to be"
+    },
+    "answer": "a",
+    "explanation": "The mandative subjunctive following verbs of recommendation, requirement, or decree requires the base form of the verb ('be') in the dependent that-clause."
+  },
+  {
+    "question": "Choose the option that best completes the sentence:\n\nNeither of the two forensic analysts ______ able to decode the encrypted flash drive.",
+    "options": {
+      "a": "was",
+      "b": "were",
+      "c": "have been",
+      "d": "are"
+    },
+    "answer": "a",
+    "explanation": "'Neither' as a singular indefinite pronoun takes a singular verb ('was') in formal English."
+  },
+  {
+    "question": "Choose the word that has the same vowel sound as the one represented by the underlined letters in: b<u>ir</u>d",
+    "options": {
+      "a": "turn",
+      "b": "bear",
+      "c": "heart",
+      "d": "stair"
+    },
+    "answer": "a",
+    "explanation": "In standard British Received Pronunciation, 'bird' has the central vowel /ɜː/. 'Turn' (/tɜːn/) also contains the /ɜː/ vowel sound. 'Bear' and 'stair' have /eə/, while 'heart' has /ɑː/."
+  },
+  {
+    "question": "Choose the word that has the same vowel sound as the one represented by the underlined letters in: f<u>oo</u>d",
+    "options": {
+      "a": "womb",
+      "b": "look",
+      "c": "flood",
+      "d": "foot"
+    },
+    "answer": "a",
+    "explanation": "'Food' has the long vowel /uː/. 'Womb' (/wuːm/) also has the long /uː/ sound. 'Look' and 'foot' have short /ʊ/, and 'flood' has /ʌ/."
+  },
+  {
+    "question": "Choose the word that has the same vowel sound as the one represented by the underlined letters in: p<u>ea</u>ple / p<u>eo</u>ple",
+    "options": {
+      "a": "suite",
+      "b": "leopard",
+      "c": "threat",
+      "d": "jeopardy"
+    },
+    "answer": "a",
+    "explanation": "'People' has the long vowel /iː/. 'Suite' is pronounced /swiːt/ with the long /iː/ vowel. 'Leopard', 'threat', and 'jeopardy' all have the short vowel /e/."
+  },
+  {
+    "question": "Choose the word that has the same vowel sound as the one represented by the underlined letters in: b<u>oa</u>t",
+    "options": {
+      "a": "sew",
+      "b": "broad",
+      "c": "bout",
+      "d": "bought"
+    },
+    "answer": "a",
+    "explanation": "'Boat' contains the diphthong /əʊ/. 'Sew' is pronounced /səʊ/ with the identical diphthong /əʊ/. 'Broad' and 'bought' have /ɔː/, and 'bout' has /aʊ/."
+  },
+  {
+    "question": "Choose the word that has the same consonant sound as the one represented by the underlined letter(s) in: <u>ch</u>emistry",
+    "options": {
+      "a": "character",
+      "b": "church",
+      "c": "champagne",
+      "d": "chef"
+    },
+    "answer": "a",
+    "explanation": "In 'chemistry', the letters 'ch' represent the voiceless velar plosive /k/. 'Character' also starts with /k/. 'Church' has /tʃ/, and 'champagne' and 'chef' have /ʃ/."
+  },
+  {
+    "question": "Choose the word that has the same consonant sound as the one represented by the underlined letter(s) in: <u>th</u>ink",
+    "options": {
+      "a": "theme",
+      "b": "those",
+      "c": "though",
+      "d": "breathe"
+    },
+    "answer": "a",
+    "explanation": "In 'think', 'th' represents the voiceless dental fricative /θ/. 'Theme' also begins with /θ/. 'Those', 'though', and 'breathe' have the voiced dental fricative /ð/."
+  },
+  {
+    "question": "Choose the word that has the same consonant sound as the one represented by the underlined letter(s) in: vi<u>s</u>ion",
+    "options": {
+      "a": "prestige",
+      "b": "mission",
+      "c": "pressure",
+      "d": "nation"
+    },
+    "answer": "a",
+    "explanation": "In 'vision', the 's' represents the voiced postalveolar fricative /ʒ/. In 'prestige', the 'ge' also represents /ʒ/ (/prɛˈstiːʒ/). 'Mission', 'pressure', and 'nation' have the voiceless /ʃ/ sound."
+  },
+  {
+    "question": "Choose the word that contains a SILENT consonant letter:",
+    "options": {
+      "a": "doubt",
+      "b": "district",
+      "c": "amber",
+      "d": "timber"
+    },
+    "answer": "a",
+    "explanation": "In 'doubt', the letter 'b' is completely silent (/daʊt/). In 'district', 'amber', and 'timber', all consonant letters are pronounced."
+  },
+  {
+    "question": "Choose the word that RHYMES with: suite",
+    "options": {
+      "a": "sweet",
+      "b": "suit",
+      "c": "sweat",
+      "d": "shoot"
+    },
+    "answer": "a",
+    "explanation": "'Suite' is pronounced /swiːt/, which is an exact homophone and rhyme with 'sweet' (/swiːt/)."
+  },
+  {
+    "question": "Choose the word that RHYMES with: rough",
+    "options": {
+      "a": "tough",
+      "b": "dough",
+      "c": "cough",
+      "d": "bough"
+    },
+    "answer": "a",
+    "explanation": "'Rough' is pronounced /rʌf/. 'Tough' is pronounced /tʌf/ and therefore rhymes perfectly with 'rough'. 'Dough' ends in /əʊ/, 'cough' in /ɒf/, and 'bough' in /aʊ/."
+  },
+  {
+    "question": "Choose the word in which the primary stress is on the SECOND syllable:",
+    "options": {
+      "a": "morality",
+      "b": "photograph",
+      "c": "educate",
+      "d": "temporary"
+    },
+    "answer": "a",
+    "explanation": "'Morality' is stressed on the second syllable: mo-RAL-i-ty. 'Photograph' (PHO-to-graph), 'educate' (ED-u-cate), and 'temporary' (TEM-po-rar-y) are stressed on their first syllables."
+  },
+  {
+    "question": "Choose the word in which the primary stress is on the THIRD syllable:",
+    "options": {
+      "a": "democratic",
+      "b": "photographer",
+      "c": "educator",
+      "d": "particular"
+    },
+    "answer": "a",
+    "explanation": "'Democratic' has its primary stress on the third syllable: dem-o-CRAT-ic (/ˌdɛməˈkrætɪk/). In contrast, 'photographer' (pho-TOG-ra-pher) and 'particular' (par-TIC-u-lar) are stressed on the second syllable, and 'educator' (ED-u-ca-tor) is stressed on the first syllable."
+  },
+  {
+    "question": "Choose the word that has a different stress pattern from the other three:",
+    "options": {
+      "a": "import (verb)",
+      "b": "convict (verb)",
+      "c": "export (verb)",
+      "d": "teacher (noun)"
+    },
+    "answer": "d",
+    "explanation": "Two-syllable verbs like 'im-PORT', 'con-VICT', and 'ex-PORT' have primary stress on the second syllable, whereas the two-syllable noun 'TEACH-er' has primary stress on the first syllable."
+  },
+  {
+    "question": "In the question below, the word in CAPITAL letters has the emphatic stress. Choose the option to which the given sentence relates:\n\nADEOLA borrowed ten thousand naira from the cooperative society yesterday.",
+    "options": {
+      "a": "Did Adeola lend ten thousand naira to the cooperative society yesterday?",
+      "b": "Did Babatunde borrow ten thousand naira from the cooperative society yesterday?",
+      "c": "Did Adeola borrow twenty thousand naira from the cooperative society yesterday?",
+      "d": "Did Adeola borrow ten thousand naira from the commercial bank yesterday?"
+    },
+    "answer": "b",
+    "explanation": "Emphatic stress on ADEOLA implies that it was Adeola, and not another individual (such as Babatunde), who borrowed the money."
+  },
+  {
+    "question": "In the question below, the word in CAPITAL letters has the emphatic stress. Choose the option to which the given sentence relates:\n\nThe military tribunal acquitted the accused captain on TUESDAY.",
+    "options": {
+      "a": "Did the civil court acquit the accused captain on Tuesday?",
+      "b": "Did the military tribunal convict the accused captain on Tuesday?",
+      "c": "Did the military tribunal acquit the accused captain on Friday?",
+      "d": "Did the military tribunal acquit the accused sergeant on Tuesday?"
+    },
+    "answer": "c",
+    "explanation": "Emphatic stress on TUESDAY highlights that the action occurred on Tuesday, rather than on another day of the week (such as Friday)."
+  }
+]

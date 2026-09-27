@@ -259,24 +259,43 @@ class ExamEngine {
      */
     private static function getVerifiedQuestionBank($examType, $subject, $year, $count = 40) {
         $normSubject = self::normalizeSubject($subject);
+        $cleanType = strtolower($examType);
+        if ($cleanType === 'utme') $cleanType = 'jamb';
+        if (!in_array($cleanType, ['waec', 'neco', 'jamb'])) $cleanType = 'waec';
+
+        $cacheKey = "{$cleanType}_{$normSubject}";
 
         // Cache subject bank in memory to avoid repeated disk reads
-        if (!isset(self::$cachedBanks[$normSubject])) {
-            $jsonFile = __DIR__ . "/data/questions/{$normSubject}.json";
+        if (!isset(self::$cachedBanks[$cacheKey])) {
+            // 1. Try exam-specific question repository (e.g., data/questions/jamb/biology.json)
+            $jsonFile = __DIR__ . "/data/questions/{$cleanType}/{$normSubject}.json";
+
+            // 2. Fallback to general question repository
             if (!file_exists($jsonFile)) {
-                $jsonFile = __DIR__ . "/data/questions/biology.json";
+                $jsonFile = __DIR__ . "/data/questions/{$normSubject}.json";
+            }
+            // 3. Fallback to WAEC repository
+            if (!file_exists($jsonFile)) {
+                $jsonFile = __DIR__ . "/data/questions/waec/{$normSubject}.json";
+            }
+            // 4. Fallback to biology in exam type or WAEC
+            if (!file_exists($jsonFile)) {
+                $jsonFile = __DIR__ . "/data/questions/{$cleanType}/biology.json";
+            }
+            if (!file_exists($jsonFile)) {
+                $jsonFile = __DIR__ . "/data/questions/waec/biology.json";
             }
 
             if (file_exists($jsonFile)) {
                 $raw = file_get_contents($jsonFile);
                 $decoded = json_decode($raw, true);
                 if (is_array($decoded) && count($decoded) > 0) {
-                    self::$cachedBanks[$normSubject] = $decoded;
+                    self::$cachedBanks[$cacheKey] = $decoded;
                 }
             }
         }
 
-        $subjectQuestions = self::$cachedBanks[$normSubject] ?? [];
+        $subjectQuestions = self::$cachedBanks[$cacheKey] ?? [];
         $totalAvailable = count($subjectQuestions);
         if ($totalAvailable === 0) {
             return [];

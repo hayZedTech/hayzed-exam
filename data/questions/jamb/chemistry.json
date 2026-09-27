@@ -1,0 +1,442 @@
+[
+    {
+        "question": "What is the total number of unpaired electrons in the ground state of an isolated gaseous Chromium atom (atomic number 24)?",
+        "options": {
+            "a": "2",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "answer": "d",
+        "explanation": "Chromium has an anomalous electron configuration of [Ar] 3d5 4s1 due to the extra stability of half-filled subshells. Both the five 3d orbitals and the single 4s orbital contain one unpaired electron, giving a total of 5 + 1 = 6 unpaired electrons."
+    },
+    {
+        "question": "Which of the following sets of quantum numbers (n, l, ml, ms) is NOT permissible for an electron in an atom?",
+        "options": {
+            "a": "n = 3, l = 2, ml = -1, ms = +1/2",
+            "b": "n = 4, l = 0, ml = 0, ms = -1/2",
+            "c": "n = 2, l = 2, ml = 0, ms = +1/2",
+            "d": "n = 3, l = 1, ml = +1, ms = -1/2"
+        },
+        "answer": "c",
+        "explanation": "For any principal quantum number n, the azimuthal quantum number l can only take integer values from 0 up to (n - 1). When n = 2, the permissible values for l are 0 and 1 only. Thus, l = 2 is impossible."
+    },
+    {
+        "question": "Under identical temperature and pressure conditions, 50 cm\u00b3 of gas X diffuses through a porous plug in 20 seconds, while 50 cm\u00b3 of oxygen gas (O2, molar mass = 32 g/mol) diffuses in 40 seconds. What is the relative molecular mass of gas X?",
+        "options": {
+            "a": "8 g/mol",
+            "b": "16 g/mol",
+            "c": "64 g/mol",
+            "d": "128 g/mol"
+        },
+        "answer": "a",
+        "explanation": "By Graham's law of diffusion: Rate(X) / Rate(O2) = t(O2) / t(X) = sqrt(M(O2) / M(X)). Here, 40 / 20 = 2 = sqrt(32 / M(X)). Squaring both sides: 4 = 32 / M(X), hence M(X) = 32 / 4 = 8 g/mol."
+    },
+    {
+        "question": "What mass of copper is deposited at the cathode when a constant electric current of 5.0 amperes is passed through an aqueous copper(II) tetraoxosulphate(VI) solution for 1930 seconds? [Cu = 64, 1 Faraday = 96500 C/mol]",
+        "options": {
+            "a": "1.60 g",
+            "b": "3.20 g",
+            "c": "6.40 g",
+            "d": "12.80 g"
+        },
+        "answer": "b",
+        "explanation": "Quantity of charge Q = I * t = 5.0 A * 1930 s = 9650 C. The half-reaction is Cu2+ + 2e- -> Cu. Depositing 1 mole of Cu (64 g) requires 2 * 96500 C = 193000 C. Mass deposited = (64 * 9650) / 193000 = 3.20 g."
+    },
+    {
+        "question": "What is the IUPAC systematic name for the compound (CH3)2CH-CH(CH2CH3)-CH2-CH3?",
+        "options": {
+            "a": "3-ethyl-2-methylpentane",
+            "b": "3-isopropylpentane",
+            "c": "2,3-diethylbutane",
+            "d": "2-methyl-3-ethylpentane"
+        },
+        "answer": "a",
+        "explanation": "The longest continuous carbon chain has 5 carbon atoms (pentane). Numbering from the end that gives substituents the lowest locants: numbering left-to-right gives locants 2 for methyl and 3 for ethyl. Alphabetically, ethyl precedes methyl, yielding 3-ethyl-2-methylpentane."
+    },
+    {
+        "question": "Which of the following oxides exhibits amphoteric properties, reacting with both strong mineral acids and strong alkalis?",
+        "options": {
+            "a": "CaO",
+            "b": "SO2",
+            "c": "Al2O3",
+            "d": "Na2O"
+        },
+        "answer": "c",
+        "explanation": "Aluminium oxide (Al2O3) is amphoteric. It reacts with acids like HCl to form aluminium chloride and water, and with strong bases like NaOH to form sodium tetrahydroxoaluminate(III) [NaAl(OH)4]."
+    },
+    {
+        "question": "Consider the reversible exothermic equilibrium reaction: N2(g) + 3H2(g) <=> 2NH3(g), delta H = -92 kJ/mol. Which combination of conditions will shift the equilibrium position to maximize the yield of ammonia (NH3)?",
+        "options": {
+            "a": "High temperature and low pressure",
+            "b": "Low temperature and high pressure",
+            "c": "High temperature and high pressure",
+            "d": "Low temperature and low pressure"
+        },
+        "answer": "b",
+        "explanation": "By Le Chatelier's principle, lowering temperature favors the exothermic forward reaction (releasing heat). Increasing pressure shifts equilibrium towards fewer gaseous moles (from 4 moles of reactants to 2 moles of products)."
+    },
+    {
+        "question": "What is the pH of a 0.005 mol/dm\u00b3 aqueous solution of barium hydroxide, Ba(OH)2, assuming complete ionic dissociation?",
+        "options": {
+            "a": "2.0",
+            "b": "2.3",
+            "c": "11.7",
+            "d": "12.0"
+        },
+        "answer": "d",
+        "explanation": "Ba(OH)2 is a strong diprotic base: Ba(OH)2 -> Ba2+ + 2OH-. Therefore, [OH-] = 2 * 0.005 = 0.010 mol/dm\u00b3 = 10^-2 M. pOH = -log10(10^-2) = 2. Since pH + pOH = 14, pH = 14 - 2 = 12.0."
+    },
+    {
+        "question": "What is the oxidation state of chromium in the potassium dichromate compound, K2Cr2O7?",
+        "options": {
+            "a": "+3",
+            "b": "+5",
+            "c": "+6",
+            "d": "+7"
+        },
+        "answer": "c",
+        "explanation": "In K2Cr2O7: 2(+1) + 2(Cr) + 7(-2) = 0 => +2 + 2(Cr) - 14 = 0 => 2(Cr) = +12 => Cr = +6."
+    },
+    {
+        "question": "In the extraction of aluminium by the Hall-Heroult electrolytic process, molten cryolite (Na3AlF6) is added to purified bauxite (Al2O3) to:",
+        "options": {
+            "a": "Act as an oxidizing agent for molten aluminium",
+            "b": "Lower the melting point and improve the electrical conductivity of the electrolyte",
+            "c": "Prevent the carbon graphite anodes from burning away",
+            "d": "Precipitate out silica and iron impurities"
+        },
+        "answer": "b",
+        "explanation": "Pure alumina melts at over 2050 \u00b0C, which is economically impractical. Dissolving alumina in molten cryolite lowers the working melting point to approximately 950 \u00b0C and substantially improves conductivity."
+    },
+    {
+        "question": "Which of the following organic reagents can be used to distinguish an terminal alkyne like but-1-yne from an internal alkyne like but-2-yne?",
+        "options": {
+            "a": "Bromine dissolved in tetrachloromethane",
+            "b": "Acidified potassium heptaoxodichromate(VI)",
+            "c": "Ammoniacal silver trioxonitrate(V) solution (Tollens' reagent)",
+            "d": "Cold dilute alkaline potassium tetraoxomanganate(VII)"
+        },
+        "answer": "c",
+        "explanation": "Terminal alkynes possess a weakly acidic acetylenic hydrogen attached to the sp-hybridized triply bonded carbon. They react with ammoniacal AgNO3 to form a white precipitate of silver acetylide, whereas internal alkynes lack acidic hydrogen and do not react."
+    },
+    {
+        "question": "A radioactive nuclide has a half-life of 15 days. What percentage of the original sample will remain undecayed after 60 days?",
+        "options": {
+            "a": "25.0%",
+            "b": "12.5%",
+            "c": "6.25%",
+            "d": "3.125%"
+        },
+        "answer": "c",
+        "explanation": "The number of half-lives elapsed n = 60 / 15 = 4 half-lives. Fraction remaining = (1/2)^4 = 1/16 = 0.0625 or 6.25%."
+    },
+    {
+        "question": "According to Graham's law of diffusion, the rate of diffusion of a gas is inversely proportional to the ______",
+        "options": {
+            "a": "Square root of its molar mass or vapour density",
+            "b": "Square of its absolute temperature",
+            "c": "Partial pressure of the gas mixture",
+            "d": "Cube root of its critical volume"
+        },
+        "answer": "a",
+        "explanation": "Graham's law states that at constant temperature and pressure, the rate of effusion or diffusion of a gas is inversely proportional to the square root of its molar mass (or vapour density): r \u221d 1/\u221a(M)."
+    },
+    {
+        "question": "Which of the following bonds has the highest percentage of ionic character?",
+        "options": {
+            "a": "C-H",
+            "b": "H-F",
+            "c": "C-Cl",
+            "d": "N-O"
+        },
+        "answer": "b",
+        "explanation": "Percentage ionic character increases with electronegativity difference (delta-EN). Fluorine is the most electronegative element (4.0) and hydrogen has EN = 2.2, giving delta-EN = 1.8, the greatest difference among the listed pairs."
+    },
+    {
+        "question": "In the chemical test for tetraoxosulphate(VI) ions (SO4 2-) in aqueous solution, addition of barium chloride followed by excess dilute hydrochloric acid produces:",
+        "options": {
+            "a": "A white precipitate that dissolves readily in dilute hydrochloric acid with effervescence",
+            "b": "A white precipitate that is completely insoluble in dilute hydrochloric acid",
+            "c": "A yellow precipitate that dissolves upon warming",
+            "d": "A brown precipitate that turns green in excess acid"
+        },
+        "answer": "b",
+        "explanation": "Barium sulfate (BaSO4) is a dense white precipitate that is completely insoluble in dilute hydrochloric acid. This distinguishes SO4 2- from SO3 2- or CO3 2-, which form precipitates that dissolve in acid."
+    },
+    {
+        "question": "What is the volume of oxygen gas at s.t.p. required for the complete combustion of 5.6 g of ethene gas (C2H4)? [H = 1, C = 12, Molar volume of gas at s.t.p. = 22.4 dm\u00b3/mol]",
+        "options": {
+            "a": "4.48 dm\u00b3",
+            "b": "6.72 dm\u00b3",
+            "c": "11.20 dm\u00b3",
+            "d": "13.44 dm\u00b3"
+        },
+        "answer": "d",
+        "explanation": "Molar mass of C2H4 = (2 * 12) + (4 * 1) = 28 g/mol. Moles of C2H4 = 5.6 / 28 = 0.2 mol. Reaction: C2H4 + 3O2 -> 2CO2 + 2H2O. 1 mole of C2H4 requires 3 moles of O2. Moles of O2 needed = 0.2 * 3 = 0.6 mol. Volume at s.t.p. = 0.6 * 22.4 = 13.44 dm\u00b3."
+    },
+    {
+        "question": "Which of the following compounds will react with sodium hydrogen trioxocarbonate(IV) (NaHCO3) to liberate carbon dioxide gas?",
+        "options": {
+            "a": "Ethanol",
+            "b": "Ethanoic acid",
+            "c": "Ethyl ethanoate",
+            "d": "Phenol"
+        },
+        "answer": "b",
+        "explanation": "Carboxylic acids (like ethanoic acid) are stronger acids than carbonic acid (H2CO3) and therefore displace CO2 from bicarbonates and carbonates, producing effervescence. Alcohols and phenols are not acidic enough to react with NaHCO3."
+    },
+    {
+        "question": "In the blast furnace for the extraction of iron, the chemical substance that acts as the basic flux to remove acidic silicon dioxide impurities is:",
+        "options": {
+            "a": "Coke (C)",
+            "b": "Calcium oxide (CaO) from limestone",
+            "c": "Carbon monoxide (CO)",
+            "d": "Hematite (Fe2O3)"
+        },
+        "answer": "b",
+        "explanation": "Limestone (CaCO3) decomposes thermally to calcium oxide (CaO) and CO2. CaO acts as a basic flux that reacts with acidic silica (SiO2) gangue to form molten slag: CaO + SiO2 -> CaSiO3."
+    },
+    {
+        "question": "The geometric shape of the methane molecule (CH4) and its bond angle are best described as:",
+        "options": {
+            "a": "Planar triangle, 120\u00b0",
+            "b": "Tetrahedral, 109.5\u00b0",
+            "c": "Trigonal pyramidal, 107\u00b0",
+            "d": "Linear, 180\u00b0"
+        },
+        "answer": "b",
+        "explanation": "The central carbon atom in CH4 undergoes sp3 hybridization, having 4 bonding pairs and 0 lone pairs. By VSEPR theory, electrostatic repulsion minimizes at a regular tetrahedral geometry with 109.5\u00b0 bond angles."
+    },
+    {
+        "question": "A spontaneous chemical process at constant temperature and pressure is thermodynamically characterized by which of the following criteria?",
+        "options": {
+            "a": "delta H > 0 and delta S < 0",
+            "b": "delta G < 0",
+            "c": "delta G > 0",
+            "d": "delta S = 0"
+        },
+        "answer": "b",
+        "explanation": "The Gibbs free energy equation is delta G = delta H - T*delta S. For any spontaneous, irreversible process occurring at constant temperature and pressure, delta G must be negative (delta G < 0)."
+    },
+    {
+        "question": "Which of the following organic reactions converts vegetable oils into solid margarine?",
+        "options": {
+            "a": "Saponification using sodium hydroxide",
+            "b": "Catalytic hydrogenation using finely divided nickel",
+            "c": "Esterification with concentrated H2SO4",
+            "d": "Thermal cracking at elevated temperatures"
+        },
+        "answer": "b",
+        "explanation": "Vegetable oils contain unsaturated fatty acid chains with carbon-carbon double bonds. Catalytic hydrogenation over finely divided nickel at 180-200 \u00b0C saturates these bonds, raising the melting point and solidifying them into margarine."
+    },
+    {
+        "question": "When concentrated sulfuric acid is added to solid sodium chloride and warmed, steamy white fumes are evolved that turn moist blue litmus paper red and form dense white clouds when brought near a glass rod dipped in ammonia solution. The gas evolved is:",
+        "options": {
+            "a": "Sulfur dioxide (SO2)",
+            "b": "Chlorine (Cl2)",
+            "c": "Hydrogen chloride (HCl)",
+            "d": "Hydrogen sulfide (H2S)"
+        },
+        "answer": "c",
+        "explanation": "NaCl(s) + H2SO4(conc) -> NaHSO4 + HCl(g). Gaseous HCl is acidic, turns blue litmus red, and reacts with gaseous NH3 from ammonium hydroxide to produce fine particles of solid ammonium chloride (NH4Cl), appearing as dense white fumes."
+    },
+    {
+        "question": "Which of the following pairs of solutions will form an acidic buffer solution?",
+        "options": {
+            "a": "Strong hydrochloric acid and sodium chloride",
+            "b": "Weak ethanoic acid and sodium ethanoate",
+            "c": "Sodium hydroxide and sodium ethanoate",
+            "d": "Ammonium hydroxide and ammonium chloride"
+        },
+        "answer": "b",
+        "explanation": "An acidic buffer consists of a weak acid and its conjugate base (salt with a strong base). Ethanoic acid (CH3COOH) and sodium ethanoate (CH3COONa) constitute a classical acidic buffer system."
+    },
+    {
+        "question": "What is the standard cell potential (E\u00b0cell) for a galvanic cell consisting of standard Zn2+/Zn (E\u00b0 = -0.76 V) and Cu2+/Cu (E\u00b0 = +0.34 V) half-cells?",
+        "options": {
+            "a": "-0.42 V",
+            "b": "+0.42 V",
+            "c": "+1.10 V",
+            "d": "-1.10 V"
+        },
+        "answer": "c",
+        "explanation": "E\u00b0cell = E\u00b0cathode - E\u00b0anode. Zinc oxidizes at the anode (Zn -> Zn2+ + 2e-) and copper reduces at the cathode (Cu2+ + 2e- -> Cu). E\u00b0cell = +0.34 V - (-0.76 V) = +0.34 + 0.76 = +1.10 V."
+    },
+    {
+        "question": "The gas that gives a rotten-egg smell and precipitates black lead(II) sulfide when bubbled through acidified lead(II) ethanoate solution is:",
+        "options": {
+            "a": "Sulfur dioxide",
+            "b": "Hydrogen sulfide",
+            "c": "Carbon monoxide",
+            "d": "Nitrogen monoxide"
+        },
+        "answer": "b",
+        "explanation": "Hydrogen sulfide (H2S) has a characteristic foul odor of rotten eggs and precipitates insoluble black lead(II) sulfide (PbS) when reacted with lead salts."
+    },
+    {
+        "question": "Which of the following halogens has the highest electron affinity (most exothermic electron gain enthalpy)?",
+        "options": {
+            "a": "Chlorine",
+            "b": "Fluorine",
+            "c": "Bromine",
+            "d": "Iodine"
+        },
+        "answer": "a",
+        "explanation": "Chlorine has a higher electron affinity than fluorine because the compact 2p subshell of fluorine causes strong electron-electron repulsion, making it easier for an incoming electron to enter the larger 3p orbital of chlorine."
+    },
+    {
+        "question": "A catalyst increases the rate of a chemical reaction primarily by:",
+        "options": {
+            "a": "Increasing the total heat of reaction (delta H)",
+            "b": "Providing an alternative reaction pathway with a lower activation energy",
+            "c": "Increasing the kinetic energy of reactant particles",
+            "d": "Shifting the position of equilibrium towards products"
+        },
+        "answer": "b",
+        "explanation": "Catalysts accelerate reactions by offering an alternative mechanistic path with a lower activation energy barrier (Ea), allowing a greater fraction of colliding molecules to have energy >= Ea."
+    },
+    {
+        "question": "Which method is industrially used to separate the different fractions of crude petroleum based on differences in their boiling points?",
+        "options": {
+            "a": "Simple distillation",
+            "b": "Fractional distillation",
+            "c": "Paper chromatography",
+            "d": "Steam distillation"
+        },
+        "answer": "b",
+        "explanation": "Fractional distillation separates a complex mixture of miscible liquids with relatively close boiling points by utilizing a fractionating column with multiple condensation and vaporization stages."
+    },
+    {
+        "question": "What is the concentration in mol/dm\u00b3 of a solution prepared by dissolving 4.0 g of sodium hydroxide (NaOH) in distilled water to make up 250 cm\u00b3 of solution? [Na = 23, O = 16, H = 1]",
+        "options": {
+            "a": "0.10 mol/dm\u00b3",
+            "b": "0.20 mol/dm\u00b3",
+            "c": "0.40 mol/dm\u00b3",
+            "d": "0.80 mol/dm\u00b3"
+        },
+        "answer": "c",
+        "explanation": "Molar mass of NaOH = 23 + 16 + 1 = 40 g/mol. Moles of NaOH = 4.0 / 40 = 0.1 mol. Volume in dm\u00b3 = 250 / 1000 = 0.25 dm\u00b3. Molarity = moles / volume = 0.1 / 0.25 = 0.40 mol/dm\u00b3."
+    },
+    {
+        "question": "Which of the following polymers is a thermosetting plastic that undergoes extensive cross-linking upon heating and cannot be remolded?",
+        "options": {
+            "a": "Polyethene",
+            "b": "Polyvinyl chloride (PVC)",
+            "c": "Bakelite (phenol-methanal resin)",
+            "d": "Polystyrene"
+        },
+        "answer": "c",
+        "explanation": "Bakelite is a thermosetting cross-linked polymer formed by condensation polymerization of phenol and methanal. Once set and cured by heat, the permanent covalent cross-links cannot be melted or reshaped."
+    },
+    {
+        "question": "The allotrope of carbon that has a giant covalent network structure where each carbon atom is covalently bonded to four other carbon atoms in a tetrahedral arrangement is:",
+        "options": {
+            "a": "Graphite",
+            "b": "Diamond",
+            "c": "Fullerene",
+            "d": "Carbon black"
+        },
+        "answer": "b",
+        "explanation": "In diamond, every carbon atom is sp3 hybridized and bonded tetrahedrally to 4 neighboring carbon atoms throughout a rigid 3D lattice, making it exceptionally hard."
+    },
+    {
+        "question": "In the industrial Contact process for the manufacture of tetraoxosulphate(VI) acid, the catalyst used in the oxidation of sulfur dioxide to sulfur trioxide is:",
+        "options": {
+            "a": "Finely divided iron",
+            "b": "Vanadium(V) oxide (V2O5)",
+            "c": "Platinum-rhodium gauze",
+            "d": "Nickel"
+        },
+        "answer": "b",
+        "explanation": "In the modern Contact process, sulfur dioxide is catalytically oxidized to sulfur trioxide (2SO2 + O2 <=> 2SO3) at approximately 450 \u00b0C using vanadium(V) oxide (V2O5) catalyst."
+    },
+    {
+        "question": "The brown gas evolved when concentrated nitric acid reacts with copper metal or when lead(II) nitrate crystals are strongly heated in a test tube is:",
+        "options": {
+            "a": "Nitrogen monoxide (NO)",
+            "b": "Dinitrogen monoxide (N2O)",
+            "c": "Nitrogen dioxide (NO2)",
+            "d": "Dinitrogen tetraoxide (N2O4)"
+        },
+        "answer": "c",
+        "explanation": "Nitrogen dioxide (NO2) is a pungent, suffocating reddish-brown gas formed during thermal decomposition of nitrates of heavy metals [2Pb(NO3)2 -> 2PbO + 4NO2 + O2] and when concentrated HNO3 acts on copper."
+    },
+    {
+        "question": "Which of the following organic compounds will rapidly decolorize aqueous bromine water without requiring light or a catalyst?",
+        "options": {
+            "a": "Ethane",
+            "b": "Propane",
+            "c": "Propene",
+            "d": "Cyclohexane"
+        },
+        "answer": "c",
+        "explanation": "Propene is an alkene containing a carbon-carbon double bond. It undergoes rapid electrophilic addition with bromine water at room temperature, turning the brown/orange solution colorless."
+    },
+    {
+        "question": "What type of intermolecular force is primarily responsible for the unusually high boiling point of water compared to hydrogen sulfide (H2S)?",
+        "options": {
+            "a": "London dispersion forces",
+            "b": "Dipole-induced dipole forces",
+            "c": "Hydrogen bonding",
+            "d": "Covalent bonding"
+        },
+        "answer": "c",
+        "explanation": "Oxygen is highly electronegative and has small atomic size, enabling water molecules to form extensive three-dimensional networks of intermolecular hydrogen bonds, requiring considerable thermal energy to overcome."
+    },
+    {
+        "question": "In an experiment, 20 cm\u00b3 of a 0.1 mol/dm\u00b3 trioxocarbonate(IV) solution (Na2CO3) completely neutralizes 25 cm\u00b3 of a hydrochloric acid solution. What is the concentration of the hydrochloric acid?",
+        "options": {
+            "a": "0.08 mol/dm\u00b3",
+            "b": "0.16 mol/dm\u00b3",
+            "c": "0.20 mol/dm\u00b3",
+            "d": "0.32 mol/dm\u00b3"
+        },
+        "answer": "b",
+        "explanation": "Reaction: Na2CO3 + 2HCl -> 2NaCl + H2O + CO2. Stoichiometric ratio n_a / n_b = 2 / 1. Formula: (C_a * V_a) / (C_b * V_b) = n_a / n_b => (C_a * 25) / (0.1 * 20) = 2 / 1 => C_a * 25 = 4 => C_a = 4 / 25 = 0.16 mol/dm\u00b3."
+    },
+    {
+        "question": "Temporary hardness of water is caused by the presence of dissolved:",
+        "options": {
+            "a": "Calcium and magnesium hydrogentrioxocarbonates [Ca(HCO3)2, Mg(HCO3)2]",
+            "b": "Calcium and magnesium tetraoxosulphates [CaSO4, MgSO4]",
+            "c": "Calcium and magnesium chlorides [CaCl2, MgCl2]",
+            "d": "Sodium and potassium hydrogentrioxocarbonates [NaHCO3, KHCO3]"
+        },
+        "answer": "a",
+        "explanation": "Temporary hardness is caused by dissolved calcium and magnesium hydrogentrioxocarbonates, which can be readily removed by boiling because they decompose into insoluble normal trioxocarbonates."
+    },
+    {
+        "question": "Which of the following processes represents a chemical change?",
+        "options": {
+            "a": "Sublimation of iodine crystals upon gentle heating",
+            "b": "Rusting of iron in the presence of air and moisture",
+            "c": "Dissolution of solid sodium chloride in water",
+            "d": "Liquefaction of atmospheric air under high pressure"
+        },
+        "answer": "b",
+        "explanation": "Rusting of iron is an irreversible chemical oxidation reaction forming hydrated iron(III) oxide [Fe2O3.xH2O], resulting in new chemical substances, whereas the others are reversible physical changes."
+    },
+    {
+        "question": "Which of the following organic reagents undergoes a silver mirror reaction with Tollens' reagent?",
+        "options": {
+            "a": "Propanone",
+            "b": "Ethanol",
+            "c": "Ethanal",
+            "d": "Ethyl propanoate"
+        },
+        "answer": "c",
+        "explanation": "Aldehydes like ethanal (CH3CHO) possess an easily oxidizable aldehydic hydrogen atom. They reduce Tollens' reagent [Ag(NH3)2]+ to metallic silver, coating the inner glass wall of the tube with a reflective silver mirror."
+    },
+    {
+        "question": "Which noble gas is commonly used in filling weather balloons and airships because it is non-flammable and lighter than air?",
+        "options": {
+            "a": "Argon",
+            "b": "Helium",
+            "c": "Neon",
+            "d": "Krypton"
+        },
+        "answer": "b",
+        "explanation": "Helium has very low density and is chemically inert (non-combustible), making it far safer than hydrogen for use in meteorological balloons and airships."
+    }
+]

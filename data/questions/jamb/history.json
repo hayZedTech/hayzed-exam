@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Mai Idris Alooma (1571–1603) consolidated the military supremacy of the Kanem-Borno Empire primarily by:",
+    "options": {
+      "a": "Importing Turkish musketeers and acquiring firearms from North Africa to train his royal forces",
+      "b": "Signing a mutual defense pact with the Portuguese navy along the Bight of Benin",
+      "c": "Constructing stone fortresses along the Atlantic coastline to deter European merchants",
+      "d": "Disbanding the imperial camel cavalry in favor of infantry archers"
+    },
+    "answer": "a",
+    "explanation": "Mai Idris Alooma modernized Borno's military by securing firearms and Turkish military instructors from the Ottoman regency of Tripoli, creating a professional corps of musketeers and formidable camel cavalry."
+  },
+  {
+    "question": "In the administrative structure of the Kanem-Borno Empire, the supreme advisory council of state that checked the royal authority of the Mai was the:",
+    "options": {
+      "a": "Kokenawa (Council of the Twelve)",
+      "b": "Oyo Mesi",
+      "c": "Eghaevbo n'Ore",
+      "d": "Umunna Assembly"
+    },
+    "answer": "a",
+    "explanation": "The Kokenawa, also known as the Council of the Twelve, consisted of high-ranking hereditary nobility and state officials who advised the Mai and administered imperial provinces."
+  },
+  {
+    "question": "According to the Bayajidda legend, which of the following states constituted the 'Hausa Bakwai' (the seven legitimate Hausa states)?",
+    "options": {
+      "a": "Biram, Daura, Kano, Zaria, Katsina, Rano, and Gobir",
+      "b": "Kebbi, Zamfara, Nupe, Gwari, Yauri, Ilorin, and Kwararafa",
+      "c": "Borno, Mandara, Kanem, Wadai, Darfur, Bagirmi, and Tibesti",
+      "d": "Oyo, Ife, Ijesha, Ketu, Sabe, Owu, and Popo"
+    },
+    "answer": "a",
+    "explanation": "The Hausa Bakwai (seven legitimate sons of Bawo, son of Bayajidda) were Biram, Daura, Kano, Zaria (Zazzau), Katsina, Rano, and Gobir. The second group represented the Banza Bakwai (illegitimate states)."
+  },
+  {
+    "question": "The primary military and economic significance of Queen Amina of Zazzau in 16th-century Hausaland was her:",
+    "options": {
+      "a": "Introduction of firearms from Egypt to conquer the Kingdom of Benin",
+      "b": "Military campaigns that subjugated neighboring territories and the construction of fortified defensive mud walls (ganuwa)",
+      "c": "Conversion of all Hausa states to Christianity through treaties with European explorers",
+      "d": "Establishment of the first modern textile mill in the city of Kano"
+    },
+    "answer": "b",
+    "explanation": "Queen Amina led formidable military cavalry expeditions across the central Nigerian savanna, exacting tribute from Nupe and Kwararafa, and popularized massive protective earthen ramparts known as 'Ganuwar Amina'."
+  },
+  {
+    "question": "In the constitutional framework of the Old Oyo Empire, the supreme commander of the imperial armed forces was the:",
+    "options": {
+      "a": "Bashorun",
+      "b": "Aare Ona Kakanfo",
+      "c": "Osi Efa",
+      "d": "Ooni"
+    },
+    "answer": "b",
+    "explanation": "The Aare Ona Kakanfo was the supreme field marshal of Oyo's army. By convention, he was stationed at a border town rather than the capital and was bound by oath never to suffer defeat or retreat in battle."
+  },
+  {
+    "question": "What historic event precipitated the final internal disintegration of Old Oyo's metropolitan power in the early 19th century?",
+    "options": {
+      "a": "The naval bombardment of Badagry by British gunboats in 1851",
+      "b": "The rebellion of Aare Ona Kakanfo Afonja at Ilorin and his alliance with Mallam Alimi",
+      "c": "The direct military invasion of Oyo-Ile by the Kingdom of Dahomey's Amazons",
+      "d": "The total abolition of the Atlantic slave trade by European consuls"
+    },
+    "answer": "b",
+    "explanation": "Afonja, the Kakanfo based at Ilorin, revolted against Alaafin Aole and allied with Fulani Muslim cleric Mallam Alimi; the alliance eventually turned against Afonja, incorporating Ilorin into the Sokoto Caliphate and triggering Oyo's collapse."
+  },
+  {
+    "question": "The British naval expedition that invaded and sacked Benin City in February 1897 was commanded by:",
+    "options": {
+      "a": "Admiral Harry Rawson",
+      "b": "Lord Frederick Lugard",
+      "c": "Captain Frederick Treffry",
+      "d": "Sir George Goldie"
+    },
+    "answer": "a",
+    "explanation": "Rear-Admiral Harry Rawson commanded the British Punitive Expedition of 1897 that invaded Benin, looted thousands of historic bronze and ivory artworks, and deposed Oba Ovonramwen Nogbaisi."
+  },
+  {
+    "question": "The primary commercial dispute that resulted in the deposition and exile of King Jaja of Opobo by Acting Consul Harry Johnston in 1887 was:",
+    "options": {
+      "a": "Jaja's refusal to supply food rations to British merchant vessels anchoring at Bonny",
+      "b": "Jaja's strict monopoly over the palm oil trade and his direct shipment of produce to Liverpool",
+      "c": "Jaja's military invasion of the inland kingdom of Onitsha",
+      "d": "Jaja's conversion to Roman Catholicism against local religious taboos"
+    },
+    "answer": "b",
+    "explanation": "King Jaja established Opobo in 1869 and fiercely defended his sovereignty by barring British middlemen from the interior markets, shipping palm oil directly to England, which infuriated British mercantile cartels."
+  },
+  {
+    "question": "Chief Nana Olomu of Ebrohimi, who fiercely defended Itsekiri commercial independence against British imperialism in 1894, utilized which tactical defense?",
+    "options": {
+      "a": "Deploying heavily fortified mangrove canal barricades armed with heavy artillery batteries",
+      "b": "Retreating into the dense rain forests of the Cameroun highlands",
+      "c": "Enlisting cavalry warriors from the Sokoto Caliphate",
+      "d": "Negotiating an exclusive defense alliance with imperial Germany"
+    },
+    "answer": "a",
+    "explanation": "Chief Nana Olomu fortified his canal stronghold at Ebrohimi with artillery batteries and heavy war canoes, holding off British gunboats in the Benin River before his capital was eventually bombarded and seized."
+  },
+  {
+    "question": "In pre-colonial decentralized Igbo societies, social order, justice, and community cohesion were maintained primarily through:",
+    "options": {
+      "a": "An autocratic hereditary monarchy with standing standing armies",
+      "b": "The Umunna lineage assembly, age grades, titled societies (such as Ozo), and the council of elders",
+      "c": "Appointed provincial colonial resident commissioners",
+      "d": "A centralized bureaucratic police constabulary"
+    },
+    "answer": "b",
+    "explanation": "Igbo political systems were acephalous and democratic; consensus governance was practiced through patrilineage kinship units (Umunna), elder councils (Amala), titled associations (Ozo), and age-grade associations."
+  },
+  {
+    "question": "The destruction of the Arochukwu Long Juju (Ibini Ukpabi) oracle during the British expedition of 1901–1902 was motivated by Britain's determination to:",
+    "options": {
+      "a": "Break the Aro commercial and judicial hegemony that controlled the trade routes of the Igbo hinterland",
+      "b": "Convert the entire Eastern region to the Anglican Church in a single military campaign",
+      "c": "Prevent Arochukwu from forming a military alliance with the French in Dahomey",
+      "d": "Recover sacred golden crowns stolen from the palace of the Oba of Benin"
+    },
+    "answer": "a",
+    "explanation": "The Aro confederacy maintained immense economic and judicial control across the Igbo and Ibibio hinterlands via their merchant colonies and the Long Juju oracle. The British launched the 1901-1902 expedition to open the interior to direct British trade."
+  },
+  {
+    "question": "Which of the following commodities served as the principal currency of exchange and store of value across medieval trans-Saharan trading routes in West Africa?",
+    "options": {
+      "a": "Cowrie shells, salt slabs, and gold dust",
+      "b": "Printed paper treasury banknotes",
+      "c": "Crude petroleum barrels",
+      "d": "Machined copper telephone wires"
+    },
+    "answer": "a",
+    "explanation": "The trans-Saharan and inland trade relied upon gold dust (from Wangara/Bambuk), rock salt slabs (from Taghaza and Taoudenni), and cowrie shells imported from the Indian Ocean."
+  },
+  {
+    "question": "The 1804 Islamic Jihad led by Shehu Usman dan Fodio commenced in which Hausa kingdom following escalating persecution by its ruler Yunfa?",
+    "options": {
+      "a": "Gobir",
+      "b": "Kano",
+      "c": "Zazzau",
+      "d": "Daura"
+    },
+    "answer": "a",
+    "explanation": "The Jihad originated in Gobir, where Sarkin Gobir Yunfa attempted to assassinate Usman dan Fodio and restricted Muslim religious freedoms, prompting the Shehu to undertake the historic Hijrah from Degel to Gudu."
+  },
+  {
+    "question": "The decisive military victory won by Usman dan Fodio's forces in June 1804 that established the momentum of the Sokoto Jihad was the Battle of:",
+    "options": {
+      "a": "Tabkin Kwatto",
+      "b": "Burmi",
+      "c": "Tugnan",
+      "d": "Gwandu"
+    },
+    "answer": "a",
+    "explanation": "At the Battle of Tabkin Kwatto (June 1804), the heavily outnumbered Muslim forces of Usman dan Fodio routed the formidable cavalry army of Sarkin Gobir Yunfa, marking a turning point in the Jihad."
+  },
+  {
+    "question": "The intellectual and doctrinal justification of Borno's resistance against the 1804 Fulani Jihad was articulated in famous letters to Muhammad Bello by:",
+    "options": {
+      "a": "Muhammad al-Amin al-Kanemi",
+      "b": "Mai Dunama IX",
+      "c": "Rabih az-Zubayr",
+      "d": "Mai Idris Alooma"
+    },
+    "answer": "a",
+    "explanation": "Sheikh Muhammad al-Amin al-Kanemi defended Borno by asserting that Borno had been a pious Muslim state for centuries and that administrative imperfections did not warrant declaration of holy war against fellow believers."
+  },
+  {
+    "question": "The Berlin West Africa Conference of 1884–1885, convened by German Chancellor Otto von Bismarck, formulated which crucial imperial doctrine?",
+    "options": {
+      "a": "The Principle of Effective Occupation",
+      "b": "The Monroe Doctrine",
+      "c": "The Policy of Assimilation",
+      "d": "The Universal Declaration of Self-Determination"
+    },
+    "answer": "a",
+    "explanation": "The Berlin Conference stipulated that European powers could claim sovereignty over African territories only through 'effective occupation'—demonstrating actual administrative presence and notifying other signatory powers."
+  },
+  {
+    "question": "The commercial enterprise that secured royal chartered monopoly rights over the Niger basin on behalf of British imperial interests was the:",
+    "options": {
+      "a": "Royal Niger Company, chartered in 1886 under Sir George Taubman Goldie",
+      "b": "British East India Company, managed by Robert Clive",
+      "c": "Dutch West India Company",
+      "d": "Imperial British East Africa Company, led by Frederick Lugard"
+    },
+    "answer": "a",
+    "explanation": "Sir George Goldie amalgamated British trading companies into the National African Company, which was granted a royal charter in 1886 as the Royal Niger Company, administering the Niger territories until 1899."
+  },
+  {
+    "question": "At the decisive Battle of Burmi in July 1903, British colonial forces finally extinguished the armed resistance of the Sokoto Caliphate, resulting in the death of:",
+    "options": {
+      "a": "Caliph Muhammadu Attahiru I",
+      "b": "Sultan Muhammadu Bello",
+      "c": "Emir Aliyu Babba of Kano",
+      "d": "Waziri Junaidu"
+    },
+    "answer": "a",
+    "explanation": "Sultan Muhammadu Attahiru I, who had fled Sokoto on a religious flight (Hijrah) towards the East, was killed alongside hundreds of followers at the Battle of Burmi in present-day Gombe State."
+  },
+  {
+    "question": "The anti-colonial messianic revolt that erupted near Sokoto in 1906, nearly overwhelming British military garrisons before being brutally crushed, was the:",
+    "options": {
+      "a": "Satiru Uprising",
+      "b": "Aba Rebellion",
+      "c": "Kiriji War",
+      "d": "Bussa Rebellion"
+    },
+    "answer": "a",
+    "explanation": "The Satiru Uprising (1906) was a Mahdist rebellion by peasant farmers led by Mallam Isa against British taxation and colonial occupation; British troops razed the village and slaughtered its inhabitants."
+  },
+  {
+    "question": "The primary economic rationale underlying Lord Frederick Lugard's amalgamation of Northern and Southern Nigeria on January 1, 1914 was to:",
+    "options": {
+      "a": "Use the buoyant customs and tariff revenues of the South to offset the persistent budget deficits of the North",
+      "b": "Establish a single national football league across both protectorates",
+      "c": "Facilitate the immediate granting of full political sovereignty to Nigerian political parties",
+      "d": "Integrate the railway lines of Nigeria with those of French Dahomey"
+    },
+    "answer": "a",
+    "explanation": "Northern Nigeria ran persistent financial deficits requiring imperial grants-in-aid from Britain, whereas Southern Nigeria enjoyed substantial budgetary surpluses from maritime customs duties on imports."
+  },
+  {
+    "question": "The British colonial administrative strategy of 'Indirect Rule' achieved its greatest success in Northern Nigeria primarily because:",
+    "options": {
+      "a": "There existed a pre-established, centralized emirate bureaucracy with native courts, treasury systems (Bait-ul-Mal), and compliant traditional rulers",
+      "b": "The northern population had unanimously embraced the Church of England",
+      "c": "The colonial administration built free secondary schools in every northern hamlet",
+      "d": "Direct military conscription was strictly enforced on all nomadic Fulani clans"
+    },
+    "answer": "a",
+    "explanation": "Lugard's Indirect Rule functioned efficiently in the North because the Sokoto Caliphate had already instituted an elaborate, highly centralized administrative, judicial (Qadi courts), and taxation structure."
+  },
+  {
+    "question": "The famous Aba Women's War of November–December 1929 was sparked off by:",
+    "options": {
+      "a": "Fears that the colonial administration intended to impose direct taxation on women following census counts conducted by Warrant Chiefs",
+      "b": "The refusal of British merchants to purchase palm kernels at coastal seaports",
+      "c": "The deportation of Herbert Macaulay to Fernando Po",
+      "d": "The introduction of compulsory military conscription for World War II"
+    },
+    "answer": "a",
+    "explanation": "When Warrant Chief Okugo of Oloko, acting through Mark Emeruwa, counted women, children, and livestock, it sparked widespread fears that women were about to be taxed, precipitating massive protests by women across Calabar and Owerri provinces."
+  },
+  {
+    "question": "The Clifford Constitution of 1922 is landmark in Nigerian political history because it introduced:",
+    "options": {
+      "a": "The Elective Principle, which permitted democratic voting for legislative council seats in Lagos and Calabar",
+      "b": "A unicameral federal senate for all three geographical regions",
+      "c": "Universal adult suffrage for all citizens over 18 years of age",
+      "d": "The immediate appointment of a Nigerian as Governor-General"
+    },
+    "answer": "a",
+    "explanation": "The 1922 Clifford Constitution introduced the elective principle for the first time in British tropical Africa, allocating 4 elected seats (3 for Lagos, 1 for Calabar) to the Legislative Council."
+  },
+  {
+    "question": "The father of Nigerian nationalism who founded Nigeria's first modern political party, the Nigerian National Democratic Party (NNDP), in 1923 was:",
+    "options": {
+      "a": "Herbert Macaulay",
+      "b": "Dr. Nnamdi Azikiwe",
+      "c": "Chief Obafemi Awolowo",
+      "d": "Sir Ahmadu Bello"
+    },
+    "answer": "a",
+    "explanation": "Herbert Macaulay founded the NNDP in 1923 to contest the elective seats provided under the Clifford Constitution, dominating Lagos municipal politics for two decades."
+  },
+  {
+    "question": "The Richards Constitution of 1946 was widely criticized by Nigerian nationalist leaders because it:",
+    "options": {
+      "a": "Was drafted and imposed without any prior consultation with the Nigerian people and institutionalized regionalism",
+      "b": "Abolished the payment of all traditional chieftaincy stipends",
+      "c": "Forced all secondary schools to teach exclusively in local indigenous dialects",
+      "d": "Surrendered Nigerian sovereignty to the United Nations Trusteeship Council"
+    },
+    "answer": "a",
+    "explanation": "Sir Arthur Richards formulated the constitution in secret without public consultation; while introducing regional councils for the North, West, and East, nationalists condemned it as an undemocratic imposition."
+  },
+  {
+    "question": "Which Nigerian constitutional conference served as the unprecedented climax of nationwide consultations from village to regional levels, leading to the 1951 Macpherson Constitution?",
+    "options": {
+      "a": "The Ibadan General Conference of 1950",
+      "b": "The London Constitutional Conference of 1957",
+      "c": "The Lancaster House Conference of 1953",
+      "d": "The Calabar Consultative Assembly of 1948"
+    },
+    "answer": "a",
+    "explanation": "Governor John Macpherson avoided Richards' error by convening extensive consultations at village, district, provincial, and regional levels, culminating in the historic Ibadan General Conference of January 1950."
+  },
+  {
+    "question": "The Lyttelton Constitution of 1954 is historically revered as the legal foundation of Nigerian federalism because it:",
+    "options": {
+      "a": "Formally granted full regional autonomy, creating separate regional civil services, marketing boards, and judiciaries",
+      "b": "Abolished all regional governments and created a centralized unitary republic",
+      "c": "Transferred executive authority to the President of the United States",
+      "d": "United Nigeria with Ghana under a single West African parliament"
+    },
+    "answer": "a",
+    "explanation": "The 1954 Lyttelton Constitution established a genuine federal system by delineating Exclusive, Concurrent, and Residual legislative lists, granting complete fiscal and administrative autonomy to the Northern, Western, and Eastern regions."
+  },
+  {
+    "question": "The historic motion moved in the Federal House of Representatives in 1953 demanding 'self-government for Nigeria in 1956' was sponsored by:",
+    "options": {
+      "a": "Chief Anthony Enahoro",
+      "b": "Chief Remi Fani-Kayode",
+      "c": "Alhaji Tafawa Balewa",
+      "d": "Mallam Aminu Kano"
+    },
+    "answer": "a",
+    "explanation": "Chief Anthony Enahoro of the Action Group moved the 1953 motion for self-government in 1956, triggering sharp disagreement with Northern delegates who substituted it with 'as soon as practicable'."
+  },
+  {
+    "question": "The tragic inter-ethnic disturbance that erupted in May 1953 following the breakdown of parliamentary debates over the self-government motion occurred in:",
+    "options": {
+      "a": "Kano",
+      "b": "Enugu",
+      "c": "Ibadan",
+      "d": "Jos"
+    },
+    "answer": "a",
+    "explanation": "The Kano Riots of May 1953 broke out when an Action Group delegation led by Samuel Ladoke Akintola scheduled a tour of the North after northern legislators had been booed in Lagos over the 1956 motion."
+  },
+  {
+    "question": "The Willink Commission was appointed by the British colonial government in 1957 primarily to:",
+    "options": {
+      "a": "Investigate the fears of ethnic minorities in Nigeria and propose means of allaying them",
+      "b": "Supervise the construction of the Kainji hydroelectric dam",
+      "c": "Calculate the total volume of petroleum reserves in the Niger Delta",
+      "d": "Review the salaries of European civil servants in Lagos"
+    },
+    "answer": "a",
+    "explanation": "Sir Henry Willink chaired the Commission to examine minority groups' fears of domination by major ethnic groups in the three regions; the commission recommended a Bill of Rights rather than creating new states."
+  },
+  {
+    "question": "Following the 1959 federal parliamentary elections, the first post-independence federal coalition government in Nigeria was formed between the:",
+    "options": {
+      "a": "Northern People's Congress (NPC) and the National Council of Nigeria and the Cameroons (NCNC)",
+      "b": "Action Group (AG) and the Northern Elements Progressive Union (NEPU)",
+      "c": "Dynamic Party and the United Middle Belt Congress (UMBC)",
+      "d": "National Democratic Party (NDP) and the Nigerian Youth Movement (NYM)"
+    },
+    "answer": "a",
+    "explanation": "Since no party won an outright majority in the 1959 elections, the NPC (led by Ahmadu Bello) and NCNC (led by Nnamdi Azikiwe) formed a coalition, making Tafawa Balewa Prime Minister and Azikiwe Governor-General."
+  },
+  {
+    "question": "The political crisis that engulfed the Western Region in 1962, leading to the declaration of a state of emergency, originated from an intense rivalry between:",
+    "options": {
+      "a": "Chief Obafemi Awolowo and Chief Samuel Ladoke Akintola",
+      "b": "Dr. Nnamdi Azikiwe and Michael Okpara",
+      "c": "Sir Ahmadu Bello and Mallam Aminu Kano",
+      "d": "Dennis Osadebay and Oba Akenzua II"
+    },
+    "answer": "a",
+    "explanation": "A bitter ideological and tactical rift fractured the Action Group between party leader Obafemi Awolowo and Western Premier S.L. Akintola, resulting in physical brawls in the Western House of Assembly and a state of emergency."
+  },
+  {
+    "question": "The military officer who announced the first military coup d'état in Nigeria on Radio Kaduna on January 15, 1966 was:",
+    "options": {
+      "a": "Major Chukwuma Kaduna Nzeogwu",
+      "b": "Major General J.T.U. Aguiyi-Ironsi",
+      "c": "Lieutenant Colonel Murtala Muhammed",
+      "d": "Lieutenant Colonel Yakubu Gowon"
+    },
+    "answer": "a",
+    "explanation": "Major Chukwuma Kaduna Nzeogwu led the coup operations in the North and broadcast the famous martial declaration dissolving the civilian government on January 15, 1966."
+  },
+  {
+    "question": "The controversial Unification Decree (Decree No. 34) promulgated by General J.T.U. Aguiyi-Ironsi in May 1966 sought to:",
+    "options": {
+      "a": "Abolish the federal structure and unify Nigeria's regional civil services under a unitary government",
+      "b": "Create twelve new states out of the existing four regions",
+      "c": "Adopt the United States dollar as the national currency",
+      "d": "Nationalize all foreign oil concessions across the Niger Delta"
+    },
+    "answer": "a",
+    "explanation": "Decree No. 34 abolished regions, grouped them into 'provinces', and unified civil services into a National Public Service, which heightened regional suspicions and precipitated the July 1966 counter-coup."
+  },
+  {
+    "question": "In January 1967, Nigerian military leaders met in Ghana in a desperate bid to resolve the national crisis. This historic meeting is known as the:",
+    "options": {
+      "a": "Aburi Accord",
+      "b": "Accra Pact",
+      "c": "Kumasi Resolution",
+      "d": "Lomé Declaration"
+    },
+    "answer": "a",
+    "explanation": "The Aburi meeting, hosted by Ghanaian head of state General J.A. Ankrah at Peduase Lodge in Aburi, agreed to a confederal arrangement, but conflicting interpretations led to total breakdown and civil war."
+  },
+  {
+    "question": "On May 27, 1967, just prior to the outbreak of the Nigerian Civil War, Lieutenant Colonel Yakubu Gowon preempted Eastern secession by:",
+    "options": {
+      "a": "Dividing Nigeria into twelve autonomous states by military decree",
+      "b": "Surrendering federal control of oil refineries to Shell-BP",
+      "c": "Signing a military alliance with the Republic of Chad",
+      "d": "Handing power over to the Chief Justice of Nigeria"
+    },
+    "answer": "a",
+    "explanation": "Gowon dissolved the 4 regions and created 12 states (giving minority groups in the Eastern region their own states: South-Eastern and Rivers states), depriving Ojukwu's Biafra of exclusive control over oil fields."
+  },
+  {
+    "question": "The instrument of Biafra's unconditional surrender at Dodan Barracks, Lagos, on January 15, 1970, was presented to General Gowon by:",
+    "options": {
+      "a": "Major General Philip Effiong",
+      "b": "Lieutenant Colonel Chukwuemeka Odumegwu Ojukwu",
+      "c": "Colonel Joe Achuzia",
+      "d": "Dr. Nnamdi Azikiwe"
+    },
+    "answer": "a",
+    "explanation": "After Ojukwu departed for Côte d'Ivoire in search of peace, his second-in-command, Major General Philip Effiong, led the Biafran delegation to Lagos to formally end the war under Gowon's 'No Victor, No Vanquished' declaration."
+  },
+  {
+    "question": "The Economic Community of West African States (ECOWAS) was formally established on May 28, 1975 by the Treaty of:",
+    "options": {
+      "a": "Lagos",
+      "b": "Abuja",
+      "c": "Dakar",
+      "d": "Monrovia"
+    },
+    "answer": "a",
+    "explanation": "ECOWAS was created when 15 West African heads of state signed the Treaty of Lagos on May 28, 1975, following the diplomatic spearheading of Nigeria's Yakubu Gowon and Togo's Gnassingbé Eyadéma."
+  },
+  {
+    "question": "The decision to relocate Nigeria's federal capital from congested coastal Lagos to central Abuja was initiated in 1976 by the administration of:",
+    "options": {
+      "a": "General Murtala Ramat Muhammed",
+      "b": "General Yakubu Gowon",
+      "c": "Alhaji Shehu Shagari",
+      "d": "Major General Muhammadu Buhari"
+    },
+    "answer": "a",
+    "explanation": "General Murtala Muhammed inaugurated the Justice Akinola Aguda Panel, which recommended moving the Federal Capital Territory to a neutral, centrally located site at Abuja, enacted via Decree No. 6 of 1976."
+  },
+  {
+    "question": "In the late 1970s, Nigeria demonstrated bold foreign policy leadership in the liberation of Southern Africa by nationalizing the assets of which multinational corporation?",
+    "options": {
+      "a": "British Petroleum (BP)",
+      "b": "Mobil Oil Exploration",
+      "c": "Texaco Overseas",
+      "d": "Total Energies"
+    },
+    "answer": "a",
+    "explanation": "In 1979, the Federal Military Government led by General Olusegun Obasanjo nationalized British Petroleum (BP) assets and acquired majority shares in Barclays Bank to pressure Britain over Zimbabwe's and South Africa's independence."
+  }
+]

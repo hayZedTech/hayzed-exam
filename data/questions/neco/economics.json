@@ -1,0 +1,552 @@
+[
+    {
+        "question": "Which of the following definitions of Economics emphasizes the allocation of scarce resources having alternative uses?",
+        "options": {
+            "a": "Adam Smith's definition",
+            "b": "Alfred Marshall's definition",
+            "c": "Lionel Robbins' definition",
+            "d": "John Stuart Mill's definition"
+        },
+        "answer": "c",
+        "explanation": "Lionel Robbins defined economics as 'the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses'."
+    },
+    {
+        "question": "The slope of the Production Possibility Curve (PPC) represents the ______",
+        "options": {
+            "a": "marginal rate of substitution",
+            "b": "marginal rate of transformation",
+            "c": "average propensity to consume",
+            "d": "elasticity of substitution"
+        },
+        "answer": "b",
+        "explanation": "The slope of the PPC measures the Marginal Rate of Transformation (MRT), which shows the quantity of one commodity that must be forgone to produce an additional unit of another commodity."
+    },
+    {
+        "question": "An outward shift of the Production Possibility Curve can be caused by ______",
+        "options": {
+            "a": "an increase in the general price level",
+            "b": "technological advancement and resource discovery",
+            "c": "a decrease in unemployment rate",
+            "d": "a change in consumer taste and preference"
+        },
+        "answer": "b",
+        "explanation": "An outward shift of the PPC signifies economic growth, which is driven by advancements in technology, an increase in the labor force, or the discovery of new natural resources."
+    },
+    {
+        "question": "The fundamental economic problem of 'how to produce' deals with the ______",
+        "options": {
+            "a": "distribution of goods among consumers",
+            "b": "choice of production techniques and resource combinations",
+            "c": "determination of consumer preference",
+            "d": "location of retail markets"
+        },
+        "answer": "b",
+        "explanation": "'How to produce' concerns deciding the most efficient combination of productive resources and techniques\u2014whether labour-intensive or capital-intensive."
+    },
+    {
+        "question": "In a command economy, the allocation of productive resources is primarily determined by ______",
+        "options": {
+            "a": "market forces of demand and supply",
+            "b": "the central planning authority",
+            "c": "customs and traditional beliefs",
+            "d": "private entrepreneurs"
+        },
+        "answer": "b",
+        "explanation": "In a command (socialist) economy, all major decisions regarding production, allocation, and pricing are made by the central government or planning authority."
+    },
+    {
+        "question": "Total utility is maximized when marginal utility is ______",
+        "options": {
+            "a": "at its maximum",
+            "b": "equal to average utility",
+            "c": "zero",
+            "d": "negative"
+        },
+        "answer": "c",
+        "explanation": "According to the Law of Diminishing Marginal Utility, total utility reaches its maximum saturation point when the marginal utility of the last unit consumed equals zero."
+    },
+    {
+        "question": "A rational consumer achieves equilibrium when the ratio of marginal utilities of two goods equals the ______",
+        "options": {
+            "a": "ratio of their prices",
+            "b": "difference between their total utilities",
+            "c": "sum of their average costs",
+            "d": "ratio of consumer's income to total expenditure"
+        },
+        "answer": "a",
+        "explanation": "Consumer equilibrium under cardinal utility occurs when MUx / Px = MUy / Py, which equates the ratio of marginal utilities to the ratio of their respective prices."
+    },
+    {
+        "question": "A demand curve that slopes upwards from left to right violates the law of demand. This exception applies to ______",
+        "options": {
+            "a": "normal goods",
+            "b": "perishable goods",
+            "c": "Giffen goods",
+            "d": "complementary goods"
+        },
+        "answer": "c",
+        "explanation": "Giffen goods are highly inferior staple goods for which quantity demanded increases when price rises due to a dominant negative income effect, yielding an upward-sloping demand curve."
+    },
+    {
+        "question": "If a 10% increase in the price of a product leads to a 5% decrease in the quantity demanded, the price elasticity of demand is ______",
+        "options": {
+            "a": "elastic",
+            "b": "inelastic",
+            "c": "unit elastic",
+            "d": "perfectly inelastic"
+        },
+        "answer": "b",
+        "explanation": "Price elasticity of demand = (% change in quantity demanded) / (% change in price) = 5% / 10% = 0.5. Since the value is less than 1, demand is inelastic."
+    },
+    {
+        "question": "When the cross elasticity of demand between good X and good Y is positive, the two goods are ______",
+        "options": {
+            "a": "substitutes",
+            "b": "complements",
+            "c": "independent goods",
+            "d": "inferior goods"
+        },
+        "answer": "a",
+        "explanation": "A positive cross elasticity of demand indicates that an increase in the price of good Y leads to an increase in the quantity demanded of good X, meaning they are substitute goods (e.g., butter and margarine)."
+    },
+    {
+        "question": "If an increase in consumer income leads to a decrease in the demand for a good, the good is classified as ______",
+        "options": {
+            "a": "a luxury good",
+            "b": "a normal good",
+            "c": "an inferior good",
+            "d": "a public good"
+        },
+        "answer": "c",
+        "explanation": "An inferior good has a negative income elasticity of demand; as consumer income rises, consumers purchase less of it in favor of superior alternatives."
+    },
+    {
+        "question": "A rightward shift in the supply curve of a commodity can be caused by ______",
+        "options": {
+            "a": "an increase in the cost of raw materials",
+            "b": "an improvement in production technology",
+            "c": "the imposition of an excise tax on the commodity",
+            "d": "a rise in the market price of the commodity"
+        },
+        "answer": "b",
+        "explanation": "An improvement in technology lowers production costs and boosts productivity, shifting the entire supply curve rightward (increase in supply)."
+    },
+    {
+        "question": "Which of the following makes the price elasticity of supply for an agricultural commodity relatively inelastic in the short run?",
+        "options": {
+            "a": "Availability of abundant storage facilities",
+            "b": "Short production gestation period",
+            "c": "Long gestation and biological growth period",
+            "d": "High mobility of occupational factors"
+        },
+        "answer": "c",
+        "explanation": "Agricultural products require biological gestation periods to grow and harvest, making it difficult for farmers to rapidly adjust output in response to price changes in the short run."
+    },
+    {
+        "question": "At the equilibrium price in a free market, ______",
+        "options": {
+            "a": "quantity demanded exceeds quantity supplied",
+            "b": "quantity supplied exceeds quantity demanded",
+            "c": "quantity demanded equals quantity supplied",
+            "d": "marginal cost equals average fixed cost"
+        },
+        "answer": "c",
+        "explanation": "Equilibrium price is the price at which the quantity demanded by buyers exactly balances the quantity supplied by sellers, leaving no surplus or shortage."
+    },
+    {
+        "question": "The fixing of a maximum price (price ceiling) below the equilibrium market price typically results in ______",
+        "options": {
+            "a": "excess supply and unsold stock",
+            "b": "excess demand and shortages",
+            "c": "a drop in black market activities",
+            "d": "an increase in producers' profit margins"
+        },
+        "answer": "b",
+        "explanation": "When the government sets a legal maximum price below equilibrium to protect consumers, quantity demanded exceeds quantity supplied, creating an excess demand or market shortage."
+    },
+    {
+        "question": "A minimum price control (price floor) established above the equilibrium price for agricultural produce is designed to ______",
+        "options": {
+            "a": "protect farmers' incomes against price collapse",
+            "b": "encourage consumer spending on luxury items",
+            "c": "eliminate government buffer stock expenditure",
+            "d": "reduce domestic agricultural production"
+        },
+        "answer": "a",
+        "explanation": "Price floors set above market equilibrium guarantee a minimum remunerative price for farmers, safeguarding their incomes from drastic harvest gluts."
+    },
+    {
+        "question": "Which factor of production is completely fixed in overall geographical supply?",
+        "options": {
+            "a": "Labour",
+            "b": "Capital",
+            "c": "Land",
+            "d": "Entrepreneurship"
+        },
+        "answer": "c",
+        "explanation": "Land refers to all natural gifts of nature. Its total geographical quantity is strictly fixed by nature, giving it a perfectly inelastic aggregate supply."
+    },
+    {
+        "question": "The movement of workers from one occupation to another requiring different skills is known as ______",
+        "options": {
+            "a": "geographical mobility of labour",
+            "b": "occupational mobility of labour",
+            "c": "vertical mobility of capital",
+            "d": "horizontal spatial migration"
+        },
+        "answer": "b",
+        "explanation": "Occupational mobility of labour is the ease with which workers can switch between different jobs or professions, which may be horizontal or vertical."
+    },
+    {
+        "question": "Working capital consists of ______",
+        "options": {
+            "a": "machinery and factory buildings",
+            "b": "raw materials and money used in daily operations",
+            "c": "social infrastructure like public roads",
+            "d": "long-term debenture loans"
+        },
+        "answer": "b",
+        "explanation": "Working (or circulating) capital consists of operational assets used up in the day-to-day running of a business, such as raw materials, finished stock, and cash."
+    },
+    {
+        "question": "The primary reward for the risk-bearing function of an entrepreneur is ______",
+        "options": {
+            "a": "wages",
+            "b": "rent",
+            "c": "interest",
+            "d": "profit"
+        },
+        "answer": "d",
+        "explanation": "Profit is the residual return earned by the entrepreneur for organizing resources, making managerial decisions, and bearing non-insurable business risks."
+    },
+    {
+        "question": "A major disadvantage of excessive division of labour in a manufacturing plant is ______",
+        "options": {
+            "a": "increase in production time",
+            "b": "monotony and loss of craftsmanship",
+            "c": "waste of machine capacity",
+            "d": "difficulty in specialization"
+        },
+        "answer": "b",
+        "explanation": "When workers repeatedly perform the same single repetitive task, work becomes monotonous and boring, which can lower morale and stifle overall craftsmanship."
+    },
+    {
+        "question": "Internal economies of scale refer to cost reductions that arise from ______",
+        "options": {
+            "a": "the expansion of the entire industry in a region",
+            "b": "the growth and expansion of an individual firm itself",
+            "c": "government subsidization of an industrial cluster",
+            "d": "improved transport networks in the country"
+        },
+        "answer": "b",
+        "explanation": "Internal economies of scale are internal operational advantages and cost savings that accrue directly to a specific firm as it expands its own scale of output."
+    },
+    {
+        "question": "According to the Law of Diminishing Returns, as more units of a variable factor are added to fixed factors, ______",
+        "options": {
+            "a": "total output immediately declines",
+            "b": "marginal product eventually begins to diminish",
+            "c": "fixed costs begin to rise exponentially",
+            "d": "average product is constantly zero"
+        },
+        "answer": "b",
+        "explanation": "The Law of Diminishing Returns states that as successive units of a variable factor are combined with a fixed factor, a point is reached where the marginal product of the variable factor begins to decline."
+    },
+    {
+        "question": "If total cost rises from \u20a65,000 to \u20a66,200 when output increases from 20 units to 24 units, the marginal cost per unit is ______",
+        "options": {
+            "a": "\u20a6250",
+            "b": "\u20a6300",
+            "c": "\u20a61,200",
+            "d": "\u20a6400"
+        },
+        "answer": "b",
+        "explanation": "Marginal Cost (MC) = Change in Total Cost / Change in Output = (\u20a66,200 - \u20a65,000) / (24 - 20) = \u20a61,200 / 4 = \u20a6300."
+    },
+    {
+        "question": "Average fixed cost (AFC) continuously declines as output increases because ______",
+        "options": {
+            "a": "total fixed cost increases at a declining rate",
+            "b": "a constant total fixed cost is spread over a larger volume of output",
+            "c": "variable cost becomes zero at high output",
+            "d": "marginal cost is lower than average variable cost"
+        },
+        "answer": "b",
+        "explanation": "Average Fixed Cost = TFC / Q. Since Total Fixed Cost remains constant regardless of output, dividing it by an increasing quantity causes AFC to steadily decline, forming a rectangular hyperbola."
+    },
+    {
+        "question": "Under perfect competition, the firm's average revenue curve is ______",
+        "options": {
+            "a": "downward-sloping to the right",
+            "b": "perfectly horizontal and equal to marginal revenue",
+            "c": "upward-sloping from the origin",
+            "d": "U-shaped"
+        },
+        "answer": "b",
+        "explanation": "Because a competitive firm is a price taker that can sell any amount at the prevailing market price, its demand curve is horizontal (perfectly elastic), where Price = AR = MR."
+    },
+    {
+        "question": "A firm maximizes profit in both competitive and monopolistic markets by producing at the level where ______",
+        "options": {
+            "a": "Average Revenue equals Average Cost",
+            "b": "Marginal Cost equals Marginal Revenue",
+            "c": "Total Revenue equals Total Cost",
+            "d": "Price equals Average Fixed Cost"
+        },
+        "answer": "b",
+        "explanation": "The universal condition for profit maximization (or loss minimization) in all market structures is that Marginal Cost (MC) must equal Marginal Revenue (MR), with MC rising."
+    },
+    {
+        "question": "A monopoly created through the grant of a patent or copyright by the state is known as a ______",
+        "options": {
+            "a": "natural monopoly",
+            "b": "legal monopoly",
+            "c": "state bilateral monopoly",
+            "d": "discriminating monopoly"
+        },
+        "answer": "b",
+        "explanation": "A legal monopoly is established through statutory laws, patents, copyrights, or charters that grant an exclusive legal right to produce or distribute a good or service."
+    },
+    {
+        "question": "Which of the following is a necessary condition for a monopolist to practice third-degree price discrimination?",
+        "options": {
+            "a": "The market must be open to free resale of goods",
+            "b": "Elasticities of demand must be different in separated sub-markets",
+            "c": "Cost of production must be different in each market",
+            "d": "All buyers must have identical levels of income"
+        },
+        "answer": "b",
+        "explanation": "Price discrimination is feasible only when markets can be effectively separated to prevent arbitrage (resale) and consumers in the separate markets have different price elasticities of demand."
+    },
+    {
+        "question": "The kinked demand curve theory of oligopoly is used to explain ______",
+        "options": {
+            "a": "collusive price cartels",
+            "b": "price rigidity and stickiness in the market",
+            "c": "equality of price and marginal cost",
+            "d": "the absence of non-price competition"
+        },
+        "answer": "b",
+        "explanation": "Paul Sweezy's kinked demand curve model explains why prices tend to remain rigid/sticky in oligopolistic markets: firms assume rivals will match price cuts but ignore price increases."
+    },
+    {
+        "question": "Shares of a public limited company differ from those of a private limited company because they ______",
+        "options": {
+            "a": "cannot be transferred without directors' consent",
+            "b": "can be freely bought and sold on the stock exchange",
+            "c": "carry unlimited financial liability for owners",
+            "d": "do not entitle holders to any voting rights"
+        },
+        "answer": "b",
+        "explanation": "Shares in a public limited liability company (Plc) can be subscribed to by the general public and are quoted and freely traded on the stock exchange."
+    },
+    {
+        "question": "According to the Malthusian theory of population, food production increases in ______",
+        "options": {
+            "a": "geometric progression",
+            "b": "arithmetic progression",
+            "c": "exponential progression",
+            "d": "logarithmic progression"
+        },
+        "answer": "b",
+        "explanation": "Thomas Malthus posited that human population grows in a geometric progression (1, 2, 4, 8, 16...) while food production only increases in an arithmetic progression (1, 2, 3, 4, 5...)."
+    },
+    {
+        "question": "An optimum population is reached when ______",
+        "options": {
+            "a": "the birth rate equals the death rate",
+            "b": "output per head (per capita income) is at its highest level",
+            "c": "the country has the largest number of people in the world",
+            "d": "all available natural resources are completely exhausted"
+        },
+        "answer": "b",
+        "explanation": "Optimum population is the size of population which, when combined with the available resources and state of technology, yields the highest output per head or maximum per capita income."
+    },
+    {
+        "question": "The dependency ratio measures the relationship between ______",
+        "options": {
+            "a": "working-age population and retired individuals only",
+            "b": "the non-working dependent population (children and aged) and the working population",
+            "c": "foreign migrant workers and domestic labour",
+            "d": "employed workers and unemployed university graduates"
+        },
+        "answer": "b",
+        "explanation": "The dependency ratio compares the economically dependent population (those aged 0-14 and 65+) to the economically productive working population (aged 15-64)."
+    },
+    {
+        "question": "Gross National Product (GNP) is obtained by adding ______ to Gross Domestic Product (GDP).",
+        "options": {
+            "a": "depreciation",
+            "b": "net factor income from abroad",
+            "c": "transfer payments",
+            "d": "indirect business taxes"
+        },
+        "answer": "b",
+        "explanation": "GNP measures output produced by nationals both at home and abroad: GNP = GDP + Net Factor Income from Abroad (NFIA)."
+    },
+    {
+        "question": "Disposable Personal Income (DPI) in national income accounting is mathematically defined as ______",
+        "options": {
+            "a": "Personal Income minus direct personal taxes",
+            "b": "Gross National Product minus depreciation",
+            "c": "National Income plus transfer payments",
+            "d": "Gross Domestic Product minus indirect taxes"
+        },
+        "answer": "a",
+        "explanation": "Disposable Personal Income is the amount of income that households and non-corporate businesses have left to spend or save after paying personal taxes to the government (DPI = Personal Income - Direct Taxes)."
+    },
+    {
+        "question": "Which of the following is excluded when calculating national income by the income approach?",
+        "options": {
+            "a": "Wages and salaries of workers",
+            "b": "Rental income of landlords",
+            "c": "Transfer payments like old-age pensions and gifts",
+            "d": "Operating surplus of registered companies"
+        },
+        "answer": "c",
+        "explanation": "Transfer payments (such as student bursaries, pensions, and unemployment benefits) are excluded from national income calculation because they represent income transfers without any corresponding production of goods or services."
+    },
+    {
+        "question": "The problem of double counting in national income accounting is best avoided by using the ______",
+        "options": {
+            "a": "value added approach",
+            "b": "gross retail sales approach",
+            "c": "monetary aggregates approach",
+            "d": "import substitution method"
+        },
+        "answer": "a",
+        "explanation": "Double counting is avoided either by valuing only final goods and services or by summing the value added at each successive stage of production."
+    },
+    {
+        "question": "Money serves as a 'standard of deferred payment' when it is used to ______",
+        "options": {
+            "a": "state the relative prices of goods",
+            "b": "settle future debts and credit transactions",
+            "c": "exchange goods across international borders",
+            "d": "store wealth without loss of nominal value"
+        },
+        "answer": "b",
+        "explanation": "As a standard of deferred payment, money allows transactions to be conducted on credit today with agreed repayment scheduled for a future date."
+    },
+    {
+        "question": "According to John Maynard Keynes, the motive for holding cash to take advantage of unexpected investment opportunities in financial assets is the ______",
+        "options": {
+            "a": "transactions motive",
+            "b": "precautionary motive",
+            "c": "speculative motive",
+            "d": "real balance motive"
+        },
+        "answer": "c",
+        "explanation": "The speculative motive arises from uncertainty about future interest rates and bond prices; money is held in liquid form to profit from movements in market asset prices."
+    },
+    {
+        "question": "If a commercial bank receives a new cash deposit of \u20a6100,000 and the legal reserve requirement is 20%, the total potential deposit created in the banking system is ______",
+        "options": {
+            "a": "\u20a6200,000",
+            "b": "\u20a6500,000",
+            "c": "\u20a620,000",
+            "d": "\u20a61,000,000"
+        },
+        "answer": "b",
+        "explanation": "The deposit multiplier = 1 / Reserve Ratio = 1 / 0.20 = 5. Total potential credit created = Initial Deposit \u00d7 Multiplier = \u20a6100,000 \u00d7 5 = \u20a6500,000."
+    },
+    {
+        "question": "When the Central Bank sells government securities on the open market, the primary objective is to ______",
+        "options": {
+            "a": "increase commercial banks' lending capacity",
+            "b": "reduce commercial banks' cash reserves and curtail credit",
+            "c": "lower the statutory cash reserve requirement",
+            "d": "encourage private borrowing for consumption"
+        },
+        "answer": "b",
+        "explanation": "Open Market Sale of securities absorbs liquidity from the commercial banking system, reducing their excess cash reserves and contracting credit expansion."
+    },
+    {
+        "question": "Cost-push inflation is primarily initiated by ______",
+        "options": {
+            "a": "excess aggregate demand over aggregate supply",
+            "b": "rising costs of production such as wages and raw materials",
+            "c": "excessive growth in the volume of currency in circulation",
+            "d": "a surplus in the government fiscal budget"
+        },
+        "answer": "b",
+        "explanation": "Cost-push inflation occurs when the overall price level is driven up due to increases in the cost of production inputs (such as soaring wages, fuel prices, or imported raw materials)."
+    },
+    {
+        "question": "A tax system in which higher-income earners pay a higher percentage of their income as tax is described as ______",
+        "options": {
+            "a": "regressive",
+            "b": "proportional",
+            "c": "progressive",
+            "d": "ad valorem"
+        },
+        "answer": "c",
+        "explanation": "A progressive tax takes a larger percentage of income from high-income earners than from low-income earners, helping to reduce income inequality."
+    },
+    {
+        "question": "The incidence of an indirect tax falls entirely on the consumer when demand is ______",
+        "options": {
+            "a": "perfectly elastic",
+            "b": "perfectly inelastic",
+            "c": "unitary elastic",
+            "d": "cross-price elastic"
+        },
+        "answer": "b",
+        "explanation": "When demand is perfectly inelastic (vertical demand curve), consumers buy the exact same quantity regardless of price, allowing producers to shift 100% of the tax burden to buyers."
+    },
+    {
+        "question": "A government budget is described as a surplus budget when projected ______",
+        "options": {
+            "a": "public expenditure exceeds public revenue",
+            "b": "public revenue exceeds public expenditure",
+            "c": "imports exceed total export earnings",
+            "d": "domestic borrowing equals foreign borrowing"
+        },
+        "answer": "b",
+        "explanation": "A surplus budget occurs when government projected revenue is greater than its anticipated public expenditure for a fiscal financial year."
+    },
+    {
+        "question": "The theory of Comparative Advantage was formulated by ______",
+        "options": {
+            "a": "Adam Smith",
+            "b": "David Ricardo",
+            "c": "Thomas Malthus",
+            "d": "Arthur Pigou"
+        },
+        "answer": "b",
+        "explanation": "David Ricardo propounded the Principle of Comparative Advantage in 1817, demonstrating that trade is mutually beneficial if nations specialize in goods where their opportunity cost is lowest."
+    },
+    {
+        "question": "The terms of trade of a country are said to be favorable when the ______",
+        "options": {
+            "a": "volume of physical exports exceeds imports",
+            "b": "index of export prices rises faster than the index of import prices",
+            "c": "foreign exchange reserves become negative",
+            "d": "central bank devalues the domestic currency"
+        },
+        "answer": "b",
+        "explanation": "Terms of Trade = (Index of Export Prices / Index of Import Prices) \u00d7 100. It is favorable when export prices rise relative to import prices, allowing a country to purchase more imports per unit of export."
+    },
+    {
+        "question": "Which section of the Balance of Payments records transactions involving visible merchandise imports and exports?",
+        "options": {
+            "a": "Capital account",
+            "b": "Current account",
+            "c": "Financial reserves account",
+            "d": "Official monetary financing"
+        },
+        "answer": "b",
+        "explanation": "The Current Account of the Balance of Payments records visible trade (merchandise exports and imports), invisible trade (services), and unrequited transfers."
+    },
+    {
+        "question": "A principal objective of the Economic Community of West African States (ECOWAS) is to ______",
+        "options": {
+            "a": "establish a military dictatorship in member nations",
+            "b": "promote regional economic cooperation and eliminate trade barriers among member states",
+            "c": "impose uniform export tariffs on goods shipped to Asia",
+            "d": "restrict free movement of persons across West African boundaries"
+        },
+        "answer": "b",
+        "explanation": "ECOWAS was established in 1975 to foster economic integration, remove tariffs, enhance trade, and promote the free movement of goods, capital, and persons across West Africa."
+    }
+]

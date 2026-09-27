@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which early mechanical calculating device, invented by Blaise Pascal in 1642, used a series of toothed wheels and gears to perform addition and subtraction?",
+    "options": {
+      "a": "Napier's Bones",
+      "b": "Pascaline",
+      "c": "Stepped Reckoner",
+      "d": "Jacquard Loom"
+    },
+    "answer": "b",
+    "explanation": "The Pascaline (or Arithmetic Machine) was invented by French mathematician Blaise Pascal in 1642. It used rotating cogged wheels with digits 0 to 9 to perform addition and subtraction mechanically."
+  },
+  {
+    "question": "In Charles Babbage's design of the Analytical Engine, which functional unit performed mathematical computations, analogous to the ALU in modern computers?",
+    "options": {
+      "a": "The Store",
+      "b": "The Mill",
+      "c": "The Reader",
+      "d": "The Card Hopper"
+    },
+    "answer": "b",
+    "explanation": "In Babbage's Analytical Engine, 'The Mill' was the calculating unit that executed arithmetic operations, while 'The Store' held variables and intermediate results (acting like modern memory)."
+  },
+  {
+    "question": "Who is historically recognized as the world's first computer programmer for documenting algorithms intended for Babbage's Analytical Engine?",
+    "options": {
+      "a": "Ada Lovelace",
+      "b": "Grace Hopper",
+      "c": "Herman Hollerith",
+      "d": "Alan Turing"
+    },
+    "answer": "a",
+    "explanation": "Augusta Ada King, Countess of Lovelace (Ada Lovelace), wrote the first published algorithm designed to be processed by Charles Babbage's Analytical Engine, calculating Bernoulli numbers."
+  },
+  {
+    "question": "The tabulating machine developed by Herman Hollerith to process the 1890 United States census utilized which medium for data input?",
+    "options": {
+      "a": "Magnetic tape",
+      "b": "Punched cards",
+      "c": "Paper tape rolls",
+      "d": "Floppy disks"
+    },
+    "answer": "b",
+    "explanation": "Herman Hollerith invented an electro-mechanical tabulating system that read demographic data encoded as punched holes in stiff paper cards, laying the groundwork for IBM."
+  },
+  {
+    "question": "Which electronic component was primarily used for internal circuitry and switching in First Generation computers (1940-1956)?",
+    "options": {
+      "a": "Transistors",
+      "b": "Vacuum tubes",
+      "c": "Integrated circuits",
+      "d": "Microprocessors"
+    },
+    "answer": "b",
+    "explanation": "First generation computers (e.g., ENIAC, EDVAC, UNIVAC I) relied on thermionic valves or vacuum tubes for CPU circuitry, which consumed large amounts of electricity and produced intense heat."
+  },
+  {
+    "question": "Second Generation computers (1956-1963) achieved greater reliability and smaller physical dimensions mainly due to the replacement of vacuum tubes with:",
+    "options": {
+      "a": "Transistors",
+      "b": "Semiconductor microchips",
+      "c": "Optical fibers",
+      "d": "Liquid crystals"
+    },
+    "answer": "a",
+    "explanation": "The invention of the solid-state transistor at Bell Laboratories allowed second generation computers to become significantly faster, smaller, more energy-efficient, and more dependable than vacuum tube systems."
+  },
+  {
+    "question": "The integration of hundreds of transistors onto a single silicon chip marked the transition to Third Generation computers through the introduction of:",
+    "options": {
+      "a": "Magnetic bubble memories",
+      "b": "Integrated Circuits (ICs)",
+      "c": "Microprocessors",
+      "d": "Biochips"
+    },
+    "answer": "b",
+    "explanation": "Third generation computers (1964-1971) utilized Integrated Circuits (ICs), invented by Jack Kilby and Robert Noyce, which combined multiple electronic components onto a miniature silicon wafer."
+  },
+  {
+    "question": "Which technological advancement was central to Fourth Generation computers, enabling entire CPUs to fit on a single microchip?",
+    "options": {
+      "a": "Very Large Scale Integration (VLSI)",
+      "b": "Thermionic emission",
+      "c": "Magnetic drum technology",
+      "d": "Ultra-wideband transmission"
+    },
+    "answer": "a",
+    "explanation": "Fourth generation computers are characterized by Very Large Scale Integration (VLSI) and Ultra Large Scale Integration (ULSI), which allowed millions of transistors to be fabricated on a single microprocessor chip."
+  },
+  {
+    "question": "Fifth Generation computer research and development primarily focuses on computers capable of:",
+    "options": {
+      "a": "Using punch cards for high-speed indexing",
+      "b": "Artificial Intelligence and natural language processing",
+      "c": "Replacing binary code with decimal mechanical wheels",
+      "d": "Operating exclusively on analog signals"
+    },
+    "answer": "b",
+    "explanation": "Fifth generation computers are designed around Artificial Intelligence (AI), parallel processing architectures, neural networks, and voice recognition to process natural human languages."
+  },
+  {
+    "question": "A computer designed to measure continuous physical variables such as temperature, fluid pressure, and electrical voltage is known as an:",
+    "options": {
+      "a": "Digital computer",
+      "b": "Analog computer",
+      "c": "Mainframe computer",
+      "d": "Embedded workstation"
+    },
+    "answer": "b",
+    "explanation": "Analog computers operate on continuous data by measuring physical magnitudes (like voltage, temperature, or hydraulic pressure), unlike digital computers which process discrete binary numbers."
+  },
+  {
+    "question": "An automated petroleum dispensing pump that measures fluid volume continuously and calculates the total cost digitally on a display screen is an example of a:",
+    "options": {
+      "a": "Dedicated analog computer",
+      "b": "Hybrid computer",
+      "c": "Supercomputer",
+      "d": "Personal digital assistant"
+    },
+    "answer": "b",
+    "explanation": "A hybrid computer combines the continuous measurement properties of analog computers with the logical precision and digital storage of digital computers."
+  },
+  {
+    "question": "Which class of computers possesses the highest processing speeds and is commonly deployed for computational fluid dynamics, nuclear research, and global weather modeling?",
+    "options": {
+      "a": "Minicomputers",
+      "b": "Microcomputers",
+      "c": "Supercomputers",
+      "d": "Workstations"
+    },
+    "answer": "c",
+    "explanation": "Supercomputers are the most powerful computing systems in existence, capable of performing quadrillions of floating-point operations per second (FLOPS) for scientific simulations."
+  },
+  {
+    "question": "Which automated data capture device reads encoded magnetic iron oxide particles printed on bank cheques?",
+    "options": {
+      "a": "Optical Mark Reader (OMR)",
+      "b": "Magnetic Ink Character Reader (MICR)",
+      "c": "Barcode Scanner",
+      "d": "Flatbed Image Scanner"
+    },
+    "answer": "b",
+    "explanation": "Magnetic Ink Character Recognition (MICR) technology reads characters printed with magnetized ink containing iron oxide, heavily used in banking to verify account numbers and routing codes on cheques."
+  },
+  {
+    "question": "In public examinations like NECO and WAEC, candidates' objective answer sheets with shaded pencil marks are evaluated quickly using an:",
+    "options": {
+      "a": "Optical Mark Reader (OMR)",
+      "b": "Optical Character Reader (OCR)",
+      "c": "Biometric Fingerprint Scanner",
+      "d": "Electromagnetic Digitizer"
+    },
+    "answer": "a",
+    "explanation": "An Optical Mark Reader (OMR) detects the presence or absence of a mark (such as an HB pencil shade) by measuring reflected light off specific coordinate areas on pre-printed forms."
+  },
+  {
+    "question": "Keys on a standard computer keyboard such as Caps Lock, Num Lock, and Scroll Lock that alternate between two operational states are classified as:",
+    "options": {
+      "a": "Alphanumeric keys",
+      "b": "Toggle keys",
+      "c": "Punctuation keys",
+      "d": "Control keys"
+    },
+    "answer": "b",
+    "explanation": "Toggle keys alternate between two modes or states every time they are pressed (for example, switching between uppercase and lowercase letters in the case of Caps Lock)."
+  },
+  {
+    "question": "Within the Central Processing Unit, which special register holds the memory address of the next instruction waiting to be fetched and executed?",
+    "options": {
+      "a": "Accumulator (ACC)",
+      "b": "Program Counter (PC)",
+      "c": "Memory Data Register (MDR)",
+      "d": "Current Instruction Register (CIR)"
+    },
+    "answer": "b",
+    "explanation": "The Program Counter (PC) stores the memory address of the next sequential machine instruction to be fetched from RAM. It automatically increments as instructions are executed."
+  },
+  {
+    "question": "During the CPU instruction cycle, the instruction that has just been fetched from memory is temporarily held for decoding in the:",
+    "options": {
+      "a": "Current Instruction Register (CIR)",
+      "b": "Program Counter (PC)",
+      "c": "Memory Address Register (MAR)",
+      "d": "Floating Point Register"
+    },
+    "answer": "a",
+    "explanation": "The Current Instruction Register (CIR), also known as the Instruction Register (IR), holds the binary instruction currently being decoded and executed by the Control Unit."
+  },
+  {
+    "question": "Which system bus in computer architecture is strictly unidirectional, carrying physical memory locations from the processor to external components?",
+    "options": {
+      "a": "Data bus",
+      "b": "Address bus",
+      "c": "Control bus",
+      "d": "Power bus"
+    },
+    "answer": "b",
+    "explanation": "The Address bus is unidirectional; the CPU sends memory addresses along this bus to select specific RAM locations or I/O ports. In contrast, the Data bus is bidirectional."
+  },
+  {
+    "question": "Dynamic Random Access Memory (DRAM) requires periodic electrical recharging (refresh cycles) primarily because its memory cells store bits using:",
+    "options": {
+      "a": "Flip-flop latches",
+      "b": "Capacitors and transistors",
+      "c": "Laser pits and lands",
+      "d": "Magnetic domains"
+    },
+    "answer": "b",
+    "explanation": "DRAM cells store electrical charges within tiny capacitors. Because capacitors naturally leak electrical charge over time, DRAM must be refreshed thousands of times per second to retain data."
+  },
+  {
+    "question": "Which form of non-volatile semiconductor memory has its recorded content erased completely by exposing the microchip die to ultraviolet (UV) radiation?",
+    "options": {
+      "a": "PROM",
+      "b": "EPROM",
+      "c": "EEPROM",
+      "d": "Flash ROM"
+    },
+    "answer": "b",
+    "explanation": "EPROM (Erasable Programmable Read-Only Memory) features a transparent quartz window through which intense ultraviolet light can be focused to clear all stored electronic charges."
+  },
+  {
+    "question": "What is the primary architectural purpose of incorporating high-speed cache memory directly on or near the processor chip?",
+    "options": {
+      "a": "To permanently archive the operating system files",
+      "b": "To bridge the operational speed disparity between the CPU and main memory (RAM)",
+      "c": "To convert alternating current into direct current",
+      "d": "To increase the physical capacity of the secondary hard drive"
+    },
+    "answer": "b",
+    "explanation": "Cache memory consists of extremely fast Static RAM (SRAM) placed close to CPU cores to hold frequently accessed instructions and data, minimizing delays caused by accessing slower system RAM."
+  },
+  {
+    "question": "What is the standard data storage capacity of a single-sided, single-layer standard Digital Versatile Disc (DVD-ROM)?",
+    "options": {
+      "a": "700 MB",
+      "b": "4.7 GB",
+      "c": "8.5 GB",
+      "d": "25 GB"
+    },
+    "answer": "b",
+    "explanation": "A standard single-sided, single-layer DVD has a storage capacity of approximately 4.7 Gigabytes (GB), whereas a standard CD holds about 700 MB and a single-layer Blu-ray holds 25 GB."
+  },
+  {
+    "question": "Which of the following is a major technical advantage of a Solid-State Drive (SSD) over a traditional Hard Disk Drive (HDD)?",
+    "options": {
+      "a": "Presence of high-speed motorized read/write actuator arms",
+      "b": "Absence of moving mechanical parts, resulting in lower latency and higher shock resistance",
+      "c": "Ability to operate using magnetic platters and spinning spindles",
+      "d": "Unlimited write cycles on every flash cell without degradation"
+    },
+    "answer": "b",
+    "explanation": "SSDs use flash memory with zero moving parts, giving them significantly faster read/write speeds, silent operation, and superior durability against physical shock compared to magnetic HDDs."
+  },
+  {
+    "question": "What is the decimal equivalent of the 7-bit binary number 1101011₂?",
+    "options": {
+      "a": "99",
+      "b": "103",
+      "c": "107",
+      "d": "111"
+    },
+    "answer": "c",
+    "explanation": "Converting binary 1101011₂ to base 10: (1×64) + (1×32) + (0×16) + (1×8) + (0×4) + (1×2) + (1×1) = 64 + 32 + 8 + 2 + 1 = 107."
+  },
+  {
+    "question": "Convert the hexadecimal number 2E₁₆ to its equivalent decimal (base 10) representation:",
+    "options": {
+      "a": "38",
+      "b": "42",
+      "c": "46",
+      "d": "52"
+    },
+    "answer": "c",
+    "explanation": "In hexadecimal, '2' represents 2×16¹ = 32, and 'E' represents 14×16⁰ = 14. Adding the positional values: 32 + 14 = 46."
+  },
+  {
+    "question": "What is the two's complement representation of the 8-bit binary value 00101100₂?",
+    "options": {
+      "a": "11010011₂",
+      "b": "11010100₂",
+      "c": "11010000₂",
+      "d": "00101101₂"
+    },
+    "answer": "b",
+    "explanation": "To obtain the two's complement: First invert all bits (one's complement) -> 11010011₂. Then add 1 -> 11010011₂ + 1 = 11010100₂."
+  },
+  {
+    "question": "Which digital logic gate produces an output of logic 1 (HIGH) if and only if exactly one of its two binary inputs is logic 1?",
+    "options": {
+      "a": "AND gate",
+      "b": "OR gate",
+      "c": "XOR (Exclusive-OR) gate",
+      "d": "NAND gate"
+    },
+    "answer": "c",
+    "explanation": "An XOR (Exclusive-OR) gate generates a HIGH (1) output when the inputs are different from each other (e.g., 0 and 1, or 1 and 0), and a LOW (0) output when the inputs are identical."
+  },
+  {
+    "question": "In digital electronics, why are NAND and NOR gates specifically categorized as 'Universal Gates'?",
+    "options": {
+      "a": "They operate using both alternating and direct currents",
+      "b": "Any fundamental logic gate (AND, OR, NOT) can be constructed entirely from them",
+      "c": "They are the only gates compatible with high-level programming languages",
+      "d": "They produce outputs independent of input voltages"
+    },
+    "answer": "b",
+    "explanation": "NAND and NOR gates are universal because combinations of either gate alone can synthesize any other boolean operation (AND, OR, NOT, XOR, XNOR) without needing other gate types."
+  },
+  {
+    "question": "The standard American Standard Code for Information Interchange (ASCII) encodes each character using how many bits, allowing for 128 unique character representations?",
+    "options": {
+      "a": "4 bits",
+      "b": "7 bits",
+      "c": "12 bits",
+      "d": "16 bits"
+    },
+    "answer": "b",
+    "explanation": "Standard ASCII is a 7-bit character encoding system providing 2⁷ = 128 code points for English letters, numbers, punctuation marks, and control codes."
+  },
+  {
+    "question": "In computer data measurement terminology, what is a contiguous group of four binary digits (bits) called?",
+    "options": {
+      "a": "Byte",
+      "b": "Nibble",
+      "c": "Word",
+      "d": "Octet"
+    },
+    "answer": "b",
+    "explanation": "A half-byte or four consecutive bits is termed a 'nibble'. Two nibbles combine to form an 8-bit byte (or octet)."
+  },
+  {
+    "question": "Which essential component of an operating system stays permanently in main memory to handle process scheduling, memory allocation, and interrupt management?",
+    "options": {
+      "a": "Shell",
+      "b": "Kernel",
+      "c": "Device driver",
+      "d": "File manager"
+    },
+    "answer": "b",
+    "explanation": "The Kernel is the central core of an operating system. It has complete control over system resources and manages hardware communication, memory allocation, and thread scheduling."
+  },
+  {
+    "question": "Which system maintenance utility is designed to reassemble fragmented data blocks into contiguous physical sectors on an electromechanical hard drive?",
+    "options": {
+      "a": "Disk Defragmenter",
+      "b": "Disk Cleanup",
+      "c": "System Restore",
+      "d": "Disk Formatter"
+    },
+    "answer": "a",
+    "explanation": "A Disk Defragmenter reorganizes scattered clusters of files on an electromechanical disk so that each file occupies contiguous sectors, significantly improving file retrieval speeds."
+  },
+  {
+    "question": "A language translator that reads an entire high-level program source code and converts it completely into executable object code prior to program execution is called a:",
+    "options": {
+      "a": "Interpreter",
+      "b": "Compiler",
+      "c": "Assembler",
+      "d": "Linker"
+    },
+    "answer": "b",
+    "explanation": "A compiler scans the complete source program at once, checking syntax and translating all code into object/machine code before the program is run. An interpreter executes code line by line."
+  },
+  {
+    "question": "Which network topology connects every computer node to a central hub or switch via individual point-to-point cables?",
+    "options": {
+      "a": "Ring topology",
+      "b": "Star topology",
+      "c": "Bus topology",
+      "d": "Mesh topology"
+    },
+    "answer": "b",
+    "explanation": "In a star topology, each workstation connects directly to a central node (switch or hub). A failure in one individual cable does not affect communication between remaining nodes."
+  },
+  {
+    "question": "In a linear bus network topology, what specialized hardware component is placed at both terminal ends of the main coaxial cable to suppress signal reflection?",
+    "options": {
+      "a": "Transceiver",
+      "b": "Terminator",
+      "c": "Attenuator",
+      "d": "Repeater"
+    },
+    "answer": "b",
+    "explanation": "Terminators (resistive plugs) absorb signals when they reach the ends of a bus network cable, preventing signal reflection and collisions that would corrupt network data."
+  },
+  {
+    "question": "Which networking device operates at the Network Layer (Layer 3) to forward data packets between different IP subnets based on routing tables?",
+    "options": {
+      "a": "Hub",
+      "b": "Router",
+      "c": "Modem",
+      "d": "Passive Bridge"
+    },
+    "answer": "b",
+    "explanation": "Routers operate at the Network layer of the OSI model, inspecting destination IP addresses in data packets to direct traffic across interconnected subnets and wide area networks."
+  },
+  {
+    "question": "Which network transmission medium transmits signals using modulated pulses of light and offers complete immunity to electromagnetic and radio frequency interference?",
+    "options": {
+      "a": "Unshielded Twisted Pair (UTP)",
+      "b": "Fiber-optic cable",
+      "c": "Coaxial cable",
+      "d": "Shielded Twisted Pair (STP)"
+    },
+    "answer": "b",
+    "explanation": "Fiber-optic cables transmit data encoded as light pulses along strands of high-purity silica glass or plastic. Because they use photons rather than electrical electrons, they are immune to electromagnetic interference."
+  },
+  {
+    "question": "An Internet Protocol version 4 (IPv4) address consists of how many total bits, compared to an IPv6 address?",
+    "options": {
+      "a": "16 bits in IPv4 and 64 bits in IPv6",
+      "b": "32 bits in IPv4 and 128 bits in IPv6",
+      "c": "64 bits in IPv4 and 256 bits in IPv6",
+      "d": "128 bits in IPv4 and 512 bits in IPv6"
+    },
+    "answer": "b",
+    "explanation": "An IPv4 address is composed of 32 bits divided into four 8-bit octets (e.g. 192.168.1.1), whereas an IPv6 address uses 128 bits expressed in hexadecimal notation."
+  },
+  {
+    "question": "In spreadsheet software such as Microsoft Excel, every calculation or automated function entered into a cell must begin with which character?",
+    "options": {
+      "a": "Asterisk (*)",
+      "b": "Equal sign (=)",
+      "c": "Hash symbol (#)",
+      "d": "At symbol (@)"
+    },
+    "answer": "b",
+    "explanation": "The equal sign (=) signals to spreadsheet software that the text entered into a cell is a mathematical formula or function to evaluate rather than literal text or data."
+  },
+  {
+    "question": "In a spreadsheet formula, how is an absolute cell reference represented to prevent the cell coordinates from changing when copied across rows or columns?",
+    "options": {
+      "a": "&C&5",
+      "b": "$C$5",
+      "c": "#C#5",
+      "d": "!C!5"
+    },
+    "answer": "b",
+    "explanation": "The dollar sign ($) locks the column letter and row number in a spreadsheet reference (e.g., $C$5), establishing an absolute reference that remains unchanged when copied."
+  },
+  {
+    "question": "In a relational database, what is a field (or collection of fields) in one table that uniquely corresponds to the primary key of another related table called?",
+    "options": {
+      "a": "Candidate key",
+      "b": "Foreign key",
+      "c": "Alternate key",
+      "d": "Composite index"
+    },
+    "answer": "b",
+    "explanation": "A foreign key is a column or group of columns in a relational table that provides a link between data in two tables, referencing the primary key of another table to maintain referential integrity."
+  },
+  {
+    "question": "Which of the following outlines the correct logical sequence of the data hierarchy in computer systems from smallest to largest unit?",
+    "options": {
+      "a": "Bit → Byte → Record → Field → File → Database",
+      "b": "Bit → Byte → Field → Record → File → Database",
+      "c": "Byte → Bit → Field → File → Record → Database",
+      "d": "Bit → Field → Byte → Record → Database → File"
+    },
+    "answer": "b",
+    "explanation": "The correct data hierarchy from smallest to largest is: Bit (binary digit) → Byte (character) → Field (data element) → Record (collection of fields) → File/Table (collection of records) → Database."
+  },
+  {
+    "question": "In standard flowcharting conventions, which geometric symbol is used to represent an input or output operation?",
+    "options": {
+      "a": "Rectangle",
+      "b": "Parallelogram",
+      "c": "Diamond",
+      "d": "Oval"
+    },
+    "answer": "b",
+    "explanation": "In standard flowcharting, a parallelogram represents input/output operations (e.g., READ or PRINT), a rectangle represents a processing step, a diamond represents a decision, and an oval represents start/end (terminator)."
+  },
+  {
+    "question": "What is the evaluated output of the following arithmetic expression following standard operator precedence in BASIC programming: 4 + 6 * 2 - 8 / 4?",
+    "options": {
+      "a": "3",
+      "b": "14",
+      "c": "18",
+      "d": "22"
+    },
+    "answer": "b",
+    "explanation": "Applying operator precedence (multiplication and division before addition and subtraction): 6 * 2 = 12; 8 / 4 = 2; then 4 + 12 - 2 = 14."
+  },
+  {
+    "question": "Which BASIC programming statement is used to insert non-executable remarks and explanatory documentation within the source code?",
+    "options": {
+      "a": "DIM",
+      "b": "REM",
+      "c": "LET",
+      "d": "CLS"
+    },
+    "answer": "b",
+    "explanation": "The REM (Remark) statement in BASIC allows programmers to insert descriptive comments and notes in code; the interpreter completely ignores text following REM during execution."
+  },
+  {
+    "question": "A loop structure in structured programming that checks the specified loop condition before running any instructions inside the loop body is classified as a:",
+    "options": {
+      "a": "Post-test loop",
+      "b": "Pre-test loop",
+      "c": "Infinite recursive loop",
+      "d": "Continuous break loop"
+    },
+    "answer": "b",
+    "explanation": "A pre-test loop (such as a WHILE loop or FOR loop) evaluates its conditional expression before each iteration. If the condition evaluates to false at the start, the loop body does not execute at all."
+  },
+  {
+    "question": "Malware that disguises itself as legitimate and useful software to deceive a user into downloading and installing it is known as a:",
+    "options": {
+      "a": "Trojan horse",
+      "b": "Macro virus",
+      "c": "Network worm",
+      "d": "Logic bomb"
+    },
+    "answer": "a",
+    "explanation": "A Trojan horse masquerades as a benign or useful application (such as a game or utility) to trick users into running it, secretly installing backdoors or malicious payloads without self-replicating."
+  },
+  {
+    "question": "The deceptive practice where cybercriminals send fraudulent electronic messages mimicking reputable banks or institutions to extract passwords and banking details is called:",
+    "options": {
+      "a": "Denial of service",
+      "b": "Phishing",
+      "c": "Eavesdropping",
+      "d": "Salami slicing"
+    },
+    "answer": "b",
+    "explanation": "Phishing is a social engineering attack where malicious actors impersonate trusted organizations (like commercial banks) via email or fake portals to lure users into surrendering sensitive credentials."
+  },
+  {
+    "question": "The illegal reproduction, duplication, distribution, or unauthorized commercial sharing of copyrighted computer software without the owner's permission is legally termed:",
+    "options": {
+      "a": "Software piracy",
+      "b": "Industrial espionage",
+      "c": "Digital espionage",
+      "d": "Data sniffing"
+    },
+    "answer": "a",
+    "explanation": "Software piracy involves infringing intellectual property rights through unauthorized copying, crack distributions, or commercial deployment of proprietary software without obtaining a legal license."
+  },
+  {
+    "question": "The science that studies the physical arrangement of computer workstations, seating posture, screen distance, and keyboard ergonomics to minimize physical strain is termed:",
+    "options": {
+      "a": "Anthropometry",
+      "b": "Ergonomics",
+      "c": "Kinesiology",
+      "d": "Cybernetics"
+    },
+    "answer": "b",
+    "explanation": "Ergonomics is the study of people's efficiency in their working environment, focusing on designing chairs, desks, keyboards, and monitor setups to avoid strain injuries like repetitive strain injury (RSI)."
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Government as an academic field of study is primarily concerned with the ______",
+    "options": {
+      "a": "production and distribution of scarce commodities",
+      "b": "study of political institutions, processes, theories, and state power",
+      "c": "exploration of geological formations across national boundaries",
+      "d": "management of private commercial corporate entities"
+    },
+    "answer": "b",
+    "explanation": "As a field of academic inquiry, Government (Political Science) studies the structure and functions of political institutions, state dynamics, political theories, and the acquisition and use of state power."
+  },
+  {
+    "question": "Which of the following is an essential characteristic of a State that distinguishes it from any other human organization?",
+    "options": {
+      "a": "Common language spoken by all citizens",
+      "b": "Sovereignty",
+      "c": "Universal religious faith",
+      "d": "Written code of customary ethics"
+    },
+    "answer": "b",
+    "explanation": "Sovereignty—the supreme and final legal authority of a political community over its territory and population, free from external control—is the defining attribute of a State."
+  },
+  {
+    "question": "The political philosopher who first systematically formulated the classical concept of modern sovereignty was ______",
+    "options": {
+      "a": "Jean Bodin",
+      "b": "Baron de Montesquieu",
+      "c": "John Locke",
+      "d": "Karl Marx"
+    },
+    "answer": "a",
+    "explanation": "Jean Bodin, the 16th-century French jurist, defined sovereignty in 'Six Books of the Commonwealth' (1576) as the 'supreme power over citizens and subjects, unrestrained by law'."
+  },
+  {
+    "question": "Power differs from authority because authority is ______",
+    "options": {
+      "a": "based strictly on physical coercion and brute force",
+      "b": "legitimate power backed by institutional right and consent",
+      "c": "illegal manipulation of public opinion",
+      "d": "exercised only by military command councils"
+    },
+    "answer": "b",
+    "explanation": "Authority is institutionalized or legitimate power—the recognized moral and legal right of a ruler to command obedience and make binding decisions that citizens respect willingly."
+  },
+  {
+    "question": "According to Max Weber, authority based on devotion to an exemplary personality of exceptional heroism or character is termed ______",
+    "options": {
+      "a": "traditional authority",
+      "b": "charismatic authority",
+      "c": "rational-legal authority",
+      "d": "hereditary customary authority"
+    },
+    "answer": "b",
+    "explanation": "Max Weber classified legitimate authority into traditional, charismatic, and rational-legal. Charismatic authority rests on devotion to the perceived extraordinary sanctity, heroism, or character of an individual leader."
+  },
+  {
+    "question": "A fundamental prerequisite of the Rule of Law as expounded by A.V. Dicey is ______",
+    "options": {
+      "a": "immunity of political leaders from regular court trials",
+      "b": "absolute supremacy of regular ordinary law over arbitrary power",
+      "c": "subordination of the judiciary to executive decrees",
+      "d": "promulgation of retroactive criminal legislation"
+    },
+    "answer": "b",
+    "explanation": "A.V. Dicey's three pillars of the Rule of Law are: (1) absolute supremacy of regular law over arbitrary power, (2) equality of all citizens before the ordinary courts of the land, and (3) protection of individual civil liberties."
+  },
+  {
+    "question": "The primary objective of the principle of Separation of Powers formulated by Montesquieu is to ______",
+    "options": {
+      "a": "prevent tyranny by ensuring that no single organ concentrates absolute power",
+      "b": "accelerate the legislative process by eliminating parliamentary debate",
+      "c": "make the judicial branch subservient to the cabinet",
+      "d": "enable military forces to participate directly in executive policy"
+    },
+    "answer": "a",
+    "explanation": "Montesquieu argued that separating the legislative, executive, and judicial powers among distinct bodies prevents despotism, as checks and balances prevent abuse of state power."
+  },
+  {
+    "question": "A system of government in which political power is constitutionally shared between a central authority and coordinate constituent regional units is a ______",
+    "options": {
+      "a": "unitary government",
+      "b": "federal government",
+      "c": "confederal union",
+      "d": "monarchical autocracy"
+    },
+    "answer": "b",
+    "explanation": "A federal system is one where governmental powers are constitutionally divided between a central federal government and autonomous regional/state governments, each independent within its defined sphere."
+  },
+  {
+    "question": "In a federal system of government, matters in the Exclusive Legislative List are reserved solely for the ______",
+    "options": {
+      "a": "State Houses of Assembly",
+      "b": "Federal (Central) Legislature",
+      "c": "Local Government Councils",
+      "d": "Traditional Chiefs' Council"
+    },
+    "answer": "b",
+    "explanation": "The Exclusive Legislative List contains national subjects (e.g., defense, foreign affairs, currency, customs) over which only the central/federal legislature has the constitutional authority to legislate."
+  },
+  {
+    "question": "When there is a conflict between a federal law and a state law on a subject included in the Concurrent Legislative List, ______",
+    "options": {
+      "a": "the state law takes precedence under all circumstances",
+      "b": "the federal law prevails and the state law becomes void to the extent of its inconsistency",
+      "c": "both laws are immediately annulled by the executive council",
+      "d": "the issue is resolved by a plebiscite of traditional rulers"
+    },
+    "answer": "b",
+    "explanation": "Under the doctrine of covering the field, where federal and state enactments conflict on a concurrent matter, the federal law prevails and the state law is rendered void to the extent of the inconsistency."
+  },
+  {
+    "question": "A major disadvantage of a unitary system of government in a large, multi-ethnic society is that it ______",
+    "options": {
+      "a": "promotes excessive duplication of public ministries",
+      "b": "tends to disregard local minority interests and diverse regional peculiarities",
+      "c": "causes frequent jurisdictional conflicts between tiers of government",
+      "d": "is extremely expensive to finance"
+    },
+    "answer": "b",
+    "explanation": "Because power is concentrated in the central government, a unitary system can overlook diverse local cultural, linguistic, and regional needs in a heterogeneous country."
+  },
+  {
+    "question": "The core feature of the Parliamentary (Cabinet) system of government is the ______",
+    "options": {
+      "a": "strict constitutional separation between executive and legislative personnel",
+      "b": "fusion of legislative and executive powers, with the cabinet drawn from parliament",
+      "c": "fixed 4-year tenure for the prime minister guaranteed against legislative recall",
+      "d": "complete absence of any official parliamentary opposition"
+    },
+    "answer": "b",
+    "explanation": "In a parliamentary system, the executive (the Prime Minister and cabinet) is chosen from and remains collectively responsible to the legislature, illustrating a fusion of powers."
+  },
+  {
+    "question": "The constitutional mechanism by which parliament can remove a Prime Minister and cabinet from office before their tenure ends is a ______",
+    "options": {
+      "a": "bill of attainder",
+      "b": "vote of no confidence",
+      "c": "writ of mandamus",
+      "d": "presidential proclamation"
+    },
+    "answer": "b",
+    "explanation": "A vote of no confidence passed by a majority of parliament forces the Prime Minister and cabinet to resign, maintaining ministerial accountability."
+  },
+  {
+    "question": "In a Presidential system of government, the President is ______",
+    "options": {
+      "a": "a titular Head of State without real executive powers",
+      "b": "both Head of State and Head of Government",
+      "c": "removable at will by a simple resolution of the cabinet",
+      "d": "a member of the federal legislature"
+    },
+    "answer": "b",
+    "explanation": "In a presidential system, the executive president combines the ceremonial duties of Head of State with the active governance responsibilities of Head of Government."
+  },
+  {
+    "question": "A constitution that requires a cumbersome, specialized legislative procedure and special majorities to amend is classified as a ______",
+    "options": {
+      "a": "flexible constitution",
+      "b": "rigid constitution",
+      "c": "unwritten constitution",
+      "d": "conventional charter"
+    },
+    "answer": "b",
+    "explanation": "A rigid constitution cannot be altered through ordinary legislative processes; it requires stringent conditions, such as a two-thirds majority in parliament and concurrence by regional legislatures."
+  },
+  {
+    "question": "The power of the judiciary to review and declare legislative enactments or executive acts unconstitutional and void is called ______",
+    "options": {
+      "a": "judicial precedent",
+      "b": "judicial review",
+      "c": "subpoena ad testificandum",
+      "d": "habeas corpus"
+    },
+    "answer": "b",
+    "explanation": "Judicial review is the constitutional authority of superior courts to inspect the acts of the legislature and executive, nullifying any that violate constitutional provisions."
+  },
+  {
+    "question": "Which of the following guarantees the independence of the judiciary?",
+    "options": {
+      "a": "Direct payment of judicial salaries from the discretionary fund of the President",
+      "b": "Charging judicial salaries directly to the Consolidated Revenue Fund",
+      "c": "Empowering the Attorney-General to dismiss recalcitrant judges summarily",
+      "d": "Subjecting judges to annual electoral re-selection by registered voters"
+    },
+    "answer": "b",
+    "explanation": "Judicial independence is safeguarded when judges have security of tenure and their remuneration is charged directly onto the Consolidated Revenue Fund, insulating them from political intimidation."
+  },
+  {
+    "question": "A bicameral legislature is one that consists of ______",
+    "options": {
+      "a": "one supreme law-making chamber",
+      "b": "two distinct legislative chambers",
+      "c": "three regional delegate councils",
+      "d": "a combined council of judges and ministers"
+    },
+    "answer": "b",
+    "explanation": "A bicameral legislature has two separate houses (such as the Senate and the House of Representatives), designed to provide checks and balances and represent regional units."
+  },
+  {
+    "question": "The stage in the legislative passage of a bill where its general principles and underlying policies are debated is the ______",
+    "options": {
+      "a": "First Reading",
+      "b": "Second Reading",
+      "c": "Committee Stage",
+      "d": "Report Stage"
+    },
+    "answer": "b",
+    "explanation": "At the Second Reading, the sponsor introduces the bill's fundamental rationale, and the entire assembly engages in debate over its merits and broad policy principles."
+  },
+  {
+    "question": "Universal adult suffrage means that the right to vote is granted to ______",
+    "options": {
+      "a": "all adult citizens who own landed property",
+      "b": "all adult citizens who attain the legal voting age regardless of gender, wealth, or race",
+      "c": "only citizens who have paid income tax for five consecutive years",
+      "d": "traditional titleholders and university graduates"
+    },
+    "answer": "b",
+    "explanation": "Universal adult suffrage grants every citizen who reaches the statutory age (such as 18 years) the democratic right to vote, without restrictions based on property, tax, gender, or social status."
+  },
+  {
+    "question": "An electoral system where the candidate who secures the highest number of votes cast is declared the winner, even if not an absolute majority, is the ______",
+    "options": {
+      "a": "Second Ballot system",
+      "b": "Simple Plurality (First-Past-The-Post) system",
+      "c": "Alternative Vote system",
+      "d": "Proportional Representation list system"
+    },
+    "answer": "b",
+    "explanation": "In a simple plurality (First-Past-The-Post) electoral system, the winning candidate merely needs to poll more votes than any single rival contender."
+  },
+  {
+    "question": "Which of the following is a primary characteristic distinguishing a pressure group from a political party?",
+    "options": {
+      "a": "Pressure groups nominate candidates to capture governmental power",
+      "b": "Pressure groups seek to influence government policies to protect member interests without seeking political power",
+      "c": "Pressure groups are financed exclusively through public treasury grants",
+      "d": "Pressure groups operate only within totalitarian dictatorships"
+    },
+    "answer": "b",
+    "explanation": "Unlike political parties that seek to capture and control state power, pressure groups aim only to influence government policies, legislation, and decisions on behalf of their members."
+  },
+  {
+    "question": "The primary method used by pressure groups to persuade legislators to support laws favorable to their cause is called ______",
+    "options": {
+      "a": "gerrymandering",
+      "b": "lobbying",
+      "c": "filibustering",
+      "d": "impeachment"
+    },
+    "answer": "b",
+    "explanation": "Lobbying is the process by which representatives of organized interest groups directly interact with and present arguments to lawmakers and civil servants to influence legislative decisions."
+  },
+  {
+    "question": "Which of the following is a core characteristic of the modern Civil Service?",
+    "options": {
+      "a": "Political partisanship",
+      "b": "Political neutrality, anonymity, and permanence",
+      "c": "Public campaigning for ministerial positions",
+      "d": "Tenure tied to the electoral fortunes of the ruling party"
+    },
+    "answer": "b",
+    "explanation": "Civil servants must maintain political neutrality (serving any elected administration loyally), work under the anonymity of their ministers, and enjoy permanent career tenure."
+  },
+  {
+    "question": "The Public Complaints Commission (Ombudsman) in Nigeria was established primarily to ______",
+    "options": {
+      "a": "prosecute election rigging in national elections",
+      "b": "investigate citizen complaints against administrative injustice, abuse of office, and bureaucratic maladministration",
+      "c": "censor newspaper editorials critical of federal fiscal policies",
+      "d": "regulate the entry of foreign goods at international borders"
+    },
+    "answer": "b",
+    "explanation": "The Ombudsman (Public Complaints Commission) serves as an independent public organ investigating grievances lodged by citizens against unfair administrative decisions and bureaucratic oppression."
+  },
+  {
+    "question": "In the pre-colonial Hausa-Fulani political system, the senior administrative officer who served as Prime Minister and chief adviser to the Emir was the ______",
+    "options": {
+      "a": "Madawaki",
+      "b": "Galadima",
+      "c": "Waziri",
+      "d": "Dogari"
+    },
+    "answer": "c",
+    "explanation": "In the Sokoto Caliphate system, the Waziri was the Vizier (Prime Minister), administrative head of the civil officials, and principal counselor to the Emir."
+  },
+  {
+    "question": "In the pre-colonial Hausa-Fulani judicial system, civil and criminal cases were adjudicated under Islamic law (Sharia) by the ______",
+    "options": {
+      "a": "Alkali",
+      "b": "Dogari",
+      "c": "Sarkin Fada",
+      "d": "Maaji"
+    },
+    "answer": "a",
+    "explanation": "The Alkali (Qadi) was the trained Islamic judge who presided over the Alkali courts, applying the Maliki code of Sharia law."
+  },
+  {
+    "question": "In the pre-colonial administration of the Old Oyo Empire, which council of kingmakers held the power to reject a tyrannical Alaafin by presenting him with an empty calabash?",
+    "options": {
+      "a": "The Ogboni Society",
+      "b": "The Oyomesi",
+      "c": "The Esan Society",
+      "d": "The Aremo Council"
+    },
+    "answer": "b",
+    "explanation": "The Oyomesi (council of seven hereditary noble chiefs headed by the Bashorun) checked the monarch's power; if an Alaafin ruled tyrannically, the Oyomesi could reject him, compelling his suicide."
+  },
+  {
+    "question": "The pre-colonial Igbo political system is commonly described by political scientists as ______",
+    "options": {
+      "a": "a centralized feudal empire",
+      "b": "an acephalous, segmentary, and republican system",
+      "c": "a hereditary constitutional monarchy",
+      "d": "an autocratic divine theocracy"
+    },
+    "answer": "b",
+    "explanation": "Traditional Igbo political organization lacked a centralized king or state structure (acephalous/stateless); authority was decentralized and diffused among village assemblies, council of elders, and age grades."
+  },
+  {
+    "question": "The British system of administering her colonial territories through traditional rulers and existing native political institutions was known as ______",
+    "options": {
+      "a": "Assimilation",
+      "b": "Indirect Rule",
+      "c": "Direct Colonization",
+      "d": "Paternalistic Integration"
+    },
+    "answer": "b",
+    "explanation": "Indirect Rule, designed by Lord Frederick Lugard, governed colonies through indigenous rulers and traditional administrative hierarchies under British supervision."
+  },
+  {
+    "question": "A major reason for the failure of Indirect Rule in Eastern Nigeria was the ______",
+    "options": {
+      "a": "widespread literacy among the local population",
+      "b": "absence of traditional centralized monarchies and resentment of appointed 'Warrant Chiefs'",
+      "c": "unwillingness of the British administrators to station troops in the area",
+      "d": "refusal of Christian missionaries to operate in the region"
+    },
+    "answer": "b",
+    "explanation": "The Igbo society was acephalous and democratic; when the British imposed artificial 'Warrant Chiefs' with authoritarian powers, it caused intense local resentment and sparked uprisings like the 1929 Aba Women's War."
+  },
+  {
+    "question": "The Aba Women's Riot of 1929 in Eastern Nigeria was sparked primarily by ______",
+    "options": {
+      "a": "the refusal of the British to grant political independence",
+      "b": "rumors of plans to impose direct taxation on women and oppressive conduct of Warrant Chiefs",
+      "c": "disputes over chieftaincy succession in the Calabar kingdom",
+      "d": "the closure of missionary schools across the region"
+    },
+    "answer": "b",
+    "explanation": "The 1929 Aba Women's Riot occurred following a census enumeration conducted by colonial warrant chiefs which women believed was intended to subject them to direct colonial taxation."
+  },
+  {
+    "question": "The Clifford Constitution of 1922 is historic in Nigerian political development because it ______",
+    "options": {
+      "a": "introduced the elective principle for the first time in Nigeria",
+      "b": "created regional houses of assembly for three regions",
+      "c": "established an executive presidential system",
+      "d": "abolished British judicial appeals to the Privy Council"
+    },
+    "answer": "a",
+    "explanation": "The 1922 Clifford Constitution introduced the elective principle, creating four elected legislative seats (three for Lagos and one for Calabar), which stimulated the birth of Nigeria's first political parties."
+  },
+  {
+    "question": "The first registered political party formed in Nigeria following the introduction of the elective principle was the ______",
+    "options": {
+      "a": "National Council of Nigeria and the Cameroons (NCNC)",
+      "b": "Nigerian National Democratic Party (NNDP)",
+      "c": "Action Group (AG)",
+      "d": "Northern People's Congress (NPC)"
+    },
+    "answer": "b",
+    "explanation": "Herbert Macaulay established the Nigerian National Democratic Party (NNDP) in 1923 to contest the elective legislative council seats in Lagos under the Clifford Constitution."
+  },
+  {
+    "question": "Which colonial constitution formally divided Nigeria into three administrative regions (Northern, Western, and Eastern regions) in 1946?",
+    "options": {
+      "a": "Clifford Constitution",
+      "b": "Richards Constitution",
+      "c": "Macpherson Constitution",
+      "d": "Lyttelton Constitution"
+    },
+    "answer": "b",
+    "explanation": "The 1946 Richards Constitution introduced regionalism by dividing the territory into the Northern, Western, and Eastern Regions, each with a regional House of Assembly."
+  },
+  {
+    "question": "The Macpherson Constitution of 1951 was notable for ______",
+    "options": {
+      "a": "wide consultations with Nigerians through village, district, and regional constitutional conferences",
+      "b": "granting full national sovereign independence to Nigeria",
+      "c": "abolishing the position of British Governor",
+      "d": "imposing military rule on the Nigerian federation"
+    },
+    "answer": "a",
+    "explanation": "Unlike previous colonial constitutions imposed without popular consultation, the 1951 Macpherson Constitution emerged from grassroots conferences held at village, district, provincial, and regional levels."
+  },
+  {
+    "question": "The colonial constitution that formally established a true federal structure in Nigeria with regional premiership was the ______",
+    "options": {
+      "a": "Clifford Constitution of 1922",
+      "b": "Lyttelton Constitution of 1954",
+      "c": "Richards Constitution of 1946",
+      "d": "Macpherson Constitution of 1951"
+    },
+    "answer": "b",
+    "explanation": "The 1954 Lyttelton Constitution established a true federal structure with division of legislative powers (Exclusive and Concurrent lists), independent regional public services, and regional premiers."
+  },
+  {
+    "question": "Under Nigeria's Independence Constitution of 1960, the constitutional Head of State was the ______",
+    "options": {
+      "a": "Executive Federal President",
+      "b": "British Monarch represented by the Governor-General",
+      "c": "Federal Prime Minister",
+      "d": "Chief Justice of the Supreme Court"
+    },
+    "answer": "b",
+    "explanation": "In 1960, Nigeria achieved independence under a constitutional monarchy where Queen Elizabeth II remained Queen of Nigeria, represented locally by the Governor-General (Dr. Nnamdi Azikiwe)."
+  },
+  {
+    "question": "The major constitutional change introduced by Nigeria's Republican Constitution of 1963 was that ______",
+    "options": {
+      "a": "the Queen of England ceased to be Nigeria's Head of State and the Supreme Court became the final appellate court",
+      "b": "the parliamentary system was completely replaced with the American presidential system",
+      "c": "regional governments were dissolved into twelve states",
+      "d": "the military assumed power over all government institutions"
+    },
+    "answer": "a",
+    "explanation": "The 1963 Republican Constitution cut final monarchical ties with the British Crown, declared Nigeria a Federal Republic with a President as Head of State, and abolished appeals to the British Privy Council."
+  },
+  {
+    "question": "Nigeria's First Republic (1960-1966) collapsed primarily due to ______",
+    "options": {
+      "a": "severe economic depression following a decline in global crude oil prices",
+      "b": "electoral malpractices, intense ethnic rivalry, census controversies, and political violence",
+      "c": "foreign military invasion by neighboring West African states",
+      "d": "the abolition of the Supreme Court of Nigeria"
+    },
+    "answer": "b",
+    "explanation": "The First Republic fell in the January 15, 1966 coup due to political crises, including the 1962/63 census controversy, 1964 federal election crisis, and violent turmoil during the 1965 Western Regional election."
+  },
+  {
+    "question": "The first military coup d'etat in Nigeria took place on ______",
+    "options": {
+      "a": "October 1, 1960",
+      "b": "January 15, 1966",
+      "c": "July 29, 1966",
+      "d": "December 31, 1983"
+    },
+    "answer": "b",
+    "explanation": "Major Chukwuma Kaduna Nzeogwu and other young army officers staged Nigeria's first military coup on January 15, 1966, ending the First Republic."
+  },
+  {
+    "question": "General Yakubu Gowon divided the existing four regions of Nigeria into twelve states in May 1967 primarily to ______",
+    "options": {
+      "a": "weaken the secessionist Eastern Region and accommodate minority ethnic groups",
+      "b": "prepare Nigeria for immediate parliamentary democratic elections",
+      "c": "comply with a formal directive from the United Nations General Assembly",
+      "d": "hand over political power to traditional emirs and chiefs"
+    },
+    "answer": "a",
+    "explanation": "On May 27, 1967, Gowon created 12 states to satisfy long-standing minority demands for self-determination and undermine the impending secession of Biafra led by Colonel Emeka Ojukwu."
+  },
+  {
+    "question": "The 1979 Constitution of Nigeria marked a major constitutional departure because it ______",
+    "options": {
+      "a": "re-introduced the parliamentary cabinet system of government",
+      "b": "introduced the American-style Executive Presidential system of government",
+      "c": "made traditional rulers the formal heads of the armed forces",
+      "d": "abolished local government councils throughout the country"
+    },
+    "answer": "b",
+    "explanation": "The 1979 Constitution discarded the Westminster parliamentary system and instituted an American-style Executive Presidential system for the Second Republic."
+  },
+  {
+    "question": "Under the 1999 Constitution of Nigeria, the Federal Legislature (National Assembly) consists of the ______",
+    "options": {
+      "a": "Council of State and the Federal Executive Council",
+      "b": "Senate and the House of Representatives",
+      "c": "National Economic Council and the Judicial Service Commission",
+      "d": "Supreme Military Council and the Armed Forces Ruling Council"
+    },
+    "answer": "b",
+    "explanation": "Section 47 of the 1999 Constitution establishes a bicameral National Assembly consisting of the Senate (109 senators) and the House of Representatives (360 members)."
+  },
+  {
+    "question": "The primary principle underpinning Nigeria's foreign policy since independence is ______",
+    "options": {
+      "a": "imperialist expansionism into neighboring territories",
+      "b": "Afrocentrism, with Africa as the centerpiece of foreign policy",
+      "c": "unconditional alignment with the Eastern Warsaw Pact bloc",
+      "d": "isolationism from all international organizations"
+    },
+    "answer": "b",
+    "explanation": "Afrocentrism is the bedrock of Nigerian foreign policy, emphasizing Africa's peace, total decolonization, anti-apartheid advocacy, and regional economic integration."
+  },
+  {
+    "question": "The Economic Community of West African States (ECOWAS) was established on May 28, 1975, by the Treaty of ______",
+    "options": {
+      "a": "Accra",
+      "b": "Lagos",
+      "c": "Dakar",
+      "d": "Abuja"
+    },
+    "answer": "b",
+    "explanation": "ECOWAS was created through the Treaty of Lagos signed on May 28, 1975, by 15 West African heads of state, spearheaded by General Yakubu Gowon of Nigeria and Gnassingbe Eyadema of Togo."
+  },
+  {
+    "question": "The military monitoring and peacekeeping arm deployed by ECOWAS to intervene in the Liberian and Sierra Leonean civil wars was ______",
+    "options": {
+      "a": "AMISOM",
+      "b": "ECOMOG (ECOWAS Ceasefire Monitoring Group)",
+      "c": "MONUSCO",
+      "d": "INTERPOL West Africa"
+    },
+    "answer": "b",
+    "explanation": "ECOMOG was established by ECOWAS in 1990 as a regional peacekeeping task force, playing a decisive role in restoring stability in Liberia and Sierra Leone."
+  },
+  {
+    "question": "The Organization of African Unity (OAU), established in 1963 in Addis Ababa, was formally replaced by the African Union (AU) in 2002 in ______",
+    "options": {
+      "a": "Cairo, Egypt",
+      "b": "Durban, South Africa",
+      "c": "Nairobi, Kenya",
+      "d": "Lagos, Nigeria"
+    },
+    "answer": "b",
+    "explanation": "The OAU was officially transformed into the African Union (AU) at the Durban Summit in South Africa in July 2002 to accelerate socio-economic integration across the continent."
+  },
+  {
+    "question": "Which organ of the United Nations is charged with the primary responsibility for the maintenance of international peace and security?",
+    "options": {
+      "a": "The Economic and Social Council (ECOSOC)",
+      "b": "The UN Security Council",
+      "c": "The Trusteeship Council",
+      "d": "The International Labour Organization"
+    },
+    "answer": "b",
+    "explanation": "Under the UN Charter, the UN Security Council (UNSC) has primary responsibility for maintaining international peace and security, consisting of 5 permanent veto-wielding members and 10 non-permanent members."
+  },
+  {
+    "question": "The judicial organ of the United Nations, which settles legal disputes between sovereign states, is the ______ located in ______.",
+    "options": {
+      "a": "International Criminal Court; Geneva",
+      "b": "International Court of Justice (ICJ); The Hague, Netherlands",
+      "c": "European Court of Human Rights; Strasbourg",
+      "d": "Permanent Court of Arbitration; New York"
+    },
+    "answer": "b",
+    "explanation": "The International Court of Justice (ICJ), the principal judicial organ of the UN, sits at the Peace Palace in The Hague, Netherlands, to adjudicate disputes submitted by sovereign states."
+  }
+]

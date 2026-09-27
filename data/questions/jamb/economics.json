@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Which of the following best defines opportunity cost in economic decision-making?",
+    "options": {
+      "a": "The total monetary expenditure incurred during an economic transaction",
+      "b": "The alternative forgone when a choice is made between competing wants",
+      "c": "The cost of producing an additional unit of output in a firm",
+      "d": "The total variable cost associated with industrial production"
+    },
+    "answer": "b",
+    "explanation": "Opportunity cost refers to the value of the next best alternative forgone or sacrificed when a choice is made among competing alternatives."
+  },
+  {
+    "question": "A production possibility curve that is concave to the origin reflects which economic phenomenon?",
+    "options": {
+      "a": "Constant opportunity cost between the two goods",
+      "b": "Increasing opportunity cost as more of one good is produced",
+      "c": "Decreasing opportunity cost across production frontiers",
+      "d": "Perfect substitutability between available economic inputs"
+    },
+    "answer": "b",
+    "explanation": "A concave production possibility curve (bowed outward) illustrates the law of increasing opportunity cost, which occurs because factors of production are not equally adaptable to the production of both commodities."
+  },
+  {
+    "question": "If an increase in the price of crude oil leads to a decrease in the demand for motor vehicles, crude oil and motor vehicles are said to be:",
+    "options": {
+      "a": "Substitute goods",
+      "b": "Complementary goods",
+      "c": "Independent goods",
+      "d": "Inferior goods"
+    },
+    "answer": "b",
+    "explanation": "Complementary goods exhibit a negative cross-price elasticity of demand. When the price of one good rises, the demand for the complementary good falls."
+  },
+  {
+    "question": "Calculate the price elasticity of demand if a reduction in price from ₦200 to ₦160 results in an increase in quantity demanded from 500 units to 700 units.",
+    "options": {
+      "a": "0.5",
+      "b": "1.0",
+      "c": "2.0",
+      "d": "2.5"
+    },
+    "answer": "c",
+    "explanation": "Percentage change in quantity = [(700 - 500) / 500] * 100 = 40%. Percentage change in price = [(200 - 160) / 200] * 100 = 20%. Price Elasticity of Demand (PED) = 40% / 20% = 2.0."
+  },
+  {
+    "question": "When total utility is at its maximum point, marginal utility is:",
+    "options": {
+      "a": "At its maximum",
+      "b": "Zero",
+      "c": "Negative",
+      "d": "Equal to average utility"
+    },
+    "answer": "b",
+    "explanation": "According to the principle of diminishing marginal utility, marginal utility represents the slope of the total utility curve. When total utility reaches saturation (its maximum), marginal utility becomes zero."
+  },
+  {
+    "question": "The fundamental economic problem common to all societies regardless of political structure is:",
+    "options": {
+      "a": "Inadequate supply of paper currency in circulation",
+      "b": "Scarcity of resources relative to unlimited human wants",
+      "c": "Inefficient distribution of finished manufactured goods",
+      "d": "High level of unemployment among unskilled laborers"
+    },
+    "answer": "b",
+    "explanation": "Scarcity is the central economic problem facing all economies; society's productive resources are limited while human wants are virtually insatiable."
+  },
+  {
+    "question": "In a free market enterprise system, the basic economic questions of what, how, and for whom to produce are solved primarily through:",
+    "options": {
+      "a": "Central legislative decrees and administrative orders",
+      "b": "The price mechanism via interactions of demand and supply",
+      "c": "Directives issued by trade unions and employer associations",
+      "d": "Customary traditions passed down through generations"
+    },
+    "answer": "b",
+    "explanation": "In a free market economy, resource allocation is dictated by the price mechanism (the forces of demand and supply signaling producer decisions and consumer preferences)."
+  },
+  {
+    "question": "If a government fixes a minimum price (price floor) above the equilibrium market price for grain, the immediate market result will be:",
+    "options": {
+      "a": "A persistent market shortage and emergence of black markets",
+      "b": "An excess supply or surplus of grain in the market",
+      "c": "A continuous downward shift of the consumer demand curve",
+      "d": "An automatic contraction in the quantity supplied by farmers"
+    },
+    "answer": "b",
+    "explanation": "A price floor set above the equilibrium price prevents prices from falling to clear the market, leading to quantity supplied exceeding quantity demanded, which creates a market surplus."
+  },
+  {
+    "question": "Which of the following functions of money eliminates the necessity of a 'double coincidence of wants'?",
+    "options": {
+      "a": "Store of value",
+      "b": "Medium of exchange",
+      "c": "Unit of account",
+      "d": "Standard for deferred payments"
+    },
+    "answer": "b",
+    "explanation": "As a medium of exchange, money overcomes the primary limitation of barter trade, eliminating the need for a mutual double coincidence of wants."
+  },
+  {
+    "question": "Under conditions of perfect competition, a firm maximizes its profits in the short run at an output level where:",
+    "options": {
+      "a": "Average Revenue equals Total Cost",
+      "b": "Price equals Marginal Cost and Marginal Cost is rising",
+      "c": "Average Variable Cost equals Fixed Cost",
+      "d": "Marginal Revenue exceeds Marginal Cost by the widest margin"
+    },
+    "answer": "b",
+    "explanation": "Under perfect competition, profit maximization occurs where Marginal Revenue equals Marginal Cost (MR = MC). Since P = MR for a price taker, the condition is P = MC with MC cutting MR from below (MC rising)."
+  },
+  {
+    "question": "A firm has total fixed costs of ₦120,000 and total variable costs of ₦180,000 when producing 600 units. What is the average total cost per unit?",
+    "options": {
+      "a": "₦200",
+      "b": "₦300",
+      "c": "₦500",
+      "d": "₦600"
+    },
+    "answer": "c",
+    "explanation": "Total Cost (TC) = Total Fixed Cost + Total Variable Cost = ₦120,000 + ₦180,000 = ₦300,000. Average Total Cost (ATC) = TC / Quantity = ₦300,000 / 600 = ₦500."
+  },
+  {
+    "question": "The Law of Diminishing Returns states that as successive units of a variable factor are added to fixed amounts of other factors:",
+    "options": {
+      "a": "Total product will continually decline from the onset of production",
+      "b": "Marginal product will eventually diminish and decline",
+      "c": "Average product will remain strictly horizontal throughout",
+      "d": "The total cost of production will inevitably drop to zero"
+    },
+    "answer": "b",
+    "explanation": "The Law of Diminishing Returns (variable proportions) states that adding equal increments of a variable input to fixed inputs will eventually cause the marginal product of the variable input to decline."
+  },
+  {
+    "question": "If the marginal propensity to consume (MPC) in an economy is 0.75, what is the value of the investment multiplier?",
+    "options": {
+      "a": "1.33",
+      "b": "2.5",
+      "c": "4.0",
+      "d": "7.5"
+    },
+    "answer": "c",
+    "explanation": "The multiplier formula is K = 1 / (1 - MPC). Given MPC = 0.75, K = 1 / (1 - 0.75) = 1 / 0.25 = 4."
+  },
+  {
+    "question": "Which of the following items is excluded when computing Gross National Product (GNP) to prevent double counting?",
+    "options": {
+      "a": "Value of final capital equipment manufactured",
+      "b": "Intermediate goods and raw materials used in production",
+      "c": "Salaries of public administrative personnel",
+      "d": "Rental income earned from residential properties"
+    },
+    "answer": "b",
+    "explanation": "Intermediate goods are excluded in national income accounting because their value is already embodied in the final goods, avoiding double counting."
+  },
+  {
+    "question": "Inflation caused primarily by persistent increases in the costs of raw materials and rising wages across industries is classified as:",
+    "options": {
+      "a": "Demand-pull inflation",
+      "b": "Cost-push inflation",
+      "c": "Hyperinflation",
+      "d": "Imported inflation"
+    },
+    "answer": "b",
+    "explanation": "Cost-push inflation occurs when aggregate supply shifts inward due to escalating costs of production, such as rising wage rates or raw material costs."
+  },
+  {
+    "question": "A tax whose rate increases progressively as the taxable income of the taxpayer increases is called a:",
+    "options": {
+      "a": "Proportional tax",
+      "b": "Regressive tax",
+      "c": "Progressive tax",
+      "d": "Value added tax"
+    },
+    "answer": "c",
+    "explanation": "A progressive tax levies a higher percentage rate of taxation on higher income brackets compared to lower income brackets."
+  },
+  {
+    "question": "Which of the following monetary policy measures would be appropriate for the Central Bank to curb severe inflation?",
+    "options": {
+      "a": "Lowering the cash reserve ratio for commercial banks",
+      "b": "Purchasing treasury bills through open market operations",
+      "c": "Raising the monetary policy rate (interest rate)",
+      "d": "Relaxing selective credit control guidelines"
+    },
+    "answer": "c",
+    "explanation": "To combat inflation, a central bank implements contractionary monetary policy, such as raising the benchmark interest rate (monetary policy rate), which discourages borrowing and reduces money supply."
+  },
+  {
+    "question": "According to Thomas Malthus, while food production increases in an arithmetic progression, human population tends to grow in a:",
+    "options": {
+      "a": "Geometric progression",
+      "b": "Harmonic progression",
+      "c": "Logarithmic progression",
+      "d": "Constant proportion"
+    },
+    "answer": "a",
+    "explanation": "Malthus posited that unchecked population grows exponentially or geometrically (1, 2, 4, 8, 16...), whereas food output expands only arithmetically (1, 2, 3, 4, 5...)."
+  },
+  {
+    "question": "The dependency ratio in a country's population structure is mathematically represented by:",
+    "options": {
+      "a": "(Working population / Total population) * 100",
+      "b": "[(Population aged 0-14 + Population aged 65 and above) / Working population aged 15-64] * 100",
+      "c": "[(Unemployed population) / (Labor force)] * 100",
+      "d": "[(Elderly population aged 65+) / (Youth population aged 0-14)] * 100"
+    },
+    "answer": "b",
+    "explanation": "The dependency ratio measures the burden placed on the working-age population (ages 15-64) by non-working dependents (children aged 0-14 and elderly aged 65+)."
+  },
+  {
+    "question": "A major distinction between commercial banks and the central bank is that commercial banks:",
+    "options": {
+      "a": "Act as banker to the federal government",
+      "b": "Are established primarily to maximize financial profits",
+      "c": "Formulate and enforce domestic monetary policy",
+      "d": "Hold exclusive monopoly over legal currency issuance"
+    },
+    "answer": "b",
+    "explanation": "Commercial banks are financial intermediaries operating on commercial principles to generate profits for shareholders, whereas the central bank operates in the public interest without profit as its primary motive."
+  },
+  {
+    "question": "An outward shift of the entire supply curve to the right indicates:",
+    "options": {
+      "a": "A contraction of supply caused by a drop in commodity price",
+      "b": "An increase in supply caused by improvements in technology or lower input costs",
+      "c": "A decrease in supply due to rising production excise duties",
+      "d": "An expansion along the curve triggered strictly by price hikes"
+    },
+    "answer": "b",
+    "explanation": "A rightward shift of the supply curve signifies an increase in supply caused by favorable non-price determinants, such as technological improvements or lower production costs."
+  },
+  {
+    "question": "The price of cocoa rises by 10% and the quantity demanded of cocoa falls by 5%. The demand for cocoa is:",
+    "options": {
+      "a": "Inelastic",
+      "b": "Elastic",
+      "c": "Unitary elastic",
+      "d": "Perfectlys elastic"
+    },
+    "answer": "a",
+    "explanation": "Price elasticity of demand = % change in quantity demanded / % change in price = 5% / 10% = 0.5. Since PED is less than 1, demand is price inelastic."
+  },
+  {
+    "question": "Which market structure is characterized by few sellers offering either homogeneous or differentiated products with high mutual interdependence?",
+    "options": {
+      "a": "Monopsony",
+      "b": "Monopoly",
+      "c": "Oligopoly",
+      "d": "Perfect competition"
+    },
+    "answer": "c",
+    "explanation": "An oligopoly is an industry dominated by a small number of large firms whose decisions regarding price, output, and advertising are mutually interdependent."
+  },
+  {
+    "question": "The term 'terms of trade' is officially measured as the ratio of:",
+    "options": {
+      "a": "Total physical export volume to total import volume",
+      "b": "Export price index to import price index multiplied by 100",
+      "c": "Foreign exchange reserves to total external indebtedness",
+      "d": "Current account surplus to capital account deficit"
+    },
+    "answer": "b",
+    "explanation": "Terms of Trade (TOT) = (Price Index of Exports / Price Index of Imports) * 100. It measures the purchasing power of a nation's exports in terms of its imports."
+  },
+  {
+    "question": "A systematic record of all economic and financial transactions between the residents of a country and the rest of the world over a specified period is the:",
+    "options": {
+      "a": "Balance of Trade",
+      "b": "National Budget Statement",
+      "c": "Balance of Payments",
+      "d": "Consolidated Revenue Account"
+    },
+    "answer": "c",
+    "explanation": "The Balance of Payments (BOP) is a comprehensive accounting record of all economic transactions between residents of a country and foreign residents over a given period (usually one year)."
+  },
+  {
+    "question": "Which of the following is considered an invisible trade item in the balance of payments?",
+    "options": {
+      "a": "Exportation of crude petroleum barrels",
+      "b": "Importation of electrical machinery and cars",
+      "c": "Freight and tourism payments across borders",
+      "d": "Exportation of processed cocoa beans"
+    },
+    "answer": "c",
+    "explanation": "Invisible trade refers to trade in services and non-tangible transactions such as international shipping, banking, tourism, and insurance."
+  },
+  {
+    "question": "The practice of a monopolist charging different prices to different buyers for the same commodity without cost justification is called:",
+    "options": {
+      "a": "Product differentiation",
+      "b": "Price discrimination",
+      "c": "Predatory dumping",
+      "d": "Cost-plus pricing"
+    },
+    "answer": "b",
+    "explanation": "Price discrimination occurs when a seller charges different prices to different consumers or market segments for identical goods or services, where the price variation does not reflect cost differences."
+  },
+  {
+    "question": "Frictional unemployment occurs primarily when workers:",
+    "options": {
+      "a": "Are replaced permanently by automated assembly machines",
+      "b": "Are temporarily in between jobs while searching for suitable employment",
+      "c": "Suffer from a prolonged general decline in aggregate macroeconomic demand",
+      "d": "Work exclusively during specific agrarian planting and harvesting seasons"
+    },
+    "answer": "b",
+    "explanation": "Frictional unemployment is transitional, occurring when people are voluntarily or temporarily changing jobs, entering the workforce, or seeking employment matching their skills."
+  },
+  {
+    "question": "In the circular flow of income in a closed two-sector economy, equilibrium is achieved when:",
+    "options": {
+      "a": "Imports equal Exports",
+      "b": "Government Expenditure equals Taxation",
+      "c": "Savings equal Investment",
+      "d": "Total Consumption equals Total Depreciation"
+    },
+    "answer": "c",
+    "explanation": "In a simple closed economy without government or foreign sectors, the only leakages are Savings (S) and the only injections are Investment (I). Equilibrium requires S = I."
+  },
+  {
+    "question": "David Ricardo's Theory of Comparative Advantage emphasizes that countries gain from trade when they specialize in goods that:",
+    "options": {
+      "a": "They can produce using the highest quantity of labor hours",
+      "b": "They can produce at a lower opportunity cost relative to other nations",
+      "c": "Generate the highest nominal export tariffs at international borders",
+      "d": "No other country in the global economy has the resource to produce"
+    },
+    "answer": "b",
+    "explanation": "Comparative advantage exists when a country can produce a good at a lower relative opportunity cost than another country, leading to mutual trade gains through specialization."
+  },
+  {
+    "question": "A budget in which estimated public revenue is deliberately projected to be less than estimated public expenditure is known as a:",
+    "options": {
+      "a": "Balanced budget",
+      "b": "Surplus budget",
+      "c": "Deficit budget",
+      "d": "Supplementary budget"
+    },
+    "answer": "c",
+    "explanation": "A deficit budget occurs when projected government expenditures exceed anticipated revenues over a fiscal year, usually financed through borrowing or debt issuance."
+  },
+  {
+    "question": "The primary objective of the Organization of Petroleum Exporting Countries (OPEC) is to:",
+    "options": {
+      "a": "Subsidize the retail price of refined petrol in consumer nations",
+      "b": "Coordinate and unify petroleum policies and stabilize international oil markets",
+      "c": "Provide unconditional loans to developing agricultural countries",
+      "d": "Construct oil pipelines exclusively across African territories"
+    },
+    "answer": "b",
+    "explanation": "OPEC aims to coordinate and unify petroleum policies among member states to secure fair and stable prices for petroleum producers, an efficient supply to consumers, and fair returns on capital."
+  },
+  {
+    "question": "Which of the following is an example of an internal economy of scale?",
+    "options": {
+      "a": "Construction of good dual-carriageway access roads by the municipality",
+      "b": "Bulk-purchasing discounts on raw materials negotiated by an expanding firm",
+      "c": "Establishment of specialized vocational research institutes in an industrial zone",
+      "d": "General expansion of banking and insurance services throughout a region"
+    },
+    "answer": "b",
+    "explanation": "Internal economies of scale are cost savings that arise directly from the internal growth and expansion of an individual firm, such as managerial, financial, or bulk-buying economies."
+  },
+  {
+    "question": "The devaluation of a country's national currency is intended to accomplish which economic outcome?",
+    "options": {
+      "a": "Make imported goods cheaper and exports more expensive",
+      "b": "Make domestic exports cheaper abroad and imports more expensive at home",
+      "c": "Increase foreign exchange expenditure on luxury consumer imports",
+      "d": "Appreciate the international purchasing power of domestic liquid cash"
+    },
+    "answer": "b",
+    "explanation": "Devaluation deliberately reduces the official value of a domestic currency, making exports cheaper in foreign currency terms and making foreign imports more expensive, thereby improving the trade balance."
+  },
+  {
+    "question": "What happens to the price and quantity of a normal good when consumer income increases while production costs remain unchanged?",
+    "options": {
+      "a": "Both equilibrium price and equilibrium quantity increase",
+      "b": "Equilibrium price falls while equilibrium quantity increases",
+      "c": "Equilibrium price increases while equilibrium quantity falls",
+      "d": "Both equilibrium price and equilibrium quantity decrease"
+    },
+    "answer": "a",
+    "explanation": "An increase in consumer income shifts the demand curve for a normal good to the right. Given an upward-sloping supply curve, both equilibrium price and equilibrium quantity rise."
+  },
+  {
+    "question": "The concept of 'Liquidity Preference' formulated by John Maynard Keynes explains:",
+    "options": {
+      "a": "The percentage of bank deposits held as physical cash reserves",
+      "b": "The desire of individuals and businesses to hold wealth in the form of liquid cash",
+      "c": "The rate at which industrial capital assets depreciate over their operational lifespan",
+      "d": "The total volume of international foreign exchange transactions"
+    },
+    "answer": "b",
+    "explanation": "Liquidity preference refers to the demand for money — the desire of economic agents to hold physical money rather than interest-bearing financial assets for transactions, precautionary, and speculative motives."
+  },
+  {
+    "question": "Which of the following illustrates a backward vertical integration strategy?",
+    "options": {
+      "a": "A bakery merging with a flour milling enterprise to secure wheat flour inputs",
+      "b": "A car manufacturer purchasing retail automobile showrooms to sell directly",
+      "c": "A commercial airline acquiring another rival passenger airline",
+      "d": "A textile weaving plant installing automated robotic looms"
+    },
+    "answer": "a",
+    "explanation": "Backward vertical integration occurs when a company acquires or merges with a supplier earlier in the supply chain (e.g., a bakery acquiring its flour mill)."
+  },
+  {
+    "question": "The Gini coefficient is an analytical tool employed by economists to measure the extent of:",
+    "options": {
+      "a": "Balance of payments deficits over successive decades",
+      "b": "Income inequality and wealth distribution within a population",
+      "c": "Industrial pollution and environmental carbon emissions",
+      "d": "Underemployment among tertiary graduates in developing economies"
+    },
+    "answer": "b",
+    "explanation": "The Gini coefficient measures statistical dispersion and represents income inequality or wealth inequality within a nation or social group, ranging from 0 (perfect equality) to 1 (perfect inequality)."
+  },
+  {
+    "question": "An excise duty is a form of indirect tax imposed specifically on:",
+    "options": {
+      "a": "The net annual earnings and profits of corporate corporations",
+      "b": "Goods manufactured and sold locally within a country",
+      "c": "Finished physical merchandise imported through international seaports",
+      "d": "Inherited landed properties and personal financial legacies"
+    },
+    "answer": "b",
+    "explanation": "Excise duties are inland taxes levied on specific goods manufactured and consumed domestically (such as tobacco, spirits, or luxury items), whereas customs tariffs are levied on international imports."
+  },
+  {
+    "question": "Underdevelopment is most typically characterized by which demographic and economic feature?",
+    "options": {
+      "a": "High per capita income and low birth rates",
+      "b": "High dependence on the primary agricultural sector and low capital formation",
+      "c": "Dominance of advanced technological manufacturing industries",
+      "d": "Low infant mortality rates and surplus balance of payments"
+    },
+    "answer": "b",
+    "explanation": "Underdeveloped or developing economies are characterized by low per capita income, heavy reliance on primary production (agriculture/raw materials extraction), low capital formation, and high population growth."
+  }
+]

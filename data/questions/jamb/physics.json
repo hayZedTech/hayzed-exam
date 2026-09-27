@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Which of the following physical quantities has the dimensions [M L^2 T^-3]?",
+    "options": {
+      "a": "Force",
+      "b": "Pressure",
+      "c": "Power",
+      "d": "Momentum"
+    },
+    "answer": "c",
+    "explanation": "Power is defined as Work done per unit time. Work has dimensions [M L^2 T^-2], and dividing by time [T] yields [M L^2 T^-3]."
+  },
+  {
+    "question": "A body is projected from ground level with an initial velocity of 50 m/s at an angle of 30° to the horizontal. Calculate the maximum height attained by the projectile. [Take g = 10 m/s²]",
+    "options": {
+      "a": "31.25 m",
+      "b": "62.50 m",
+      "c": "93.75 m",
+      "d": "125.00 m"
+    },
+    "answer": "a",
+    "explanation": "Maximum height H = (u * sin(theta))^2 / (2g). Here u = 50 m/s, theta = 30°, sin(30°) = 0.5. u * sin(theta) = 25 m/s. H = (25)^2 / (2 * 10) = 625 / 20 = 31.25 m."
+  },
+  {
+    "question": "A bullet of mass 20 g moving horizontally at 400 m/s embeds itself into a stationary wooden block of mass 1.98 kg suspended by a light string. What is the common velocity of the block and bullet immediately after impact?",
+    "options": {
+      "a": "2.0 m/s",
+      "b": "4.0 m/s",
+      "c": "8.0 m/s",
+      "d": "10.0 m/s"
+    },
+    "answer": "b",
+    "explanation": "Mass of bullet m1 = 0.02 kg, mass of block m2 = 1.98 kg. Total mass = 0.02 + 1.98 = 2.0 kg. By conservation of linear momentum: m1*u1 + m2*u2 = (m1 + m2)*v => (0.02 * 400) + 0 = 2.0 * v => 8.0 = 2.0 * v => v = 4.0 m/s."
+  },
+  {
+    "question": "A machine with a velocity ratio of 5 requires an effort of 200 N to raise a load of 800 N. What is the efficiency of the machine?",
+    "options": {
+      "a": "60%",
+      "b": "75%",
+      "c": "80%",
+      "d": "85%"
+    },
+    "answer": "c",
+    "explanation": "Mechanical Advantage (M.A.) = Load / Effort = 800 N / 200 N = 4. Efficiency = (M.A. / V.R.) * 100% = (4 / 5) * 100% = 80%."
+  },
+  {
+    "question": "The escape velocity v_e of an object from the surface of a spherical planet of mass M and radius R is given by the formula:",
+    "options": {
+      "a": "sqrt(GM / R)",
+      "b": "sqrt(2GM / R)",
+      "c": "GM / R²",
+      "d": "2GM / R²"
+    },
+    "answer": "b",
+    "explanation": "Equating the initial kinetic energy required to escape to the gravitational potential energy barrier: (1/2)*m*v_e^2 = (G*M*m) / R, which simplifies to v_e = sqrt(2GM / R)."
+  },
+  {
+    "question": "A wire of original length 2.0 m and cross-sectional area 1.0 * 10^-6 m² is stretched by 2.0 mm when a tensile load of 200 N is applied. Calculate the Young's modulus of elasticity of the material.",
+    "options": {
+      "a": "1.0 * 10^11 N/m²",
+      "b": "2.0 * 10^11 N/m²",
+      "c": "4.0 * 10^11 N/m²",
+      "d": "5.0 * 10^10 N/m²"
+    },
+    "answer": "b",
+    "explanation": "Tensile stress = Force / Area = 200 / (1.0 * 10^-6) = 2.0 * 10^8 N/m². Tensile strain = extension / original length = (2.0 * 10^-3) / 2.0 = 1.0 * 10^-3. Young's modulus E = stress / strain = (2.0 * 10^8) / (1.0 * 10^-3) = 2.0 * 10^11 N/m²."
+  },
+  {
+    "question": "A piece of alloy weighs 50 N in air and 30 N when completely immersed in water. What is the relative density of the alloy?",
+    "options": {
+      "a": "1.67",
+      "b": "2.50",
+      "c": "0.60",
+      "d": "1.50"
+    },
+    "answer": "b",
+    "explanation": "Apparent loss of weight in water = Weight in air - Weight in water = 50 N - 30 N = 20 N. Relative density = Weight in air / Upthrust in water = 50 / 20 = 2.50."
+  },
+  {
+    "question": "A brass rod is 100 cm long at 20 °C. What will be its increase in length when heated to 120 °C? [Linear expansivity of brass = 1.9 * 10^-5 K^-1]",
+    "options": {
+      "a": "0.019 cm",
+      "b": "0.190 cm",
+      "c": "0.380 cm",
+      "d": "1.900 cm"
+    },
+    "answer": "b",
+    "explanation": "Change in length delta_L = L0 * alpha * delta_T = 100 cm * (1.9 * 10^-5 K^-1) * (120 - 20) K = 100 * 1.9 * 10^-5 * 100 = 0.190 cm."
+  },
+  {
+    "question": "How much thermal energy is required to completely convert 50 g of ice at 0 °C into water at 0 °C? [Specific latent heat of fusion of ice = 3.36 * 10^5 J/kg]",
+    "options": {
+      "a": "6.72 * 10^3 J",
+      "b": "1.68 * 10^4 J",
+      "c": "3.36 * 10^4 J",
+      "d": "1.68 * 10^5 J"
+    },
+    "answer": "b",
+    "explanation": "Q = m * L_f = 0.05 kg * 3.36 * 10^5 J/kg = 16,800 J = 1.68 * 10^4 J."
+  },
+  {
+    "question": "A fixed mass of an ideal gas occupies 300 cm³ at 27 °C under a pressure of 760 mmHg. What volume will it occupy at 127 °C if the pressure is maintained constant?",
+    "options": {
+      "a": "225 cm³",
+      "b": "350 cm³",
+      "c": "400 cm³",
+      "d": "500 cm³"
+    },
+    "answer": "c",
+    "explanation": "Using Charles's Law at constant pressure: V1 / T1 = V2 / T2. Convert temperatures to Kelvin: T1 = 27 + 273 = 300 K, T2 = 127 + 273 = 400 K. V2 = V1 * (T2 / T1) = 300 * (400 / 300) = 400 cm³."
+  },
+  {
+    "question": "A sound wave travels from air into water. Which of the following wave properties remains unchanged during this refraction?",
+    "options": {
+      "a": "Wavelength",
+      "b": "Velocity",
+      "c": "Frequency",
+      "d": "Amplitude"
+    },
+    "answer": "c",
+    "explanation": "Frequency is determined exclusively by the vibrating source producing the wave; it does not change when the wave transitions between different media, whereas wave speed and wavelength change proportionally (v = f * lambda)."
+  },
+  {
+    "question": "A pipe closed at one end has a fundamental frequency of 200 Hz. What is the frequency of its first overtone (third harmonic)?",
+    "options": {
+      "a": "300 Hz",
+      "b": "400 Hz",
+      "c": "600 Hz",
+      "d": "800 Hz"
+    },
+    "answer": "c",
+    "explanation": "A closed pipe produces only odd harmonics: f1 = f0, f2 = 3f0, f3 = 5f0... The first overtone corresponds to the third harmonic (3f0). f = 3 * 200 Hz = 600 Hz."
+  },
+  {
+    "question": "An object is placed 15 cm in front of a concave spherical mirror of focal length 10 cm. What is the nature and position of the image formed?",
+    "options": {
+      "a": "Real, inverted, 30 cm in front of the mirror",
+      "b": "Virtual, erect, 30 cm behind the mirror",
+      "c": "Real, inverted, 6 cm in front of the mirror",
+      "d": "Virtual, erect, 6 cm behind the mirror"
+    },
+    "answer": "a",
+    "explanation": "Using mirror formula 1/f = 1/u + 1/v: 1/10 = 1/15 + 1/v => 1/v = 1/10 - 1/15 = (3 - 2)/30 = 1/30 => v = +30 cm. A positive image distance for a concave mirror indicates a real and inverted image formed in front of the mirror."
+  },
+  {
+    "question": "A ray of light traveling in glass with a refractive index of 1.50 strikes a glass-air boundary. Calculate the critical angle for total internal reflection.",
+    "options": {
+      "a": "30.0°",
+      "b": "41.8°",
+      "c": "48.6°",
+      "d": "60.0°"
+    },
+    "answer": "b",
+    "explanation": "Critical angle sin(c) = 1 / n = 1 / 1.50 = 0.6667. c = arcsin(0.6667) = 41.8°."
+  },
+  {
+    "question": "Two point charges of +4.0 mu-C and -4.0 mu-C are separated by a distance of 0.2 m in a vacuum. What is the magnitude of the electrostatic force between them? [1 / (4*pi*epsilon_0) = 9.0 * 10^9 N*m²/C²]",
+    "options": {
+      "a": "1.8 N",
+      "b": "3.6 N",
+      "c": "7.2 N",
+      "d": "36.0 N"
+    },
+    "answer": "b",
+    "explanation": "By Coulomb's law: F = (k * |q1 * q2|) / r² = [9.0 * 10^9 * (4.0 * 10^-6) * (4.0 * 10^-6)] / (0.2)² = (9.0 * 10^9 * 1.6 * 10^-11) / 0.04 = 0.144 / 0.04 = 3.6 N."
+  },
+  {
+    "question": "Three capacitors of capacitances 2 mu-F, 3 mu-F, and 6 mu-F are connected in series across a 12 V battery. What is the equivalent capacitance of the combination?",
+    "options": {
+      "a": "1 mu-F",
+      "b": "2 mu-F",
+      "c": "6 mu-F",
+      "d": "11 mu-F"
+    },
+    "answer": "a",
+    "explanation": "For capacitors in series: 1/C_eq = 1/C1 + 1/C2 + 1/C3 = 1/2 + 1/3 + 1/6 = (3 + 2 + 1)/6 = 6/6 = 1 mu-F^-1. Therefore, C_eq = 1 mu-F."
+  },
+  {
+    "question": "A cell of e.m.f. 2.0 V and internal resistance 0.5 ohm is connected across an external resistor of 4.5 ohms. What is the terminal potential difference across the cell?",
+    "options": {
+      "a": "0.2 V",
+      "b": "1.8 V",
+      "c": "2.0 V",
+      "d": "2.2 V"
+    },
+    "answer": "b",
+    "explanation": "Total resistance R_total = R + r = 4.5 + 0.5 = 5.0 ohms. Current I = E / R_total = 2.0 / 5.0 = 0.4 A. Terminal p.d. V = I * R = 0.4 * 4.5 = 1.8 V."
+  },
+  {
+    "question": "An electrical appliance rated 2 kW, 250 V is used continuously for 5 hours. How much electrical energy is consumed in kilowatt-hours (kWh)?",
+    "options": {
+      "a": "2.5 kWh",
+      "b": "5.0 kWh",
+      "c": "10.0 kWh",
+      "d": "20.0 kWh"
+    },
+    "answer": "c",
+    "explanation": "Energy in kWh = Power (kW) * Time (hours) = 2 kW * 5 hours = 10 kWh."
+  },
+  {
+    "question": "A straight wire of length 0.5 m carrying a current of 4.0 A is placed at an angle of 30° to a uniform magnetic field of flux density 0.8 T. What is the magnetic force acting on the wire?",
+    "options": {
+      "a": "0.4 N",
+      "b": "0.8 N",
+      "c": "1.39 N",
+      "d": "1.6 N"
+    },
+    "answer": "b",
+    "explanation": "F = B * I * L * sin(theta) = 0.8 T * 4.0 A * 0.5 m * sin(30°) = 0.8 * 4.0 * 0.5 * 0.5 = 0.8 N."
+  },
+  {
+    "question": "The primary coil of an ideal step-down transformer has 1200 turns and is connected to a 240 V a.c. supply. If the secondary coil has 60 turns, what is the output voltage?",
+    "options": {
+      "a": "12 V",
+      "b": "24 V",
+      "c": "48 V",
+      "d": "120 V"
+    },
+    "answer": "a",
+    "explanation": "Using transformer formula: V_s / V_p = N_s / N_p => V_s = V_p * (N_s / N_p) = 240 * (60 / 1200) = 240 * (1 / 20) = 12 V."
+  },
+  {
+    "question": "In a series RLC alternating current circuit at electrical resonance, the impedance of the circuit is:",
+    "options": {
+      "a": "Equal to the inductive reactance (X_L)",
+      "b": "Purely resistive and at its minimum value (Z = R)",
+      "c": "Zero",
+      "d": "At its maximum value"
+    },
+    "answer": "b",
+    "explanation": "At resonance, the inductive reactance equals capacitive reactance (X_L = X_C), cancelling each other out completely. The total impedance Z = sqrt(R² + (X_L - X_C)²) reduces to Z = R, reaching its absolute minimum and allowing maximum current flow."
+  },
+  {
+    "question": "The work function of a metal surface is 2.5 eV. If light of photon energy 4.0 eV illuminates the metal, what is the maximum kinetic energy of the emitted photoelectrons? [1 eV = 1.6 * 10^-19 J]",
+    "options": {
+      "a": "1.5 eV",
+      "b": "2.5 eV",
+      "c": "4.0 eV",
+      "d": "6.5 eV"
+    },
+    "answer": "a",
+    "explanation": "Einstein's photoelectric equation: K_max = h*f - W_0 = 4.0 eV - 2.5 eV = 1.5 eV."
+  },
+  {
+    "question": "The de Broglie wavelength of an electron of mass m moving with velocity v is given by:",
+    "options": {
+      "a": "h / (m * v)",
+      "b": "(m * v) / h",
+      "c": "h * m * v",
+      "d": "h / (m * v²)"
+    },
+    "answer": "a",
+    "explanation": "According to de Broglie's hypothesis of matter waves, the wavelength lambda associated with a moving particle of momentum p = m*v is lambda = h / p = h / (m*v)."
+  },
+  {
+    "question": "Which of the following radioactive emissions has the greatest ionizing power and the least penetrating capability?",
+    "options": {
+      "a": "Alpha particles",
+      "b": "Beta-minus particles",
+      "c": "Gamma rays",
+      "d": "Positrons"
+    },
+    "answer": "a",
+    "explanation": "Alpha particles (helium nuclei, 4_He_2) carry a +2 charge and have relatively large mass, causing intense ionization along their path but being stopped easily by a sheet of paper or few centimeters of air."
+  },
+  {
+    "question": "A car accelerates uniformly from rest at 2.5 m/s² for 8 seconds. What is the total distance covered during this time interval?",
+    "options": {
+      "a": "40 m",
+      "b": "60 m",
+      "c": "80 m",
+      "d": "100 m"
+    },
+    "answer": "c",
+    "explanation": "Using s = u*t + (1/2)*a*t². Since u = 0: s = (1/2) * 2.5 * (8)² = 1.25 * 64 = 80 m."
+  },
+  {
+    "question": "Which of the following optical instruments produces a magnified, virtual, and erect image of an object placed between its principal focus and optical center?",
+    "options": {
+      "a": "Pinhole camera",
+      "b": "Simple magnifying glass (convex lens)",
+      "c": "Astronomical telescope at normal adjustment",
+      "d": "Photographic camera"
+    },
+    "answer": "b",
+    "explanation": "When an object is placed within the focal length of a biconvex lens (between F and the optical center), the refracted rays diverge and form a virtual, erect, and magnified image on the same side."
+  },
+  {
+    "question": "A spring has a natural length of 20 cm. When a load of 4 N is suspended from it, its length becomes 24 cm. What load will produce an extension of 6 cm, assuming the elastic limit is not exceeded?",
+    "options": {
+      "a": "5 N",
+      "b": "6 N",
+      "c": "8 N",
+      "d": "10 N"
+    },
+    "answer": "b",
+    "explanation": "Initial extension e1 = 24 cm - 20 cm = 4 cm. Spring constant k = F1 / e1 = 4 N / 4 cm = 1 N/cm. For an extension of 6 cm, the required load F2 = k * e2 = 1 N/cm * 6 cm = 6 N."
+  },
+  {
+    "question": "The rate of loss of heat by radiation from a hot blackbody is directly proportional to the fourth power of its absolute temperature. This statement expresses:",
+    "options": {
+      "a": "Newton's law of cooling",
+      "b": "Wien's displacement law",
+      "c": "Stefan-Boltzmann law",
+      "d": "Prevost's theory of heat exchange"
+    },
+    "answer": "c",
+    "explanation": "The Stefan-Boltzmann law states that the total radiant energy emitted per unit surface area of a blackbody per unit time is proportional to T^4, where T is the thermodynamic temperature in Kelvin."
+  },
+  {
+    "question": "Why does a swimming pool appear shallower than its actual physical depth when viewed from above?",
+    "options": {
+      "a": "Diffraction of light around water molecules",
+      "b": "Refraction of light as it passes from optically denser water to rarer air",
+      "c": "Total internal reflection of light at the water surface",
+      "d": "Interference of reflected light waves"
+    },
+    "answer": "b",
+    "explanation": "Light rays emerging from the bottom of the pool bend away from the normal as they exit the water into air, causing virtual image rays to intersect at an apparent depth that is less than real depth: Apparent depth = Real depth / n."
+  },
+  {
+    "question": "Two tuning forks of frequencies 256 Hz and 260 Hz are sounded simultaneously. What is the number of beats heard per second?",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "8",
+      "d": "516"
+    },
+    "answer": "b",
+    "explanation": "The beat frequency equals the absolute difference between the frequencies of the two interfering waves: Beat frequency = |f1 - f2| = |260 - 256| = 4 beats per second."
+  },
+  {
+    "question": "An alternating voltage is represented by the equation V = 311 * sin(100*pi*t). What is the root-mean-square (r.m.s.) voltage?",
+    "options": {
+      "a": "155.5 V",
+      "b": "220 V",
+      "c": "311 V",
+      "d": "440 V"
+    },
+    "answer": "b",
+    "explanation": "The peak voltage V0 = 311 V. The r.m.s. voltage V_rms = V0 / sqrt(2) = 311 / 1.414 = 220 V."
+  },
+  {
+    "question": "A liquid rises in a capillary tube when placed in it if the angle of contact between the liquid and the glass wall is:",
+    "options": {
+      "a": "Greater than 90° (obtuse)",
+      "b": "Less than 90° (acute)",
+      "c": "Exactly 180°",
+      "d": "Equal to 90°"
+    },
+    "answer": "b",
+    "explanation": "When adhesive forces between the liquid and tube walls exceed cohesive forces within the liquid, the angle of contact is acute (< 90°), the meniscus is concave, and the liquid ascends the capillary tube (e.g., water in glass)."
+  },
+  {
+    "question": "Which of the following devices operates on the principle of thermal expansion of two metals with different linear expansivities?",
+    "options": {
+      "a": "Hydrometer",
+      "b": "Bimetallic strip thermostat",
+      "c": "Bourdon gauge",
+      "d": "Thermocouple thermometer"
+    },
+    "answer": "b",
+    "explanation": "A bimetallic strip consists of two riveted strips of metals with different coefficients of thermal expansion; heating causes the strip to bend toward the metal with lower expansivity, making or breaking electrical contacts in thermostats."
+  },
+  {
+    "question": "What is the force required to keep a 1000 kg vehicle moving around a circular curve of radius 50 m at a constant speed of 10 m/s?",
+    "options": {
+      "a": "1000 N",
+      "b": "2000 N",
+      "c": "5000 N",
+      "d": "10000 N"
+    },
+    "answer": "b",
+    "explanation": "Centripetal force F = (m * v²) / r = [1000 kg * (10 m/s)²] / 50 m = (1000 * 100) / 50 = 2000 N."
+  },
+  {
+    "question": "A uniform meter rule of mass 100 g is balanced horizontally on a knife edge placed at the 40 cm mark by suspending an unknown mass m at the 10 cm mark. Calculate the value of m.",
+    "options": {
+      "a": "25.0 g",
+      "b": "33.3 g",
+      "c": "50.0 g",
+      "d": "75.0 g"
+    },
+    "answer": "b",
+    "explanation": "The center of gravity of the uniform meter rule acts at the 50 cm mark. Pivot is at 40 cm. Clockwise moment = weight of rule * distance = 100 g * (50 - 40) cm = 100 * 10 = 1000 g*cm. Anticlockwise moment = m * (40 - 10) cm = m * 30. Equating moments: 30*m = 1000 => m = 1000 / 30 = 33.3 g."
+  },
+  {
+    "question": "Which law states that the induced electromotive force in a closed circuit is directly proportional to the time rate of change of magnetic flux linkage?",
+    "options": {
+      "a": "Lenz's law",
+      "b": "Ampere's law",
+      "c": "Faraday's law of electromagnetic induction",
+      "d": "Coulomb's law"
+    },
+    "answer": "c",
+    "explanation": "Faraday's law of electromagnetic induction states that the magnitude of induced e.m.f. is proportional to the rate of change of magnetic flux through the circuit (E = -N * d_Phi/dt)."
+  },
+  {
+    "question": "In a nuclear reaction, 235_U_92 captures a neutron and splits into 141_Ba_56, 92_Kr_36, and a number of neutrons. How many free neutrons are emitted?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "explanation": "Mass balance: Total reactant mass number = 235 + 1 = 236. Product mass numbers = 141 + 92 = 233. Number of neutrons released = 236 - 233 = 3."
+  },
+  {
+    "question": "A man stands 170 m away from a tall vertical cliff and claps his hands. If the speed of sound in air is 340 m/s, how long does it take for him to hear the echo?",
+    "options": {
+      "a": "0.5 s",
+      "b": "1.0 s",
+      "c": "1.5 s",
+      "d": "2.0 s"
+    },
+    "answer": "b",
+    "explanation": "Total distance traveled by the sound wave to the cliff and back is 2*d = 2 * 170 m = 340 m. Time t = (2*d) / v = 340 / 340 = 1.0 s."
+  },
+  {
+    "question": "Total internal reflection can ONLY occur when light travels from:",
+    "options": {
+      "a": "An optically denser medium to an optically rarer medium at an angle of incidence greater than the critical angle",
+      "b": "An optically rarer medium to an optically denser medium at an angle of incidence greater than the critical angle",
+      "c": "An optically denser medium to an optically rarer medium at an angle of incidence less than the critical angle",
+      "d": "Any medium into a vacuum at normal incidence"
+    },
+    "answer": "a",
+    "explanation": "Total internal reflection requires two strict conditions: light must propagate from an optically denser medium toward an optically rarer medium, and the angle of incidence must exceed the critical angle of the interface."
+  },
+  {
+    "question": "A converging lens has a focal length of 20 cm. What is the optical power of the lens in diopters?",
+    "options": {
+      "a": "+0.05 D",
+      "b": "+2.0 D",
+      "c": "+5.0 D",
+      "d": "+20.0 D"
+    },
+    "answer": "c",
+    "explanation": "Optical power P = 1 / f (in meters). Focal length f = 20 cm = 0.20 m. P = 1 / 0.20 = +5.0 D (diopters)."
+  }
+]

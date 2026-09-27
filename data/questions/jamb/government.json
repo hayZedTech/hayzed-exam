@@ -1,0 +1,442 @@
+[
+  {
+    "question": "The political concept of 'sovereignty' as formulated by Jean Bodin is best defined as:",
+    "options": {
+      "a": "The conditional approval granted by citizens to local government authorities",
+      "b": "The supreme, absolute, and uncontrollable power of a state to make and enforce laws",
+      "c": "The power of the military high command to suspend constitutional statutes",
+      "d": "The collective authority exercised exclusively by international diplomatic courts"
+    },
+    "answer": "b",
+    "explanation": "Sovereignty refers to the ultimate, supreme, and independent political authority possessed by a state to govern its territory, formulate and enforce laws without external control."
+  },
+  {
+    "question": "Which of the following pre-colonial political systems in Nigeria was characterized by a decentralized, acephalous (stateless) structure based on direct village democracy?",
+    "options": {
+      "a": "The Sokoto Caliphate",
+      "b": "The Old Oyo Empire",
+      "c": "The Traditional Igbo political system",
+      "d": "The Kanem-Borno Empire"
+    },
+    "answer": "c",
+    "explanation": "The traditional Igbo political system was acephalous (stateless and segmentary), lacking a centralized monarchical authority; decisions were made democratically through village assemblies, titled elders (Ozo), lineage heads (Ofo title holders), and age grades."
+  },
+  {
+    "question": "In the Old Oyo Empire, the body of kingmakers that served as a constitutional check on the autocratic powers of the Alaafin was the:",
+    "options": {
+      "a": "Ogboni Society",
+      "b": "Oyomesi",
+      "c": "Eso Ikoyi",
+      "d": "Are Ona Kakanfo"
+    },
+    "answer": "b",
+    "explanation": "The Oyomesi was the aristocratic council of seven hereditary kingmakers led by the Bashorun. They checked the Alaafin's executive powers and could mandate his abdication if he acted tyrannically."
+  },
+  {
+    "question": "The elective principle was first introduced in colonial Nigeria by which constitutional arrangement?",
+    "options": {
+      "a": "The Clifford Constitution of 1922",
+      "b": "The Richards Constitution of 1946",
+      "c": "The Macpherson Constitution of 1951",
+      "d": "The Lyttelton Constitution of 1954"
+    },
+    "answer": "a",
+    "explanation": "The Clifford Constitution of 1922 introduced the elective principle for the first time in Nigeria, allowing 4 elected African members into the Legislative Council (3 from Lagos and 1 from Calabar)."
+  },
+  {
+    "question": "A formal federal structure of government with autonomous regions and separate regional executive councils was established in Nigeria by the:",
+    "options": {
+      "a": "Clifford Constitution of 1922",
+      "b": "Richards Constitution of 1946",
+      "c": "Macpherson Constitution of 1951",
+      "d": "Lyttelton Constitution of 1954"
+    },
+    "answer": "d",
+    "explanation": "The Lyttelton Constitution of 1954 firmly established a true federal structure in Nigeria, establishing the office of regional premiers, dividing legislative powers into exclusive, concurrent, and residual lists, and regionalizing the civil service and judiciary."
+  },
+  {
+    "question": "The constitutional doctrine of 'Separation of Powers' was originally popularized by:",
+    "options": {
+      "a": "A. V. Dicey",
+      "b": "Baron de Montesquieu",
+      "c": "John Locke",
+      "d": "Thomas Hobbes"
+    },
+    "answer": "b",
+    "explanation": "The French political philosopher Baron de Montesquieu popularized the doctrine of separation of powers in his 1748 treatise 'The Spirit of the Laws', advocating division of government into legislative, executive, and judicial branches."
+  },
+  {
+    "question": "Which of the following is a primary characteristic of the Parliamentary or Cabinet system of government?",
+    "options": {
+      "a": "Strict institutional separation between the executive and legislative branches",
+      "b": "Fusion of executive and legislative powers with ministers sitting in parliament",
+      "c": "The President is elected directly by universal adult suffrage for a fixed tenure",
+      "d": "The judiciary exercises unilateral veto power over parliamentary bills"
+    },
+    "answer": "b",
+    "explanation": "In a parliamentary system (such as Britain and Nigeria's First Republic), there is a fusion of executive and legislative branches: the Prime Minister and cabinet ministers are selected from and remain members of parliament."
+  },
+  {
+    "question": "Under the British policy of Indirect Rule in Nigeria, colonial district officers ruled the native populations primarily through:",
+    "options": {
+      "a": "Elected municipal legislative representatives",
+      "b": "Traditional indigenous rulers and established native institutions",
+      "c": "French-trained administrative civil servants",
+      "d": "Military tribunals operating under martial law"
+    },
+    "answer": "b",
+    "explanation": "Indirect Rule, implemented by Lord Frederick Lugard, was a British colonial administrative system that governed the colonized people through their existing traditional rulers (Emirs, Obas, and chiefs) and native courts."
+  },
+  {
+    "question": "The fundamental reason why Indirect Rule encountered widespread resistance and civil riots in Eastern Nigeria was:",
+    "options": {
+      "a": "The presence of a dominant, powerful traditional royal aristocracy",
+      "b": "The imposition of artificial Warrant Chiefs on an acephalous egalitarian society",
+      "c": "The complete absence of agricultural tax products in the region",
+      "d": "The total refusal of British missionaries to establish secondary grammar schools"
+    },
+    "answer": "b",
+    "explanation": "Igbo society was decentralized and egalitarian without hereditary kings. The British appointment of autocratic 'Warrant Chiefs' clashed with traditional democratic village consensus, provoking intense resentment (such as the 1929 Aba Women's Riots)."
+  },
+  {
+    "question": "The cornerstone of Nigeria's foreign policy since national independence has been:",
+    "options": {
+      "a": "Strict isolationism from international affairs",
+      "b": "Afrocentrism (Africa as the centerpiece of foreign policy)",
+      "c": "Unconditional military alignment with NATO powers",
+      "d": "Economic integration strictly with South American states"
+    },
+    "answer": "b",
+    "explanation": "Afrocentrism is the bedrock of Nigeria's foreign policy, prioritizing African peace, decolonization, anti-apartheid struggles, and continental socio-economic development."
+  },
+  {
+    "question": "A major distinction between a political party and a pressure group is that a political party:",
+    "options": {
+      "a": "Aims primarily to capture political power and form the government",
+      "b": "Protects only the sectional economic interests of trade unionists",
+      "c": "Does not participate in public electoral campaigns",
+      "d": "Derives funding exclusively from international philantrophic grants"
+    },
+    "answer": "a",
+    "explanation": "The primary objective of a political party is to contest elections, capture state power, and control government administration, whereas a pressure group seeks to influence public policy without seeking political office."
+  },
+  {
+    "question": "Under the 1963 Republican Constitution of Nigeria, the ultimate court of legal appeal ceased to be the:",
+    "options": {
+      "a": "Federal Supreme Court of Nigeria",
+      "b": "Judicial Committee of the Privy Council in the United Kingdom",
+      "c": "West African Court of Appeal (WACA)",
+      "d": "International Court of Justice at The Hague"
+    },
+    "answer": "b",
+    "explanation": "The 1963 Republican Constitution severed Nigeria's constitutional ties with the British Crown; the Federal Supreme Court replaced the British Privy Council as Nigeria's final court of appeal."
+  },
+  {
+    "question": "The principle of the 'Rule of Law' as propounded by A. V. Dicey comprises which of the following three tenets?",
+    "options": {
+      "a": "Supremacy of the law, equality before the law, and predominance of legal spirit",
+      "b": "Military dominance, judicial supremacy, and executive immunity",
+      "c": "Popular sovereignty, legislative immunity, and judicial subordination",
+      "d": "Unicameral legislation, cabinet solidarity, and collective responsibility"
+    },
+    "answer": "a",
+    "explanation": "A. V. Dicey formulated the Rule of Law on three pillars: absolute supremacy of regular law over arbitrary power, equality of all citizens before the ordinary law, and the protection of individual rights through judicial processes."
+  },
+  {
+    "question": "Which of the following electoral systems guarantees that political parties secure legislative seats in direct proportion to the percentage of total votes they cast?",
+    "options": {
+      "a": "First-Past-The-Post (Simple Plurality)",
+      "b": "Proportional Representation",
+      "c": "Second Ballot Runoff",
+      "d": "Alternative Vote System"
+    },
+    "answer": "b",
+    "explanation": "Proportional representation allocates legislative seats to political parties in proportion to the percentage of popular votes each party receives across the electorate."
+  },
+  {
+    "question": "In the pre-colonial Hausa/Fulani Emirate administrative system, the chief legal judge who presided over Sharia judicial cases was the:",
+    "options": {
+      "a": "Madawaki",
+      "b": "Galadima",
+      "c": "Alkali",
+      "d": "Sarkin Fada"
+    },
+    "answer": "c",
+    "explanation": "The Alkali was a trained Islamic jurist who adjudicated civil and criminal disputes based on Islamic jurisprudence (Sharia) within the Hausa/Fulani emirate."
+  },
+  {
+    "question": "The civil service principle of 'anonymity' implies that civil servants:",
+    "options": {
+      "a": "Must resign their offices whenever there is a constitutional change of government",
+      "b": "Are protected from public blame or praise for official policies executed in their ministries",
+      "c": "Are forbidden from acquiring formal academic degrees during active service",
+      "d": "Cannot open private commercial bank accounts"
+    },
+    "answer": "b",
+    "explanation": "Anonymity means civil servants advise ministers and execute policies behind the scenes; the political minister takes public responsibility, blame, or credit in parliament and the press."
+  },
+  {
+    "question": "The first nationwide political party formed in colonial Nigeria in August 1944 was the:",
+    "options": {
+      "a": "Nigerian National Democratic Party (NNDP)",
+      "b": "National Council of Nigeria and the Cameroons (NCNC)",
+      "c": "Action Group (AG)",
+      "d": "Northern People's Congress (NPC)"
+    },
+    "answer": "b",
+    "explanation": "The National Council of Nigeria and the Cameroons (NCNC), co-founded by Herbert Macaulay and Dr. Nnamdi Azikiwe in August 1944, was the first nationwide nationalist political party in Nigeria."
+  },
+  {
+    "question": "Which international regional organization was established in May 1975 under the Treaty of Lagos to foster economic integration across West Africa?",
+    "options": {
+      "a": "Organization of African Unity (OAU)",
+      "b": "Economic Community of West African States (ECOWAS)",
+      "c": "African Union (AU)",
+      "d": "Southern African Development Community (SADC)"
+    },
+    "answer": "b",
+    "explanation": "ECOWAS was created on May 28, 1975, upon the signing of the Treaty of Lagos, spearheaded by General Yakubu Gowon of Nigeria and President Gnassingbé Eyadéma of Togo."
+  },
+  {
+    "question": "In a unitary state, all sovereign governmental authority is concentrated in the hands of the:",
+    "options": {
+      "a": "Regional federating state governments",
+      "b": "Central national government",
+      "c": "Local government councils",
+      "d": "Supreme traditional chieftains"
+    },
+    "answer": "b",
+    "explanation": "A unitary system of government concentrates all constitutional and governmental powers in a single central government; local authorities exist merely as subordinate administrative delegates."
+  },
+  {
+    "question": "Which of the following commissions was set up in 1957 to address the fears of ethnic minority groups in Nigeria prior to national independence?",
+    "options": {
+      "a": "The Phillipson-Adebo Commission",
+      "b": "The Willink Commission",
+      "c": "The Udoji Commission",
+      "d": "The Raisman Commission"
+    },
+    "answer": "b",
+    "explanation": "The Willink Commission of Inquiry was established in 1957 by the British colonial administration to investigate the fears of minority ethnic groups in Nigeria and recommend constitutional safeguards."
+  },
+  {
+    "question": "The power of the judiciary to examine legislative acts and executive orders and declare them unconstitutional if they conflict with the constitution is termed:",
+    "options": {
+      "a": "Judicial Precedent",
+      "b": "Judicial Review",
+      "c": "Habeas Corpus",
+      "d": "Ultra Vires Decree"
+    },
+    "answer": "b",
+    "explanation": "Judicial review is the constitutional power of courts to review actions of the legislative and executive arms and invalidate any laws or policies found inconsistent with constitutional provisions."
+  },
+  {
+    "question": "The 1976 Local Government Reforms in Nigeria were significant primarily because they:",
+    "options": {
+      "a": "Abolished all municipal councils across the federation",
+      "b": "Recognized local government as an autonomous, distinct third tier of government with uniform single-tier structures",
+      "c": "Transferred local policing powers to traditional village secret cults",
+      "d": "Subordinated municipal administration to foreign colonial consuls"
+    },
+    "answer": "b",
+    "explanation": "The 1976 Local Government Reforms introduced a uniform, nationwide single-tier local government structure, establishing local councils as an autonomous third tier of government with direct federal statutory allocations."
+  },
+  {
+    "question": "Which organ of the United Nations is primarily charged with the maintenance of international peace and security?",
+    "options": {
+      "a": "The Economic and Social Council (ECOSOC)",
+      "b": "The International Court of Justice (ICJ)",
+      "c": "The Security Council",
+      "d": "The Trusteeship Council"
+    },
+    "answer": "c",
+    "explanation": "Under the UN Charter, the Security Council has primary responsibility for maintaining international peace and security, possessing the authority to dispatch peacekeepers and impose binding sanctions."
+  },
+  {
+    "question": "A bill passed by both chambers of the National Assembly becomes an Act of Parliament when it receives the:",
+    "options": {
+      "a": "Approval of the Chief Justice of Nigeria",
+      "b": "Assent of the President of the Republic",
+      "c": "Ratification of the Council of State",
+      "d": "Consent of thirty-six State Governors"
+    },
+    "answer": "b",
+    "explanation": "Under the 1999 Constitution, once a bill is passed by both the Senate and House of Representatives, it is presented to the President for presidential assent before becoming an Act of Parliament."
+  },
+  {
+    "question": "Which of the following is a non-permanent member right denied to the non-permanent members of the United Nations Security Council?",
+    "options": {
+      "a": "The right to participate in floor debates",
+      "b": "The right to hold the monthly rotating council presidency",
+      "c": "The veto power over substantive council resolutions",
+      "d": "The right to vote on procedural agenda items"
+    },
+    "answer": "c",
+    "explanation": "Only the five permanent members of the UN Security Council (USA, UK, France, Russia, and China) possess the veto power enabling any one of them to block substantive council resolutions."
+  },
+  {
+    "question": "The military administration that created twelve states from the four existing regions in Nigeria in May 1967 was headed by:",
+    "options": {
+      "a": "Major-General J.T.U. Aguiyi-Ironsi",
+      "b": "General Yakubu Gowon",
+      "c": "General Murtala Mohammed",
+      "d": "General Ibrahim Babangida"
+    },
+    "answer": "b",
+    "explanation": "On May 27, 1967, General Yakubu Gowon dissolved Nigeria's four regions (Northern, Eastern, Western, and Mid-Western) and created 12 states by decree to restructure the federation and counter Biafran secession."
+  },
+  {
+    "question": "The Supreme Military Council (SMC) functioned under Nigerian military regimes as the supreme:",
+    "options": {
+      "a": "Judicial appeal tribunal for civil crimes",
+      "b": "Legislative and policy-making body of the military government",
+      "c": "Electoral umpire for national civilian plebiscites",
+      "d": "Diplomatic delegation to the Commonwealth summits"
+    },
+    "answer": "b",
+    "explanation": "Under military rule in Nigeria (Ironsi, Gowon, Murtala/Obasanjo, Buhari), the Supreme Military Council was the highest legislative and executive policy-making body, issuing binding decrees."
+  },
+  {
+    "question": "The French colonial policy of 'Assimilation' was based on the ideology that:",
+    "options": {
+      "a": "African cultures were inherently superior and should replace European cultures",
+      "b": "African subjects could be systematically transformed into French citizens by adopting French language, education, and culture",
+      "c": "African indigenous kingdoms should be granted immediate sovereign self-rule",
+      "d": "Colonial commerce should be conducted exclusively via barter trading"
+    },
+    "answer": "b",
+    "explanation": "The French policy of assimilation assumed the universal superiority of French civilization, aiming to culturally assimilate colonized Africans into French citizens (évolués) with full civil rights."
+  },
+  {
+    "question": "The writ of 'Habeas Corpus' is an essential judicial prerogative writ designed to:",
+    "options": {
+      "a": "Compel a subordinate public official to execute a statutory duty",
+      "b": "Secure the release of a person unlawfully or arbitrarily detained without trial",
+      "c": "Prohibit an inferior tribunal from exceeding its legitimate legal jurisdiction",
+      "d": "Quash the proceedings and decision of a biased lower court"
+    },
+    "answer": "b",
+    "explanation": "Habeas corpus is a fundamental constitutional writ requiring a detained person to be brought before a judge to determine whether their detention is lawful, protecting individuals from unlawful imprisonment."
+  },
+  {
+    "question": "The Richards Constitution of 1946 is historically credited with which landmark political development in Nigeria?",
+    "options": {
+      "a": "Abolishing regional boundaries and establishing a purely unitary government",
+      "b": "Introducing regionalism by establishing Regional Houses of Assembly in the Northern, Western, and Eastern regions",
+      "c": "Creating the office of the Prime Minister of the Federation",
+      "d": "Granting total sovereign independence from Great Britain"
+    },
+    "answer": "b",
+    "explanation": "The Richards Constitution of 1946 institutionalized regionalism in Nigeria by creating Regional Councils (Northern, Western, and Eastern Assemblies) and securing an unofficial African majority in the Legislative Council."
+  },
+  {
+    "question": "Under the 1999 Constitution of the Federal Republic of Nigeria, residual legislative matters are reserved exclusively for the:",
+    "options": {
+      "a": "Federal National Assembly",
+      "b": "State Houses of Assembly",
+      "c": "Federal Executive Council",
+      "d": "Local Government Council Chairmen"
+    },
+    "answer": "b",
+    "explanation": "In Nigerian federalism, matters not included in the Exclusive Legislative List (reserved for the National Assembly) or the Concurrent List are residual matters reserved exclusively for State Houses of Assembly."
+  },
+  {
+    "question": "A political system where authority is concentrated in the hands of a small, wealthy, privileged ruling elite is classified as an:",
+    "options": {
+      "a": "Oligarchy",
+      "b": "Autocracy",
+      "c": "Direct Democracy",
+      "d": "Anarchy"
+    },
+    "answer": "a",
+    "explanation": "An oligarchy is a system of government in which political power rests with a small, elite segment of society distinguished by wealth, royalty, family ties, military control, or religious status."
+  },
+  {
+    "question": "In parliamentary democracy, 'collective responsibility' means that:",
+    "options": {
+      "a": "Every minister is personally insulated from legislative votes of no confidence",
+      "b": "All cabinet members must publicly support cabinet decisions, or resign if they fundamentally disagree",
+      "c": "Ministers are accountable only to the reigning hereditary monarch",
+      "d": "The judiciary bears legal guilt for unconstitutional executive proclamations"
+    },
+    "answer": "b",
+    "explanation": "Collective responsibility requires that all cabinet ministers stand together and publicly defend government decisions made in cabinet; a minister who cannot support a cabinet decision must resign."
+  },
+  {
+    "question": "The primary role of the Public Complaints Commission (Ombudsman) in Nigeria is to:",
+    "options": {
+      "a": "Prosecute election petition appeals before the Supreme Court",
+      "b": "Investigate citizen complaints against administrative injustice, abuse of office, and bureaucracy",
+      "c": "Formulate economic fiscal plans for state commercial corporations",
+      "d": "Enforce tax compliance among corporate multinational companies"
+    },
+    "answer": "b",
+    "explanation": "The Public Complaints Commission (Ombudsman) investigates administrative unfairness, bureaucratic abuses, red tape, and official victimization perpetrated by public authorities against ordinary citizens."
+  },
+  {
+    "question": "The Commonwealth of Nations is an international voluntary association comprising primarily:",
+    "options": {
+      "a": "States that were previously part of the British Empire and their colonies",
+      "b": "Oil-producing nations located in the Gulf of Guinea",
+      "c": "Francophone West African states sharing the CFA franc currency",
+      "d": "Nations that maintain permanent nuclear arsenals"
+    },
+    "answer": "a",
+    "explanation": "The Commonwealth of Nations is a voluntary association of 56 independent sovereign countries, almost all of which were formerly colonies or dependencies of the British Empire."
+  },
+  {
+    "question": "In which pre-colonial Nigerian political system did the Ogboni cult play a decisive role in mediating between the monarch and the council of kingmakers?",
+    "options": {
+      "a": "The Kanem-Borno Empire",
+      "b": "The Yoruba political system (Oyo Empire)",
+      "c": "The Hausa/Fulani Sokoto Caliphate",
+      "d": "The Tiv segmentary system"
+    },
+    "answer": "b",
+    "explanation": "In the Old Oyo Yoruba system, the Ogboni society of prominent elders worshipped the earth deity and mediated disputes between the Alaafin and the Oyomesi council of kingmakers."
+  },
+  {
+    "question": "The African Union (AU) officially replaced the Organization of African Unity (OAU) in July 2002 at its inaugural summit held in:",
+    "options": {
+      "a": "Addis Ababa, Ethiopia",
+      "b": "Durban, South Africa",
+      "c": "Abuja, Nigeria",
+      "d": "Cairo, Egypt"
+    },
+    "answer": "b",
+    "explanation": "The African Union was officially launched at the Durban Summit in South Africa on July 9, 2002, succeeding the Organization of African Unity (OAU)."
+  },
+  {
+    "question": "Which of the following bodies is constitutionally empowered to conduct federal and state elections in Nigeria?",
+    "options": {
+      "a": "National Orientation Agency (NOA)",
+      "b": "Independent National Electoral Commission (INEC)",
+      "c": "Federal Civil Service Commission (FCSC)",
+      "d": "National Assembly Service Commission"
+    },
+    "answer": "b",
+    "explanation": "Under Section 153 of the 1999 Constitution, the Independent National Electoral Commission (INEC) is charged with organizing, undertaking, and supervising elections to the offices of President, Governor, and National/State Assemblies."
+  },
+  {
+    "question": "The concept of 'franchise' in political science denotes the:",
+    "options": {
+      "a": "Right of foreign diplomats to claim diplomatic immunity",
+      "b": "Constitutional right of qualified citizens to vote and be voted for in public elections",
+      "c": "Power of a head of state to grant presidential pardons",
+      "d": "Exclusive license granted to private corporations to construct highways"
+    },
+    "answer": "b",
+    "explanation": "Franchise (or suffrage) refers to the constitutional right of qualified citizens within a political jurisdiction to vote (and often to be voted for) in public democratic elections."
+  },
+  {
+    "question": "What was the immediate political catalyst for the general nationwide strike of 1945 in colonial Nigeria led by Michael Imoudu?",
+    "options": {
+      "a": "The introduction of the Richards Constitution without legislative plebiscite",
+      "b": "The colonial administration's refusal to grant cost of living allowances (COLA) following wartime inflation",
+      "c": "The arrest and banishment of Herbert Macaulay to Calabar",
+      "d": "The imposition of direct poll tax on female market traders in Aba"
+    },
+    "answer": "b",
+    "explanation": "The historic 44-day 1945 general strike organized by labor leader Michael Imoudu was ignited by the British colonial administration's refusal to award a Cost of Living Allowance (COLA) to workers amidst soaring post-WWII inflation."
+  }
+]

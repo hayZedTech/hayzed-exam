@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Which of the following cellular organelles is primarily responsible for the synthesis of lipids and the detoxification of toxic metabolic byproducts?",
+    "options": {
+      "a": "Rough endoplasmic reticulum",
+      "b": "Smooth endoplasmic reticulum",
+      "c": "Golgi apparatus",
+      "d": "Lysosome"
+    },
+    "answer": "b",
+    "explanation": "The smooth endoplasmic reticulum (SER) lacks ribosomes and functions in lipid synthesis (phospholipids and steroids), carbohydrate metabolism, and detoxification of drugs and poisons, particularly in hepatic cells."
+  },
+  {
+    "question": "A cell with a water potential of -0.8 MPa is placed in a sucrose solution with a water potential of -0.3 MPa. What will happen to the cell?",
+    "options": {
+      "a": "Water will leave the cell causing plasmolysis",
+      "b": "Water will enter the cell down a water potential gradient",
+      "c": "No net movement of water will occur because sucrose cannot diffuse",
+      "d": "Solutes will leave the cell to balance osmotic pressure"
+    },
+    "answer": "b",
+    "explanation": "Water moves from a region of higher water potential (-0.3 MPa) to a region of lower water potential (-0.8 MPa). Hence, water moves into the cell by osmosis until equilibrium or turgidity is reached."
+  },
+  {
+    "question": "Which enzyme catalyzes the fixation of carbon dioxide in the Calvin cycle during the dark stage of photosynthesis in C3 plants?",
+    "options": {
+      "a": "Phosphoenolpyruvate carboxylase",
+      "b": "Ribulose-1,5-bisphosphate carboxylase/oxygenase",
+      "c": "Pyruvate dehydrogenase",
+      "d": "Carbonic anhydrase"
+    },
+    "answer": "b",
+    "explanation": "RuBisCO (Ribulose-1,5-bisphosphate carboxylase/oxygenase) catalyzes the initial carboxylation step where CO2 combines with ribulose 1,5-bisphosphate (RuBP) to produce 3-phosphoglycerate."
+  },
+  {
+    "question": "The conversion of pyruvate into acetyl-CoA prior to the Krebs cycle occurs in which part of the eukaryotic cell?",
+    "options": {
+      "a": "Cytosol",
+      "b": "Mitochondrial matrix",
+      "c": "Inner mitochondrial membrane",
+      "d": "Intermembrane space"
+    },
+    "answer": "b",
+    "explanation": "The link reaction (oxidative decarboxylation of pyruvate to acetyl-CoA by pyruvate dehydrogenase) takes place inside the mitochondrial matrix of eukaryotic organisms."
+  },
+  {
+    "question": "In the human digestive system, the hormone secretin stimulates the pancreas to secrete juice rich in:",
+    "options": {
+      "a": "Sodium bicarbonate ions",
+      "b": "Trypsinogen and chymotrypsinogen",
+      "c": "Pepsin and hydrochloric acid",
+      "d": "Amylase and bile salts"
+    },
+    "answer": "a",
+    "explanation": "Secretin is released by S cells in the duodenum in response to acidic chyme, prompting pancreatic duct cells to secrete a fluid rich in bicarbonate ions to neutralize gastric acidity."
+  },
+  {
+    "question": "A woman with blood group A (heterozygous) marries a man with blood group B (heterozygous). What is the probability that their first child will have blood group O?",
+    "options": {
+      "a": "0%",
+      "b": "25%",
+      "c": "50%",
+      "d": "75%"
+    },
+    "answer": "b",
+    "explanation": "Genotypes: Mother is IAi and father is IBi. The possible offspring genotypes are IAIB (AB), IAi (A), IBi (B), and ii (O), each occurring with an equal probability of 1/4 or 25%."
+  },
+  {
+    "question": "Which of the following structures in the mammalian nephron creates an osmolarity gradient in the renal medulla by the countercurrent multiplier mechanism?",
+    "options": {
+      "a": "Bowman's capsule",
+      "b": "Proximal convoluted tubule",
+      "c": "Loop of Henle",
+      "d": "Distal convoluted tubule"
+    },
+    "answer": "c",
+    "explanation": "The Loop of Henle, with its descending limb permeable to water and ascending limb actively pumping out sodium and chloride ions, acts as a countercurrent multiplier to build hyperosmolarity in the medulla."
+  },
+  {
+    "question": "In the human eye, the condition of hypermetropia (long-sightedness) is caused when the eyeball is too short and can be corrected using a:",
+    "options": {
+      "a": "Concave cylindrical lens",
+      "b": "Biconcave lens",
+      "c": "Biconvex lens",
+      "d": "Plano-concave lens"
+    },
+    "answer": "c",
+    "explanation": "Hypermetropia causes light rays from near objects to focus behind the retina. A converging (biconvex) lens provides extra refractive power to bring the focal point forward onto the retina."
+  },
+  {
+    "question": "During muscle contraction in vertebrates, the binding of calcium ions to which regulatory protein exposes the myosin-binding sites on actin filaments?",
+    "options": {
+      "a": "Tropomyosin",
+      "b": "Troponin",
+      "c": "Myoglobin",
+      "d": "Calmodulin"
+    },
+    "answer": "b",
+    "explanation": "Calcium released from the sarcoplasmic reticulum binds to troponin C, inducing a conformational shift in tropomyosin that uncovers the myosin-binding sites on the actin filament."
+  },
+  {
+    "question": "Which of the following plant hormones is primarily responsible for apical dominance, cell elongation, and phototropism?",
+    "options": {
+      "a": "Gibberellin",
+      "b": "Abscisic acid",
+      "c": "Indole-3-acetic acid (Auxin)",
+      "d": "Cytokinin"
+    },
+    "answer": "c",
+    "explanation": "Auxins (such as IAA) stimulate cell elongation in shoots, suppress the growth of lateral buds (apical dominance), and migrate laterally to mediate phototropic curvature."
+  },
+  {
+    "question": "The transmission of nerve impulses across a chemical synapse is initiated when an action potential causes the opening of voltage-gated channels for:",
+    "options": {
+      "a": "Sodium ions (Na+)",
+      "b": "Potassium ions (K+)",
+      "c": "Calcium ions (Ca2+)",
+      "d": "Chloride ions (Cl-)"
+    },
+    "answer": "c",
+    "explanation": "When an action potential arrives at the presynaptic terminal, depolarization triggers voltage-gated Ca2+ channels to open. Influx of Ca2+ causes synaptic vesicles to fuse with the presynaptic membrane and release neurotransmitters."
+  },
+  {
+    "question": "In an ecosystem, the total dry mass of all living organic matter at a particular trophic level at a specific point in time is known as:",
+    "options": {
+      "a": "Gross primary productivity",
+      "b": "Standing crop biomass",
+      "c": "Net primary productivity",
+      "d": "Carrying capacity"
+    },
+    "answer": "b",
+    "explanation": "Biomass of the standing crop refers to the total weight or mass of living organic organisms present in a given area or trophic level at a specific time."
+  },
+  {
+    "question": "Which of the following associations is an obligate mutualistic relationship?",
+    "options": {
+      "a": "Cattle egret feeding on ticks off a grazing cow",
+      "b": "Lichens consisting of a fungus and an alga/cyanobacterium",
+      "c": "Barnacles attached to the shell of a marine turtle",
+      "d": "Remora fish swimming alongside a shark"
+    },
+    "answer": "b",
+    "explanation": "A lichen is an obligate mutualism between a fungus (mycobiont) and a photosynthetic partner (photobiont), where neither partner can generally survive independently in harsh environments."
+  },
+  {
+    "question": "In genetic terminology, when a single gene influences multiple unrelated phenotypic traits, the phenomenon is called:",
+    "options": {
+      "a": "Polygenic inheritance",
+      "b": "Epistasis",
+      "c": "Pleiotropy",
+      "d": "Incomplete dominance"
+    },
+    "answer": "c",
+    "explanation": "Pleiotropy occurs when one gene mutation affects multiple distinct organ systems or observable physical characteristics, as seen in sickle cell anaemia or phenylketonuria."
+  },
+  {
+    "question": "The evolutionary principle that homologous structures such as the pentadactyl limbs of humans, bats, and whales share a common structural plan despite diverse functions supports:",
+    "options": {
+      "a": "Divergent evolution",
+      "b": "Convergent evolution",
+      "c": "Parallel evolution",
+      "d": "Saltatory evolution"
+    },
+    "answer": "a",
+    "explanation": "Homologous structures illustrate adaptive radiation from a common ancestor through divergent evolution, where structures adapt to different ecological niches and functions."
+  },
+  {
+    "question": "Which blood vessel directly transports deoxygenated blood rich in newly absorbed nutrients from the small intestine to the liver?",
+    "options": {
+      "a": "Hepatic vein",
+      "b": "Hepatic portal vein",
+      "c": "Mesenteric artery",
+      "d": "Inferior vena cava"
+    },
+    "answer": "b",
+    "explanation": "The hepatic portal vein collects nutrient-rich venous blood from the stomach and intestines and delivers it directly to the liver sinusoids for processing and regulation."
+  },
+  {
+    "question": "In flowering plants, double fertilization leads to the formation of a diploid zygote and a:",
+    "options": {
+      "a": "Diploid seed coat",
+      "b": "Triploid endosperm nucleus",
+      "c": "Haploid antipodal cell",
+      "d": "Tetraploid cotyledon"
+    },
+    "answer": "b",
+    "explanation": "One male sperm nucleus fuses with the egg cell to form a diploid zygote (2n), while the second sperm fuses with the two polar nuclei in the central cell to yield a triploid endosperm nucleus (3n)."
+  },
+  {
+    "question": "Which of the following respiratory pigments contains copper as its metallic prosthetic group instead of iron?",
+    "options": {
+      "a": "Hemoglobin",
+      "b": "Myoglobin",
+      "c": "Hemocyanin",
+      "d": "Chlorocruorin"
+    },
+    "answer": "c",
+    "explanation": "Hemocyanin is a copper-containing protein used for oxygen transport in many molluscs and crustaceans; it turns blue when oxygenated and colorless when deoxygenated."
+  },
+  {
+    "question": "A soil sample has high water-retaining capacity, poor aeration, high plasticity when wet, and very small pore spaces. This soil type is:",
+    "options": {
+      "a": "Sandy soil",
+      "b": "Clayey soil",
+      "c": "Loamy soil",
+      "d": "Silty soil"
+    },
+    "answer": "b",
+    "explanation": "Clay soils consist of microscopic particles with high capillarity and water retention, but minimal air spaces, making them prone to waterlogging and compaction."
+  },
+  {
+    "question": "In which stage of meiosis does crossing over (chiasma formation) occur between non-sister chromatids of homologous chromosomes?",
+    "options": {
+      "a": "Prophase I (Pachytene stage)",
+      "b": "Metaphase I",
+      "c": "Anaphase I",
+      "d": "Prophase II"
+    },
+    "answer": "a",
+    "explanation": "Genetic recombination and crossing over take place during the pachytene substage of prophase I of meiosis, resulting in genetic variation in gametes."
+  },
+  {
+    "question": "The hormone responsible for stimulating the production of erythrocytes (red blood cells) in bone marrow in response to low renal oxygen tension is:",
+    "options": {
+      "a": "Aldosterone",
+      "b": "Erythropoietin",
+      "c": "Renin",
+      "d": "Thrombopoietin"
+    },
+    "answer": "b",
+    "explanation": "Erythropoietin (EPO) is a glycoprotein hormone synthesized primarily by interstitial fibroblasts in the renal cortex that stimulates erythropoiesis in response to hypoxia."
+  },
+  {
+    "question": "What is the primary role of the Casparian strip located in the endodermis of plant roots?",
+    "options": {
+      "a": "Facilitating apoplastic flow of solutes into the stele",
+      "b": "Blocking the apoplastic pathway and forcing water into symplastic transport",
+      "c": "Storing starches and lipids for seasonal root growth",
+      "d": "Preventing lateral root branching from the pericycle"
+    },
+    "answer": "b",
+    "explanation": "The Casparian strip contains suberin, which makes the cell wall impermeable to water and dissolved ions, forcing them into the symplast where selective plasma membrane filtration occurs."
+  },
+  {
+    "question": "In mammalian ears, which structure converts mechanical fluid sound vibrations into electrical nerve impulses?",
+    "options": {
+      "a": "Tympanic membrane",
+      "b": "Semicircular canals",
+      "c": "Organ of Corti in the cochlea",
+      "d": "Eustachian tube"
+    },
+    "answer": "c",
+    "explanation": "The Organ of Corti, situated on the basilar membrane within the cochlea, contains sensory hair cells that transduce sound waves in endolymph into action potentials sent via the auditory nerve."
+  },
+  {
+    "question": "Nitrosomonas bacteria play an indispensable ecological role in the nitrogen cycle by converting:",
+    "options": {
+      "a": "Atmospheric nitrogen into nitrates directly",
+      "b": "Ammonia into nitrites",
+      "c": "Nitrites into nitrates",
+      "d": "Nitrates into molecular nitrogen gas"
+    },
+    "answer": "b",
+    "explanation": "Nitrification is a two-step process: Nitrosomonas oxidizes ammonia (NH3) or ammonium to nitrite (NO2-), and Nitrobacter subsequently oxidizes nitrite to nitrate (NO3-)."
+  },
+  {
+    "question": "Which of the following is a vestigial structure in the human body that provides evidence for evolution?",
+    "options": {
+      "a": "Patella",
+      "b": "Vermiform appendix",
+      "c": "Gallbladder",
+      "d": "Spleen"
+    },
+    "answer": "b",
+    "explanation": "The human vermiform appendix, homologous to the large, functional caecum of herbivorous mammals, has lost its original cellulose-digesting role and is considered vestigial."
+  },
+  {
+    "question": "Which deficiency disease is caused by an acute lack of Vitamin D or dietary calcium in growing children?",
+    "options": {
+      "a": "Scurvy",
+      "b": "Pellagra",
+      "c": "Rickets",
+      "d": "Beriberi"
+    },
+    "answer": "c",
+    "explanation": "Rickets is characterized by poor bone mineralization, leading to soft, deformed, or bowed bones in young children due to insufficient vitamin D or calcium intake."
+  },
+  {
+    "question": "An organism that possesses a true coelom lined completely by mesoderm on both body wall and gut wall belongs to the category of:",
+    "options": {
+      "a": "Acoelomates",
+      "b": "Pseudocoelomates",
+      "c": "Eucoelomates (Coelomates)",
+      "d": "Diploblastic organisms"
+    },
+    "answer": "c",
+    "explanation": "Eucoelomates (such as annelids, arthropods, molluscs, and chordates) have a secondary body cavity completely bounded by mesodermal epithelium (peritoneum)."
+  },
+  {
+    "question": "During which phase of the human ovarian cycle does the corpus luteum secrete large amounts of progesterone?",
+    "options": {
+      "a": "Follicular phase",
+      "b": "Ovulatory phase",
+      "c": "Luteal phase",
+      "d": "Menstrual phase"
+    },
+    "answer": "c",
+    "explanation": "Following ovulation, the collapsed graafian follicle transforms into the corpus luteum, which secretes progesterone and oestrogen during the luteal (secretory) phase to prepare the endometrium."
+  },
+  {
+    "question": "In modern phylogenetic taxonomy, all prokaryotic organisms lacking membrane-bound organelles are grouped into the domain(s):",
+    "options": {
+      "a": "Eukarya only",
+      "b": "Bacteria and Archaea",
+      "c": "Protista only",
+      "d": "Monera and Fungi"
+    },
+    "answer": "b",
+    "explanation": "Carl Woese's three-domain system divides living cellular organisms into Bacteria, Archaea (both prokaryotic), and Eukarya (eukaryotic)."
+  },
+  {
+    "question": "Which type of ecological succession starts on newly formed volcanic lava or a bare rock surface where no previous community existed?",
+    "options": {
+      "a": "Secondary succession",
+      "b": "Primary succession",
+      "c": "Allogenic succession",
+      "d": "Autotrophic climax"
+    },
+    "answer": "b",
+    "explanation": "Primary succession begins in virtually lifeless environments where soil has not yet formed, such as retreating glaciers, cooled volcanic lava flows, or bare rock outcrops."
+  },
+  {
+    "question": "What is the principal nitrogenous waste product excreted by terrestrial insects, birds, and desert reptiles?",
+    "options": {
+      "a": "Urea",
+      "b": "Ammonia",
+      "c": "Uric acid",
+      "d": "Trimethylamine oxide"
+    },
+    "answer": "c",
+    "explanation": "Uric acid is insoluble in water and relatively non-toxic, allowing it to be excreted as a semi-solid paste with minimal water loss (uricotelism), which is vital for arid adaptation."
+  },
+  {
+    "question": "In xerophytic plants, which of the following morphological adaptations reduces the rate of water loss via transpiration?",
+    "options": {
+      "a": "Large, thin leaf blades with numerous stomata on both surfaces",
+      "b": "Sunken stomata located in hair-lined pits and thick waxy cuticles",
+      "c": "Absence of vascular bundles and thin epidermal cell walls",
+      "d": "High stomatal frequency on the adaxial (upper) leaf surface"
+    },
+    "answer": "b",
+    "explanation": "Sunken stomata inside stomatal crypts reduce air movement across the pore, while thick cutinized cuticles significantly lower cuticular and stomatal transpirational water loss."
+  },
+  {
+    "question": "In Mendelian genetics, a test cross is performed to determine the unknown genotype of a dominant phenotype by crossing it with an individual that is:",
+    "options": {
+      "a": "Homozygous dominant",
+      "b": "Heterozygous dominant",
+      "c": "Homozygous recessive",
+      "d": "Hemizygous wild type"
+    },
+    "answer": "c",
+    "explanation": "A test cross mates an organism displaying a dominant phenotype (genotype unknown: AA or Aa) with a homozygous recessive individual (aa) to reveal the dominant organism's genotype."
+  },
+  {
+    "question": "Which chamber of the human heart pumps oxygenated blood under highest systemic pressure into the aorta?",
+    "options": {
+      "a": "Right atrium",
+      "b": "Left atrium",
+      "c": "Right ventricle",
+      "d": "Left ventricle"
+    },
+    "answer": "d",
+    "explanation": "The left ventricle has the thickest muscular myocardium because it must generate enough systolic hydrostatic pressure to pump blood through the systemic circulation."
+  },
+  {
+    "question": "The process by which white blood cells (leukocytes) squeeze through intact capillary walls into inflamed surrounding tissues is termed:",
+    "options": {
+      "a": "Pinocytosis",
+      "b": "Diapedesis (extravasation)",
+      "c": "Agglutination",
+      "d": "Hemolysis"
+    },
+    "answer": "b",
+    "explanation": "Diapedesis (leukocyte extravasation) is the movement of white blood cells across the unruptured endothelial wall of blood capillaries toward sites of inflammation or tissue damage."
+  },
+  {
+    "question": "Which of the following is NOT an example of a density-dependent factor regulating population size in nature?",
+    "options": {
+      "a": "Competition for nesting sites",
+      "b": "Outbreak of an infectious bacterial epidemic",
+      "c": "Predation pressure",
+      "d": "A catastrophic volcanic eruption"
+    },
+    "answer": "d",
+    "explanation": "Volcanic eruptions, floods, and droughts are density-independent abiotic factors that affect population size regardless of population density."
+  },
+  {
+    "question": "In the human respiratory cycle, inhalation occurs when:",
+    "options": {
+      "a": "The diaphragm relaxes and arches upward while external intercostals relax",
+      "b": "The diaphragm contracts and flattens while external intercostals pull the ribs upward and outward",
+      "c": "Internal intercostal muscles contract strongly and abdominal muscles depress the ribcage",
+      "d": "Intra-alveolar pressure rises significantly above atmospheric pressure"
+    },
+    "answer": "b",
+    "explanation": "Inhalation is an active process where contraction and flattening of the diaphragm combined with contraction of external intercostal muscles increases thoracic cavity volume, lowering alveolar pressure below atmospheric."
+  },
+  {
+    "question": "The structural and functional unit of heredity composed of a specific sequence of nucleotides located at a particular locus on a chromosome is a:",
+    "options": {
+      "a": "Codon",
+      "b": "Gene",
+      "c": "Centromere",
+      "d": "Histone"
+    },
+    "answer": "b",
+    "explanation": "A gene is a discrete sequence of DNA nucleotides that codes for a functional polypeptide or RNA molecule, occupying a fixed position (locus) on a chromosome."
+  },
+  {
+    "question": "Which of the following organisms exhibits alternation of generations with a dominant, free-living gametophyte and a dependent sporophyte?",
+    "options": {
+      "a": "Angiosperms (Flowering plants)",
+      "b": "Gymnosperms (Conifers)",
+      "c": "Bryophytes (Mosses)",
+      "d": "Pteridophytes (Ferns)"
+    },
+    "answer": "c",
+    "explanation": "In bryophytes (mosses, liverworts), the haploid gametophyte is the dominant, photosynthetic, and independent phase, whereas the sporophyte is permanently attached and dependent on it."
+  },
+  {
+    "question": "The primary cause of eutrophication in inland freshwater lakes is the excessive influx of run-off containing:",
+    "options": {
+      "a": "Chlorofluorocarbons and sulfur oxides",
+      "b": "Nitrates and phosphates from fertilizers and sewage",
+      "c": "Carbon monoxide and particulate heavy metals",
+      "d": "Saturated hydrocarbons and crude petroleum"
+    },
+    "answer": "b",
+    "explanation": "Eutrophication is caused by an overabundance of plant nutrients, particularly nitrogen and phosphorus from agricultural fertilizers and municipal waste, causing algal blooms and subsequent biological oxygen demand (BOD) spikes."
+  }
+]

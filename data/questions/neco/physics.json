@@ -1,0 +1,552 @@
+[
+    {
+        "question": "Which of the following physical quantities has the same dimensions as work?",
+        "options": {
+            "a": "Power",
+            "b": "Torque (moment of a couple)",
+            "c": "Momentum",
+            "d": "Pressure"
+        },
+        "answer": "b",
+        "explanation": "Work (Force x Distance) and Torque (Force x Perpendicular distance) both have the dimensions [M L^2 T^-2]."
+    },
+    {
+        "question": "A body is projected from ground level with an initial velocity of 40 m s-1 at an angle of 30\u00b0 to the horizontal. Calculate the maximum height reached by the body. [g = 10 m s-2]",
+        "options": {
+            "a": "10 m",
+            "b": "20 m",
+            "c": "40 m",
+            "d": "80 m"
+        },
+        "answer": "b",
+        "explanation": "H_max = (u^2 sin^2 \u03b8) / (2g). Here, u = 40, sin 30\u00b0 = 0.5. H_max = (40^2 x 0.5^2) / (2 x 10) = (1600 x 0.25) / 20 = 400 / 20 = 20 m."
+    },
+    {
+        "question": "Newton's second law of motion states that the rate of change of momentum of a body is directly proportional to the",
+        "options": {
+            "a": "applied force and occurs in the direction of the force",
+            "b": "velocity of the body",
+            "c": "mass of the body",
+            "d": "acceleration produced"
+        },
+        "answer": "a",
+        "explanation": "Newton's second law states that the rate of change of momentum is directly proportional to the resultant applied force and takes place in the direction of that force (F = dp/dt)."
+    },
+    {
+        "question": "A particle moves with uniform speed in a circular path of radius 5 m. If it completes 10 revolutions in 5 seconds, what is its angular velocity?",
+        "options": {
+            "a": "2\u03c0 rad s-1",
+            "b": "4\u03c0 rad s-1",
+            "c": "10\u03c0 rad s-1",
+            "d": "20\u03c0 rad s-1"
+        },
+        "answer": "b",
+        "explanation": "Frequency f = 10 rev / 5 s = 2 Hz. Angular velocity \u03c9 = 2\u03c0f = 2\u03c0(2) = 4\u03c0 rad s-1."
+    },
+    {
+        "question": "The period of oscillation of a simple pendulum is doubled when its length is",
+        "options": {
+            "a": "doubled",
+            "b": "halved",
+            "c": "quadrupled (increased by a factor of 4)",
+            "d": "quartered (reduced to 1/4)"
+        },
+        "answer": "c",
+        "explanation": "The period of a simple pendulum is T = 2\u03c0\u221a(L/g). For T to double (2T), \u221a(L) must double, meaning the length L must be quadrupled (4L)."
+    },
+    {
+        "question": "A machine has a velocity ratio of 5 and an efficiency of 80%. What effort is required to raise a load of 400 N using this machine?",
+        "options": {
+            "a": "50 N",
+            "b": "80 N",
+            "c": "100 N",
+            "d": "250 N"
+        },
+        "answer": "c",
+        "explanation": "Efficiency = (MA / VR) x 100% => 0.80 = MA / 5 => MA = 4. Since MA = Load / Effort => 4 = 400 / Effort => Effort = 400 / 4 = 100 N."
+    },
+    {
+        "question": "An object weighs 15.0 N in air and 9.0 N when completely submerged in water. What is the relative density of the object?",
+        "options": {
+            "a": "1.50",
+            "b": "1.67",
+            "c": "2.50",
+            "d": "0.60"
+        },
+        "answer": "c",
+        "explanation": "Upthrust = Weight in air - Weight in water = 15.0 - 9.0 = 6.0 N. Relative density = Weight in air / Upthrust = 15.0 / 6.0 = 2.50."
+    },
+    {
+        "question": "The constant maximum velocity attained by an object falling freely through a viscous fluid is called",
+        "options": {
+            "a": "critical velocity",
+            "b": "terminal velocity",
+            "c": "escape velocity",
+            "d": "instantaneous velocity"
+        },
+        "answer": "b",
+        "explanation": "Terminal velocity is reached when the downward gravitational force equals the sum of the buoyant upthrust and the upward viscous drag force, resulting in zero net acceleration."
+    },
+    {
+        "question": "The spherical shape assumed by small falling raindrops is primarily attributable to",
+        "options": {
+            "a": "viscosity",
+            "b": "atmospheric pressure",
+            "c": "surface tension",
+            "d": "capillarity"
+        },
+        "answer": "c",
+        "explanation": "Surface tension causes liquids to minimize their surface area for a given volume, and a sphere has the least surface area to volume ratio."
+    },
+    {
+        "question": "A brass rod of length 2.0 m at 20 \u00b0C expands by 1.9 mm when heated to 70 \u00b0C. What is the linear expansivity of brass?",
+        "options": {
+            "a": "1.9 x 10^-5 K-1",
+            "b": "3.8 x 10^-5 K-1",
+            "c": "9.5 x 10^-6 K-1",
+            "d": "5.7 x 10^-5 K-1"
+        },
+        "answer": "a",
+        "explanation": "\u0394L = L0 * \u03b1 * \u0394T => \u03b1 = \u0394L / (L0 * \u0394T). Here \u0394L = 1.9 x 10^-3 m, L0 = 2.0 m, \u0394T = 50 K. \u03b1 = 1.9 x 10^-3 / (2.0 x 50) = 1.9 x 10^-5 K-1."
+    },
+    {
+        "question": "How much heat energy is required to raise the temperature of 2.0 kg of copper from 25 \u00b0C to 75 \u00b0C? [Specific heat capacity of copper = 400 J kg-1 K-1]",
+        "options": {
+            "a": "20 kJ",
+            "b": "40 kJ",
+            "c": "60 kJ",
+            "d": "80 kJ"
+        },
+        "answer": "b",
+        "explanation": "Q = m * c * \u0394\u03b8 = 2.0 kg x 400 J kg-1 K-1 x (75 - 25) K = 2.0 x 400 x 50 = 40,000 J = 40 kJ."
+    },
+    {
+        "question": "Which mode of heat transfer does NOT require any material medium for propagation?",
+        "options": {
+            "a": "Conduction",
+            "b": "Convection",
+            "c": "Radiation",
+            "d": "Advection"
+        },
+        "answer": "c",
+        "explanation": "Thermal radiation consists of electromagnetic waves (infrared photons) that propagate through vacuum without requiring matter."
+    },
+    {
+        "question": "A fixed mass of gas occupies a volume of 300 cm3 at 27 \u00b0C under constant pressure. At what temperature will its volume be 400 cm3?",
+        "options": {
+            "a": "36 \u00b0C",
+            "b": "100 \u00b0C",
+            "c": "127 \u00b0C",
+            "d": "400 \u00b0C"
+        },
+        "answer": "c",
+        "explanation": "Charles's law: V1 / T1 = V2 / T2. T1 = 27 + 273 = 300 K. 300 / 300 = 400 / T2 => T2 = 400 K. In Celsius: 400 - 273 = 127 \u00b0C."
+    },
+    {
+        "question": "A radio transmitter broadcasts electromagnetic waves at a frequency of 100 MHz. Calculate the wavelength of these waves. [Speed of light c = 3.0 x 10^8 m s-1]",
+        "options": {
+            "a": "0.33 m",
+            "b": "3.0 m",
+            "c": "30 m",
+            "d": "300 m"
+        },
+        "answer": "b",
+        "explanation": "c = f * \u03bb => \u03bb = c / f = (3.0 x 10^8 m s-1) / (100 x 10^6 s-1) = 3.0 m."
+    },
+    {
+        "question": "In a stationary wave, the distance between two consecutive nodes is equal to",
+        "options": {
+            "a": "one-quarter of a wavelength (\u03bb/4)",
+            "b": "one-half of a wavelength (\u03bb/2)",
+            "c": "three-quarters of a wavelength (3\u03bb/4)",
+            "d": "one full wavelength (\u03bb)"
+        },
+        "answer": "b",
+        "explanation": "In a stationary (standing) wave, adjacent nodes (points of zero displacement) or adjacent antinodes are separated by exactly half a wavelength (\u03bb/2)."
+    },
+    {
+        "question": "A boy claps his hands in front of a tall vertical cliff and hears the echo 1.2 seconds later. If the speed of sound in air is 340 m s-1, how far is the cliff from the boy?",
+        "options": {
+            "a": "170 m",
+            "b": "204 m",
+            "c": "408 m",
+            "d": "816 m"
+        },
+        "answer": "b",
+        "explanation": "Distance d = (v * t) / 2 = (340 m s-1 x 1.2 s) / 2 = 408 / 2 = 204 m."
+    },
+    {
+        "question": "An air column in a pipe closed at one end has a fundamental frequency of 250 Hz. What is the frequency of its first overtone (third harmonic)?",
+        "options": {
+            "a": "500 Hz",
+            "b": "750 Hz",
+            "c": "1000 Hz",
+            "d": "1250 Hz"
+        },
+        "answer": "b",
+        "explanation": "A closed pipe produces only odd harmonics: f1, 3f1, 5f1... The first overtone is the 3rd harmonic = 3 x 250 Hz = 750 Hz."
+    },
+    {
+        "question": "An object is placed 15 cm in front of a concave mirror of focal length 10 cm. The image formed is",
+        "options": {
+            "a": "virtual, erect, and magnified",
+            "b": "real, inverted, and magnified",
+            "c": "real, inverted, and diminished",
+            "d": "virtual, inverted, and diminished"
+        },
+        "answer": "b",
+        "explanation": "1/f = 1/u + 1/v => 1/10 = 1/15 + 1/v => 1/v = 1/10 - 1/15 = 1/30 => v = +30 cm. Because v > 0, the image is real and inverted. Magnification m = v/u = 30/15 = 2 (magnified)."
+    },
+    {
+        "question": "A ray of light traveling from glass into air strikes the boundary at an angle of incidence of 30\u00b0. If the refractive index of glass is 1.50, calculate the angle of refraction in air.",
+        "options": {
+            "a": "45.0\u00b0",
+            "b": "48.6\u00b0",
+            "c": "60.0\u00b0",
+            "d": "19.5\u00b0"
+        },
+        "answer": "b",
+        "explanation": "By Snell's law: n_glass * sin(i) = n_air * sin(r) => 1.50 * sin(30\u00b0) = 1.0 * sin(r) => sin(r) = 1.50 * 0.50 = 0.75 => r = arcsin(0.75) \u2248 48.6\u00b0."
+    },
+    {
+        "question": "Total internal reflection occurs only when light travels from",
+        "options": {
+            "a": "an optically denser medium to an optically less dense medium at an angle of incidence greater than the critical angle",
+            "b": "an optically less dense medium to an optically denser medium at an angle of incidence greater than the critical angle",
+            "c": "an optically denser medium to a rarer medium at an angle of incidence less than the critical angle",
+            "d": "any medium to vacuum at an angle of 90\u00b0"
+        },
+        "answer": "a",
+        "explanation": "Total internal reflection occurs when light propagates from a medium of higher refractive index toward one of lower refractive index, and the angle of incidence exceeds the critical angle."
+    },
+    {
+        "question": "A short-sighted (myopic) person cannot focus on distant objects because images form in front of the retina. This defect is corrected by using spectacles with",
+        "options": {
+            "a": "convex (converging) lenses",
+            "b": "concave (diverging) lenses",
+            "c": "cylindrical lenses",
+            "d": "bifocal lenses"
+        },
+        "answer": "b",
+        "explanation": "A diverging (concave) lens diverges incoming parallel light rays slightly before entering the eye, ensuring the image focuses directly on the retina."
+    },
+    {
+        "question": "Which of the following electromagnetic radiations has the shortest wavelength and highest frequency?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Ultraviolet rays",
+            "c": "X-rays",
+            "d": "Gamma rays"
+        },
+        "answer": "d",
+        "explanation": "Gamma rays have the shortest wavelengths (< 10^-11 m) and highest frequencies (> 10^19 Hz) in the electromagnetic spectrum."
+    },
+    {
+        "question": "Two point charges of +4.0 \u03bcC and +9.0 \u03bcC are separated by a distance of 0.3 m in vacuum. Calculate the electrostatic repulsive force between them. [1 / (4\u03c0\u03b50) = 9.0 x 10^9 N m2 C-2]",
+        "options": {
+            "a": "1.2 N",
+            "b": "3.6 N",
+            "c": "10.8 N",
+            "d": "36.0 N"
+        },
+        "answer": "b",
+        "explanation": "Coulomb's Law: F = (k * q1 * q2) / r^2 = (9.0 x 10^9 x 4.0 x 10^-6 x 9.0 x 10^-6) / (0.3)^2 = (324 x 10^-3) / 0.09 = 0.324 / 0.09 = 3.6 N."
+    },
+    {
+        "question": "A 10 \u03bcF capacitor is charged to a potential difference of 200 V. The electrical energy stored in the capacitor is",
+        "options": {
+            "a": "0.10 J",
+            "b": "0.20 J",
+            "c": "0.40 J",
+            "d": "1.00 J"
+        },
+        "answer": "b",
+        "explanation": "Energy E = 1/2 * C * V^2 = 1/2 x (10 x 10^-6 F) x (200 V)^2 = 5 x 10^-6 x 40,000 = 0.20 J."
+    },
+    {
+        "question": "Three resistors of 2 \u03a9, 3 \u03a9, and 6 \u03a9 are connected in parallel. What is the equivalent resistance of the combination?",
+        "options": {
+            "a": "1 \u03a9",
+            "b": "2 \u03a9",
+            "c": "6 \u03a9",
+            "d": "11 \u03a9"
+        },
+        "answer": "a",
+        "explanation": "1/R = 1/2 + 1/3 + 1/6 = (3 + 2 + 1)/6 = 6/6 = 1 \u03a9^-1 => R = 1 \u03a9."
+    },
+    {
+        "question": "A cell of e.m.f. 2.0 V and internal resistance 0.5 \u03a9 is connected across an external resistor of 4.5 \u03a9. What is the terminal potential difference across the cell?",
+        "options": {
+            "a": "0.2 V",
+            "b": "1.8 V",
+            "c": "2.0 V",
+            "d": "2.2 V"
+        },
+        "answer": "b",
+        "explanation": "Current I = E / (R + r) = 2.0 / (4.5 + 0.5) = 2.0 / 5.0 = 0.4 A. Terminal p.d. V = I * R = 0.4 A x 4.5 \u03a9 = 1.8 V."
+    },
+    {
+        "question": "To convert a sensitive moving-coil galvanometer into an ammeter capable of measuring large currents, one must connect",
+        "options": {
+            "a": "a low resistance (shunt) in parallel with the coil",
+            "b": "a high resistance (multiplier) in series with the coil",
+            "c": "a high resistance in parallel with the coil",
+            "d": "a low resistance in series with the coil"
+        },
+        "answer": "a",
+        "explanation": "A low-resistance resistor (shunt) placed in parallel diverts the majority of the circuit current around the sensitive galvanometer coil."
+    },
+    {
+        "question": "A straight wire of length 0.5 m carrying a current of 4.0 A is placed perpendicularly in a uniform magnetic field of 0.2 T. What magnetic force acts on the wire?",
+        "options": {
+            "a": "0.1 N",
+            "b": "0.4 N",
+            "c": "0.8 N",
+            "d": "1.6 N"
+        },
+        "answer": "b",
+        "explanation": "Force F = B * I * L * sin(\u03b8) = 0.2 T x 4.0 A x 0.5 m x sin(90\u00b0) = 0.40 N."
+    },
+    {
+        "question": "Lenz's law of electromagnetic induction is a direct manifestation of which fundamental conservation law?",
+        "options": {
+            "a": "Conservation of linear momentum",
+            "b": "Conservation of energy",
+            "c": "Conservation of electric charge",
+            "d": "Conservation of angular momentum"
+        },
+        "answer": "b",
+        "explanation": "Lenz's law states that an induced current flows in a direction opposing the change causing it, ensuring mechanical work done equals electrical energy generated, obeying conservation of energy."
+    },
+    {
+        "question": "An ideal step-down transformer has 1200 turns on its primary coil and 60 turns on its secondary coil. If the primary voltage is 240 V, what is the output secondary voltage?",
+        "options": {
+            "a": "12 V",
+            "b": "24 V",
+            "c": "48 V",
+            "d": "60 V"
+        },
+        "answer": "a",
+        "explanation": "Vs / Vp = Ns / Np => Vs = Vp x (Ns / Np) = 240 V x (60 / 1200) = 240 x 0.05 = 12 V."
+    },
+    {
+        "question": "The peak voltage of an alternating current supply is 311 V. What is the root-mean-square (r.m.s.) voltage of the supply?",
+        "options": {
+            "a": "155 V",
+            "b": "220 V",
+            "c": "240 V",
+            "d": "311 V"
+        },
+        "answer": "b",
+        "explanation": "V_rms = V_peak / \u221a2 = 311 / 1.414 \u2248 220 V."
+    },
+    {
+        "question": "In a series RLC circuit, electrical resonance occurs when the",
+        "options": {
+            "a": "inductive reactance equals the capacitive reactance (XL = XC)",
+            "b": "resistance is zero",
+            "c": "inductive reactance is zero",
+            "d": "impedance is at its maximum"
+        },
+        "answer": "a",
+        "explanation": "At resonance, the inductive reactance XL cancels out the capacitive reactance XC (XL = XC), reducing total impedance to pure resistance (Z = R) and maximizing current."
+    },
+    {
+        "question": "The process by which electrons are emitted from a metal surface when heated to incandescence is termed",
+        "options": {
+            "a": "secondary emission",
+            "b": "photoelectric emission",
+            "c": "thermionic emission",
+            "d": "field emission"
+        },
+        "answer": "c",
+        "explanation": "Thermionic emission is the thermally induced discharge of electrons from a heated cathode or filament when thermal energy overcomes the metal's work function."
+    },
+    {
+        "question": "The minimum frequency of incident radiation below which no photoelectric emission takes place from a metallic surface is known as the",
+        "options": {
+            "a": "stopping frequency",
+            "b": "threshold frequency",
+            "c": "resonant frequency",
+            "d": "critical frequency"
+        },
+        "answer": "b",
+        "explanation": "The threshold (or cut-off) frequency f0 is the minimum photon frequency possessing sufficient quantum energy (E = h*f0) to match the work function of the metal."
+    },
+    {
+        "question": "The work function of a metal is 3.2 x 10^-19 J. If photons of energy 5.0 x 10^-19 J strike the surface, what is the maximum kinetic energy of the emitted photoelectrons?",
+        "options": {
+            "a": "1.8 x 10^-19 J",
+            "b": "3.2 x 10^-19 J",
+            "c": "5.0 x 10^-19 J",
+            "d": "8.2 x 10^-19 J"
+        },
+        "answer": "a",
+        "explanation": "By Einstein's photoelectric equation: K.E_max = E - W0 = (5.0 x 10^-19 J) - (3.2 x 10^-19 J) = 1.8 x 10^-19 J."
+    },
+    {
+        "question": "A radioactive isotope has a half-life of 4 hours. If a freshly prepared sample contains 80 g of the isotope, what mass remains undecayed after 16 hours?",
+        "options": {
+            "a": "2.5 g",
+            "b": "5.0 g",
+            "c": "10.0 g",
+            "d": "20.0 g"
+        },
+        "answer": "b",
+        "explanation": "Number of elapsed half-lives n = 16 h / 4 h = 4. Remaining mass = 80 g / (2^4) = 80 / 16 = 5.0 g."
+    },
+    {
+        "question": "Which of the following nuclear radiations is deflected towards the positive plate in an electric field?",
+        "options": {
+            "a": "Alpha (\u03b1) particles",
+            "b": "Beta (\u03b2-) particles",
+            "c": "Gamma (\u03b3) rays",
+            "d": "Neutrons"
+        },
+        "answer": "b",
+        "explanation": "Beta (\u03b2-) particles are fast-moving electrons carrying a negative charge (-e); hence they are attracted and deflected toward the positively charged electrode."
+    },
+    {
+        "question": "The nuclear reaction represented by 2_1 H + 3_1 H -> 4_2 He + 1_0 n + Energy is an example of",
+        "options": {
+            "a": "nuclear fission",
+            "b": "nuclear fusion",
+            "c": "alpha decay",
+            "d": "artificial transmutation"
+        },
+        "answer": "b",
+        "explanation": "Nuclear fusion is the combination of two light atomic nuclei (deuterium and tritium) at extreme temperatures to form a heavier nucleus (helium) with release of immense energy."
+    },
+    {
+        "question": "A p-type semiconductor is fabricated by doping intrinsic silicon or germanium with an impurity element such as",
+        "options": {
+            "a": "phosphorus",
+            "b": "arsenic",
+            "c": "indium (or boron)",
+            "d": "antimony"
+        },
+        "answer": "c",
+        "explanation": "Trivalent elements like boron, aluminium, or indium have three valence electrons; when doped into a tetravalent lattice, they create excess mobile electron holes, yielding a p-type semiconductor."
+    },
+    {
+        "question": "A force of 50 N stretches a wire by 2.0 mm. Assuming the elastic limit is not exceeded, what force would stretch the same wire by 5.0 mm?",
+        "options": {
+            "a": "100 N",
+            "b": "125 N",
+            "c": "150 N",
+            "d": "250 N"
+        },
+        "answer": "b",
+        "explanation": "By Hooke's law: F = k * e => k = F / e = 50 N / 2.0 mm = 25 N mm-1. For e = 5.0 mm, F = 25 N mm-1 x 5.0 mm = 125 N."
+    },
+    {
+        "question": "A block of mass 10 kg rests on a rough horizontal table. If the coefficient of static friction between the block and the table is 0.35, calculate the minimum horizontal force needed to set the block in motion. [g = 10 m s-2]",
+        "options": {
+            "a": "3.5 N",
+            "b": "10.0 N",
+            "c": "35.0 N",
+            "d": "70.0 N"
+        },
+        "answer": "c",
+        "explanation": "Normal reaction R = m * g = 10 kg x 10 m s-2 = 100 N. Limiting friction F_lim = \u03bc_s * R = 0.35 x 100 N = 35.0 N."
+    },
+    {
+        "question": "A ball of mass 0.2 kg moving with a velocity of 20 m s-1 collides head-on with a stationary ball of mass 0.3 kg and they stick together. What is their common velocity after collision?",
+        "options": {
+            "a": "4 m s-1",
+            "b": "8 m s-1",
+            "c": "10 m s-1",
+            "d": "12 m s-1"
+        },
+        "answer": "b",
+        "explanation": "By conservation of linear momentum: m1*u1 + m2*u2 = (m1 + m2)*v => (0.2 x 20) + (0.3 x 0) = (0.2 + 0.3)*v => 4.0 = 0.5*v => v = 4.0 / 0.5 = 8 m s-1."
+    },
+    {
+        "question": "Which of the following optical instruments always produces a virtual, erect, and diminished image of a real object?",
+        "options": {
+            "a": "Concave mirror",
+            "b": "Convex mirror",
+            "c": "Convex lens",
+            "d": "Plane mirror"
+        },
+        "answer": "b",
+        "explanation": "A diverging (convex) mirror always forms a virtual, erect, and diminished image regardless of the position of the real object in front of it."
+    },
+    {
+        "question": "The rate at which work is done or energy is transformed is defined as",
+        "options": {
+            "a": "momentum",
+            "b": "force",
+            "c": "power",
+            "d": "impulse"
+        },
+        "answer": "c",
+        "explanation": "Power is defined as the time rate of doing work or transferring energy (P = W / t, measured in Watts)."
+    },
+    {
+        "question": "When white light passes through a triangular glass prism, which colour is refracted (deviated) the most?",
+        "options": {
+            "a": "Red",
+            "b": "Yellow",
+            "c": "Blue",
+            "d": "Violet"
+        },
+        "answer": "d",
+        "explanation": "Violet light has the shortest wavelength in the visible spectrum and travels slowest in glass, giving it the highest refractive index and greatest angle of deviation."
+    },
+    {
+        "question": "What is the equivalent capacitance when three capacitors of 2 \u03bcF, 3 \u03bcF, and 5 \u03bcF are connected in parallel across a 12 V source?",
+        "options": {
+            "a": "10 \u03bcF",
+            "b": "0.97 \u03bcF",
+            "c": "30 \u03bcF",
+            "d": "1.5 \u03bcF"
+        },
+        "answer": "a",
+        "explanation": "For capacitors connected in parallel, the equivalent capacitance is the direct algebraic sum of the individual capacitances: C_eq = C1 + C2 + C3 = 2 \u03bcF + 3 \u03bcF + 5 \u03bcF = 10 \u03bcF."
+    },
+    {
+        "question": "A hydraulic press has a small piston of cross-sectional area 0.02 m2 and a large piston of area 0.80 m2. If a force of 150 N is applied to the small piston, what force is exerted by the large piston?",
+        "options": {
+            "a": "3,000 N",
+            "b": "6,000 N",
+            "c": "1,200 N",
+            "d": "75 N"
+        },
+        "answer": "b",
+        "explanation": "By Pascal's principle: P1 = P2 => F1 / A1 = F2 / A2 => F2 = F1 x (A2 / A1) = 150 N x (0.80 / 0.02) = 150 x 40 = 6,000 N."
+    },
+    {
+        "question": "The property of an electric conductor that resists the change in current flowing through it is known as",
+        "options": {
+            "a": "conductance",
+            "b": "self-inductance",
+            "c": "capacitance",
+            "d": "reluctance"
+        },
+        "answer": "b",
+        "explanation": "Self-inductance is the property of an electrical circuit whereby a change in current induces an opposing electromotive force (back e.m.f.) in the circuit itself."
+    },
+    {
+        "question": "The apparent shift in the position of an object when viewed from two different points is known as",
+        "options": {
+            "a": "aberration",
+            "b": "parallax",
+            "c": "dispersion",
+            "d": "diffraction"
+        },
+        "answer": "b",
+        "explanation": "Parallax is the apparent displacement of an object relative to its background caused by a change in the observer's line of sight."
+    },
+    {
+        "question": "Which of the following laws states that the pressure of a fixed mass of gas is directly proportional to its absolute temperature at constant volume?",
+        "options": {
+            "a": "Boyle's law",
+            "b": "Charles's law",
+            "c": "Pressure Law (Gay-Lussac's law)",
+            "d": "Dalton's law of partial pressures"
+        },
+        "answer": "c",
+        "explanation": "The Pressure Law (or Gay-Lussac's Law) states that at constant volume, the pressure of a given mass of gas is directly proportional to its thermodynamic temperature (P \u221d T)."
+    }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Which of the following computer generations is primarily characterized by the integration of Very Large Scale Integration (VLSI) circuits and the invention of microprocessors?",
+    "options": {
+      "a": "First Generation",
+      "b": "Second Generation",
+      "c": "Third Generation",
+      "d": "Fourth Generation"
+    },
+    "answer": "d",
+    "explanation": "The Fourth Generation (roughly 1971–present) is characterized by the use of Very Large Scale Integration (VLSI) and Ultra Large Scale Integration (ULSI) circuits, which enabled the entire Central Processing Unit (CPU) to be placed on a single chip known as a microprocessor."
+  },
+  {
+    "question": "What is the decimal equivalent of the binary number (1101011)₂?",
+    "options": {
+      "a": "105",
+      "b": "107",
+      "c": "111",
+      "d": "115"
+    },
+    "answer": "b",
+    "explanation": "Converting (1101011)₂ to decimal: (1 × 2⁶) + (1 × 2⁵) + (0 × 2⁴) + (1 × 2³) + (0 × 2²) + (1 × 2¹) + (1 × 2⁰) = 64 + 32 + 0 + 8 + 0 + 2 + 1 = 107."
+  },
+  {
+    "question": "Which register within the Central Processing Unit holds the address of the next instruction to be fetched from primary memory?",
+    "options": {
+      "a": "Memory Data Register (MDR)",
+      "b": "Current Instruction Register (CIR)",
+      "c": "Program Counter (PC)",
+      "d": "Accumulator (ACC)"
+    },
+    "answer": "c",
+    "explanation": "The Program Counter (PC) stores the memory address of the next machine instruction scheduled to be fetched and executed in the CPU instruction cycle."
+  },
+  {
+    "question": "A logic gate produces a HIGH output (1) if and only if all of its inputs are LOW (0). This describes which type of gate?",
+    "options": {
+      "a": "NAND gate",
+      "b": "NOR gate",
+      "c": "XOR gate",
+      "d": "AND gate"
+    },
+    "answer": "b",
+    "explanation": "A NOR gate (NOT-OR) outputs 1 only when all input lines are 0. If any input is 1, the output is pulled LOW (0)."
+  },
+  {
+    "question": "Convert the hexadecimal number (2F)₁₆ to octal notation.",
+    "options": {
+      "a": "47",
+      "b": "57",
+      "c": "67",
+      "d": "71"
+    },
+    "answer": "b",
+    "explanation": "First convert (2F)₁₆ to binary: 2 = 0010, F = 1111, giving binary 00101111₂. Group into 3 bits from right: 101 (5) and 111 (7). Thus, (2F)₁₆ = (57)₈."
+  },
+  {
+    "question": "Which system software component translates an entire high-level programming language source program into object code in a single batch operation before execution?",
+    "options": {
+      "a": "Interpreter",
+      "b": "Compiler",
+      "c": "Assembler",
+      "d": "Linker"
+    },
+    "answer": "b",
+    "explanation": "A compiler scans and translates the entire source code written in a high-level language into machine-readable object code prior to program execution, unlike an interpreter which translates and executes line-by-line."
+  },
+  {
+    "question": "Which memory type is non-volatile, retains firmware instructions such as the BIOS/UEFI, and can be erased and reprogrammed electrically using pulsed voltage?",
+    "options": {
+      "a": "SRAM",
+      "b": "DRAM",
+      "c": "EEPROM",
+      "d": "PROM"
+    },
+    "answer": "c",
+    "explanation": "EEPROM (Electrically Erasable Programmable Read-Only Memory) is non-volatile primary storage that can be erased and rewritten electrically byte-by-byte, making it ideal for BIOS/UEFI firmware."
+  },
+  {
+    "question": "In database design, an attribute or set of attributes in one relation that matches the primary key of another relation to establish a logical relationship is called a:",
+    "options": {
+      "a": "Composite key",
+      "b": "Candidate key",
+      "c": "Foreign key",
+      "d": "Super key"
+    },
+    "answer": "c",
+    "explanation": "A foreign key is a field (or collection of fields) in one table that uniquely identifies a row of another table by referencing its primary key, maintaining referential integrity."
+  },
+  {
+    "question": "Which network topology connects every computer to a central connecting device such as a switch or hub via dedicated point-to-point cables?",
+    "options": {
+      "a": "Bus topology",
+      "b": "Star topology",
+      "c": "Ring topology",
+      "d": "Mesh topology"
+    },
+    "answer": "b",
+    "explanation": "In a star topology, all network nodes are individually connected to a central connection node (such as a network switch or hub), preventing a single cable failure from taking down the entire network."
+  },
+  {
+    "question": "In the standard 7-layer OSI model, which layer is responsible for end-to-end communication, segmentation, flow control, and error recovery using protocols like TCP and UDP?",
+    "options": {
+      "a": "Network Layer",
+      "b": "Transport Layer",
+      "c": "Session Layer",
+      "d": "Data Link Layer"
+    },
+    "answer": "b",
+    "explanation": "The Transport Layer (Layer 4 of OSI) manages end-to-end communication services for applications, handling segmentation, connection orientation (TCP), error checking, and flow control."
+  },
+  {
+    "question": "Which of the following binary arithmetic operations represents 10110₂ - 01101₂ using two's complement arithmetic?",
+    "options": {
+      "a": "01001₂",
+      "b": "01011₂",
+      "c": "00111₂",
+      "d": "01101₂"
+    },
+    "answer": "a",
+    "explanation": "10110₂ = 22 in decimal; 01101₂ = 13 in decimal. 22 - 13 = 9. 9 in 5-bit binary is 01001₂. In two's complement: 1's complement of 01101 is 10010; adding 1 yields 10011 (-13). Adding 10110 + 10011 = 101001 (discard end carry) = 01001₂."
+  },
+  {
+    "question": "What is the primary function of the Cache memory located between the CPU and the system RAM?",
+    "options": {
+      "a": "To provide permanent storage for user documents",
+      "b": "To bridge the operational speed disparity between the high-speed CPU and slower main memory",
+      "c": "To convert analog signals from input peripherals to digital bits",
+      "d": "To store the Operating System kernel when the computer is turned off"
+    },
+    "answer": "b",
+    "explanation": "Cache memory consists of extremely fast Static RAM (SRAM) placed close to or integrated onto the CPU die to store frequently accessed data and instructions, mitigating the CPU-DRAM speed bottleneck."
+  },
+  {
+    "question": "In relational database management systems, what does the SQL command 'DELETE FROM Students WHERE Age < 16;' perform?",
+    "options": {
+      "a": "Removes the Students table structure from the database",
+      "b": "Deletes the Age column from the Students table",
+      "c": "Deletes specific records where the student's age is strictly under 16 years",
+      "d": "Modifies the age attribute values to zero for students under 16"
+    },
+    "answer": "c",
+    "explanation": "The DELETE statement in SQL removes existing rows from a table that satisfy the specified WHERE condition without altering the table structure."
+  },
+  {
+    "question": "In standard flowcharting conventions, which geometrical symbol is universally used to depict a conditional decision or branching operation?",
+    "options": {
+      "a": "Rectangle",
+      "b": "Parallelogram",
+      "c": "Diamond (Rhombus)",
+      "d": "Oval (Ellipse)"
+    },
+    "answer": "c",
+    "explanation": "In standard flowcharting, a diamond (rhombus) represents a decision point where a test is evaluated, typically branching into True/False or Yes/No paths."
+  },
+  {
+    "question": "Which of the following protocol suites is responsible for resolving a known human-readable domain name (such as jamb.gov.ng) into its corresponding numerical IP address?",
+    "options": {
+      "a": "DHCP",
+      "b": "DNS",
+      "c": "FTP",
+      "d": "SNMP"
+    },
+    "answer": "b",
+    "explanation": "The Domain Name System (DNS) translates human-friendly alphanumeric domain names into numerical IP addresses required by networking equipment to route packets across the Internet."
+  },
+  {
+    "question": "Which malicious software type disguises itself as legitimate or harmless software to trick users into installing it, but secretly executes malicious activities?",
+    "options": {
+      "a": "Trojan Horse",
+      "b": "Worm",
+      "c": "Macro Virus",
+      "d": "Boot Sector Virus"
+    },
+    "answer": "a",
+    "explanation": "A Trojan Horse masquerades as a benign or useful application to deceive a user into downloading and executing it, while concealing a destructive payload."
+  },
+  {
+    "question": "Which layer of the TCP/IP model corresponds functionally to the combination of the Session, Presentation, and Application layers of the OSI reference model?",
+    "options": {
+      "a": "Network Access Layer",
+      "b": "Internetwork Layer",
+      "c": "Transport Layer",
+      "d": "Application Layer"
+    },
+    "answer": "d",
+    "explanation": "The TCP/IP model condenses the OSI Session, Presentation, and Application layers into a single comprehensive layer termed the Application Layer."
+  },
+  {
+    "question": "What is the minimum number of bits required to uniquely address 256 distinct characters in an extended character encoding scheme?",
+    "options": {
+      "a": "6 bits",
+      "b": "7 bits",
+      "c": "8 bits",
+      "d": "16 bits"
+    },
+    "answer": "c",
+    "explanation": "Since 2⁸ = 256, an 8-bit binary word (1 byte) provides 256 unique combinations, which is the basis for Extended ASCII."
+  },
+  {
+    "question": "Which of the following scheduling algorithms in an operating system allocates CPU time slices (quanta) cyclically to each process in the ready queue without priority bias?",
+    "options": {
+      "a": "First-Come, First-Served (FCFS)",
+      "b": "Shortest Job First (SJF)",
+      "c": "Round Robin (RR)",
+      "d": "Priority Preemptive Scheduling"
+    },
+    "answer": "c",
+    "explanation": "Round Robin (RR) is a preemptive scheduling algorithm that assigns a fixed time quantum to each process in a cyclic FIFO queue, ensuring equitable CPU distribution."
+  },
+  {
+    "question": "Which of the following is considered an asynchronous communication medium on the Internet?",
+    "options": {
+      "a": "Instant messaging chat",
+      "b": "Electronic mail (E-mail)",
+      "c": "Video teleconferencing",
+      "d": "Voice over IP (VoIP) call"
+    },
+    "answer": "b",
+    "explanation": "Email is an asynchronous communication medium because the sender and receiver do not need to be online simultaneously to transmit and read messages."
+  },
+  {
+    "question": "What is the primary objective of normalizing a database to the Third Normal Form (3NF)?",
+    "options": {
+      "a": "Eliminating partial functional dependencies",
+      "b": "Eliminating transitive dependencies",
+      "c": "Combining all related tables into a single master flat file",
+      "d": "Removing all primary key constraints"
+    },
+    "answer": "b",
+    "explanation": "A relation is in 3NF if it is in 2NF and contains no transitive dependencies (i.e., non-prime attributes must not depend on other non-prime attributes; every non-key column must depend solely on the primary key)."
+  },
+  {
+    "question": "In object-oriented programming (OOP), the mechanism of binding both data attributes and the methods that manipulate them into a single secure unit is known as:",
+    "options": {
+      "a": "Inheritance",
+      "b": "Polymorphism",
+      "c": "Encapsulation",
+      "d": "Abstraction"
+    },
+    "answer": "c",
+    "explanation": "Encapsulation bundles data members and member functions into a cohesive class while restricting direct external access to internal component representations."
+  },
+  {
+    "question": "Which optical storage medium utilizes a blue-violet laser with a shorter wavelength (405 nm) to achieve high storage densities of up to 25 GB on a single layer?",
+    "options": {
+      "a": "CD-ROM",
+      "b": "DVD-ROM",
+      "c": "Blu-ray Disc (BD)",
+      "d": "LaserDisc"
+    },
+    "answer": "c",
+    "explanation": "Blu-ray discs use a 405 nm blue-violet laser (compared to the 650 nm red laser used in DVDs), enabling tighter track pitch and beam focusing, holding 25 GB per layer."
+  },
+  {
+    "question": "In HTML5, which tag is semantic and specifically designated to contain the primary navigational links of a web page?",
+    "options": {
+      "a": "<menu>",
+      "b": "<navigate>",
+      "c": "<nav>",
+      "d": "<links>"
+    },
+    "answer": "c",
+    "explanation": "The HTML5 <nav> element represents a structural section of a webpage intended to hold major navigation links."
+  },
+  {
+    "question": "Which of the following buses in computer architecture is strictly unidirectional, transmitting signals exclusively from the CPU to external memory and peripherals?",
+    "options": {
+      "a": "Data Bus",
+      "b": "Address Bus",
+      "c": "Control Bus",
+      "d": "Expansion Bus"
+    },
+    "answer": "b",
+    "explanation": "The Address Bus is unidirectional; the CPU sends out the physical address of the memory location or I/O port it wants to access, and devices decode this address."
+  },
+  {
+    "question": "What is the two's complement of the 8-bit binary number 00101100₂?",
+    "options": {
+      "a": "11010011₂",
+      "b": "11010100₂",
+      "c": "11010101₂",
+      "d": "00101101₂"
+    },
+    "answer": "b",
+    "explanation": "To find the two's complement: invert all bits of 00101100 to get the one's complement (11010011), then add 1: 11010011 + 1 = 11010100₂."
+  },
+  {
+    "question": "A network administrator wants to connect two distinct networks using different protocol architectures. Which internetworking device must be employed?",
+    "options": {
+      "a": "Hub",
+      "b": "Bridge",
+      "c": "Gateway",
+      "d": "Repeater"
+    },
+    "answer": "c",
+    "explanation": "A gateway operates at the upper layers of the OSI model and acts as a translator between two networks that use fundamentally different communications protocols."
+  },
+  {
+    "question": "What is the output of the logical expression (A AND B) OR (NOT A AND B) when A = 1 and B = 0?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "Indeterminate",
+      "d": "High Impedance"
+    },
+    "answer": "a",
+    "explanation": "Substituting A = 1 and B = 0: (1 AND 0) OR ((NOT 1) AND 0) = 0 OR (0 AND 0) = 0 OR 0 = 0."
+  },
+  {
+    "question": "Which of the following transmission media offers the highest data transmission bandwidth and immunity to Electromagnetic Interference (EMI)?",
+    "options": {
+      "a": "Shielded Twisted Pair (STP)",
+      "b": "Coaxial Cable",
+      "c": "Fiber Optic Cable",
+      "d": "Unshielded Twisted Pair (UTP)"
+    },
+    "answer": "c",
+    "explanation": "Fiber optic cables transmit data as pulses of light through silica glass fibers, making them completely immune to electromagnetic interference (EMI) and capable of terabit bandwidth over long distances."
+  },
+  {
+    "question": "In programming, a variable declared inside a specific function that can only be accessed within that function possesses:",
+    "options": {
+      "a": "Global scope",
+      "b": "Local scope",
+      "c": "Universal scope",
+      "d": "Static external scope"
+    },
+    "answer": "b",
+    "explanation": "A local variable has local scope; its visibility and lifetime are confined strictly to the block or function in which it was declared."
+  },
+  {
+    "question": "Which of the following is an example of an open-source multi-user operating system whose kernel was originally written by Linus Torvalds?",
+    "options": {
+      "a": "Windows 11",
+      "b": "macOS Sonoma",
+      "c": "Linux",
+      "d": "MS-DOS"
+    },
+    "answer": "c",
+    "explanation": "Linux is a free, open-source, monolithic, Unix-like operating system kernel created by Linus Torvalds in 1991, widely deployed in servers, supercomputers, and mobile devices (Android)."
+  },
+  {
+    "question": "The process of consolidating fragmented files on a mechanical hard disk drive to improve read/write access speed is known as:",
+    "options": {
+      "a": "Disk Formatting",
+      "b": "Disk Defragmentation",
+      "c": "Disk Partitioning",
+      "d": "Disk Compression"
+    },
+    "answer": "b",
+    "explanation": "Disk defragmentation rearranges fragmented files across contiguous clusters on an HDD, reducing read/write head movement and accelerating access times."
+  },
+  {
+    "question": "Which of the following IPv4 addresses belongs to the Class C private address space designated by RFC 1918?",
+    "options": {
+      "a": "10.0.0.1",
+      "b": "172.16.5.20",
+      "c": "192.168.1.100",
+      "d": "127.0.0.1"
+    },
+    "answer": "c",
+    "explanation": "RFC 1918 reserves 192.168.0.0 to 192.168.255.255 for Class C private networks. (10.0.0.0/8 is Class A private; 172.16.0.0/12 is Class B private; 127.0.0.1 is loopback)."
+  },
+  {
+    "question": "In an Electronic Spreadsheet (such as MS Excel), which formula correctly computes the arithmetic average of numeric values residing in cells B2 through B15?",
+    "options": {
+      "a": "=SUM(B2:B15)/COUNTIF(B2:B15)",
+      "b": "=AVERAGE(B2:B15)",
+      "c": "=MEAN(B2:B15)",
+      "d": "=AVG(B2..B15)"
+    },
+    "answer": "b",
+    "explanation": "In standard spreadsheet packages, the `=AVERAGE(range)` function computes the arithmetic mean of all numeric cells within the given range (e.g. B2:B15)."
+  },
+  {
+    "question": "A self-replicating malicious program that spreads across computer networks by exploiting system vulnerabilities without requiring human intervention or an infected host file is a:",
+    "options": {
+      "a": "Computer Worm",
+      "b": "Spyware",
+      "c": "File Infector Virus",
+      "d": "Adware"
+    },
+    "answer": "a",
+    "explanation": "Unlike viruses which require a host file and user execution, computer worms are standalone programs that automatically replicate and traverse networks through system security vulnerabilities."
+  },
+  {
+    "question": "Which of the following database constraints ensures that no two records in a relational database table can have identical values in a designated column?",
+    "options": {
+      "a": "CHECK",
+      "b": "UNIQUE",
+      "c": "DEFAULT",
+      "d": "FOREIGN KEY"
+    },
+    "answer": "b",
+    "explanation": "The UNIQUE constraint guarantees that all values in a column or combination of columns are distinct across all records in the table."
+  },
+  {
+    "question": "What is the primary role of an Operating System's spooling (Simultaneous Peripheral Operations On-Line) mechanism?",
+    "options": {
+      "a": "To encrypt files stored on secondary media",
+      "b": "To buffer data for slow peripheral devices (such as printers) in temporary disk storage so the CPU can proceed without delay",
+      "c": "To convert high-level programming language code into assembly code",
+      "d": "To establish wireless Wi-Fi connections with local routers"
+    },
+    "answer": "b",
+    "explanation": "Spooling buffers input/output jobs (such as print jobs) into a temporary queue on disk, freeing up the CPU from waiting for slower mechanical peripherals to complete processing."
+  },
+  {
+    "question": "What does the acronym ASCII stand for in computer data representation?",
+    "options": {
+      "a": "American Standard Code for Information Interchange",
+      "b": "Association of Systems and Computer Information Integration",
+      "c": "Advanced Standard Coding for International Informatics",
+      "d": "Automated System Code for Internet Interchange"
+    },
+    "answer": "a",
+    "explanation": "ASCII stands for American Standard Code for Information Interchange, an early 7-bit character encoding system representing 128 characters."
+  },
+  {
+    "question": "Which of the following logic gates is known as a 'universal gate' because any Boolean logic circuit can be constructed entirely using only this gate?",
+    "options": {
+      "a": "AND gate",
+      "b": "OR gate",
+      "c": "NAND gate",
+      "d": "XOR gate"
+    },
+    "answer": "c",
+    "explanation": "NAND and NOR gates are known as universal gates because combinations of either gate alone can implement all basic logical operations (AND, OR, NOT, XOR, XNOR)."
+  },
+  {
+    "question": "Under the Nigerian Cybercrimes (Prohibition, Prevention, etc.) Act of 2015, unauthorized interception of electronic communications and identity theft are categorized as:",
+    "options": {
+      "a": "Civil torts punishable only by verbal reprimand",
+      "b": "Punishable criminal offences liable to fines and imprisonment",
+      "c": "Permissible corporate intelligence gathering activities",
+      "d": "Copyright infringements remediable exclusively through royalty restitution"
+    },
+    "answer": "b",
+    "explanation": "The Cybercrimes Act 2015 establishes legal and institutional frameworks in Nigeria that criminalize cyber activities including unauthorized data interception, phishing, cyberstalking, and identity theft with strict fines and custodial terms."
+  }
+]

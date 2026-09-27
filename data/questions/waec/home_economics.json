@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which deficiency disease is characterized by swollen, bleeding gums, loose teeth, and poor wound healing due to lack of ascorbic acid?",
+    "options": {
+      "a": "Rickets",
+      "b": "Scurvy",
+      "c": "Pellagra",
+      "d": "Beriberi"
+    },
+    "answer": "b",
+    "explanation": "Scurvy is caused by Vitamin C (ascorbic acid) deficiency, which leads to defective collagen synthesis, resulting in bleeding gums and poor wound healing."
+  },
+  {
+    "question": "A severe form of protein-energy malnutrition characterized by oedema, moon face, protruding belly, and skin pigmentation changes in young children is ______",
+    "options": {
+      "a": "Kwashiorkor",
+      "b": "Marasmus",
+      "c": "Anaemia",
+      "d": "Goitre"
+    },
+    "answer": "a",
+    "explanation": "Kwashiorkor is primarily caused by severe protein deficiency despite adequate carbohydrate intake, presenting with oedema (fluid retention) and a swollen abdomen."
+  },
+  {
+    "question": "Which of the following groups contains ONLY fat-soluble vitamins?",
+    "options": {
+      "a": "Vitamins B and C",
+      "b": "Vitamins A, D, E, and K",
+      "c": "Vitamins B, C, D, and K",
+      "d": "Vitamins A, B, C, and E"
+    },
+    "answer": "b",
+    "explanation": "Vitamins A, D, E, and K are fat-soluble vitamins stored in the body's fatty tissue and liver, whereas Vitamins B-complex and C are water-soluble."
+  },
+  {
+    "question": "Which method of moist heat cooking involves cooking delicate foods gently in liquid held just below the boiling point (around 71°C to 82°C)?",
+    "options": {
+      "a": "Boiling",
+      "b": "Poaching",
+      "c": "Stewing",
+      "d": "Steaming"
+    },
+    "answer": "b",
+    "explanation": "Poaching is cooking delicate food items like eggs or fish submerged in a liquid maintained just below simmering temperature."
+  },
+  {
+    "question": "The primary objective of blanching vegetables in boiling water before freezing them is to ______",
+    "options": {
+      "a": "Cook the vegetables thoroughly",
+      "b": "Deactivate enzymes that cause loss of flavour, colour, and texture",
+      "c": "Increase the sugar content of the tissues",
+      "d": "Soften the cell walls for immediate eating"
+    },
+    "answer": "b",
+    "explanation": "Blanching halts enzyme activity which would otherwise degrade flavour, nutritional value, and colour during frozen storage."
+  },
+  {
+    "question": "The non-digestible cellulose component in plant foods that adds bulk to faeces and stimulates intestinal peristalsis is termed ______",
+    "options": {
+      "a": "Glycogen",
+      "b": "Lecithin",
+      "c": "Pectin",
+      "d": "Dietary fibre (Roughage)"
+    },
+    "answer": "d",
+    "explanation": "Dietary fibre (roughage) provides indigestible bulk in the diet, promoting bowel motility and preventing constipation."
+  },
+  {
+    "question": "During a biochemical food test, the development of a distinct violet or purple colour with copper sulphate and sodium hydroxide (Biuret reagent) confirms the presence of ______",
+    "options": {
+      "a": "Reducing sugar",
+      "b": "Starch",
+      "c": "Lipids",
+      "d": "Protein"
+    },
+    "answer": "d",
+    "explanation": "The Biuret test detects peptide bonds in proteins, giving a characteristic purple/violet complex."
+  },
+  {
+    "question": "Rickets in growing children and osteomalacia in adults are caused by a nutritional deficiency of calcium and ______",
+    "options": {
+      "a": "Vitamin A",
+      "b": "Vitamin E",
+      "c": "Vitamin D",
+      "d": "Vitamin K"
+    },
+    "answer": "c",
+    "explanation": "Vitamin D is essential for intestinal absorption and deposition of calcium and phosphorus into bones; its deficiency causes rickets."
+  },
+  {
+    "question": "In food preservation, pickling prevents microbial spoilage primarily by ______",
+    "options": {
+      "a": "Depriving micro-organisms of moisture through crystallization",
+      "b": "Lowering the pH using acetic acid to create an acidic environment unfavorable to bacteria",
+      "c": "Subjecting food to high temperatures under pressure",
+      "d": "Removing oxygen using vacuum sealing"
+    },
+    "answer": "b",
+    "explanation": "Vinegar contains acetic acid which lowers the pH below 4.6, inhibiting the growth of pathogenic and spoilage micro-organisms."
+  },
+  {
+    "question": "Which anaerobic bacterium produces a deadly neurotoxin in improperly canned low-acid foods?",
+    "options": {
+      "a": "Staphylococcus aureus",
+      "b": "Salmonella typhi",
+      "c": "Clostridium botulinum",
+      "d": "Escherichia coli"
+    },
+    "answer": "c",
+    "explanation": "Clostridium botulinum is a spore-forming anaerobic bacterium that produces the botulinum neurotoxin in improperly processed canned goods."
+  },
+  {
+    "question": "When planning meals for a recovering convalescent, the diet should predominantly be ______",
+    "options": {
+      "a": "Light, easily digestible, and rich in high-quality proteins and protective vitamins",
+      "b": "Heavy, fatty, and highly spiced to stimulate appetite",
+      "c": "Composed exclusively of raw vegetables and citrus fruits",
+      "d": "Restricted in fluid intake and minerals"
+    },
+    "answer": "a",
+    "explanation": "Convalescents have weakened digestive systems and need light, easily digestible, nutrient-dense foods high in protein and vitamins to repair tissues."
+  },
+  {
+    "question": "Which mineral is particularly crucial in the diet of adolescent girls to replace menstrual losses and prevent anaemia?",
+    "options": {
+      "a": "Calcium",
+      "b": "Phosphorus",
+      "c": "Magnesium",
+      "d": "Iron"
+    },
+    "answer": "d",
+    "explanation": "Adolescent girls require increased dietary iron to support growth and compensate for regular menstrual blood loss, preventing iron-deficiency anaemia."
+  },
+  {
+    "question": "Which of the following is a primary guideline when preparing meals for toddlers?",
+    "options": {
+      "a": "Serve large, heavily seasoned portions rich in artificial colourings",
+      "b": "Provide foods that are mildly flavoured, easy to chew, and free from choking hazards",
+      "c": "Exclude all milk and dairy products from the daily menu",
+      "d": "Feed them high-fibre unrefined bran cereals as the main staple"
+    },
+    "answer": "b",
+    "explanation": "Toddlers require small, attractive, mildly flavoured, nutrient-dense portions that are soft and safe from choking risks (such as whole nuts or large seeds)."
+  },
+  {
+    "question": "A strict vegetarian who completely excludes meat, fish, poultry, eggs, dairy products, and all other animal-derived foods is called a/an ______",
+    "options": {
+      "a": "Lacto-vegetarian",
+      "b": "Lacto-ovo vegetarian",
+      "c": "Pescatarian",
+      "d": "Vegan"
+    },
+    "answer": "d",
+    "explanation": "A vegan consumes only plant-derived foods, excluding all animal meats, milk, cheese, eggs, and honey."
+  },
+  {
+    "question": "A manual labourer performing strenuous physical work requires a diet especially rich in which nutrient to satisfy heavy energy expenditure?",
+    "options": {
+      "a": "Vitamin K",
+      "b": "Vitamin C",
+      "c": "Calcium",
+      "d": "Carbohydrates"
+    },
+    "answer": "d",
+    "explanation": "Manual labourers have high caloric needs, requiring substantial carbohydrates as the primary and most efficient energy source."
+  },
+  {
+    "question": "In formal western table setting, the dinner fork is placed ______",
+    "options": {
+      "a": "To the right of the dinner plate",
+      "b": "Inside the drinking tumbler",
+      "c": "Directly above the dinner plate facing right",
+      "d": "To the left of the dinner plate"
+    },
+    "answer": "d",
+    "explanation": "In standard formal table setting, forks are placed to the left of the plate in the order of use from outside in."
+  },
+  {
+    "question": "A balanced diet is best defined as a diet that ______",
+    "options": {
+      "a": "Contains equal weight measurements of all six classes of food",
+      "b": "Provides all essential nutrients in the correct proportions required by the individual body",
+      "c": "Consists solely of animal proteins and leafy green vegetables",
+      "d": "Excludes all fats, oils, and concentrated carbohydrates"
+    },
+    "answer": "b",
+    "explanation": "A balanced diet supplies all essential nutrients (carbohydrates, proteins, fats, vitamins, minerals, water) in proper proportions to maintain health."
+  },
+  {
+    "question": "Buying food items when they are in their peak harvesting season is advantageous primarily because ______",
+    "options": {
+      "a": "The food contains fewer vitamins and minerals",
+      "b": "The food is freshest, abundant, of superior quality, and cheapest",
+      "c": "It eliminates the need for any cooking",
+      "d": "They can be kept indefinitely at room temperature without spoiling"
+    },
+    "answer": "b",
+    "explanation": "Seasonal produce is abundant, has optimal nutritional value and flavour, and is most economical to purchase."
+  },
+  {
+    "question": "Which of the following natural fibres is classified as a plant (cellulosic) seed fibre?",
+    "options": {
+      "a": "Silk",
+      "b": "Wool",
+      "c": "Cotton",
+      "d": "Linen"
+    },
+    "answer": "c",
+    "explanation": "Cotton is a natural cellulosic seed fibre obtained from the protective boll around the seeds of the cotton plant (Gossypium)."
+  },
+  {
+    "question": "When subjected to a burning test, a protein animal fibre like wool or silk will ______",
+    "options": {
+      "a": "Burn rapidly with a yellow flame, smelling of burning paper and leaving light grey ash",
+      "b": "Melt and form a hard, uncrushable plastic-like bead with a chemical smell",
+      "c": "Burn slowly with a small flicker, smell like burning hair/feathers, and leave a dark crushable bead",
+      "d": "Not ignite or react to direct heat"
+    },
+    "answer": "c",
+    "explanation": "Protein fibres (wool, silk) contain sulphur and keratin; they smolder, smell like burning feathers or hair, and leave dark crushable ash."
+  },
+  {
+    "question": "The chemical finishing process in which cotton yarn or fabric is treated under tension with concentrated sodium hydroxide (caustic soda) is known as ______",
+    "options": {
+      "a": "Mercerization",
+      "b": "Sanforization",
+      "c": "Sizing",
+      "d": "Calendering"
+    },
+    "answer": "a",
+    "explanation": "Mercerization swells cotton fibres, increasing lustre, tensile strength, and affinity for dyestuffs."
+  },
+  {
+    "question": "Which of the following is a synthetic fibre synthesized completely from petrochemical polymer bases?",
+    "options": {
+      "a": "Viscose rayon",
+      "b": "Acetate",
+      "c": "Linen",
+      "d": "Nylon"
+    },
+    "answer": "d",
+    "explanation": "Nylon is a fully synthetic polyamide fibre made from petrochemicals, unlike rayon which is regenerated cellulose."
+  },
+  {
+    "question": "Linen fibre is obtained from the bast (inner stem) of which cultivated plant?",
+    "options": {
+      "a": "Jute plant",
+      "b": "Hemp plant",
+      "c": "Sisal plant",
+      "d": "Flax plant"
+    },
+    "answer": "d",
+    "explanation": "Linen is a bast fibre extracted from the stems of the flax plant (Linum usitatissimum) through retting and scutching."
+  },
+  {
+    "question": "The simplest and most common fabric weave, in which each warp yarn passes alternately over and under consecutive weft yarns, is the ______",
+    "options": {
+      "a": "Plain weave",
+      "b": "Satin weave",
+      "c": "Twill weave",
+      "d": "Pile weave"
+    },
+    "answer": "a",
+    "explanation": "Plain weave (also called calico or tabby weave) is the most basic textile weave where warp and weft cross over each other at right angles in a 1/1 pattern."
+  },
+  {
+    "question": "What is the recommended method for laundering fine woollen garments to avoid felting and shrinkage?",
+    "options": {
+      "a": "Boil in hot water with strong bleach and wring vigorously",
+      "b": "Wash gently by squeezing in lukewarm water using mild detergent and dry flat",
+      "c": "Machine wash on heavy cycle and tumble dry on high heat",
+      "d": "Hang wet on a line in blazing direct sunshine"
+    },
+    "answer": "b",
+    "explanation": "Wool scales interlock and felt when exposed to heat, friction, and alkaline detergents. Gentle squeezing in lukewarm water and flat drying prevents distortion."
+  },
+  {
+    "question": "Fresh blood stains on a washable cotton garment should immediately be treated by soaking in ______",
+    "options": {
+      "a": "Boiling water",
+      "b": "Kerosene",
+      "c": "Hot detergent solution",
+      "d": "Cold salt water"
+    },
+    "answer": "d",
+    "explanation": "Blood is a protein stain; hot water coagulates and sets the albumin into the fabric fibres, whereas cold water dissolves and releases it."
+  },
+  {
+    "question": "Which of the following stitches is a temporary stitch used to hold fabric pieces together before permanent stitching?",
+    "options": {
+      "a": "Backstitch",
+      "b": "Hemming stitch",
+      "c": "Basting (Tacking)",
+      "d": "Run-and-fell stitch"
+    },
+    "answer": "c",
+    "explanation": "Basting or tacking stitches are long, loose temporary stitches used to hold pieces together and check garment fit before permanent sewing."
+  },
+  {
+    "question": "Which permanent hand stitch is strongest and used to replicate the appearance of straight machine stitching?",
+    "options": {
+      "a": "Backstitch",
+      "b": "Running stitch",
+      "c": "Slip stitch",
+      "d": "Herringbone stitch"
+    },
+    "answer": "a",
+    "explanation": "Backstitch is the strongest hand stitch because each stitch doubles back over the previous one, forming a continuous line resembling machine stitches."
+  },
+  {
+    "question": "In dressmaking, what is the main function of a dart?",
+    "options": {
+      "a": "To control fullness and shape flat fabric to the curves of the body",
+      "b": "To attach trimmings to the neckline",
+      "c": "To finish raw edge seams permanently",
+      "d": "To lengthen a garment hem"
+    },
+    "answer": "a",
+    "explanation": "Darts are folded and stitched wedges of fabric that shape two-dimensional flat cloth to fit the three-dimensional contours of the human figure."
+  },
+  {
+    "question": "Which seam is a self-enclosed double seam ideal for lightweight, transparent, or sheer fabrics like chiffon and organza?",
+    "options": {
+      "a": "Plain open seam",
+      "b": "Lapped seam",
+      "c": "French seam",
+      "d": "Overlaid seam"
+    },
+    "answer": "c",
+    "explanation": "A French seam encases raw edges within a neat double seam, preventing fraying on sheer and delicate fabrics without visible raw edges."
+  },
+  {
+    "question": "Which mechanism of the sewing machine consists of toothed metal bars that move the fabric forward under the presser foot?",
+    "options": {
+      "a": "Tension disc",
+      "b": "Bobbin winder",
+      "c": "Feed dog",
+      "d": "Take-up lever"
+    },
+    "answer": "c",
+    "explanation": "The feed dog has serrated teeth that rise through the throat plate to grip and advance the fabric between successive stitches."
+  },
+  {
+    "question": "When loops of loose thread appear on the underside of a stitched fabric, the most likely cause is that ______",
+    "options": {
+      "a": "The upper thread tension is too loose or the needle is improperly threaded",
+      "b": "The lower bobbin thread tension is too tight",
+      "c": "The needle is too sharp",
+      "d": "The presser foot is pressed down too firmly"
+    },
+    "answer": "a",
+    "explanation": "Loops on the underside of the fabric indicate that the upper thread lacks sufficient tension to pull the bobbin thread up into the fabric."
+  },
+  {
+    "question": "A true bias strip used for binding curved edges and armholes must be cut at an angle of ______ to the fabric selvedge.",
+    "options": {
+      "a": "30°",
+      "b": "45°",
+      "c": "60°",
+      "d": "90°"
+    },
+    "answer": "b",
+    "explanation": "True bias is a line cut at a 45-degree angle across warp and weft yarns, giving maximum stretch and flexibility to bind curved edges smoothly."
+  },
+  {
+    "question": "On commercial sewing paper patterns, triangular or diamond markings cut along the seam line to ensure matching of corresponding pattern pieces are called ______",
+    "options": {
+      "a": "Pleats",
+      "b": "Gathers",
+      "c": "Notches",
+      "d": "Grommets"
+    },
+    "answer": "c",
+    "explanation": "Notches are triangular marks on pattern edges that align corresponding garment pieces (e.g. sleeve to armscye) accurately before sewing."
+  },
+  {
+    "question": "The special fabric applied between garment layers to provide body, stability, firmness, and shape retention to collars, cuffs, and waistbands is ______",
+    "options": {
+      "a": "Underlining",
+      "b": "Batting",
+      "c": "Interfacing",
+      "d": "Selvedge"
+    },
+    "answer": "c",
+    "explanation": "Interfacing (fusible or sew-in) is inserted inside collars, cuffs, lapels, and facings to add structural stiffness, shape, and reinforcement."
+  },
+  {
+    "question": "A flat, sturdy, double-stitched seam with two parallel visible stitch lines on the right side, commonly used on jeans, shirts, and sportswear, is a ______",
+    "options": {
+      "a": "Run-and-fell seam",
+      "b": "French seam",
+      "c": "Piped seam",
+      "d": "Pinked seam"
+    },
+    "answer": "a",
+    "explanation": "A run-and-fell (flat-felled) seam encloses all raw edges and features two rows of parallel stitching, providing immense strength and flat comfort for rugged wear."
+  },
+  {
+    "question": "Which of the following family resources is classified as a human resource?",
+    "options": {
+      "a": "Knowledge and skills",
+      "b": "Family landed property",
+      "c": "Money",
+      "d": "Household furniture"
+    },
+    "answer": "a",
+    "explanation": "Human resources originate from within individuals (skills, knowledge, energy, time, attitudes), whereas money and physical possessions are non-human/material resources."
+  },
+  {
+    "question": "The sequential stages in the home management process are ______",
+    "options": {
+      "a": "Evaluating, planning, implementing, organizing",
+      "b": "Organizing, evaluating, planning, implementing",
+      "c": "Planning, organizing, implementing (actuating), and evaluating",
+      "d": "Implementing, planning, organizing, evaluating"
+    },
+    "answer": "c",
+    "explanation": "The universal management process begins with planning (setting goals), followed by organizing resources, implementing the plan, and evaluating outcomes."
+  },
+  {
+    "question": "In household financial budgeting, which of the following is an example of a fixed expenditure?",
+    "options": {
+      "a": "Entertainment expenses",
+      "b": "Casual clothing purchases",
+      "c": "Monthly house rent",
+      "d": "Holiday travel expenses"
+    },
+    "answer": "c",
+    "explanation": "Fixed expenditures are regular, obligatory expenses of a fixed amount that must be paid at predetermined intervals (e.g. house rent, school fees)."
+  },
+  {
+    "question": "In interior decoration color schemes, colors that sit directly opposite each other on the standard color wheel (e.g., blue and orange) are called ______",
+    "options": {
+      "a": "Monochromatic colors",
+      "b": "Analogous colors",
+      "c": "Neutral colors",
+      "d": "Complementary colors"
+    },
+    "answer": "d",
+    "explanation": "Complementary colors lie opposite each other on the color wheel, creating high contrast and dynamic visual interest when paired in room décor."
+  },
+  {
+    "question": "Why should harsh abrasive scouring powders NOT be used to clean porcelain enamel bathtubs and polished wooden surfaces?",
+    "options": {
+      "a": "They dissolve the wood into pulp",
+      "b": "They scratch the protective glazed finish and dull the gloss",
+      "c": "They make the surface inflammable",
+      "d": "They attract pests and termites"
+    },
+    "answer": "b",
+    "explanation": "Harsh abrasives scratch glazed enamel and protective lacquer finishes on wood, creating microscopic grooves that trap dirt and permanently destroy shine."
+  },
+  {
+    "question": "In kitchen planning and ergonomics, the 'work triangle' connects the three primary work centres: ______",
+    "options": {
+      "a": "Sink (washing), cooker/stove (cooking), and refrigerator (food storage)",
+      "b": "Dining table, pantry, and trash bin",
+      "c": "Dishwasher, microwave, and deep freezer",
+      "d": "Backdoor, cupboard, and dining room"
+    },
+    "answer": "a",
+    "explanation": "The kitchen work triangle connects the refrigerator (storage), sink (prep/cleaning), and cooker (food preparation), maximizing efficiency and minimizing steps."
+  },
+  {
+    "question": "The biological process of breaking down organic household refuse (such as food scraps and garden leaves) into nutrient-rich humus for soil conditioning is ______",
+    "options": {
+      "a": "Incineration",
+      "b": "Pulverization",
+      "c": "Controlled tipping",
+      "d": "Composting"
+    },
+    "answer": "d",
+    "explanation": "Composting is the aerobic decomposition of organic waste materials by micro-organisms into dark, rich humus used as soil conditioner."
+  },
+  {
+    "question": "Effective cross-ventilation in a residential living space is achieved primarily by ______",
+    "options": {
+      "a": "Placing windows and openings on opposite or adjacent walls to promote airflow",
+      "b": "Placing all windows on a single wall facing north",
+      "c": "Keeping all doors and windows tightly shuttered at all times",
+      "d": "Using thick drapes to block windows"
+    },
+    "answer": "a",
+    "explanation": "Cross-ventilation requires openings on opposite or adjacent exterior walls so that ambient wind enters through one side and draws stale air out through the other."
+  },
+  {
+    "question": "Which recognized consumer right entitles a buyer to seek compensation, repair, or replacement when sold defective goods or unsatisfactory services?",
+    "options": {
+      "a": "Right to information",
+      "b": "Right to consumer education",
+      "c": "Right to redress",
+      "d": "Right to choose"
+    },
+    "answer": "c",
+    "explanation": "The Right to Redress gives consumers legal grounds to receive fair settlement of genuine claims, including replacement, refund, or repair of defective products."
+  },
+  {
+    "question": "In Nigeria, which regulatory agency is primarily charged with safeguarding public health by controlling the manufacture, importation, advertisement, and distribution of foods, drugs, and packaged water?",
+    "options": {
+      "a": "NAFDAC",
+      "b": "SON",
+      "c": "FCCPC",
+      "d": "NDLEA"
+    },
+    "answer": "a",
+    "explanation": "NAFDAC (National Agency for Food and Drug Administration and Control) regulates and controls foods, pharmaceuticals, cosmetics, medical devices, and bottled water."
+  },
+  {
+    "question": "The Standards Organisation of Nigeria (SON) is mandated to ______",
+    "options": {
+      "a": "Collect import duties on vehicles at seaports",
+      "b": "Standardize and certify the quality of locally manufactured and imported industrial products",
+      "c": "Regulate petroleum pump prices across the country",
+      "d": "Arrest counterfeit currency distributors"
+    },
+    "answer": "b",
+    "explanation": "SON prepares standards for products and processes, ensuring manufactured and imported goods meet established Nigerian Industrial Standards (NIS)."
+  },
+  {
+    "question": "An unplanned, spontaneous purchase made without prior intention or budgetary consideration, often triggered by clever marketing displays, is termed ______",
+    "options": {
+      "a": "Bargain shopping",
+      "b": "Impulse buying",
+      "c": "Window shopping",
+      "d": "Wholesale buying"
+    },
+    "answer": "b",
+    "explanation": "Impulse buying is making unplanned, spur-of-the-moment purchases driven by emotion or promotional stimulation rather than calculated necessity."
+  },
+  {
+    "question": "Which of the following is a primary civic responsibility of a consumer before making a purchase?",
+    "options": {
+      "a": "Ignoring user instructions and safety warnings",
+      "b": "Paying without asking for a cash receipt",
+      "c": "Damaging product packaging on store shelves",
+      "d": "Inspecting product labels for expiration dates, ingredients, and batch numbers"
+    },
+    "answer": "d",
+    "explanation": "A critical consumer responsibility is to read labels carefully, verifying manufacturing and expiry dates, seals, ingredients, and storage directions before buying."
+  },
+  {
+    "question": "Under a hire purchase agreement, legal ownership of the purchased goods passes to the buyer ______",
+    "options": {
+      "a": "Only after the final instalment has been completely paid",
+      "b": "Immediately upon paying the initial deposit",
+      "c": "Halfway through the agreed repayment schedule",
+      "d": "As soon as the goods are delivered to the buyer's home"
+    },
+    "answer": "a",
+    "explanation": "In hire purchase, the buyer hires the good during the repayment period; ownership title transfers only when the very last instalment is settled."
+  }
+]

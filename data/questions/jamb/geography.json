@@ -1,0 +1,442 @@
+[
+  {
+    "question": "If the local time at Greenwich (longitude 0°) is 12:00 noon on Monday, what is the local time at a town located on longitude 75°E?",
+    "options": {
+      "a": "5:00 a.m. Monday",
+      "b": "5:00 p.m. Monday",
+      "c": "7:00 p.m. Monday",
+      "d": "8:00 a.m. Monday"
+    },
+    "answer": "b",
+    "explanation": "The Earth rotates 15° per hour (360° / 24 hours = 15°/hour). Difference in longitude = 75° - 0° = 75°. Time difference = 75° / 15° = 5 hours. Since the town is East of Greenwich, time is ahead: 12:00 noon + 5 hours = 5:00 p.m. Monday."
+  },
+  {
+    "question": "Which of the following drainage patterns develops on a dome or volcanic cone where streams radiate outwards like the spokes of a wheel?",
+    "options": {
+      "a": "Dendritic pattern",
+      "b": "Trellis pattern",
+      "c": "Radial pattern",
+      "d": "Centripetal pattern"
+    },
+    "answer": "c",
+    "explanation": "A radial drainage pattern forms when streams flow outward in all directions from a central elevated highland, such as an isolated volcanic cone or structural dome."
+  },
+  {
+    "question": "A intrusive igneous rock formation that forms a massive, flat-bottomed, mushroom-shaped intrusion that arches overlying strata upward is a:",
+    "options": {
+      "a": "Batholith",
+      "b": "Laccolith",
+      "c": "Sill",
+      "d": "Dyke"
+    },
+    "answer": "b",
+    "explanation": "A laccolith is an igneous intrusion formed when viscous magma forces its way between horizontal rock layers, arching the overlying strata into a convex, dome- or mushroom-shaped structure."
+  },
+  {
+    "question": "The seasonal boundary where the dry Tropical Continental (cT) air mass meets the moist Tropical Maritime (mT) air mass in West Africa is called the:",
+    "options": {
+      "a": "Subtropical High Pressure Ridge",
+      "b": "Inter-Tropical Discontinuity (ITD)",
+      "c": "Harmattan Frontal Inversion",
+      "d": "Polar Convergence Zone"
+    },
+    "answer": "b",
+    "explanation": "The Inter-Tropical Discontinuity (ITD) or Inter-Tropical Convergence Zone (ITCZ) is the low-pressure boundary where the dry, dust-laden continental air mass and the moist maritime air mass converge over West Africa."
+  },
+  {
+    "question": "Which of the following landforms is produced by wind erosion in arid desert environments through abrasion and differential weathering?",
+    "options": {
+      "a": "Zeugen",
+      "b": "Barchan",
+      "c": "Seif dune",
+      "d": "Loess"
+    },
+    "answer": "a",
+    "explanation": "Zeugen are tabular rock pillars with flat tops and undercut soft strata produced by wind abrasion acting on alternating horizontal layers of hard and soft rock in desert regions."
+  },
+  {
+    "question": "The chemical weathering process in which rainwater absorbs atmospheric carbon dioxide to form a weak acid that dissolves limestone (calcium carbonate) is known as:",
+    "options": {
+      "a": "Hydration",
+      "b": "Oxidation",
+      "c": "Carbonation",
+      "d": "Hydrolysis"
+    },
+    "answer": "c",
+    "explanation": "Carbonation occurs when atmospheric carbon dioxide dissolves in rainwater to form carbonic acid (H2CO3), which reacts with insoluble calcium carbonate in limestone rocks to form soluble calcium bicarbonate."
+  },
+  {
+    "question": "If a map has a Representative Fraction (R.F.) scale of 1:50,000, what actual ground distance in kilometers is represented by a line measuring 10 cm on the map?",
+    "options": {
+      "a": "2.5 km",
+      "b": "5.0 km",
+      "c": "10.0 km",
+      "d": "25.0 km"
+    },
+    "answer": "b",
+    "explanation": "1:50,000 means 1 cm on the map represents 50,000 cm on the ground (0.5 km). Therefore, 10 cm represents 10 * 0.5 km = 5.0 km."
+  },
+  {
+    "question": "Which layer of the Earth's interior is composed predominantly of nickel and iron (Nife) under immense pressure and temperature?",
+    "options": {
+      "a": "Crust",
+      "b": "Lithosphere",
+      "c": "Asthenosphere",
+      "d": "Core"
+    },
+    "answer": "d",
+    "explanation": "The Earth's core (barysphere) consists of a solid inner core and molten outer core made primarily of nickel and iron (Nife)."
+  },
+  {
+    "question": "The forward bearing of town Y from town X is 065°. What is the backward bearing of town X from town Y?",
+    "options": {
+      "a": "115°",
+      "b": "155°",
+      "c": "245°",
+      "d": "295°"
+    },
+    "answer": "c",
+    "explanation": "Back bearing = Forward bearing + 180° (if forward bearing is less than 180°). Here, Back Bearing = 65° + 180° = 245°."
+  },
+  {
+    "question": "On June 21st (the Summer Solstice in the Northern Hemisphere), the midday sun is directly overhead at the:",
+    "options": {
+      "a": "Equator (0°)",
+      "b": "Tropic of Cancer (23½° N)",
+      "c": "Tropic of Capricorn (23½° S)",
+      "d": "Arctic Circle (66½° N)"
+    },
+    "answer": "b",
+    "explanation": "On June 21st (the summer solstice), the Northern Hemisphere is tilted at its maximum angle towards the sun, placing the midday sun directly overhead at the Tropic of Cancer (23½° N)."
+  },
+  {
+    "question": "Which of the following coastal landforms is formed by wave deposition rather than wave erosion?",
+    "options": {
+      "a": "Wave-cut platform",
+      "b": "Sea stack",
+      "c": "Spit",
+      "d": "Sea arch"
+    },
+    "answer": "c",
+    "explanation": "A spit is a ridge of sand or shingle deposited across an inlet, bay, or river mouth by longshore drift, representing marine deposition, unlike stacks, arches, and wave-cut platforms which are erosional."
+  },
+  {
+    "question": "The steep-sided, flat-floored valley formed by the subsidence of a crustal block between two parallel normal faults is a:",
+    "options": {
+      "a": "Rift Valley (Graben)",
+      "b": "Horst (Block Mountain)",
+      "c": "Syncline",
+      "d": "Anticline"
+    },
+    "answer": "a",
+    "explanation": "A rift valley (or graben) is an elongated valley formed when a central block of the earth's crust slips downward between two parallel normal faults due to tensional forces."
+  },
+  {
+    "question": "The instrument housed inside a meteorological Stevenson screen to measure the relative humidity of the air is the:",
+    "options": {
+      "a": "Aneroid barometer",
+      "b": "Hygrometer (wet-and-dry bulb thermometer)",
+      "c": "Anemometer",
+      "d": "Wind vane"
+    },
+    "answer": "b",
+    "explanation": "A hygrometer, comprising a dry-bulb and a wet-bulb thermometer, measures the relative humidity of the atmosphere inside a Stevenson screen."
+  },
+  {
+    "question": "Which mineral resource in Nigeria is commercially mined in open-cast quarries at Ewekoro, Sagamu, and Gboko?",
+    "options": {
+      "a": "Coal",
+      "b": "Tin ore",
+      "c": "Limestone",
+      "d": "Bitumen"
+    },
+    "answer": "c",
+    "explanation": "Limestone, the primary raw material for cement manufacturing, is extracted from large sedimentary deposits in Ewekoro, Sagamu (Ogun State), Gboko (Benue State), and Obajana (Kogi State)."
+  },
+  {
+    "question": "An ox-bow lake is a distinctive fluvial feature formed typically in which section of a river's course?",
+    "options": {
+      "a": "Torrent or upper course",
+      "b": "Middle or mature course only",
+      "c": "Old or lower course",
+      "d": "Source tributary stage"
+    },
+    "answer": "c",
+    "explanation": "In the lower or plain course of a river, severe lateral erosion across the narrow neck of a pronounced meander loop eventually breaches the neck, cutting off the loop to form a crescent-shaped ox-bow lake."
+  },
+  {
+    "question": "The type of rainfall characterized by intense solar heating of the ground, thermal upward currents, and sudden afternoon thunderstorms with cumulonimbus clouds is:",
+    "options": {
+      "a": "Orographic rainfall",
+      "b": "Convectional rainfall",
+      "c": "Frontal rainfall",
+      "d": "Cyclonic rainfall"
+    },
+    "answer": "b",
+    "explanation": "Convectional rainfall occurs when intense ground heating causes moist air to rise rapidly, cool adiabatically, and condense into tower-like cumulonimbus clouds, yielding heavy afternoon downpours."
+  },
+  {
+    "question": "Which major fold mountain system was formed by the collision of the Eurasian and African tectonic plates along the northern fringe of Africa?",
+    "options": {
+      "a": "Drakensberg Mountains",
+      "b": "Atlas Mountains",
+      "c": "Rwenzori Mountains",
+      "d": "Tibesti Massif"
+    },
+    "answer": "b",
+    "explanation": "The Atlas Mountains in northwest Africa (Morocco, Algeria, Tunisia) are young fold mountains formed by the compressional collision between the Eurasian and African tectonic plates."
+  },
+  {
+    "question": "In Geographic Information Systems (GIS), spatial data represented as discrete points, lines, and polygons is classified as:",
+    "options": {
+      "a": "Raster data",
+      "b": "Vector data",
+      "c": "Attribute data",
+      "d": "Spectral radiometric data"
+    },
+    "answer": "b",
+    "explanation": "Vector data models represent geographic features using geometric primitives: points (e.g. well locations), lines (e.g. roads, rivers), and polygons (e.g. administrative boundaries)."
+  },
+  {
+    "question": "Which vegetation belt in Nigeria is characterized by three distinct canopy layers, tall buttress roots, woody climbers (lianas), and epiphytes?",
+    "options": {
+      "a": "Sahel savanna",
+      "b": "Tropical rainforest",
+      "c": "Guinea savanna",
+      "d": "Montane grassland"
+    },
+    "answer": "b",
+    "explanation": "The Tropical Rainforest (lowland rainforest) exhibits stratified multi-layered tree canopies (emergent, canopy, understory), buttress roots, lianas, and rich epiphytic vegetation."
+  },
+  {
+    "question": "The process of mass movement where a detached mass of rock debris and soil slides rapidly down a curved slip plane is known as a:",
+    "options": {
+      "a": "Soil creep",
+      "b": "Slump (rotational slide)",
+      "c": "Solifluction",
+      "d": "Mudflow"
+    },
+    "answer": "b",
+    "explanation": "A slump is a form of mass wasting that occurs when coherent masses of rock and weathered debris move downward and outward along a concave-upward curved slip surface."
+  },
+  {
+    "question": "Which African lake is a major rift-valley lake characterized by great depth and steep elongated shores?",
+    "options": {
+      "a": "Lake Chad",
+      "b": "Lake Victoria",
+      "c": "Lake Tanganyika",
+      "d": "Lake Volta"
+    },
+    "answer": "c",
+    "explanation": "Lake Tanganyika is located in the Western Branch of the East African Rift Valley; it is the world's longest freshwater lake and the second deepest, formed in a structural graben."
+  },
+  {
+    "question": "The line drawn on a weather map connecting places that experience equal atmospheric pressure is an:",
+    "options": {
+      "a": "Isotherm",
+      "b": "Isohyet",
+      "c": "Isobar",
+      "d": "Isohel"
+    },
+    "answer": "c",
+    "explanation": "An isobar is a line on a synoptic chart or weather map connecting points of equal atmospheric pressure reduced to sea level."
+  },
+  {
+    "question": "A crescent-shaped sand dune whose convex side faces the prevailing wind and whose horns point downwind is called a:",
+    "options": {
+      "a": "Seif dune",
+      "b": "Barchan",
+      "c": "Star dune",
+      "d": "Parabolic dune"
+    },
+    "answer": "b",
+    "explanation": "A barchan is a crescent-shaped sand dune created by unidirectional winds; its convex slope faces the wind, while its two horns point downwind in the direction of the slip face."
+  },
+  {
+    "question": "Which of the following ocean currents cools the coastal areas of south-western Africa and contributes to the aridity of the Namib Desert?",
+    "options": {
+      "a": "Agulhas Current",
+      "b": "Benguela Current",
+      "c": "Canary Current",
+      "d": "Mozambique Current"
+    },
+    "answer": "b",
+    "explanation": "The cold Benguela Current flows northward along the south-western coast of Africa, desaturating winds and preventing condensation, which creates coastal fog and the Namib Desert."
+  },
+  {
+    "question": "The primary agricultural export crop cultivated in the Forest Zone of south-western Nigeria, particularly in Ondo and Osun States, is:",
+    "options": {
+      "a": "Groundnut",
+      "b": "Cocoa",
+      "c": "Cotton",
+      "d": "Gum arabic"
+    },
+    "answer": "b",
+    "explanation": "Cocoa requires rich well-drained loamy soils and warm humid tropical climate, making the forest belt of south-western Nigeria (Ondo, Osun, Ekiti, Ogun) the nation's premier cocoa producing belt."
+  },
+  {
+    "question": "A river capture (stream piracy) occurs when:",
+    "options": {
+      "a": "A river breaches its levees during seasonal catastrophic flooding",
+      "b": "A vigorous pirate stream cuts back by headward erosion and diverts the headwaters of a less active stream",
+      "c": "A river enters a quiet inland lake depositing its suspended sediment load",
+      "d": "River braids divide around permanent vegetated sandbars"
+    },
+    "answer": "b",
+    "explanation": "River capture occurs when an actively eroding river cuts backward at its source (headward erosion), breaches a drainage divide, and captures the higher-level waters of an adjacent stream."
+  },
+  {
+    "question": "The deep bowl-shaped, steep-sided amphitheater depression carved into a mountain summit by glacial plucking and abrasion is a:",
+    "options": {
+      "a": "Cirque (Corrie)",
+      "b": "Esker",
+      "c": "Drumlin",
+      "d": "Roche Moutonnée"
+    },
+    "answer": "a",
+    "explanation": "A cirque (or corrie) is a steep-walled, bowl-shaped hollow excavated into high mountain sides by the plucking and abrasive freeze-thaw action of cirque glaciers."
+  },
+  {
+    "question": "The zone of the Earth's atmosphere closest to the surface, where virtually all weather phenomena occur and temperature decreases with altitude, is the:",
+    "options": {
+      "a": "Stratosphere",
+      "b": "Troposphere",
+      "c": "Mesosphere",
+      "d": "Thermosphere"
+    },
+    "answer": "b",
+    "explanation": "The troposphere extends from the surface to roughly 8-16 km altitude; it contains over 75% of atmospheric mass and almost all water vapor, where clouds, precipitation, and convection occur."
+  },
+  {
+    "question": "Which of the following dams in Nigeria was constructed across the River Niger primarily for the generation of hydroelectric power?",
+    "options": {
+      "a": "Tiga Dam",
+      "b": "Kainji Dam",
+      "c": "Bakolori Dam",
+      "d": "Challawa Gorge Dam"
+    },
+    "answer": "b",
+    "explanation": "The Kainji Dam in Niger State was constructed across the River Niger and commissioned in 1968 primarily for large-scale hydroelectric power (HEP) generation."
+  },
+  {
+    "question": "Soil salinization in poorly managed irrigated agricultural farmlands in arid and semi-arid zones is accelerated by:",
+    "options": {
+      "a": "Continuous biological organic mulching",
+      "b": "High rates of evaporation drawing dissolved mineral salts to the soil surface",
+      "c": "Heavy acid rainwater leaching base cations down the soil profile",
+      "d": "Widespread afforestation and tree planting schemes"
+    },
+    "answer": "b",
+    "explanation": "In arid regions with high potential evapotranspiration, intense surface evaporation causes capillary action to draw water and dissolved mineral salts upward, depositing crusts of salts on the soil surface."
+  },
+  {
+    "question": "In contour mapping, contour lines that are spaced closely together indicate:",
+    "options": {
+      "a": "A gentle slope",
+      "b": "A steep slope",
+      "c": "A broad plateau flatland",
+      "d": "A river floodplain"
+    },
+    "answer": "b",
+    "explanation": "On topographic maps, contour lines indicate vertical elevation; when contour lines are packed tightly together, the gradient or change in elevation per unit horizontal distance is steep."
+  },
+  {
+    "question": "Which rock type is formed from the mechanical compaction and cementation of fragments of pre-existing rocks?",
+    "options": {
+      "a": "Basalt",
+      "b": "Sandstone",
+      "c": "Granite",
+      "d": "Gneiss"
+    },
+    "answer": "b",
+    "explanation": "Sandstone is a classic mechanically formed clastic sedimentary rock composed of mineral particles and rock fragments (mainly quartz) compacted and cemented together."
+  },
+  {
+    "question": "The Mediterranean type of climate is characterized by which distinctive seasonal pattern?",
+    "options": {
+      "a": "Rainfall throughout the year with very severe sub-zero winters",
+      "b": "Hot, dry summers and cool, moist winters",
+      "c": "Perpetual ice and snow throughout twelve calendar months",
+      "d": "Heavy monsoon rains concentrated entirely in summer with freezing winters"
+    },
+    "answer": "b",
+    "explanation": "The Mediterranean climate (found on the western coasts of continents between 30° and 45° latitude, like the Cape region of South Africa) has hot, dry summers and mild, rainy winters."
+  },
+  {
+    "question": "What is the primary cause of the deflection of planetary winds to the right in the Northern Hemisphere and to the left in the Southern Hemisphere?",
+    "options": {
+      "a": "Gravitational attraction of the moon",
+      "b": "The Coriolis Effect caused by Earth's rotation",
+      "c": "Unequal land and sea distribution",
+      "d": "Seasonal variation in solar radiation"
+    },
+    "answer": "b",
+    "explanation": "The Coriolis Effect, caused by the rotation of the Earth on its axis, deflects moving air masses and water currents to the right in the Northern Hemisphere and to the left in the Southern Hemisphere (Ferrel's Law)."
+  },
+  {
+    "question": "The major industrial area in South Africa developed around rich gold mining reserves is known as the:",
+    "options": {
+      "a": "Witwatersrand (the Rand)",
+      "b": "Copperbelt",
+      "c": "Katanga plateau",
+      "d": "Great Karoo"
+    },
+    "answer": "a",
+    "explanation": "The Witwatersrand ('the Rand') in Gauteng Province, South Africa, is the world's most prolific gold-producing reef and the industrial core of Southern Africa."
+  },
+  {
+    "question": "An isolated, steep-sided, flat-topped residual hill capped with a hard rock layer in an arid or semi-arid plateau is a:",
+    "options": {
+      "a": "Mesa",
+      "b": "Yardang",
+      "c": "Cuesta",
+      "d": "Kame"
+    },
+    "answer": "a",
+    "explanation": "A mesa is an isolated flat-topped tableland or elevation bounded on all sides by steep cliffs, protected from erosion by a resistant cap rock layer."
+  },
+  {
+    "question": "Which of the following ports in Nigeria is an ocean terminal specifically designed for the handling and export of liquefied natural gas (LNG)?",
+    "options": {
+      "a": "Apapa Wharf, Lagos",
+      "b": "Bonny Island Terminal, Rivers State",
+      "c": "Tin Can Island, Lagos",
+      "d": "Warri Port, Delta State"
+    },
+    "answer": "b",
+    "explanation": "The Nigeria LNG (NLNG) export plant and specialized gas tanker loading terminal are situated on Bonny Island in Rivers State."
+  },
+  {
+    "question": "The vertical arrangement of distinct soil layers from the ground surface down to the underlying parent bedrock is referred to as the:",
+    "options": {
+      "a": "Soil texture",
+      "b": "Soil profile",
+      "c": "Soil catena",
+      "d": "Soil structure"
+    },
+    "answer": "b",
+    "explanation": "A soil profile is a vertical cross-section of the soil displaying its individual distinct developmental layers or horizons (A, B, C horizons) down to parent rock."
+  },
+  {
+    "question": "The volcanic feature formed when the summit of an erupting volcano collapses into its partially emptied magma chamber is a:",
+    "options": {
+      "a": "Cinder cone",
+      "b": "Caldera",
+      "c": "Volcanic neck",
+      "d": "Lava plateau"
+    },
+    "answer": "b",
+    "explanation": "A caldera is a large circular or oval volcanic depression formed by the inward collapse of the volcano summit when underlying magma support is evacuated during an explosive eruption."
+  },
+  {
+    "question": "Which tributary is the largest and most commercially significant confluent of the River Niger, joining it at Lokoja?",
+    "options": {
+      "a": "River Kaduna",
+      "b": "River Benue",
+      "c": "River Sokoto",
+      "d": "River Gongola"
+    },
+    "answer": "b",
+    "explanation": "The River Benue is the principal eastern tributary of the River Niger; their confluence is situated at Lokoja in Kogi State, Nigeria."
+  }
+]

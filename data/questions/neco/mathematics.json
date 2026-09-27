@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Convert the binary number 11011_2 to a base ten (denary) number.",
+    "options": {
+      "a": "23",
+      "b": "25",
+      "c": "27",
+      "d": "29"
+    },
+    "answer": "c",
+    "explanation": "11011_2 = (1 x 2^4) + (1 x 2^3) + (0 x 2^2) + (1 x 2^1) + (1 x 2^0) = 16 + 8 + 0 + 2 + 1 = 27."
+  },
+  {
+    "question": "Evaluate (25 + 38) in modulo 7 arithmetic.",
+    "options": {
+      "a": "0",
+      "b": "2",
+      "c": "4",
+      "d": "6"
+    },
+    "answer": "a",
+    "explanation": "25 + 38 = 63. Dividing 63 by 7 yields 9 with a remainder of 0. Hence, 63 ≡ 0 (mod 7)."
+  },
+  {
+    "question": "Simplify: [27^(2/3) x 16^(-1/4)] / 32^(1/5)",
+    "options": {
+      "a": "9/4",
+      "b": "9/2",
+      "c": "3/2",
+      "d": "3/4"
+    },
+    "answer": "a",
+    "explanation": "27^(2/3) = (3^3)^(2/3) = 3^2 = 9. 16^(-1/4) = 1 / (2^4)^(1/4) = 1/2. 32^(1/5) = 2. Numerator = 9 x 0.5 = 4.5. Value = 4.5 / 2 = 9/4."
+  },
+  {
+    "question": "Given that log10 2 = 0.3010 and log10 3 = 0.4771, calculate the value of log10 72.",
+    "options": {
+      "a": "1.7781",
+      "b": "1.8572",
+      "c": "1.9242",
+      "d": "2.0572"
+    },
+    "answer": "b",
+    "explanation": "72 = 2^3 x 3^2. log10 72 = 3 log10 2 + 2 log10 3 = 3(0.3010) + 2(0.4771) = 0.9030 + 0.9542 = 1.8572."
+  },
+  {
+    "question": "Simplify the surd expression: (√50 - √18) / √8",
+    "options": {
+      "a": "1",
+      "b": "√2",
+      "c": "2",
+      "d": "2√2"
+    },
+    "answer": "a",
+    "explanation": "√50 = 5√2, √18 = 3√2, √8 = 2√2. Numerator = 5√2 - 3√2 = 2√2. Value = 2√2 / 2√2 = 1."
+  },
+  {
+    "question": "In a class of 40 students, 24 offer Biology, 18 offer Chemistry, and 6 offer neither subject. How many students offer both Biology and Chemistry?",
+    "options": {
+      "a": "6",
+      "b": "8",
+      "c": "10",
+      "d": "12"
+    },
+    "answer": "b",
+    "explanation": "Number of students offering at least one subject = 40 - 6 = 34. Using n(B ∪ C) = n(B) + n(C) - n(B ∩ C): 34 = 24 + 18 - n(B ∩ C) => 34 = 42 - n(B ∩ C) => n(B ∩ C) = 42 - 34 = 8."
+  },
+  {
+    "question": "Calculate the simple interest on ₦45,000 for 3 years at 6% per annum.",
+    "options": {
+      "a": "₦2,700",
+      "b": "₦5,400",
+      "c": "₦8,100",
+      "d": "₦9,000"
+    },
+    "answer": "c",
+    "explanation": "I = (P x R x T) / 100 = (45,000 x 6 x 3) / 100 = 450 x 18 = ₦8,100."
+  },
+  {
+    "question": "A sum of ₦20,000 is invested at 10% per annum compound interest compounded annually. What is the compound interest earned at the end of 2 years?",
+    "options": {
+      "a": "₦2,000",
+      "b": "₦4,000",
+      "c": "₦4,200",
+      "d": "₦24,200"
+    },
+    "answer": "c",
+    "explanation": "Amount A = P(1 + r/100)^n = 20,000(1 + 0.10)^2 = 20,000(1.21) = ₦24,200. Compound Interest = A - P = 24,200 - 20,000 = ₦4,200."
+  },
+  {
+    "question": "An amount of ₦60,000 is shared among Ade, Bola, and Chidi in the ratio 2 : 3 : 5. How much does Bola receive?",
+    "options": {
+      "a": "₦12,000",
+      "b": "₦18,000",
+      "c": "₦24,000",
+      "d": "₦30,000"
+    },
+    "answer": "b",
+    "explanation": "Total ratio parts = 2 + 3 + 5 = 10. Bola's share = (3 / 10) x ₦60,000 = 3 x ₦6,000 = ₦18,000."
+  },
+  {
+    "question": "Solve the simultaneous linear equations: 3x + 2y = 12 and 5x - y = 7.",
+    "options": {
+      "a": "x = 1, y = 4",
+      "b": "x = 2, y = 3",
+      "c": "x = 3, y = 2",
+      "d": "x = 4, y = 0"
+    },
+    "answer": "b",
+    "explanation": "From eq 2: y = 5x - 7. Substitute into eq 1: 3x + 2(5x - 7) = 12 => 3x + 10x - 14 = 12 => 13x = 26 => x = 2. Then y = 5(2) - 7 = 3."
+  },
+  {
+    "question": "If α and β are the roots of the quadratic equation 2x^2 - 5x + 3 = 0, find the value of (α + β).",
+    "options": {
+      "a": "-5/2",
+      "b": "3/2",
+      "c": "5/2",
+      "d": "5"
+    },
+    "answer": "c",
+    "explanation": "For ax^2 + bx + c = 0, the sum of roots α + β = -b/a. Here a = 2, b = -5, so α + β = -(-5)/2 = 5/2."
+  },
+  {
+    "question": "Find the truth set of the equation x^2 - 7x + 12 = 0.",
+    "options": {
+      "a": "{-4, -3}",
+      "b": "{3, 4}",
+      "c": "{-3, 4}",
+      "d": "{-4, 3}"
+    },
+    "answer": "b",
+    "explanation": "Factorizing x^2 - 7x + 12 = 0 gives (x - 3)(x - 4) = 0. Therefore, x = 3 or x = 4."
+  },
+  {
+    "question": "Solve the linear inequality: 3 - 2x < 5 - x.",
+    "options": {
+      "a": "x > -2",
+      "b": "x < -2",
+      "c": "x > 2",
+      "d": "x < 2"
+    },
+    "answer": "a",
+    "explanation": "3 - 2x < 5 - x => -2x + x < 5 - 3 => -x < 2. Multiplying by -1 reverses the inequality sign: x > -2."
+  },
+  {
+    "question": "If y varies inversely as the square of x, and y = 8 when x = 3, find the value of y when x = 6.",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "4",
+      "d": "16"
+    },
+    "answer": "b",
+    "explanation": "y = k / x^2. When x = 3 and y = 8: 8 = k / 3^2 => k = 8 x 9 = 72. When x = 6: y = 72 / 6^2 = 72 / 36 = 2."
+  },
+  {
+    "question": "P varies directly as Q and inversely as R. When Q = 6 and R = 2, P = 12. Find P when Q = 9 and R = 3.",
+    "options": {
+      "a": "8",
+      "b": "12",
+      "c": "18",
+      "d": "24"
+    },
+    "answer": "b",
+    "explanation": "P = kQ / R => 12 = k(6) / 2 => 12 = 3k => k = 4. When Q = 9 and R = 3: P = (4 x 9) / 3 = 36 / 3 = 12."
+  },
+  {
+    "question": "The 6th term of an Arithmetic Progression (AP) is 17 and the 13th term is 38. Find the common difference.",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "answer": "b",
+    "explanation": "T13 - T6 = (a + 12d) - (a + 5d) = 7d. 38 - 17 = 21 => 7d = 21 => d = 3."
+  },
+  {
+    "question": "The fourth term of an Arithmetic Progression is 15 and the ninth term is 35. Find the sum of the first 12 terms of the progression.",
+    "options": {
+      "a": "240",
+      "b": "280",
+      "c": "300",
+      "d": "360"
+    },
+    "answer": "c",
+    "explanation": "T9 - T4 = 5d = 35 - 15 = 20 => d = 4. a = 15 - 3(4) = 3. S12 = (12/2)[2(3) + 11(4)] = 6[6 + 44] = 6 x 50 = 300."
+  },
+  {
+    "question": "The 3rd term of a Geometric Progression (GP) is 18 and the 6th term is 486. Find the common ratio of the progression.",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "9"
+    },
+    "answer": "b",
+    "explanation": "T6 / T3 = ar^5 / ar^2 = r^3. r^3 = 486 / 18 = 27 => r = 3√27 = 3."
+  },
+  {
+    "question": "Find the sum to infinity of the Geometric Progression: 16, 8, 4, 2, ...",
+    "options": {
+      "a": "24",
+      "b": "30",
+      "c": "32",
+      "d": "48"
+    },
+    "answer": "c",
+    "explanation": "First term a = 16, common ratio r = 8/16 = 1/2. S_inf = a / (1 - r) = 16 / (1 - 0.5) = 16 / 0.5 = 32."
+  },
+  {
+    "question": "The sum of the interior angles of a regular polygon is 1440°. How many sides does the polygon have?",
+    "options": {
+      "a": "8",
+      "b": "9",
+      "c": "10",
+      "d": "12"
+    },
+    "answer": "c",
+    "explanation": "Sum of interior angles = (n - 2) x 180° = 1440° => n - 2 = 1440 / 180 = 8 => n = 10 sides."
+  },
+  {
+    "question": "Each exterior angle of a regular polygon measures 30°. How many sides does the polygon possess?",
+    "options": {
+      "a": "10",
+      "b": "12",
+      "c": "15",
+      "d": "18"
+    },
+    "answer": "b",
+    "explanation": "The sum of exterior angles of any convex polygon is 360°. Number of sides n = 360° / 30° = 12."
+  },
+  {
+    "question": "An arc of a circle subtends an angle of 70° at the circumference. What angle does the same arc subtend at the centre of the circle?",
+    "options": {
+      "a": "35°",
+      "b": "70°",
+      "c": "110°",
+      "d": "140°"
+    },
+    "answer": "d",
+    "explanation": "By circle geometry, the angle subtended by an arc at the centre is twice the angle subtended by it at any point on the remaining circumference: 2 x 70° = 140°."
+  },
+  {
+    "question": "In a cyclic quadrilateral ABCD, angle A = (2x + 10)° and opposite angle C = (3x + 20)°. Find the value of x.",
+    "options": {
+      "a": "20",
+      "b": "30",
+      "c": "40",
+      "d": "50"
+    },
+    "answer": "b",
+    "explanation": "Opposite angles of a cyclic quadrilateral are supplementary: (2x + 10) + (3x + 20) = 180 => 5x + 30 = 180 => 5x = 150 => x = 30."
+  },
+  {
+    "question": "A tangent PT is drawn from an external point P to touch a circle at point T. If the radius OT is 5 cm and the distance OP from the centre is 13 cm, find the length of PT.",
+    "options": {
+      "a": "8 cm",
+      "b": "10 cm",
+      "c": "12 cm",
+      "d": "14 cm"
+    },
+    "answer": "c",
+    "explanation": "The radius to a point of tangency is perpendicular to the tangent, forming right triangle OTP: PT = √(OP^2 - OT^2) = √(13^2 - 5^2) = √(169 - 25) = √144 = 12 cm."
+  },
+  {
+    "question": "Calculate the volume of a right circular cylinder of radius 7 cm and height 10 cm. [Take π = 22/7]",
+    "options": {
+      "a": "440 cm3",
+      "b": "770 cm3",
+      "c": "1,540 cm3",
+      "d": "3,080 cm3"
+    },
+    "answer": "c",
+    "explanation": "Volume V = π r^2 h = (22/7) x 7^2 x 10 = (22/7) x 49 x 10 = 22 x 7 x 10 = 1,540 cm3."
+  },
+  {
+    "question": "A solid metal cone of base radius 3 cm and height 12 cm is melted and recast into small spherical balls each of radius 1.5 cm. How many balls can be formed without any waste of metal?",
+    "options": {
+      "a": "6",
+      "b": "8",
+      "c": "12",
+      "d": "16"
+    },
+    "answer": "b",
+    "explanation": "Volume of cone = (1/3)π(3^2)(12) = 36π cm3. Volume of each sphere = (4/3)π(1.5)^3 = 4.5π cm3. Number of recast spherical balls = 36π / 4.5π = 8."
+  },
+  {
+    "question": "Find the distance between the two points A(2, -3) and B(6, 1) in the Cartesian plane.",
+    "options": {
+      "a": "4 units",
+      "b": "4√2 units",
+      "c": "8 units",
+      "d": "32 units"
+    },
+    "answer": "b",
+    "explanation": "Distance d = √[(x2 - x1)^2 + (y2 - y1)^2] = √[(6 - 2)^2 + (1 - (-3))^2] = √[4^2 + 4^2] = √[16 + 16] = √32 = 4√2 units."
+  },
+  {
+    "question": "What is the midpoint of the line segment joining the points P(-4, 7) and Q(2, -1)?",
+    "options": {
+      "a": "(-1, 3)",
+      "b": "(-2, 6)",
+      "c": "(3, -1)",
+      "d": "(-3, 4)"
+    },
+    "answer": "a",
+    "explanation": "Midpoint M = ((x1 + x2)/2, (y1 + y2)/2) = ((-4 + 2)/2, (7 + (-1))/2) = (-2/2, 6/2) = (-1, 3)."
+  },
+  {
+    "question": "What is the gradient of a straight line that is perpendicular to the line 2x - 4y + 5 = 0?",
+    "options": {
+      "a": "1/2",
+      "b": "-1/2",
+      "c": "2",
+      "d": "-2"
+    },
+    "answer": "d",
+    "explanation": "2x - 4y + 5 = 0 => 4y = 2x + 5 => y = (1/2)x + 5/4. Gradient m1 = 1/2. For perpendicular lines, m1 x m2 = -1 => m2 = -1 / (1/2) = -2."
+  },
+  {
+    "question": "Find the equation of a straight line passing through the point (2, 3) with a gradient of 4.",
+    "options": {
+      "a": "y = 4x - 5",
+      "b": "y = 4x + 5",
+      "c": "y = 4x - 11",
+      "d": "y = 2x + 4"
+    },
+    "answer": "a",
+    "explanation": "Using point-slope form: y - y1 = m(x - x1) => y - 3 = 4(x - 2) => y - 3 = 4x - 8 => y = 4x - 5."
+  },
+  {
+    "question": "If sin θ = 3/5 where θ is an acute angle, find the numerical value of cos θ + tan θ.",
+    "options": {
+      "a": "7/5",
+      "b": "31/20",
+      "c": "23/20",
+      "d": "12/5"
+    },
+    "answer": "b",
+    "explanation": "For acute θ, adjacent side = √(5^2 - 3^2) = 4. cos θ = 4/5, tan θ = 3/4. Sum = 4/5 + 3/4 = (16 + 15) / 20 = 31/20."
+  },
+  {
+    "question": "Evaluate without tables: (sin 60° x cos 30°) / tan 45°",
+    "options": {
+      "a": "1/4",
+      "b": "1/2",
+      "c": "3/4",
+      "d": "1"
+    },
+    "answer": "c",
+    "explanation": "sin 60° = √3/2, cos 30° = √3/2, tan 45° = 1. Numerator = (√3/2) x (√3/2) = 3/4. Result = (3/4) / 1 = 3/4."
+  },
+  {
+    "question": "In a triangle ABC, angle A = 30°, angle B = 45°, and side a = 8 cm. Find the length of side b.",
+    "options": {
+      "a": "4√2 cm",
+      "b": "8√2 cm",
+      "c": "12 cm",
+      "d": "16 cm"
+    },
+    "answer": "b",
+    "explanation": "By the Sine rule: a / sin A = b / sin B => 8 / sin 30° = b / sin 45° => b = (8 x sin 45°) / sin 30° = (8 x √2/2) / (1/2) = 8√2 cm."
+  },
+  {
+    "question": "In triangle XYZ, side x = 6 cm, side y = 10 cm, and angle Z = 120°. Calculate the length of side z.",
+    "options": {
+      "a": "12 cm",
+      "b": "14 cm",
+      "c": "16 cm",
+      "d": "2√31 cm"
+    },
+    "answer": "b",
+    "explanation": "By the Cosine rule: z^2 = x^2 + y^2 - 2xy cos(120°) = 36 + 100 - 2(6)(10)(-0.5) = 136 + 60 = 196. Therefore, z = √196 = 14 cm."
+  },
+  {
+    "question": "The angle of elevation of the top of a vertical communications mast from a point on level ground 30 m away from its foot is 45°. What is the height of the mast?",
+    "options": {
+      "a": "15 m",
+      "b": "30 m",
+      "c": "30√3 m",
+      "d": "60 m"
+    },
+    "answer": "b",
+    "explanation": "tan 45° = height / distance => 1 = h / 30 => h = 30 m."
+  },
+  {
+    "question": "A ship sails from a lighthouse on a three-figure bearing of 065°. What is the bearing of the lighthouse from the ship?",
+    "options": {
+      "a": "115°",
+      "b": "155°",
+      "c": "245°",
+      "d": "335°"
+    },
+    "answer": "c",
+    "explanation": "Back bearing = forward bearing + 180° (since 065° < 180°) = 65° + 180° = 245°."
+  },
+  {
+    "question": "The scores of five candidates in an interview are 12, 15, x, 18, and 20. If the mean score is 16, what is the value of x?",
+    "options": {
+      "a": "14",
+      "b": "15",
+      "c": "16",
+      "d": "17"
+    },
+    "answer": "b",
+    "explanation": "Mean = (12 + 15 + x + 18 + 20) / 5 = 16 => (65 + x) / 5 = 16 => 65 + x = 80 => x = 80 - 65 = 15."
+  },
+  {
+    "question": "Find the median of the following dataset: 8, 3, 14, 9, 5, 12, 7.",
+    "options": {
+      "a": "7",
+      "b": "8",
+      "c": "9",
+      "d": "10"
+    },
+    "answer": "b",
+    "explanation": "Arranging the 7 data values in ascending order: 3, 5, 7, 8, 9, 12, 14. The middle (4th) value is 8."
+  },
+  {
+    "question": "A fair six-sided die is tossed once. What is the probability of obtaining a prime number?",
+    "options": {
+      "a": "1/6",
+      "b": "1/3",
+      "c": "1/2",
+      "d": "2/3"
+    },
+    "answer": "c",
+    "explanation": "The sample space is {1, 2, 3, 4, 5, 6} (6 outcomes). Prime numbers are {2, 3, 5} (3 outcomes). P(prime) = 3/6 = 1/2."
+  },
+  {
+    "question": "A bag contains 4 red marbles and 6 blue marbles. If two marbles are drawn at random with replacement, what is the probability that both are red?",
+    "options": {
+      "a": "2/15",
+      "b": "4/25",
+      "c": "6/25",
+      "d": "2/5"
+    },
+    "answer": "b",
+    "explanation": "Total marbles = 10. P(first red) = 4/10 = 2/5. With replacement, P(second red) = 2/5. P(both red) = (2/5) x (2/5) = 4/25."
+  },
+  {
+    "question": "A box contains 5 white balls and 3 black balls. If two balls are drawn at random one after another without replacement, find the probability that both balls are black.",
+    "options": {
+      "a": "3/28",
+      "b": "9/64",
+      "c": "15/56",
+      "d": "3/8"
+    },
+    "answer": "a",
+    "explanation": "Total balls = 8. P(1st black) = 3/8. P(2nd black | 1st black) = 2/7. P(both black) = (3/8) x (2/7) = 6/56 = 3/28."
+  },
+  {
+    "question": "Calculate the standard deviation of the numbers: 2, 4, 6, 8, and 10.",
+    "options": {
+      "a": "2",
+      "b": "√8 (2√2)",
+      "c": "8",
+      "d": "10"
+    },
+    "answer": "b",
+    "explanation": "Mean = (2+4+6+8+10)/5 = 30/5 = 6. Deviations (x - mean): -4, -2, 0, 2, 4. Squared deviations: 16, 4, 0, 4, 16. Sum = 40. Variance = 40/5 = 8. Standard deviation = √8 = 2√2."
+  },
+  {
+    "question": "A trader bought an article for ₦8,000 and sold it for ₦10,000. Calculate the percentage profit.",
+    "options": {
+      "a": "20%",
+      "b": "25%",
+      "c": "30%",
+      "d": "33.3%"
+    },
+    "answer": "b",
+    "explanation": "Profit = Selling Price - Cost Price = ₦10,000 - ₦8,000 = ₦2,000. Percentage profit = (2,000 / 8,000) x 100% = 25%."
+  },
+  {
+    "question": "A printing machine purchased for ₦500,000 depreciates at an annual rate of 10%. What is its book value at the end of 2 years?",
+    "options": {
+      "a": "₦400,000",
+      "b": "₦405,000",
+      "c": "₦450,000",
+      "d": "₦490,000"
+    },
+    "answer": "b",
+    "explanation": "Value = P(1 - r/100)^n = 500,000(1 - 0.10)^2 = 500,000(0.90)^2 = 500,000 x 0.81 = ₦405,000."
+  },
+  {
+    "question": "Expand and simplify the algebraic expression: (2x - 3)(3x + 4)",
+    "options": {
+      "a": "6x^2 - x - 12",
+      "b": "6x^2 + x - 12",
+      "c": "6x^2 - 17x - 12",
+      "d": "6x^2 - 12"
+    },
+    "answer": "a",
+    "explanation": "(2x - 3)(3x + 4) = 2x(3x + 4) - 3(3x + 4) = 6x^2 + 8x - 9x - 12 = 6x^2 - x - 12."
+  },
+  {
+    "question": "Simplify the algebraic fraction: (x^2 - 9) / (2x + 6)",
+    "options": {
+      "a": "(x - 3) / 2",
+      "b": "(x + 3) / 2",
+      "c": "(x - 3) / (x + 3)",
+      "d": "x / 2"
+    },
+    "answer": "a",
+    "explanation": "Numerator is a difference of two squares: (x - 3)(x + 3). Denominator factors as 2(x + 3). Dividing out (x + 3) gives (x - 3) / 2."
+  },
+  {
+    "question": "Given the kinematics formula s = 0.5 a t^2, make t the subject of the formula.",
+    "options": {
+      "a": "t = √(s / 2a)",
+      "b": "t = √(2s / a)",
+      "c": "t = 2s / a",
+      "d": "t = √(2a / s)"
+    },
+    "answer": "b",
+    "explanation": "s = (a t^2) / 2 => 2s = a t^2 => t^2 = 2s / a => t = √(2s / a)."
+  },
+  {
+    "question": "Find the magnitude of the 2D vector v = 3i - 4j.",
+    "options": {
+      "a": "1 unit",
+      "b": "5 units",
+      "c": "7 units",
+      "d": "25 units"
+    },
+    "answer": "b",
+    "explanation": "|v| = √[(3)^2 + (-4)^2] = √[9 + 16] = √25 = 5 units."
+  },
+  {
+    "question": "The curve of a quadratic function y = ax^2 + bx + c has a turning point at (2, -1) and opens upwards. What is the equation of the line of symmetry of the curve?",
+    "options": {
+      "a": "y = -1",
+      "b": "y = 2",
+      "c": "x = -1",
+      "d": "x = 2"
+    },
+    "answer": "d",
+    "explanation": "The axis of symmetry of a parabola passes through its vertex. Since the vertex is at (2, -1), the line of symmetry is the vertical line x = 2."
+  },
+  {
+    "question": "Find the curved surface area of a cone of base radius 6 cm and vertical height 8 cm. [Take π = 3.142]",
+    "options": {
+      "a": "94.26 cm2",
+      "b": "150.82 cm2",
+      "c": "188.52 cm2",
+      "d": "301.63 cm2"
+    },
+    "answer": "c",
+    "explanation": "Slant height L = √(r^2 + h^2) = √(6^2 + 8^2) = √(36 + 64) = √100 = 10 cm. Curved Surface Area = π r L = 3.142 x 6 x 10 = 188.52 cm2."
+  }
+]

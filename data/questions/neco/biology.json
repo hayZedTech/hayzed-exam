@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which organelle is responsible for the formation of spindle fibres during cell division in animal cells?",
+    "options": {
+      "a": "Centriole",
+      "b": "Ribosome",
+      "c": "Lysosome",
+      "d": "Nucleolus"
+    },
+    "answer": "a",
+    "explanation": "Centrioles organize the microtubule assembly that forms the spindle apparatus during mitosis and meiosis in animal cells."
+  },
+  {
+    "question": "The level of organization of Paramecium caudatum is",
+    "options": {
+      "a": "tissue level",
+      "b": "organ level",
+      "c": "cellular level",
+      "d": "system level"
+    },
+    "answer": "c",
+    "explanation": "Paramecium is a single-celled protozoan capable of independent existence at the cellular level of organization."
+  },
+  {
+    "question": "Which of the following organisms exhibits holozoic nutrition?",
+    "options": {
+      "a": "Rhizopus stolonifer",
+      "b": "Amoeba proteus",
+      "c": "Cuscuta reflexa",
+      "d": "Nitrosomonas"
+    },
+    "answer": "b",
+    "explanation": "Amoeba ingests solid food particles by phagocytosis, digests them intracellularly, absorbs nutrients, and egests residues, which is holozoic nutrition."
+  },
+  {
+    "question": "The deficiency of vitamin K in humans primarily leads to",
+    "options": {
+      "a": "rickets and weak bones",
+      "b": "delayed blood clotting",
+      "c": "night blindness",
+      "d": "bleeding gums and scurvy"
+    },
+    "answer": "b",
+    "explanation": "Vitamin K is essential for the hepatic synthesis of prothrombin and other clotting factors; deficiency leads to prolonged bleeding."
+  },
+  {
+    "question": "In which part of the chloroplast does the light-independent (dark) reaction of photosynthesis take place?",
+    "options": {
+      "a": "Thylakoid membrane",
+      "b": "Grana",
+      "c": "Stroma",
+      "d": "Outer chloroplast envelope"
+    },
+    "answer": "c",
+    "explanation": "The light-independent reactions (Calvin cycle) occur in the stroma, where carbon dioxide is fixed into carbohydrates using ATP and NADPH."
+  },
+  {
+    "question": "The enzyme pepsin operates optimally in an environment with a pH of approximately",
+    "options": {
+      "a": "1.5 to 2.0",
+      "b": "7.0 to 7.4",
+      "c": "8.0 to 8.5",
+      "d": "11.0 to 12.0"
+    },
+    "answer": "a",
+    "explanation": "Pepsin is secreted in the gastric juice of the stomach and requires a strongly acidic medium (pH 1.5 - 2.0) provided by hydrochloric acid for maximum activity."
+  },
+  {
+    "question": "Water moves from the soil into root hair cells primarily by",
+    "options": {
+      "a": "active transport",
+      "b": "osmosis",
+      "c": "diffusion",
+      "d": "transpiration pull"
+    },
+    "answer": "b",
+    "explanation": "The cell sap of root hair cells has a higher solute concentration (lower water potential) than the surrounding soil solution, causing water to enter by osmosis."
+  },
+  {
+    "question": "The bicuspid (mitral) valve in the mammalian heart prevents the backflow of blood from the",
+    "options": {
+      "a": "right ventricle to the right atrium",
+      "b": "left ventricle to the left atrium",
+      "c": "pulmonary artery to the right ventricle",
+      "d": "aorta to the left ventricle"
+    },
+    "answer": "b",
+    "explanation": "The bicuspid or mitral valve is situated between the left atrium and left ventricle, preventing backflow into the left atrium during ventricular systole."
+  },
+  {
+    "question": "Which component of human blood lacks a nucleus at maturity and contains carbonic anhydrase?",
+    "options": {
+      "a": "Monocyte",
+      "b": "Erythrocyte",
+      "c": "Lymphocyte",
+      "d": "Neutrophil"
+    },
+    "answer": "b",
+    "explanation": "Mature mammalian erythrocytes (red blood cells) are enucleated and rich in carbonic anhydrase, which facilitates carbon dioxide transport."
+  },
+  {
+    "question": "The respiratory organ found in terrestrial insects is the",
+    "options": {
+      "a": "book lung",
+      "b": "tracheal system",
+      "c": "ctenidium",
+      "d": "skin"
+    },
+    "answer": "b",
+    "explanation": "Insects breathe through a network of internal tubes known as the tracheal system, opening to the outside through spiracles."
+  },
+  {
+    "question": "During strenuous exercise, lactic acid accumulates in mammalian skeletal muscles as a result of",
+    "options": {
+      "a": "aerobic glycolysis",
+      "b": "anaerobic respiration",
+      "c": "excess ATP production",
+      "d": "oxidative phosphorylation"
+    },
+    "answer": "b",
+    "explanation": "When oxygen supply is insufficient, muscle cells regenerate NAD+ by reducing pyruvate to lactic acid via anaerobic fermentation."
+  },
+  {
+    "question": "In the human nephron, ultrafiltration takes place across the",
+    "options": {
+      "a": "loop of Henle",
+      "b": "collecting duct",
+      "c": "distal convoluted tubule",
+      "d": "Malpighian corpuscle (glomerulus and Bowman's capsule)"
+    },
+    "answer": "d",
+    "explanation": "Ultrafiltration occurs under high hydrostatic pressure between the capillary walls of the glomerulus and the inner wall of Bowman's capsule."
+  },
+  {
+    "question": "Flame cells are the characteristic excretory organs of",
+    "options": {
+      "a": "Platyhelminthes",
+      "b": "Annelida",
+      "c": "Arthropoda",
+      "d": "Mollusca"
+    },
+    "answer": "a",
+    "explanation": "Flatworms (Platyhelminthes) such as Planaria and Fasciola eliminate metabolic wastes and osmoregulate using flame cell systems (protonephridia)."
+  },
+  {
+    "question": "The hormone responsible for promoting water reabsorption in the collecting ducts of the human kidney is",
+    "options": {
+      "a": "oxytocin",
+      "b": "antidiuretic hormone (vasopressin)",
+      "c": "insulin",
+      "d": "thyroxine"
+    },
+    "answer": "b",
+    "explanation": "Antidiuretic hormone (ADH) increases the permeability of the distal convoluted tubules and collecting ducts to water, concentrating the urine."
+  },
+  {
+    "question": "The functional junction between two successive neurons is known as a",
+    "options": {
+      "a": "synapse",
+      "b": "ganglion",
+      "c": "node of Ranvier",
+      "d": "sarcomere"
+    },
+    "answer": "a",
+    "explanation": "A synapse is the microscopic gap across which nerve impulses pass from the axon terminal of one neuron to the dendrite of the next via neurotransmitters."
+  },
+  {
+    "question": "Which part of the human brain regulates heartbeat, breathing rate, and blood pressure?",
+    "options": {
+      "a": "Cerebrum",
+      "b": "Cerebellum",
+      "c": "Medulla oblongata",
+      "d": "Hypothalamus"
+    },
+    "answer": "c",
+    "explanation": "The medulla oblongata controls vital involuntary autonomic reflex centres, including cardiac, vasomotor, and respiratory activities."
+  },
+  {
+    "question": "In the mammalian eye, the region of greatest visual acuity with the highest concentration of cones is the",
+    "options": {
+      "a": "blind spot",
+      "b": "fovea centralis (yellow spot)",
+      "c": "sclera",
+      "d": "choroid layer"
+    },
+    "answer": "b",
+    "explanation": "The fovea centralis (yellow spot) contains densely packed cone cells and no rods, making it the area of sharpest vision."
+  },
+  {
+    "question": "Which bone forms the hinge joint with the trochlea of the humerus at the human elbow?",
+    "options": {
+      "a": "Ulna",
+      "b": "Radius",
+      "c": "Clavicle",
+      "d": "Scapula"
+    },
+    "answer": "a",
+    "explanation": "The trochlear notch of the ulna articulates directly with the trochlea of the humerus to form the hinge joint of the elbow."
+  },
+  {
+    "question": "The type of joint found between the atlas and axis vertebrae that allows rotation of the head is a",
+    "options": {
+      "a": "ball and socket joint",
+      "b": "pivot joint",
+      "c": "gliding joint",
+      "d": "suture"
+    },
+    "answer": "b",
+    "explanation": "The atlantoaxial joint between the atlas and the odontoid process of the axis is a pivot joint permitting rotation of the head."
+  },
+  {
+    "question": "The plant hormone primarily responsible for apical dominance is",
+    "options": {
+      "a": "gibberellin",
+      "b": "abscisic acid",
+      "c": "auxin (indole-3-acetic acid)",
+      "d": "ethylene"
+    },
+    "answer": "c",
+    "explanation": "Auxins produced in the shoot apex inhibit the outgrowth of lateral (axillary) buds, maintaining apical dominance."
+  },
+  {
+    "question": "Which of the following is an example of an epigeal germinating seed?",
+    "options": {
+      "a": "Maize (Zea mays)",
+      "b": "Broad bean (Vicia faba)",
+      "c": "Cowpea (Vigna unguiculata)",
+      "d": "Pea (Pisum sativum)"
+    },
+    "answer": "c",
+    "explanation": "In cowpea germination, elongation of the hypocotyl carries the cotyledons above the soil surface, which is characteristic of epigeal germination."
+  },
+  {
+    "question": "Double fertilization in angiosperms results in the formation of a zygote and a",
+    "options": {
+      "a": "haploid seed coat",
+      "b": "triploid endosperm nucleus",
+      "c": "diploid embryo sac",
+      "d": "tetraploid pericarp"
+    },
+    "answer": "b",
+    "explanation": "One male gamete fertilizes the egg cell to form a diploid zygote, while the second male gamete fuses with two polar nuclei to form a triploid (3n) primary endosperm nucleus."
+  },
+  {
+    "question": "The transfer of pollen grains from the anther of a flower to the stigma of another flower on a different plant of the same species is called",
+    "options": {
+      "a": "autogamy",
+      "b": "geitonogamy",
+      "c": "xenogamy (cross-pollination)",
+      "d": "cleistogamy"
+    },
+    "answer": "c",
+    "explanation": "Xenogamy (allogamy) involves cross-pollination between flowers of genetically distinct individual plants of the same species."
+  },
+  {
+    "question": "In a cross between two heterozygous tall pea plants (Tt x Tt), what proportion of the offspring is expected to be homozygous tall?",
+    "options": {
+      "a": "1/4 (25%)",
+      "b": "1/2 (50%)",
+      "c": "3/4 (75%)",
+      "d": "all (100%)"
+    },
+    "answer": "a",
+    "explanation": "A monohybrid cross of Tt x Tt yields genotypes TT (1/4), Tt (2/4), and tt (1/4). Homozygous tall (TT) represents 25% or 1/4 of the progeny."
+  },
+  {
+    "question": "A man with blood group AB marries a woman with blood group O. What are the possible blood groups of their children?",
+    "options": {
+      "a": "A and B only",
+      "b": "AB and O only",
+      "c": "A, B, and AB only",
+      "d": "A, B, AB, and O"
+    },
+    "answer": "a",
+    "explanation": "The AB father produces IA and IB gametes, while the O mother produces only i gametes. The offspring can only have IAi (Group A) or IBi (Group B)."
+  },
+  {
+    "question": "Haemophilia is a sex-linked recessive disorder carried on the X chromosome. A carrier female (XHXh) and a normal male (XHY) have children. What percentage of their sons is expected to have haemophilia?",
+    "options": {
+      "a": "0%",
+      "b": "25%",
+      "c": "50%",
+      "d": "100%"
+    },
+    "answer": "c",
+    "explanation": "Sons receive their single X chromosome from the mother. Half of the mother's eggs carry XH (normal son) and half carry Xh (haemophilic son), giving a 50% probability among sons."
+  },
+  {
+    "question": "A sudden, heritable change in the nucleotide sequence of an organism's DNA is known as a",
+    "options": {
+      "a": "variation",
+      "b": "mutation",
+      "c": "translocation",
+      "d": "conjugation"
+    },
+    "answer": "b",
+    "explanation": "A mutation is a spontaneous or induced structural change in genetic material that can be transmitted to subsequent cell generations."
+  },
+  {
+    "question": "Which of the following is a density-dependent factor regulating animal population size?",
+    "options": {
+      "a": "Volcanic eruption",
+      "b": "Flood",
+      "c": "Infectious disease",
+      "d": "Wildfire"
+    },
+    "answer": "c",
+    "explanation": "Infectious disease spreads more readily in crowded populations, exerting greater mortality at higher population densities."
+  },
+  {
+    "question": "The ecological role and physical space occupied by an organism within its habitat is designated as its",
+    "options": {
+      "a": "biome",
+      "b": "niche",
+      "c": "trophic level",
+      "d": "biosphere"
+    },
+    "answer": "b",
+    "explanation": "An ecological niche encompasses not only the physical space occupied by an organism but also its functional role, resource utilization, and interactions in the community."
+  },
+  {
+    "question": "In an aquatic ecosystem, organisms that swim actively and freely against water currents are known as",
+    "options": {
+      "a": "plankton",
+      "b": "benthos",
+      "c": "nekton",
+      "d": "periphyton"
+    },
+    "answer": "c",
+    "explanation": "Nekton are active, free-swimming aquatic organisms such as fish and aquatic mammals that can move independently of water currents."
+  },
+  {
+    "question": "Which bacterium converts nitrites (NO2-) into nitrates (NO3-) in the nitrogen cycle?",
+    "options": {
+      "a": "Nitrosomonas",
+      "b": "Nitrobacter",
+      "c": "Rhizobium",
+      "d": "Azotobacter"
+    },
+    "answer": "b",
+    "explanation": "Nitrobacter oxidizes nitrite ions to nitrate ions in the soil, completing the nitrifying process started by Nitrosomonas."
+  },
+  {
+    "question": "The primary succession on bare rock begins with pioneer species such as",
+    "options": {
+      "a": "lichens and mosses",
+      "b": "annual grasses",
+      "c": "woody shrubs",
+      "d": "climax hardwood trees"
+    },
+    "answer": "a",
+    "explanation": "Lichens secrete organic acids that weather rock into soil particles, establishing conditions for mosses and subsequent plant communities."
+  },
+  {
+    "question": "The instrument used by ecologists to measure relative atmospheric humidity is the",
+    "options": {
+      "a": "anemometer",
+      "b": "wet-and-dry bulb hygrometer",
+      "c": "barometer",
+      "d": "Secchi disc"
+    },
+    "answer": "b",
+    "explanation": "A hygrometer (such as a psychrometer with wet-and-dry bulb thermometers) is used to determine relative humidity in ecological field studies."
+  },
+  {
+    "question": "Plants adapted to survive in saline coastal habitats such as mangrove swamps are called",
+    "options": {
+      "a": "mesophytes",
+      "b": "xerophytes",
+      "c": "halophytes",
+      "d": "hydrophytes"
+    },
+    "answer": "c",
+    "explanation": "Halophytes possess anatomical and physiological adaptations (such as salt glands and pneumatophores) that allow them to thrive in saline environments."
+  },
+  {
+    "question": "The evolutionary theory of inheritance of acquired characteristics was formulated by",
+    "options": {
+      "a": "Jean-Baptiste Lamarck",
+      "b": "Charles Darwin",
+      "c": "Gregor Mendel",
+      "d": "Alfred Russel Wallace"
+    },
+    "answer": "a",
+    "explanation": "Jean-Baptiste Lamarck proposed that modifications acquired by an organism through use or disuse during its lifetime could be inherited by its offspring."
+  },
+  {
+    "question": "Structures in different organisms that have a common evolutionary origin and anatomical plan but perform different functions are called",
+    "options": {
+      "a": "analogous structures",
+      "b": "homologous structures",
+      "c": "vestigial structures",
+      "d": "convergent structures"
+    },
+    "answer": "b",
+    "explanation": "Homologous structures (e.g., pentadactyl limbs of humans, bats, and whales) share a common anatomical origin despite differing adaptations and functions."
+  },
+  {
+    "question": "Which of the following organisms belongs to the phylum Mollusca?",
+    "options": {
+      "a": "Earthworm (Lumbricus)",
+      "b": "Garden snail (Helix aspersa)",
+      "c": "Tapeworm (Taenia solium)",
+      "d": "Housefly (Musca domestica)"
+    },
+    "answer": "b",
+    "explanation": "Garden snails are unsegmented, soft-bodied invertebrates with a muscular foot, visceral hump, and calcareous shell, belonging to phylum Mollusca."
+  },
+  {
+    "question": "The mode of asexual reproduction in yeast cells (Saccharomyces) is",
+    "options": {
+      "a": "multiple fission",
+      "b": "sporulation",
+      "c": "budding",
+      "d": "fragmentation"
+    },
+    "answer": "c",
+    "explanation": "Yeast commonly reproduces asexually by budding, in which a small outgrowth forms on the parent cell, enlarges, receives a daughter nucleus, and separates."
+  },
+  {
+    "question": "The site of production of red blood cells in the adult human body is the",
+    "options": {
+      "a": "spleen",
+      "b": "red bone marrow",
+      "c": "yellow bone marrow",
+      "d": "liver sinusoids"
+    },
+    "answer": "b",
+    "explanation": "Haemopoiesis (erythropoiesis) in adult humans takes place principally in the red bone marrow of flat and irregular bones."
+  },
+  {
+    "question": "Which of the following blood vessels carries deoxygenated blood under low pressure?",
+    "options": {
+      "a": "Aorta",
+      "b": "Pulmonary vein",
+      "c": "Pulmonary artery",
+      "d": "Vena cava"
+    },
+    "answer": "d",
+    "explanation": "The superior and inferior venae cavae return deoxygenated systemic blood from body tissues directly into the right atrium under low hydrostatic pressure."
+  },
+  {
+    "question": "The respiratory pigment in the blood of earthworms is",
+    "options": {
+      "a": "haemoglobin dissolved in plasma",
+      "b": "haemocyanin in corpuscles",
+      "c": "chlorocruorin",
+      "d": "haemoerythrin"
+    },
+    "answer": "a",
+    "explanation": "Earthworms possess haemoglobin dissolved freely in their blood plasma rather than enclosed within corpuscles."
+  },
+  {
+    "question": "Which of the following terms describes the response of plant roots growing towards moisture?",
+    "options": {
+      "a": "Positive phototropism",
+      "b": "Positive hydrotropism",
+      "c": "Negative geotropism",
+      "d": "Thigmotropism"
+    },
+    "answer": "b",
+    "explanation": "Positive hydrotropism is the directional growth of plant roots towards a source of moisture."
+  },
+  {
+    "question": "The mammalian tooth specialized for piercing and tearing flesh in carnivores is the",
+    "options": {
+      "a": "incisor",
+      "b": "canine",
+      "c": "premolar",
+      "d": "molar"
+    },
+    "answer": "b",
+    "explanation": "Canines are pointed, sharp, conical teeth specialized for seizing prey and tearing tough muscle and tissue."
+  },
+  {
+    "question": "Which of the following pairs represents analogous organs?",
+    "options": {
+      "a": "Wing of a bird and wing of an insect",
+      "b": "Flipper of a whale and foreleg of a horse",
+      "c": "Arm of a human and wing of a bat",
+      "d": "Leaf of a cactus and scale leaf of an onion"
+    },
+    "answer": "a",
+    "explanation": "Wings of birds and insects perform the same flight function but possess distinct structural plans and evolutionary origins, making them analogous."
+  },
+  {
+    "question": "The maintenance of a constant internal environment in an organism is known as",
+    "options": {
+      "a": "homeostasis",
+      "b": "hemostasis",
+      "c": "metabolism",
+      "d": "anabolism"
+    },
+    "answer": "a",
+    "explanation": "Homeostasis is the coordinated physiological regulation by which an organism maintains a stable internal chemical and physical state."
+  },
+  {
+    "question": "In the human ear, sound vibrations are transmitted from the eardrum to the oval window through three ossicles in the sequence of",
+    "options": {
+      "a": "incus, malleus, stapes",
+      "b": "malleus, incus, stapes",
+      "c": "stapes, incus, malleus",
+      "d": "malleus, stapes, incus"
+    },
+    "answer": "b",
+    "explanation": "Vibrations pass from the tympanic membrane to the malleus (hammer), then to the incus (anvil), and finally to the stapes (stirrup) which contacts the oval window."
+  },
+  {
+    "question": "Which of the following is a non-reducing sugar?",
+    "options": {
+      "a": "Glucose",
+      "b": "Fructose",
+      "c": "Maltose",
+      "d": "Sucrose"
+    },
+    "answer": "d",
+    "explanation": "Sucrose is a disaccharide whose glycosidic bond involves the anomeric carbon atoms of both glucose and fructose, leaving no free aldehyde or ketone group."
+  },
+  {
+    "question": "The opening and closing of stomata in dicotyledonous leaves is regulated directly by changes in the turgidity of",
+    "options": {
+      "a": "epidermal cells",
+      "b": "guard cells",
+      "c": "palisade mesophyll cells",
+      "d": "spongy mesophyll cells"
+    },
+    "answer": "b",
+    "explanation": "Stomatal pores open when flanking guard cells accumulate potassium ions, draw in water by osmosis, and become turgid; they close when guard cells lose turgidity."
+  },
+  {
+    "question": "The stage of mitosis characterized by the alignment of duplicated chromosomes along the equatorial plate of the cell is",
+    "options": {
+      "a": "prophase",
+      "b": "metaphase",
+      "c": "anaphase",
+      "d": "telophase"
+    },
+    "answer": "b",
+    "explanation": "During metaphase, chromosomes attach to spindle fibres via their kinetochores and line up precisely along the equatorial plane (metaphase plate)."
+  },
+  {
+    "question": "The symbiotic association between Rhizobium bacteria and the root nodules of leguminous plants is beneficial to the plant because the bacteria",
+    "options": {
+      "a": "convert atmospheric nitrogen into absorbable ammonium compounds",
+      "b": "absorb excess water from the soil",
+      "c": "protect the root system against nematodes",
+      "d": "synthesize chlorophyll for the plant roots"
+    },
+    "answer": "a",
+    "explanation": "Rhizobium species fix atmospheric dinitrogen into nitrogenous compounds (ammonium/amino acids) that leguminous host plants can assimilate for growth."
+  }
+]

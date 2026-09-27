@@ -1,0 +1,442 @@
+[
+    {
+        "question": "Which of the following activities falls under tertiary production?",
+        "options": {
+            "a": "Iron ore mining in Itakpe",
+            "b": "Assembly of motor vehicles in Kaduna",
+            "c": "Warehousing of harvested agricultural produce",
+            "d": "Cultivation of cassava tubers in Benue"
+        },
+        "answer": "c",
+        "explanation": "Tertiary production involves commercial activities and personal services that facilitate the distribution and delivery of goods to consumers, which includes warehousing, transport, and banking."
+    },
+    {
+        "question": "The fundamental economic purpose of aids to trade in a commercial system is to:",
+        "options": {
+            "a": "Eliminate manufacturing competition in international markets",
+            "b": "Bridge the gap between primary producers and ultimate consumers",
+            "c": "Fix uniform retail prices across all commercial supermarkets",
+            "d": "Nationalize privately owned commercial transport companies"
+        },
+        "answer": "b",
+        "explanation": "Aids to trade (transport, banking, insurance, warehousing, advertising, and communication) overcome obstacles of place, time, risk, knowledge, and finance, bridging the gap between producers and consumers."
+    },
+    {
+        "question": "A business enterprise owned and financed by two to twenty persons with unlimited liability is a:",
+        "options": {
+            "a": "Public limited company",
+            "b": "Ordinary partnership",
+            "c": "Consumers' cooperative society",
+            "d": "Statutory corporation"
+        },
+        "answer": "b",
+        "explanation": "An ordinary partnership is an unincorporated association of 2 to 20 persons (or up to 10 for banking) formed to carry on business with a view to profit, where partners have unlimited personal liability."
+    },
+    {
+        "question": "Which of the following documents is prepared by an exporter to confirm the origin of goods to customs authorities for preferential tariff treatment?",
+        "options": {
+            "a": "Bill of Lading",
+            "b": "Certificate of Origin",
+            "c": "Consular Invoice",
+            "d": "Indent"
+        },
+        "answer": "b",
+        "explanation": "A Certificate of Origin certifies the specific country where the exported merchandise was manufactured, enabling customs authorities to determine appropriate tariff concessions or restrictions."
+    },
+    {
+        "question": "Under the principle of indemnity in insurance, the insured party is:",
+        "options": {
+            "a": "Guaranteed a substantial financial profit whenever an insured disaster occurs",
+            "b": "Restored to the exact financial position enjoyed immediately prior to the loss",
+            "c": "Compensated only if the insurable interest is transferred to the underwriter",
+            "d": "Entitled to claim full compensation from multiple insurance companies simultaneously"
+        },
+        "answer": "b",
+        "explanation": "The principle of indemnity ensures that an insured person is placed back in the same financial position they were in immediately before the loss occurred; they cannot make a profit from insurance."
+    },
+    {
+        "question": "A speculator on the Nigerian Exchange (NGX) who buys shares in anticipation that their prices will rise so as to sell them at a profit is referred to as a:",
+        "options": {
+            "a": "Bear",
+            "b": "Bull",
+            "c": "Stag",
+            "d": "Jobber"
+        },
+        "answer": "b",
+        "explanation": "A 'bull' is an optimistic market speculator who expects share prices to rise and buys securities intending to resell them at higher prices in the near future."
+    },
+    {
+        "question": "Which of the following retail outlets operates on a self-service basis, stocking mainly food items and household groceries under one roof?",
+        "options": {
+            "a": "Supermarket",
+            "b": "Mail-order firm",
+            "c": "Tied shop",
+            "d": "Peddler outlet"
+        },
+        "answer": "a",
+        "explanation": "A supermarket is a large, low-cost, low-margin, high-volume, self-service retail store that carries a wide variety of grocery and household products."
+    },
+    {
+        "question": "The crossing of a cheque by drawing two parallel transverse lines across its face implies that the cheque:",
+        "options": {
+            "a": "Can only be cashed directly over the banking counter by the drawer",
+            "b": "Must be paid into a bank account and cannot be cashed directly over the counter",
+            "c": "Is invalid and has been cancelled by the drawee bank",
+            "d": "Can be transferred freely without any further banking endorsements"
+        },
+        "answer": "b",
+        "explanation": "A crossed cheque cannot be cashed across the counter; it must be paid directly into the payee's bank account, providing security against theft or unauthorized encashment."
+    },
+    {
+        "question": "A bonded warehouse is a specialized storage facility used primarily for:",
+        "options": {
+            "a": "Storing perishable agricultural goods awaiting domestic shipment",
+            "b": "Holding dutiable imported goods until custom duties and excise taxes are fully paid",
+            "c": "Keeping manufactured goods produced exclusively by cooperative societies",
+            "d": "Stocking arms and ammunition belonging strictly to federal armed forces"
+        },
+        "answer": "b",
+        "explanation": "A bonded warehouse is a secured area where dutiable imported goods are stored under customs supervision until the required import duties are settled or the goods are re-exported."
+    },
+    {
+        "question": "In international trade, the quotation 'C.I.F.' stands for:",
+        "options": {
+            "a": "Carriage, Interest, and Freight",
+            "b": "Cost, Insurance, and Freight",
+            "c": "Customs, Inspection, and Fees",
+            "d": "Commission, Indemnity, and Finance"
+        },
+        "answer": "b",
+        "explanation": "C.I.F. (Cost, Insurance, and Freight) means the seller pays the cost of the goods, marine insurance, and freight charges required to transport the goods to the named port of destination."
+    },
+    {
+        "question": "Which of the following regulatory agencies in Nigeria is charged with the primary mandate to protect consumers against unsafe processed foods, drugs, cosmetics, and packaged water?",
+        "options": {
+            "a": "SON",
+            "b": "NAFDAC",
+            "c": "FCCPC",
+            "d": "NDIC"
+        },
+        "answer": "b",
+        "explanation": "The National Agency for Food and Drug Administration and Control (NAFDAC) regulates and controls the manufacture, importation, exportation, distribution, advertisement, sale, and use of food, drugs, cosmetics, medical devices, and packaged water."
+    },
+    {
+        "question": "A major advantage of a public limited liability company over a partnership is:",
+        "options": {
+            "a": "Absolute secrecy in financial operations and bookkeeping",
+            "b": "Continuity of existence independent of the death or bankruptcy of shareholders",
+            "c": "Absence of statutory governmental regulation and annual filing requirements",
+            "d": "Direct personal management by every single individual shareholder"
+        },
+        "answer": "b",
+        "explanation": "A public limited company enjoys perpetual succession; as a distinct legal entity, its existence is unaffected by the death, retirement, insolvency, or insanity of any shareholder."
+    },
+    {
+        "question": "The document that governs the internal management, administration, and voting procedures of a registered limited company is the:",
+        "options": {
+            "a": "Memorandum of Association",
+            "b": "Articles of Association",
+            "c": "Certificate of Incorporation",
+            "d": "Prospectus"
+        },
+        "answer": "b",
+        "explanation": "The Articles of Association define the internal management regulations, duties, powers of directors, and rights of shareholders within a company."
+    },
+    {
+        "question": "A bill of exchange drawn in Lagos and payable in London is an example of:",
+        "options": {
+            "a": "An inland bill",
+            "b": "A foreign bill",
+            "c": "An accommodation bill",
+            "d": "A treasury bill"
+        },
+        "answer": "b",
+        "explanation": "A foreign bill of exchange is drawn in one country and made payable in another, or drawn on a person resident in another country."
+    },
+    {
+        "question": "Which of the following channels of distribution is most suitable for heavy, specialized industrial machinery?",
+        "options": {
+            "a": "Manufacturer -> Wholesaler -> Retailer -> Consumer",
+            "b": "Manufacturer -> Retailer -> Consumer",
+            "c": "Manufacturer -> Industrial User",
+            "d": "Manufacturer -> Multiple Agent Brokers -> Retailer -> Consumer"
+        },
+        "answer": "c",
+        "explanation": "Heavy, customized industrial equipment requires technical explanation, installation, and after-sales service, making direct distribution (Manufacturer -> Industrial User) the most appropriate channel."
+    },
+    {
+        "question": "A deliberate and persistent commercial practice where a nation sells goods in a foreign market at prices below their domestic production cost is called:",
+        "options": {
+            "a": "Hedging",
+            "b": "Dumping",
+            "c": "Entrep\u00f4t trade",
+            "d": "Arbitrage"
+        },
+        "answer": "b",
+        "explanation": "Dumping refers to the international price discrimination practice where a country exports products at prices lower than their normal home market price or production cost."
+    },
+    {
+        "question": "The fundamental difference between a commercial bank loan and an overdraft is that an overdraft:",
+        "options": {
+            "a": "Requires the opening of a long-term fixed deposit collateral account",
+            "b": "Allows a current account customer to draw money in excess of their actual credit balance up to an agreed limit",
+            "c": "Attracts zero interest charges irrespective of the repayment duration",
+            "d": "Is granted strictly to registered non-governmental charity organizations"
+        },
+        "answer": "b",
+        "explanation": "An overdraft is a credit facility granted to current account holders permitting them to withdraw funds exceeding their account balance up to an agreed ceiling, with interest charged on the daily overdrawn amount."
+    },
+    {
+        "question": "The insurance principle which entitles the insurer to step into the shoes of the insured to recover compensation from a liable third party is ______",
+        "options": {
+            "a": "Subrogation",
+            "b": "Indemnity",
+            "c": "Insurable interest",
+            "d": "Contribution"
+        },
+        "answer": "a",
+        "explanation": "Subrogation is a corollary of the principle of indemnity which gives the insurance company the legal right to pursue a third party that caused an insurance loss to the insured."
+    },
+    {
+        "question": "Which of the following represents a form of informative advertising?",
+        "options": {
+            "a": "Persuading buyers that one cosmetic cream makes people more youthful than rivals",
+            "b": "Notifying the public about the introduction of a new polio vaccine and its administration dates",
+            "c": "Creating psychological brand loyalty through celebrity endorsement campaigns",
+            "d": "Running aggressive price-slashing slogans against competing beverage makers"
+        },
+        "answer": "b",
+        "explanation": "Informative advertising aims to enlighten, educate, and provide objective facts to consumers about a new product, public health notice, or service without employing persuasive emotional appeals."
+    },
+    {
+        "question": "A factor that facilitates international business transactions by issuing a document guaranteeing payment to an exporter upon presentation of shipping documents is a:",
+        "options": {
+            "a": "Letter of Credit",
+            "b": "Promissory Note",
+            "c": "Commercial Paper",
+            "d": "Postal Order"
+        },
+        "answer": "a",
+        "explanation": "A Letter of Credit (L/C) is a financial guarantee issued by an importer's bank assuring the exporter that payment will be released upon presenting specified verified shipping documents."
+    },
+    {
+        "question": "Which of the following is a primary characteristic of a debenture?",
+        "options": {
+            "a": "Debenture holders hold voting rights during annual general meetings",
+            "b": "It is an acknowledgment of long-term debt carrying a fixed rate of interest",
+            "c": "Interest on debentures is paid only when the company declares a trading profit",
+            "d": "Debenture capital represents the irredeemable equity shares of the firm"
+        },
+        "answer": "b",
+        "explanation": "A debenture is a long-term debt instrument issued by a company acknowledging indebtedness, which entitles the holder to fixed periodic interest whether the firm records profits or not."
+    },
+    {
+        "question": "The commercial process of buying and reselling unrefined imported goods without subjecting them to local domestic industrial processing is known as:",
+        "options": {
+            "a": "Counter-trade",
+            "b": "Entrep\u00f4t trade",
+            "c": "Bilateral trade",
+            "d": "Invisible trade"
+        },
+        "answer": "b",
+        "explanation": "Entrep\u00f4t trade refers to the re-exportation of imported foreign merchandise to another destination country without intermediate modification or processing."
+    },
+    {
+        "question": "The primary body established under Nigerian law to enforce standards and specifications for locally manufactured goods and imported products is the:",
+        "options": {
+            "a": "Standards Organisation of Nigeria (SON)",
+            "b": "National Information Technology Development Agency (NITDA)",
+            "c": "Federal Competition and Consumer Protection Commission (FCCPC)",
+            "d": "Corporate Affairs Commission (CAC)"
+        },
+        "answer": "a",
+        "explanation": "The Standards Organisation of Nigeria (SON) is mandated to standardize and regulate the quality of all manufactured and imported industrial products across Nigeria."
+    },
+    {
+        "question": "An agent who not only sells goods on behalf of a principal but also guarantees that the buyer will pay for the goods, receiving an extra commission, is called a:",
+        "options": {
+            "a": "Broker",
+            "b": "Del Credere Agent",
+            "c": "Factor",
+            "d": "Auctioneer"
+        },
+        "answer": "b",
+        "explanation": "A del credere agent is a sales agent who, in consideration of an additional commission (del credere commission), guarantees the solvency of buyers and undertakes to pay the principal if the buyer defaults."
+    },
+    {
+        "question": "Which of the following modes of transportation is the most economical for transporting large volumes of crude petroleum over long overland distances?",
+        "options": {
+            "a": "Articulated road tankers",
+            "b": "Cargo aircraft",
+            "c": "Pipelines",
+            "d": "Rail tankers"
+        },
+        "answer": "c",
+        "explanation": "Pipelines provide the most cost-effective, continuous, safe, and efficient overland transport mode for bulk fluids like crude oil and natural gas."
+    },
+    {
+        "question": "The formal document issued by the Corporate Affairs Commission (CAC) confirming that a company has been duly registered as a corporate entity is the:",
+        "options": {
+            "a": "Trading Certificate",
+            "b": "Certificate of Incorporation",
+            "c": "Prospectus",
+            "d": "Certificate of Inspection"
+        },
+        "answer": "b",
+        "explanation": "The Certificate of Incorporation is the legal birth certificate of a company issued by the CAC, establishing its existence as an independent legal corporate entity."
+    },
+    {
+        "question": "A market where newly issued securities (shares, stocks, and bonds) are offered for sale to the public for the first time is the:",
+        "options": {
+            "a": "Secondary capital market",
+            "b": "Primary capital market",
+            "c": "Money market",
+            "d": "Commodity futures market"
+        },
+        "answer": "b",
+        "explanation": "The primary market is the segment of the capital market where new securities are created, issued, and sold to initial investors for the first time (e.g., via Initial Public Offerings)."
+    },
+    {
+        "question": "Which of the following functions is performed by a wholesaler for the benefit of the retailer?",
+        "options": {
+            "a": "Financing large-scale manufacturing installations",
+            "b": "Breaking bulk into convenient smaller quantities",
+            "c": "Eliminating consumer choice through monopoly branding",
+            "d": "Dictating municipal sales tax levies"
+        },
+        "answer": "b",
+        "explanation": "Wholesalers purchase goods in massive consignments from manufacturers and 'break bulk' by repackaging and selling them in smaller lots suited to retailers' financial capacities."
+    },
+    {
+        "question": "The term 'Subrogation' in the law of insurance means that:",
+        "options": {
+            "a": "The insured cannot insure a property above its total market appraisal",
+            "b": "After fully compensating the insured, the insurer steps into their shoes to claim against third parties",
+            "c": "An insurance contract becomes void if premiums lapse for fourteen consecutive days",
+            "d": "Compensation is split equally among all insurance underwriters in the country"
+        },
+        "answer": "b",
+        "explanation": "Subrogation allows an insurer who has fully indemnified an insured person to take over all rights and legal remedies that the insured had against third parties responsible for the damage."
+    },
+    {
+        "question": "What is the primary role of the Nigerian Deposit Insurance Corporation (NDIC)?",
+        "options": {
+            "a": "Regulating the import tariffs on foreign raw capital assets",
+            "b": "Protecting depositors by insuring bank deposits against bank failure",
+            "c": "Setting the daily retail prices of petroleum products at pump stations",
+            "d": "Issuing national driving permits and commercial road tax discs"
+        },
+        "answer": "b",
+        "explanation": "The NDIC insures bank deposits, thereby protecting bank depositors against the loss of their funds in the event of insolvency or revocation of a bank's license."
+    },
+    {
+        "question": "In a hire purchase agreement, legal ownership of the goods passes to the buyer:",
+        "options": {
+            "a": "Immediately the initial down-payment (deposit) is paid",
+            "b": "When the goods are delivered to the buyer's business premises",
+            "c": "Only upon payment of the final installment of the purchase price",
+            "d": "Halfway through the agreed repayment schedule"
+        },
+        "answer": "c",
+        "explanation": "In hire purchase, possession passes upon the initial payment, but legal ownership (title) remains with the seller until the final installment has been completely discharged."
+    },
+    {
+        "question": "The financial market segment that deals in short-term debt instruments maturing in one year or less is the:",
+        "options": {
+            "a": "Capital market",
+            "b": "Money market",
+            "c": "Foreign exchange forward market",
+            "d": "Mortgage property market"
+        },
+        "answer": "b",
+        "explanation": "The money market provides short-term funds and instruments with maturities of one year or less, such as treasury bills, commercial papers, and certificates of deposit."
+    },
+    {
+        "question": "Which of the following is a non-tariff trade barrier?",
+        "options": {
+            "a": "Specific import customs duty",
+            "b": "Ad valorem import tax",
+            "c": "Import quota",
+            "d": "Compound tariff surcharge"
+        },
+        "answer": "c",
+        "explanation": "Non-tariff barriers restrict trade using mechanisms other than taxes/tariffs, such as import quotas, embargoes, foreign exchange restrictions, and stringent technical standards."
+    },
+    {
+        "question": "In an agency relationship, when an agent acts outside the scope of authority but the principal later endorses and confirms the action, agency is created by:",
+        "options": {
+            "a": "Necessity",
+            "b": "Ratification",
+            "c": "Estoppel",
+            "d": "Implied agreement"
+        },
+        "answer": "b",
+        "explanation": "Agency by ratification occurs when a person acts on behalf of another without prior authorization, but the alleged principal subsequently adopts and accepts the contract."
+    },
+    {
+        "question": "Which of the following documents is sent by a seller to rectify an undercharge in an earlier sales invoice?",
+        "options": {
+            "a": "Credit Note",
+            "b": "Debit Note",
+            "c": "Consignment Note",
+            "d": "Delivery Note"
+        },
+        "answer": "b",
+        "explanation": "A Debit Note is sent by a seller to inform a buyer that their account has been debited due to an undercharge or omitted charges in a previous sales invoice."
+    },
+    {
+        "question": "The voluntary association of independent businesses operating in the same industry to regulate output, allocate quotas, and fix selling prices is a:",
+        "options": {
+            "a": "Cartel",
+            "b": "Conglomerate",
+            "c": "Holding company",
+            "d": "Limited partnership"
+        },
+        "answer": "a",
+        "explanation": "A cartel is a formal agreement among competing producers in an industry to coordinate output, limit competition, set common prices, and allocate production quotas."
+    },
+    {
+        "question": "A commercial order placed by a domestic buyer with a foreign merchant specifying the price, quantity, and method of dispatch is termed an:",
+        "options": {
+            "a": "Indent",
+            "b": "Advice note",
+            "c": "Act of God",
+            "d": "Airway bill"
+        },
+        "answer": "a",
+        "explanation": "An indent is an order for goods sent to an overseas supplier or purchasing agent, detailing specifications, quantities, prices, packing instructions, and shipping requirements."
+    },
+    {
+        "question": "The principle of consumer sovereignty implies that in a competitive economy:",
+        "options": {
+            "a": "The government dictates the variety and quantities of commodities manufactured",
+            "b": "Consumers are the ultimate deciders of what goods are produced through their market demand",
+            "c": "Producers have unlimited power to compel purchases through aggressive adverts",
+            "d": "Prices of consumer commodities are frozen by constitutional statutes"
+        },
+        "answer": "b",
+        "explanation": "Consumer sovereignty asserts that consumer preferences and purchasing choices ultimately determine the goods and services that producers will allocate resources to supply."
+    },
+    {
+        "question": "Which of the following communication services permits the instant transmission and clearance of inter-bank electronic funds in Nigeria?",
+        "options": {
+            "a": "NIPOST EMS Speedpost",
+            "b": "Nigeria Inter-Bank Settlement System (NIBSS)",
+            "c": "Registered Letter Dispatch",
+            "d": "Teleprinter Telex Exchange"
+        },
+        "answer": "b",
+        "explanation": "The Nigeria Inter-Bank Settlement System (NIBSS) provides the central infrastructure facilitating real-time automated clearing and settlement for all inter-bank electronic transactions in Nigeria."
+    },
+    {
+        "question": "The primary motive for establishing public corporations by the federal government is to:",
+        "options": {
+            "a": "Maximize quarterly commercial dividends for private equity investors",
+            "b": "Provide essential public utility services at affordable rates to citizens",
+            "c": "Eliminate private sector entrepreneurship across all states",
+            "d": "Evade international trade sanctions imposed by trading partners"
+        },
+        "answer": "b",
+        "explanation": "Public corporations are statutory bodies set up by government acts to provide essential social utilities (such as water, electricity, and rail transit) to improve public welfare rather than to maximize profit."
+    }
+]

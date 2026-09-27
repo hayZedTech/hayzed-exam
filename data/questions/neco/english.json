@@ -1,0 +1,662 @@
+[
+  {
+    "question": "Hardly had the invigilator distributed the question papers ______ the fire alarm sounded.",
+    "options": {
+      "a": "than",
+      "b": "when",
+      "c": "then",
+      "d": "as"
+    },
+    "answer": "b",
+    "explanation": "The correlative structure 'Hardly... when' or 'Scarcely... when' is standard in English. 'No sooner' is followed by 'than'."
+  },
+  {
+    "question": "The magistrate insisted that the defendant ______ in court in person on the adjourned date.",
+    "options": {
+      "a": "appears",
+      "b": "appeared",
+      "c": "appear",
+      "d": "must appear"
+    },
+    "answer": "c",
+    "explanation": "Verbs expressing demand, insistence, or requirement use the mandative subjunctive form, which takes the base form of the verb ('appear') regardless of the subject."
+  },
+  {
+    "question": "The bursar, as well as the accounts clerks, ______ questioned by the audit panel yesterday.",
+    "options": {
+      "a": "was",
+      "b": "were",
+      "c": "are",
+      "d": "have been"
+    },
+    "answer": "a",
+    "explanation": "Parenthetical expressions introduced by 'as well as' do not alter the number of the true subject. The singular subject 'The bursar' requires the singular past verb 'was'."
+  },
+  {
+    "question": "If the contractor had adhered strictly to the architectural specifications, the building ______ during the heavy downpour.",
+    "options": {
+      "a": "would not collapse",
+      "b": "would not have collapsed",
+      "c": "will not collapse",
+      "d": "had not collapsed"
+    },
+    "answer": "b",
+    "explanation": "In third conditional sentences describing past unreal conditions, the 'if' clause uses the past perfect ('had adhered') while the main clause requires 'would not have + past participle'."
+  },
+  {
+    "question": "The corrupt politician was charged ______ misappropriation of public education funds.",
+    "options": {
+      "a": "for",
+      "b": "about",
+      "c": "with",
+      "d": "on"
+    },
+    "answer": "c",
+    "explanation": "The legal collocation for the verb 'charge' takes the preposition 'with' (charged with a crime), whereas 'accuse' takes 'of'."
+  },
+  {
+    "question": "The dispute between the two warring factions has been going on ______ more than three decades.",
+    "options": {
+      "a": "since",
+      "b": "for",
+      "c": "over",
+      "d": "during"
+    },
+    "answer": "b",
+    "explanation": "The preposition 'for' is used to denote a span or duration of time ('for more than three decades'), while 'since' denotes a specific point of commencement."
+  },
+  {
+    "question": "Neither of the two applicants ______ deemed qualified for the managerial post.",
+    "options": {
+      "a": "was",
+      "b": "were",
+      "c": "are",
+      "d": "have been"
+    },
+    "answer": "a",
+    "explanation": "'Neither' functioning as an indefinite pronoun referring to one of two individuals takes a singular verb ('was')."
+  },
+  {
+    "question": "No sooner had the keynote speaker mounted the podium ______ a resounding round of applause erupted.",
+    "options": {
+      "a": "when",
+      "b": "than",
+      "c": "before",
+      "d": "then"
+    },
+    "answer": "b",
+    "explanation": "The negative correlative conjunction 'No sooner' always pairs with 'than' in standard English grammar."
+  },
+  {
+    "question": "The principal warned the students that indiscipline would no longer be condoned, ______?",
+    "options": {
+      "a": "would it",
+      "b": "wasn't it",
+      "c": "did he",
+      "d": "didn't he"
+    },
+    "answer": "d",
+    "explanation": "The statement's main clause is in the affirmative past tense with the subject 'The principal' and verb 'warned', requiring the negative tag 'didn't he?'."
+  },
+  {
+    "question": "The laboratory technician accidentally let the test tube slip ______ his fingers.",
+    "options": {
+      "a": "off",
+      "b": "from",
+      "c": "through",
+      "d": "between"
+    },
+    "answer": "c",
+    "explanation": "The idiomatic phrasal preposition is 'slip through one's fingers', indicating escaping or sliding out of one's physical grasp."
+  },
+  {
+    "question": "She looks forward to ______ her doctoral dissertation before the academic board next month.",
+    "options": {
+      "a": "defend",
+      "b": "defending",
+      "c": "have defended",
+      "d": "be defending"
+    },
+    "answer": "b",
+    "explanation": "In the phrasal verb 'look forward to', the word 'to' acts as a preposition, requiring a following gerund (-ing form: 'defending')."
+  },
+  {
+    "question": "The manager was taken ______ by the auditor's abrupt disclosure of missing inventory.",
+    "options": {
+      "a": "aback",
+      "b": "away",
+      "c": "apart",
+      "d": "over"
+    },
+    "answer": "a",
+    "explanation": "'Taken aback' is an idiomatic phrase meaning completely surprised, startled, or disoriented."
+  },
+  {
+    "question": "The council members congratulated the new chairman ______ his overwhelming victory at the polls.",
+    "options": {
+      "a": "for",
+      "b": "with",
+      "c": "on",
+      "d": "about"
+    },
+    "answer": "c",
+    "explanation": "The standard English collocation is 'congratulate someone on something'."
+  },
+  {
+    "question": "It is high time the government ______ decisive steps to combat illegal mining.",
+    "options": {
+      "a": "takes",
+      "b": "took",
+      "c": "has taken",
+      "d": "must take"
+    },
+    "answer": "b",
+    "explanation": "The construction 'It is high time' followed by a subject takes a subjunctive past tense verb ('took') indicating an action that should already have happened."
+  },
+  {
+    "question": "The suspect denied ______ any knowledge of the stolen documents found in his locker.",
+    "options": {
+      "a": "to have",
+      "b": "having",
+      "c": "have",
+      "d": "to have had"
+    },
+    "answer": "b",
+    "explanation": "The verb 'deny' takes a gerund complement ('having'), rather than an infinitive clause."
+  },
+  {
+    "question": "Had the pilot not exercised extreme caution, the airliner ______ into the swampy terrain.",
+    "options": {
+      "a": "would crash",
+      "b": "could have crashed",
+      "c": "will crash",
+      "d": "had crashed"
+    },
+    "answer": "b",
+    "explanation": "Inverted conditional clauses beginning with 'Had...' describe past hypothetical conditions, requiring a modal perfect form ('could have crashed') in the consequence clause."
+  },
+  {
+    "question": "The company had to lay ______ twenty workers due to the economic recession.",
+    "options": {
+      "a": "off",
+      "b": "down",
+      "c": "out",
+      "d": "aside"
+    },
+    "answer": "a",
+    "explanation": "'Lay off' means to terminate or suspend workers' employment, usually due to a lack of work or funds."
+  },
+  {
+    "question": "Not only ______ the championship trophy, but they also set a new national record.",
+    "options": {
+      "a": "they won",
+      "b": "did they win",
+      "c": "they have won",
+      "d": "won they"
+    },
+    "answer": "b",
+    "explanation": "When an introductory sentence starts with the negative or restrictive phrase 'Not only', subject-auxiliary inversion ('did they win') is mandatory."
+  },
+  {
+    "question": "The doctor advised the patient to cut ______ on his intake of refined sugar.",
+    "options": {
+      "a": "off",
+      "b": "down",
+      "c": "away",
+      "d": "out"
+    },
+    "answer": "b",
+    "explanation": "'Cut down on' is a three-word phrasal verb meaning to reduce consumption or usage."
+  },
+  {
+    "question": "The old manuscripts were so delicate that they had to be handled with ______.",
+    "options": {
+      "a": "much carefulness",
+      "b": "utmost care",
+      "c": "careful attentiveness",
+      "d": "more care"
+    },
+    "answer": "b",
+    "explanation": "'Utmost care' is the idiomatic collocation signifying the greatest possible level of caution and attention."
+  },
+  {
+    "question": "In the sentence: 'The defense counsel argued that the witness's testimony was completely spurious', the word nearest in meaning to 'spurious' is ______",
+    "options": {
+      "a": "credible",
+      "b": "bogus",
+      "c": "confusing",
+      "d": "biased"
+    },
+    "answer": "b",
+    "explanation": "'Spurious' means illegitimate, false, unauthentic, or bogus."
+  },
+  {
+    "question": "In the sentence: 'The director gave a lucid explanation of the new company policy', the word nearest in meaning to 'lucid' is ______",
+    "options": {
+      "a": "lengthy",
+      "b": "vague",
+      "c": "clear",
+      "d": "complicated"
+    },
+    "answer": "c",
+    "explanation": "'Lucid' means expressed clearly, articulate, and easy to comprehend."
+  },
+  {
+    "question": "In the sentence: 'The community elders held a clandestine meeting to discuss the impending chieftaincy dispute', the word nearest in meaning to 'clandestine' is ______",
+    "options": {
+      "a": "secret",
+      "b": "cordial",
+      "c": "turbulent",
+      "d": "public"
+    },
+    "answer": "a",
+    "explanation": "'Clandestine' means planned or conducted with secrecy, often to evade notice or surveillance."
+  },
+  {
+    "question": "In the sentence: 'The new economic reforms produced an ephemeral relief before inflation soared again', the word nearest in meaning to 'ephemeral' is ______",
+    "options": {
+      "a": "permanent",
+      "b": "short-lived",
+      "c": "unbearable",
+      "d": "remarkable"
+    },
+    "answer": "b",
+    "explanation": "'Ephemeral' describes something transitory, fleeting, or lasting for only a brief period."
+  },
+  {
+    "question": "In the sentence: 'The judge praised the young officer for his meticulous investigation of the robbery', the word nearest in meaning to 'meticulous' is ______",
+    "options": {
+      "a": "painstaking",
+      "b": "reckless",
+      "c": "swift",
+      "d": "courageous"
+    },
+    "answer": "a",
+    "explanation": "'Meticulous' means taking extreme care about minute details; painstaking and thorough."
+  },
+  {
+    "question": "In the sentence: 'The minister's remarks sparked an acrimonious debate in parliament', the word nearest in meaning to 'acrimonious' is ______",
+    "options": {
+      "a": "peaceful",
+      "b": "bitter",
+      "c": "boring",
+      "d": "productive"
+    },
+    "answer": "b",
+    "explanation": "'Acrimonious' denotes sharpness, hostility, or biting bitterness in words or manner."
+  },
+  {
+    "question": "In the sentence: 'The villagers showed great fortitude during the devastating flood', the word nearest in meaning to 'fortitude' is ______",
+    "options": {
+      "a": "weakness",
+      "b": "courage",
+      "c": "indifference",
+      "d": "panic"
+    },
+    "answer": "b",
+    "explanation": "'Fortitude' is mental and emotional strength or courage in facing danger, pain, or difficulty."
+  },
+  {
+    "question": "In the sentence: 'The researcher was recognized as an eminent scholar in tropical agriculture', the word nearest in meaning to 'eminent' is ______",
+    "options": {
+      "a": "distinguished",
+      "b": "upcoming",
+      "c": "amateur",
+      "d": "infamous"
+    },
+    "answer": "a",
+    "explanation": "'Eminent' denotes prominence, high rank, or distinguished standing in a profession."
+  },
+  {
+    "question": "In the sentence: 'The monarch granted an amnesty to all political prisoners on National Day', the word nearest in meaning to 'amnesty' is ______",
+    "options": {
+      "a": "parole",
+      "b": "pardon",
+      "c": "punishment",
+      "d": "reward"
+    },
+    "answer": "b",
+    "explanation": "'Amnesty' is an official general executive act of pardon for offenses against a government."
+  },
+  {
+    "question": "In the sentence: 'His audacious proposal to construct a deep-sea port astonished the committee', the word nearest in meaning to 'audacious' is ______",
+    "options": {
+      "a": "timid",
+      "b": "daring",
+      "c": "careful",
+      "d": "unrealistic"
+    },
+    "answer": "b",
+    "explanation": "'Audacious' signifies boldness, courage, or intrepid daring."
+  },
+  {
+    "question": "In the sentence: 'The speaker's argument was completely fallacious', the word most nearly opposite in meaning to 'fallacious' is ______",
+    "options": {
+      "a": "erroneous",
+      "b": "flawed",
+      "c": "sound",
+      "d": "deceptive"
+    },
+    "answer": "c",
+    "explanation": "'Fallacious' means logically deceitful or erroneous; its opposite is 'sound' (valid and logical)."
+  },
+  {
+    "question": "In the sentence: 'The governor was criticized for his extravagant spending on foreign delegations', the word most nearly opposite in meaning to 'extravagant' is ______",
+    "options": {
+      "a": "frugal",
+      "b": "lavish",
+      "c": "reckless",
+      "d": "unlimited"
+    },
+    "answer": "a",
+    "explanation": "'Extravagant' means wasteful and excessive in spending, while 'frugal' means economical and prudent."
+  },
+  {
+    "question": "In the sentence: 'The athlete's performance in the final was utterly abysmal', the word most nearly opposite in meaning to 'abysmal' is ______",
+    "options": {
+      "a": "terrible",
+      "b": "dreadful",
+      "c": "mediocre",
+      "d": "superb"
+    },
+    "answer": "d",
+    "explanation": "'Abysmal' means exceptionally bad or deplorable; its direct antonym is 'superb' (outstanding)."
+  },
+  {
+    "question": "In the sentence: 'The newly appointed principal was known to be belligerent in staff meetings', the word most nearly opposite in meaning to 'belligerent' is ______",
+    "options": {
+      "a": "hostile",
+      "b": "combative",
+      "c": "conciliatory",
+      "d": "stubborn"
+    },
+    "answer": "c",
+    "explanation": "'Belligerent' means aggressively contentious; 'conciliatory' means striving to make peace and placate."
+  },
+  {
+    "question": "In the sentence: 'The farmer complained that the soil on the plateau was barren', the word most nearly opposite in meaning to 'barren' is ______",
+    "options": {
+      "a": "arid",
+      "b": "fertile",
+      "c": "shallow",
+      "d": "rocky"
+    },
+    "answer": "b",
+    "explanation": "'Barren' means sterile or incapable of producing crops; its antonym is 'fertile'."
+  },
+  {
+    "question": "In the sentence: 'The young diplomat gave an evasive reply when questioned about the border dispute', the word most nearly opposite in meaning to 'evasive' is ______",
+    "options": {
+      "a": "candid",
+      "b": "ambiguous",
+      "c": "deceitful",
+      "d": "polite"
+    },
+    "answer": "a",
+    "explanation": "'Evasive' means deliberately avoiding directness; 'candid' means frank, open, and straightforward."
+  },
+  {
+    "question": "In the sentence: 'The community elders commended the youth for their harmonious relationship with neighboring towns', the word most nearly opposite in meaning to 'harmonious' is ______",
+    "options": {
+      "a": "peaceful",
+      "b": "cordial",
+      "c": "discordant",
+      "d": "cooperative"
+    },
+    "answer": "c",
+    "explanation": "'Harmonious' denotes peaceful coexistence, whereas 'discordant' refers to disagreement, clashing, and dispute."
+  },
+  {
+    "question": "In the sentence: 'The professor described the theory as archaic and irrelevant to modern science', the word most nearly opposite in meaning to 'archaic' is ______",
+    "options": {
+      "a": "obsolete",
+      "b": "contemporary",
+      "c": "primitive",
+      "d": "ancient"
+    },
+    "answer": "b",
+    "explanation": "'Archaic' means ancient or out-of-date; its antonym is 'contemporary' (current or modern)."
+  },
+  {
+    "question": "In the sentence: 'The managing director's behavior towards his subordinates was consistently arrogant', the word most nearly opposite in meaning to 'arrogant' is ______",
+    "options": {
+      "a": "humble",
+      "b": "proud",
+      "c": "haughty",
+      "d": "domineering"
+    },
+    "answer": "a",
+    "explanation": "'Arrogant' denotes overbearing pride; the opposite quality is 'humble' (modest and unassuming)."
+  },
+  {
+    "question": "In the sentence: 'The new sanitation law was made mandatory for all commercial establishments', the word most nearly opposite in meaning to 'mandatory' is ______",
+    "options": {
+      "a": "compulsory",
+      "b": "binding",
+      "c": "optional",
+      "d": "statutory"
+    },
+    "answer": "c",
+    "explanation": "'Mandatory' denotes something required by authority; its antonym is 'optional' (discretionary)."
+  },
+  {
+    "question": "The accountant was accused of cooking the books to conceal the embezzlement. This means that the accountant ______",
+    "options": {
+      "a": "destroyed the financial documents in an oven",
+      "b": "falsified the financial records",
+      "c": "left the account books unattended",
+      "d": "audited the company's ledger carefully"
+    },
+    "answer": "b",
+    "explanation": "To 'cook the books' is an idiom meaning to manipulate or fraudulently alter accounting figures."
+  },
+  {
+    "question": "When the unexpected query was issued, the assistant manager decided to let sleeping dogs lie. This means he decided to ______",
+    "options": {
+      "a": "wake up early to solve the problem",
+      "b": "avoid stirring up an existing dispute",
+      "c": "resign from his position immediately",
+      "d": "call the security personnel"
+    },
+    "answer": "b",
+    "explanation": "'Let sleeping dogs lie' means to avoid interfering in a situation that is currently quiet to prevent fresh troubles."
+  },
+  {
+    "question": "The student passed the rigorous promotional examination with flying colors. This means she ______",
+    "options": {
+      "a": "passed with distinction and great success",
+      "b": "barely managed to obtain a pass mark",
+      "c": "cheated using colored writing paper",
+      "d": "was given unmerited marks by the examiner"
+    },
+    "answer": "a",
+    "explanation": "To succeed 'with flying colors' means to win or pass with conspicuous triumph and excellence."
+  },
+  {
+    "question": "Our team leader had to burn the midnight oil to complete the technical proposal before dawn. This means he ______",
+    "options": {
+      "a": "worked late into the night",
+      "b": "set fire to his work desk",
+      "c": "used up all the fuel in the generator",
+      "d": "woke up very early to exercise"
+    },
+    "answer": "a",
+    "explanation": "'Burn the midnight oil' means to labor or study diligently late into the night."
+  },
+  {
+    "question": "The civil servant refused to accept a bribe, insisting on keeping his hands clean. He was described as a man of probity. This means he is ______",
+    "options": {
+      "a": "cunning and manipulative",
+      "b": "completely honest and upright",
+      "c": "fearful of legal penalties",
+      "d": "wealthy and self-sufficient"
+    },
+    "answer": "b",
+    "explanation": "'Probity' denotes steadfast integrity, uprightness, and total moral honesty."
+  },
+  {
+    "question": "Whenever election season approaches, many politicians make promises with a grain of salt. To take something with a grain of salt means to ______",
+    "options": {
+      "a": "accept it with skepticism and reservation",
+      "b": "believe it completely without doubt",
+      "c": "disregard it as entirely absurd",
+      "d": "demand a financial guarantee"
+    },
+    "answer": "a",
+    "explanation": "To take information 'with a grain of salt' means not to accept it uncritically or as completely true."
+  },
+  {
+    "question": "After many years of bitter rivalry, the two community factions decided to bury the hatchet. This means they decided to ______",
+    "options": {
+      "a": "hide their weapons in the forest",
+      "b": "make peace and end their conflict",
+      "c": "continue fighting in secret",
+      "d": "divide their lands equally"
+    },
+    "answer": "b",
+    "explanation": "'Bury the hatchet' is an idiomatic metaphor signifying reconciliation and the cessation of hostility."
+  },
+  {
+    "question": "The new tax policy was the last straw that broke the camel's back. This expression refers to ______",
+    "options": {
+      "a": "an animal carrying heavy cargo",
+      "b": "the final minor irritation that makes an intolerable situation collapse",
+      "c": "the initial warning given to lawbreakers",
+      "d": "a sudden reduction in government revenue"
+    },
+    "answer": "b",
+    "explanation": "'The last straw' is the ultimate addition to a burden that causes a final, definitive breakdown."
+  },
+  {
+    "question": "Which of the following words contains the same vowel sound as the one represented in the underlined letters of 'pool' /u:/?",
+    "options": {
+      "a": "book",
+      "b": "tomb",
+      "c": "blood",
+      "d": "look"
+    },
+    "answer": "b",
+    "explanation": "'Tomb' /tu:m/ and 'pool' /pu:l/ share the long high back vowel /u:/. 'Book' and 'look' contain /ʊ/, while 'blood' has /ʌ/."
+  },
+  {
+    "question": "Which of the following words has the diphthong /aɪ/ as heard in 'time'?",
+    "options": {
+      "a": "break",
+      "b": "height",
+      "c": "weight",
+      "d": "reign"
+    },
+    "answer": "b",
+    "explanation": "'Height' /haɪt/ contains the closing diphthong /aɪ/. The other options ('break', 'weight', 'reign') contain /eɪ/."
+  },
+  {
+    "question": "In which of the following words is the letter 'p' silent?",
+    "options": {
+      "a": "pneumonia",
+      "b": "pinnacle",
+      "c": "panoply",
+      "d": "paragon"
+    },
+    "answer": "a",
+    "explanation": "In 'pneumonia' /nju:ˈməʊniə/, the initial letter 'p' is unpronounced (silent)."
+  },
+  {
+    "question": "Which of the following words contains the voiceless dental fricative /θ/ as in 'think'?",
+    "options": {
+      "a": "father",
+      "b": "breathe",
+      "c": "growth",
+      "d": "smooth"
+    },
+    "answer": "c",
+    "explanation": "'Growth' terminates in the voiceless dental fricative /θ/, while 'father', 'breathe', and 'smooth' contain the voiced dental fricative /ð/."
+  },
+  {
+    "question": "Which of the following words ends with the sound /z/ and not /s/?",
+    "options": {
+      "a": "cats",
+      "b": "books",
+      "c": "dogs",
+      "d": "laughs"
+    },
+    "answer": "c",
+    "explanation": "The inflectional plural '-s' is voiced (/z/) following the voiced stop /g/ in 'dogs'. In 'cats', 'books', and 'laughs', it follows voiceless consonants and is realized as /s/."
+  },
+  {
+    "question": "Which of the following words rhymes perfectly with the word 'seize'?",
+    "options": {
+      "a": "peace",
+      "b": "freeze",
+      "c": "dice",
+      "d": "chase"
+    },
+    "answer": "b",
+    "explanation": "'Seize' /si:z/ rhymes exactly with 'freeze' /fri:z/ as both share the terminal sound sequence /i:z/."
+  },
+  {
+    "question": "Which of the following words rhymes with 'bough'?",
+    "options": {
+      "a": "rough",
+      "b": "plough",
+      "c": "dough",
+      "d": "through"
+    },
+    "answer": "b",
+    "explanation": "'Bough' /baʊ/ rhymes with 'plough' /plaʊ/. 'Rough' is /rʌf/, 'dough' is /dəʊ/, and 'through' is /θru:/."
+  },
+  {
+    "question": "Choose the word that has the primary stress on the FIRST syllable.",
+    "options": {
+      "a": "calendar",
+      "b": "success",
+      "c": "prefer",
+      "d": "police"
+    },
+    "answer": "a",
+    "explanation": "'CAL-en-dar' (ˈkæl.ɪn.dər) is stressed on the first syllable, whereas 'suc-CESS', 'pre-FER', and 'po-LICE' carry stress on the second syllable."
+  },
+  {
+    "question": "Choose the word that has the primary stress on the SECOND syllable.",
+    "options": {
+      "a": "educate",
+      "b": "photograph",
+      "c": "development",
+      "d": "national"
+    },
+    "answer": "c",
+    "explanation": "'Development' (/dɪˈvel.əp.mənt/) is stressed on its second syllable ('-vel-'), while the others are stressed on their first syllables."
+  },
+  {
+    "question": "In the noun 'PRODUCE' (meaning agricultural harvest), which syllable carries the primary stress?",
+    "options": {
+      "a": "First syllable",
+      "b": "Second syllable",
+      "c": "Both syllables equally",
+      "d": "Neither syllable"
+    },
+    "answer": "a",
+    "explanation": "In English disyllabic noun-verb conversions, the noun 'PRODUCE' /ˈprɒdju:s/ is stressed on the initial syllable, whereas the verb 'proDUCE' /prəˈdju:s/ is stressed on the second."
+  },
+  {
+    "question": "In the sentence: 'FATIMA drove the blue car to Kaduna', which question correctly elicits this emphasized response?",
+    "options": {
+      "a": "Did Fatima walk to Kaduna?",
+      "b": "Did Aisha drive the blue car to Kaduna?",
+      "c": "Did Fatima drive the green car to Kaduna?",
+      "d": "Did Fatima drive the blue car to Kano?"
+    },
+    "answer": "b",
+    "explanation": "Emphatic stress on the subject 'FATIMA' corrects or clarifies the identity of the driver against an alternative like 'Aisha'."
+  },
+  {
+    "question": "In the sentence: 'Musa bought THREE novel textbooks yesterday', the stress on 'THREE' provides the correct answer to which of the following questions?",
+    "options": {
+      "a": "Did Musa borrow three novel textbooks yesterday?",
+      "b": "Did Musa buy five novel textbooks yesterday?",
+      "c": "Did Musa buy three exercise books yesterday?",
+      "d": "Did Musa buy three novel textbooks today?"
+    },
+    "answer": "b",
+    "explanation": "Emphatic stress placed upon the numeral 'THREE' specifically highlights the quantity in contrast to other numbers such as five."
+  }
+]
